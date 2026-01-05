@@ -1,0 +1,11 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.4 CONTAINER lashing and securing', 'Header 3': '4.4.3 container DECK STANCHION and operation platform on weather deck'}
+--------------------
+Containers stowed on the outermost sides shall be supported by hatch covers and container deck stanchions as shown on the G.A. plan.  
+Container deck stanchion shall be of fabricated box type steel construction, and shall be designed based on the same stack load as the hatch covers.  
+Vertical ladder or hand grips and steps to be provided for access from weather deck to top of the deck stanchion.  
+Fixed handrail to be provided where necessary.  
+***The deck stanchion shall be designed to ensure clear height of passage way from upper deck to bottom of first tier container on hatch cover to be min. 2,000 mm.*** ***Non-skid paint to be applied along the walkway with skirting of contrast color.***  
+Transverse working platform shall be provided between cargo hold: Width of clear passageway on working platform: 600mmin general. Height to beat the same level as the top of hatch covers.  
+Removable handrails and galvanized steel rope with vinyl coating on both side of working platform to be provided,  
+Access to working platform shall be provided through a vertical ladder from upper deck.  
+Reefer container socket to be fitted on the hatch coaming and weather protected (IP56)

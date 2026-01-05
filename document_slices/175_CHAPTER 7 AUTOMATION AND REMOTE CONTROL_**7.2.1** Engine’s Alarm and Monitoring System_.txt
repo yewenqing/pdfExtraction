@@ -1,0 +1,54 @@
+METADATA: {'Header 1': 'CHAPTER 7 AUTOMATION AND REMOTE CONTROL', 'Header 2': '**7.2.1** Engine’s Alarm and Monitoring System'}
+--------------------
+The micro-processor aided integrated alarm and monitoring system (AMS) to be provided.  
+The system consists of the following equipment:  
+|  |  |  |
+| --- | --- | --- |
+| Equipment | QTY. | Location |
+| PC workstation with24 inch TFT VDU | 2 | ECC |
+| PC workstation with24 inch TFT VDU | 1 | WHC  ( for monitoring ) |
+| Alarm printer &Data logging printer | 1 | ECC |
+| Extension alarm panel | 11 | Accommodation |
+| Alarm lamp | \* | ECC |
+| UPS | \* | ECC |  
+Comments: AT with mark “\*”is specified hereinafter.  
+The system shall be based on a concept of totally distributed processing which various processes are controlled by input/output modules located near equipment. Ample hardwired I/O and serial I/O shall be provided as per Rule and Maker’s standard.  
+The system shall have the following functions:  
+* Data processing function
+* Data storage function
+* Data indicating function
+* Alarm function
+* Data logging function
+* Alarm logging function
+* Extension alarm function  
+1. Main parts of Engine’s alarm and monitoring system (AMS) shall have redundant functionality, the system shall be based on computer with alarm, and monitoring signals connected to I/O units arranged in the engine room and in the control room or other spaces.  
+2. All input channels shall be made in “self-check-off” principle  
+3. The particular measured analogue data shall be continuously indicated on individual analogue indicator.  
+4. Alarm shall be initiated when measured analogue data exceeds corresponding alarm preset analogue value as well as deviations from the mean value for the main engine exhaust gas.  
+5. Common sound alarm in ECR with flashing light or indication in each particular channel shall signalize the alarm conditions. After acceptance the failure condition, the flashing light or indication signal shall be turned to steady one and sound signal shall be silenced.  
+The steady light shall be automatically cancelled after normal condition has been restored and the alarm signal has been acknowledged.  
+When the arrangement is stopped intentionally, the respective alarm circuits shall be switched off automatically.  
+6. Each alarm condition shall be transmitted to the E/R alarm column system in ECR and engine room as well as to extension alarm system panels.  
+7. The failure alarms shall be divided at least in the following groups:  
+a. “Trip” group: alarms signaling faults, which require the propulsion system, shall be shut down immediately.  
+b. “Reduce” group: alarms signaling faults, which require a power reduction in the propulsion system.  
+c. “Common” group: alarms signaling faults which do not require actions as described in a or b.  
+d. Individual alarm: The alarm shall be individual transmitted to extension alarm system, including the engine room fire, bilge level high, system power source fault etc.  
+8. Extension alarm system panels with sound and light signals, installed in  
+- Wheelhouse  
+- Chief engineer's day room (with additional buzzer in bed room)  
+- 2nd, 3rd, 4th Engineer’s cabin  
+- Engineer’s office  
+- Officer’s mess room  
+- Recreation room  
+- Gymnasium  
+- Ship office  
+- Electrician’s cabin  
+The extension alarm system panels shall be able to indicate different alarm groups.  
+9. Engine room “Dead man” alarm  
+The system shall be switched-on in activating boxes at two main ER entrances and shall be reset within preset time by reset push-buttons with indication lamp, situated in:  
+- engine control room  
+- engine room (6 pcs)  
+10. Power supply arrangement  
+The entire system with operator stations I/O units shall be powered from 24V DC.  
+Note: The alarm and monitoring system (AMS) to be in accordance with rule requirement and may be changed according to final selected Maker’s standard.

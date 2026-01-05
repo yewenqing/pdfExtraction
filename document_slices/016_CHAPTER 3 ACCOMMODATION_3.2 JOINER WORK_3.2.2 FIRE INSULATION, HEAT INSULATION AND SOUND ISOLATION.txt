@@ -1,0 +1,33 @@
+METADATA: {'Header 1': 'CHAPTER 3 ACCOMMODATION', 'Header 2': '3.2 JOINER WORK', 'Header 3': '3.2.2 FIRE INSULATION, HEAT INSULATION AND SOUND ISOLATION'}
+--------------------
+Fire insulation, heat insulation and sound insulation shall be applied to accommodation quarter in accordance with relevant Rules and Regulations as follows.  
+Approximate bulk density of insulation material shall be as follows or according to  
+Maker’s recommendation:  
+|  |  |
+| --- | --- |
+| Heat and sound insulation | ***Rock wool (abt.100 kg/m3) or Glass wool (abt.40 kg/m3)*** |
+| Fire insulation | Ceramic fiber ***(as per maker's standard )*** |  
+#### 3.2.2.1 Fire Insulation  
+Fire insulation shall be provided according to requirements of SOLAS.  
+#### 3.2.2.2 Heat Insulation  
+The parts of steel walls and decks of compartment in accommodation space exposed to weather shall be insulated in accordance with the following table:  
+|  |  |
+| --- | --- |
+| Material | Application |
+| 50 mm Glass wool with 25 mm beam cover. | Deck head where exposed to weather of living space |
+| **100** mm Glass wool with 25 mm beam cover | Deck head of wheelhouse |
+| 50mm Glass wool with 25 mm stiffener cover. | Bulkhead exposed to weather of living space |  
+The other spaces not mentioned on the above table shall have no insulation.  
+As for the spaces partially exposed to weather, the insulation shall be extended by 450mm inside beyond the boundary as far as practicable. The structural members greater than 450mm in depth shall be insulated by 450mm in depth and the remaining parts shall be left bare.  
+#### 3.2.2.3 Sound Isolation  
+Sound isolation shall be designed to fulfill the requirement of IMO Res. MSC.337 (91).  
+About 50mm glass wool covered with glass cloth shall be fitted if necessary. Attachments of beams, girders, stiffeners etc. to be completely insulated with 25 mm glass wool.  
+Sound insulation shall be provided in Air conditioning unit room, Engine control room and E/R fan rooms.  
+Detailed solutions of sound isolation shall be decided based on results of noise analysis and prediction during detail design stage.  
+#### 3.2.2.4 Coverage of Insulation  
+The surface of insulation material shall be covered with as follows:  
+|  |  |
+| --- | --- |
+| Material | Application |
+| Glass cloth | Protected insulation by wall/ceiling panels or galvanized steel sheet |
+| Glass cloth coated with aluminum foil | Unprotected insulation, which is covered by neither wall/ceiling panels nor galvanized steel sheet |

@@ -1,0 +1,40 @@
+METADATA: {'Header 1': 'CHAPTER 1 GENERAL', 'Header 2': '1.8 LOAD instrument'}
+--------------------
+One (1) set of loading computer with software approved by the class with certificate to be supplied by buyer.  
+UPS to be supplied for loading computer. Loading computer with printer to be provided in ship’s office.  
+The calculation functions and display of the loading computer shall consist of:  
+1. Displacement
+2. Trim/draught (fore and aft)
+3. Draft correction (fore and aft) due to difference of sea water density
+4. Shear force and bending moment at the prescribed frame points
+5. Maximum value of shear force and bending moment at the frame point
+6. Intact stability calculation and check of damage stability(by minimum GM/ maximum KG)
+7. Torsional strength
+8. Summary of loading condition
+9. Trim adjustment by ballast tank (program)
+10. Navigation bridge visibility  
+Lashing (if required):  
+1. Container loading calculation by weight
+2. Lashing strength and racking force calculation
+3. Container control program  
+Data of tank level to be automatically transmitted from the ballast and bunkering control system.  
+**CHAPTER 2**  
+**HULL**  
+Version:A  
+Key words: Breadth 27.5m, Gearless, 6S60ME-C10.5 Tier II, 220ReeferPlugs, Open loop scrubber  
+**CONTENT**  
+[CHAPTER 2 HULL 3](#_Toc50573340)  
+[2.1 HULL CONSTRUCTION 3](#_Toc50573341)  
+[2.1.1 GENERAL 3](#_Toc50573342)  
+[2.1.2 MAIN HULL 5](#_Toc50573343)  
+[2.1.3 Deck House 10](#_Toc50573344)  
+[2.1.4 MISCELLANEOUS 10](#_Toc50573345)  
+[2.2 PAINTING CORROSION PROTECTION 13](#_Toc50573346)  
+[2.2.1 GENERAL 13](#_Toc50573347)  
+[2.2.2 SURFACE PREPARATION 14](#_Toc50573348)  
+[2.2.3 PAINTING WORK 15](#_Toc50573349)  
+[2.2.4 INSPECTION OF THE FILM THICKNESS 15](#_Toc50573350)  
+[2.2.5 control 16](#_Toc50573351)  
+[2.2.6 Painting Scheme 16](#_Toc50573352)  
+[2.2.7 GALVANIZING 20](#_Toc50573353)  
+[2.2.8 CATHODIC PROTECTION 21](#_Toc50573354)

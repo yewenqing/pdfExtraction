@@ -1,0 +1,48 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.7 AUXILIARY MACHINERY', 'Header 3': '6.7.1 PUMPS'}
+--------------------
+The relevant data of the pumps refer to 6.2.  
+Pump construction, material, accessories, spares and tools shall be in accordance with Maker's standard and in compliance with requirements of Classification Society.  
+The construction, materials and accessories for pumps being attached to other machinery such as generator engine, fresh water generator, etc. shall be in accordance with Maker's standard practice.  
+Positive displacement pumps are to have relief valves.  
+In generally, pump's motor shall be located above the lower floor plate; pumps shall be accessible for easy maintenance. Lifting eyes to be provided for above major pumps.  
+Horizontal pumps shall be mounted on common bed plates of fabricated steel or cast iron with the driving motor.  
+**Main L.O. pumps to be fitted with submerged bearings.**  
+#### 6.7.1.1 Centrifugal Pumps  
+##### 6.7.1.1.1 General  
+Electric motor of centrifugal pump shall not be overloaded at the service condition on board.  
+The pump casing shall be designed that the rotating member may be exposed for inspection or replacement without disturbing the pipe connections except the small pump with capacity less than 100 m3/h.  
+The shaft seal for main L.O. pump shall be in accordance with Maker’s standard.  
+All vertical pumps shall be driven through flexible coupling between impeller and motor shaft, or may have the thrust bearing in the driving motor and shall be driven through rigid coupling.  
+**Bottom bearing of vertical pumps, if provided, to be of internal water sleeve type**  
+**Shaft gland packings as per maker’s standard.**  
+**Each pump to be provided with suction and discharge valves except deep well pumps.**  
+Centrifugal pumps to be fittedwith mechanical seal except for deep well pumps which are fitted with sealing according to manufacturer’s standard. **Centrifugal pumps (Fire, bilge &G.S. pump, Ballast pump, clean drain tank pump, Emergency Fire Pump) to be fitted with vacuum pump for self- priming.**  
+***All seals to be Mechanical Seals unless specifically agreed by owners. Spare Mechanical seals to be provided for each type pump.***  
+***Motors of all pumps to be more requirement of the maximum rating of the pumps.***  
+##### 6.7.1.1.2 Materials  
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Material | S.W. & bilge | F.W. | Boiler water feed |
+| Casing | Bronze or Bronze alloy | Cast iron | Maker’s standard |
+| Casing ring | Bronze or Bronze alloy | Bronze or  Bronze alloy | Maker’s standard |
+| Impeller | bronze alloy for SW, bronze or bronze alloy for bilge | Bronze or Bronze alloy | Maker’s standard |
+| Shaft | Stainless steel | Stainless steel | Maker’s standard |  
+#### 6.7.1.2 Gear and Screw Pump  
+##### 6.7.1.2.1 General  
+Gear and screws shall be accurately machined and thoroughly cleaned.  
+Each pump shall be directly coupled to a power end of driver via flexible or rigid coupling according to the Maker's standard.  
+Gear and screw pumps to develop rated capacity against rated discharge pressure without over loading of driving motors when handling with viscosity for which the pump is intended.  
+The safety valve shall be fitted on the pump casing.  
+In general, pumps shall be internally lubricated by the pumping fluid.  
+##### 6.7.1.2.2 Materials  
+|  |  |  |
+| --- | --- | --- |
+| Material | Gear pump | Screw pump |
+| Casing | Cast iron | Cast iron or steel plate |
+| Gear | Carbon steel | - |
+| Shaft | Carbon steel | - |
+| Power rotor | - | Carbon steel |
+| Idle rotor | - | Carbon steel or ductile cast iron |
+| Gland seal | Mechanical seal | Mechanical seal |  
+#### 6.7.1.3 Piston Pump, Snake Pump and Membrane Pump  
+Construction and material shall be accordance with Maker's standard.

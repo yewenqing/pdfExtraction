@@ -1,0 +1,7 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.7 AUXILIARY MACHINERY', 'Header 3': '6.7.7 OILY BILGE SEPARATOR'}
+--------------------
+Oily bilge separator shall be provided for handling the oily bilge water in engine room.  
+The performance is to meet the requirements of MARPOL & IMO MEPC 107 (49). The oil content of treated water shall be less than 15 ppm and oil content bilge alarm shall be provided. And T-valve with automatic function shall be used for return water to bilge water holding tank.  
+The construction, materials, accessories, spares and tools shall be in accordance with Maker's standard.  
+An oil content discharge monitoring shall be installed at outlet of clean bilge discharge pump.  
+***Give the capacity of treating the oil in water in the Oil water separator technical agreement.***

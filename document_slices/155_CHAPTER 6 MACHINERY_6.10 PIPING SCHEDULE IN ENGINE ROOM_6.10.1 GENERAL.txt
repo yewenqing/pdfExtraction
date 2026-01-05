@@ -1,0 +1,48 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.10 PIPING SCHEDULE IN ENGINE ROOM', 'Header 3': '6.10.1 GENERAL'}
+--------------------
+Piping workmanship to satisfy the requirement of the Classification Society and this section concerned.  
+Piping is to be led as direct as practicable, with a minimum number of bends and with suitable number of flange joints for removal. Sleeve joints or butt welding joints shall be used where practicable.  
+All piping shall be supported according to good practice in order to prevent damages from vibrations and other causes.  
+Pipes to have suitable thickness for each service, and shall be tested in accordance with the requirement of the Classification Society.  
+Expansion shall be compensated for by means of bend except where otherwise described.  
+Pipes of galvanized steel or brass or copper shall be bent in cold process. In case that cold bending machine is not applicable, high frequency induction bender or hot bending process shall be used.  
+The radius of bends of steel pipes, in general, not to be less than 2.5 times the outside diameter except narrow space of structure or crowding of pipes, where steel bend pieces hall be used. Bends of copper pipes except coils shall be not less than twice the outside diameter as far as practicable.  
+Commercial bend pieces will be used as far as practicable.  
+For the following cases, butt welding connection or fabrication shall be carried out.  
+1. When the cold bending machine is not applicable.  
+2. Where welding piece such as tube turn or bend piece is used.  
+3. To make fabricated steel pipe of large diameter such as main engine exhaust pipe.  
+Oil piping and electric cables to the greatest possible extent shall be kept well clear of not to be installed close to steam lines and diesel engines exhaust pipes.  
+Water piping not to be installed close to diesel engines exhaust pipes as far as possible.  
+Piping in way of the machinery and equipment shall be arranged to permit overhaul of the unit with no dismantling of piping as far as practicable.  
+Where possible, piping at tank top level shall be arranged so that any length may be removed without disturbing adjacent pipelines.  
+Air pockets in pipe lines shall be avoided as far as practicable. Where pockets do occur, bosses with a cock or screwed plug for drainage are to be provided.  
+Pipes exposed to weather are to be fitted with drain plugs where necessary.  
+Where galvanized piping is specified, galvanizing shall be carried out after pipes are fabricated and flanges are attached, as far as practicable. Galvanized pipes shall be fitted with galvanized bolts, nuts and clamping devices.  
+All piping shall be cleaned and free of welding slag before installation.  
+Following piping system shall be flushed with the under-mentioned medium after being fitted on board, and these piping systems to be in whole accordance with maker recommendations.  
+|  |  |  |
+| --- | --- | --- |
+| System | Application | Method |
+| Lub. oil piping | Main engine line | To be circulated by flushing oil |
+| Line from cylinder oil tank to engine | To be blown out by compressed air |
+| Fuel oil piping | Main engine line  Diesel generator line | To be circulated by diesel oil |
+| Boiler F.O. burning line  Incinerator fuel oil line | To be blown out by compressed air |
+| Comp. air piping | Main engine starting air line Diesel generator starting air line Cont. air line | To be blown out by compressed air |
+| Steam & condensate | Steam supply line  Condensate return line | Steam blow off |
+| Hydraulic oil | Bow thruster  Steering gear | Flushing oil |
+| Boiler feed water line |  | Compressed air blow off |
+|  |  |  |
+| Refrigerant piping (if necessary) | Refrigerate plant  AC plant | To be blown out by N2 gas |  
+***If flushing of pipes are done by yard supplied lub.oil, builder should present the lab test certificate done prior usage for flushing. Flushing lub. oil not to be reused.***  
+Where pipes pass through the water/oil tight bulkhead and deck, penetration pieces of two flanges with double plate and sleeve joint are to be used.  
+Piping is to be marked with color vinyl tape or paint for easy recognition. Color marking for various pipe systems shall be according to ISO standard.  
+After finishing of steel pipes, the acid pickling and neutralizing shall be carried out for the following pipes before installation on board and coated inside of pipes with suitable oil for rust protection. Pipes after acid pickling shall be well covered at ends to keep clean.  
+a. Lubricating oil pipes except oil bilge pipe and air vent pipe.  
+b. Fuel oil service pipes for main engine, diesel generator and boiler burning line only.  
+c. Hydraulic oil steel pipe.  
+Liquid pipe lines shall be kept away from the switchboard and other electrical equipment.  
+Where the piping is unavoidable and flanges to be led above the electrical appliances, the welded joint to be provided.  
+All detachable pipe connections and valves of fuel oil piping shall be at a safe distance from boiler, exhaust pipes or other heated surface.  
+All connecting dimension of flanges shall be according to ISO standard. Asbestos material is not to be used for gasket and insulation.  
+Brass or stainless steel name plates with engraved letters are to be referred to piping system drawings for all valves, pumps, heat exchangers etc.

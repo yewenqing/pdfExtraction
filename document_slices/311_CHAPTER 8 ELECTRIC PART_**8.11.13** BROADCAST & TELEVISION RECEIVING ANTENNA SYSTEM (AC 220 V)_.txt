@@ -1,0 +1,8 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.11.13** BROADCAST & TELEVISION RECEIVING ANTENNA SYSTEM (AC 220 V)'}
+--------------------
+One (1) set of broadcast & TV receiving antenna system shall be provided as follows:  
+1 – Omni-direction type antenna for TV/FM/AM  
+Each 1 – Antenna outlet for radio and TV receiver in each private room, office, hospital, mess room and recreation room.  
+This system should be compatible for future SAT TV jumping in.  
+**In Cabins and Public areas where entertainment appliances are provided, an extra power socket should also be provided at each area.**  
+Broadcast receivers and TV sets etc. shall be supplied by ***Owner***, the Builder shall be in assistant to fix and secure the TV sets by practice.

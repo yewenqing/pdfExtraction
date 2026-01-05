@@ -1,0 +1,16 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.10 NAVIGATION EQUIPMENT', 'Header 3': '4.10.1 NAVIGATION EQUIPMENT'}
+--------------------
+Navigation equipment shall be fitted as follow:  
+2 - Binocular, prism (marine type, 50mm x 7 times)  
+1 - Aneroid barometer millibar scale  
+1 - Thermometer for sea water  
+**2 -** Thermometer for atmosphere (dry and wet)  
+1 - Hygrometer  
+1 - Hand lead, 3.2kg weight with 55 meters line  
+1 - Deep sea lead, 12.8kg weight 220 meters line with reel  
+1 - Chronometer, portable type (battery use)  
+1 - Sextant  
+2 - Clinometer (small clock type in wheelhouse and E/R)  
+1 - Clinometer (in ship office)  
+**Hygrometer and Barometer should have calibration certificates.**  
+Electric navigation instrument such as gyro compass, radar, echo sounder, velocity-meter, clock, etc. shall refer to "Part IX –Electric Part".

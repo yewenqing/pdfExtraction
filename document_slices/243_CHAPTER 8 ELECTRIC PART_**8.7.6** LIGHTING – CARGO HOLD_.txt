@@ -1,0 +1,7 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.7.6** LIGHTING – CARGO HOLD'}
+--------------------
+|  |  |
+| --- | --- |
+| Lighting fixture | Location |
+| Fluorescent pendant light  (20 Wx2),explosion-proof type | Entrance, companionways and stairway, walkways |
+| Incandescent light (60W) | Each hatch coming (3 sets/each side) |

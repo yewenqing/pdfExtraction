@@ -1,0 +1,4 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.10.13** WHEELHOUSE CONTROL CONSOLE (WHC)'}
+--------------------
+In case that the contents in the following parts of this section differ from Maker’s standard for specific equipment, Makers’ standard shall be applied in general.  
+The wheelhouse control console should consist of three parts, the navigation signal console (NSC), bridge maneuvering console (BMC) and steering stand. The following equipment specified in other part shall be installed at the consoles but not limit to.

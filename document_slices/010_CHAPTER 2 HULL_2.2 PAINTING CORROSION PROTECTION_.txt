@@ -1,0 +1,243 @@
+METADATA: {'Header 1': 'CHAPTER 2 HULL', 'Header 2': '2.2 PAINTING CORROSION PROTECTION'}
+--------------------
+2.2.1 GENERAL  
+Painting works including surface preparation and inspection shall be carried out based on this Specification.  
+Painting works to be executed in accordance with the Builder's painting standard, process, practice and paint manufacturer's recommendation.  
+**Stripe coats to be either sprayed or applied using brush/roller, will be confirmed at painting kick off meeting.**  
+Following standards shall be performed:  
+- ISO 8501-1, Preparation of steel substrates before application of paints and related products - Visual assessment of surface cleanliness  
+Painting works in ballast water tanks shall be carried out in compliance with IMO PSPC requirement as per Resolution MSC.215(82).  
+Technical supervision shall be provided by the paint manufacturer and the Builder during preparation and application.  
+Paint shall be applied by airless spray in principle, but air spray, brush or roller may be applied where airless spraying is impracticable.  
+No paint work shall be applied to the following, unless otherwise specified.  
+- Non-ferrous materials, i.e. copper, copper alloy (brass, bronze), aluminum, aluminum alloy and any other non-corrosive metals  
+- Polished fittings  
+- Galvanized fittings inside **(Galvanized fitting on deck area needs to be carried out same as deck specification)**  
+- Gaskets and packing  
+- Wood works in stores  
+- Inner surfaces of doubling plates  
+- Permanently enclosed space**(Closed area needs to apply one coat of primer application 100μ as far as possible)**  
+- Internal steel surface under deck covering **(Under deck covering to be applied with one coat of primer or not as per covering Maker’s requirement)**  
+Galvanized pipe and vent outside to be painted one finish coat as surrounding and inside not painted.  
+**Care to be taken to protect all cables during construction to avoid paint spillage on cables.**  
+The colors of finish coats shall be in accordance with the Buyer’s/Charter’s color scheme and subject to the Buyer’s approval.  
+All machinery and equipment shall be coated in accordance with manufacturer’s standard and damaged part after installation shall be touched up only in accordance with Builder’s practice. The inside of radar mast and steel vent ducts to be painted with one (1) coat of Builder's standard primer only if not permanently closed.  
+Painting demarcation line for outside shell shall be as per the Builder’s standard.  
+Abbreviation:  
+A/F : Anti-fouling paint  
+Sa 2.5 : Abrasive blasting to Sa 2.5 grade (ISO 8501-1)  
+St 2 : Power tool cleaning to St 2 grade (ISO 8501-1)  
+St 3 : Power tool cleaning to St 3 grade (ISO 8501-1)  
+2.2.2 SURFACE PREPARATION  
+2.2.2.1 Primary Surface Preparation  
+All steel plates and sections equal to or greater than 6 mm in thickness shall be shot blasted  
+to ISO8501-1:1988 Sa 2.5 or sand blasting to SA 2.5 or pickling or ST3 may be applied instead of shot blasting when shot blasting is considered impractical.  
+2.2.2.2 Shop priming  
+Just after primary surface preparation one coat of 15 microns silicate type shop primer to be applied. The shop primer to have good compatibility with the succeeding coats. Different color shop primer to be used for mild and high tensile steel plates and sections.  
+2.2.2.3 Secondary Surface Preparation  
+Before the first coat is applied, damages by welding, burning, rubbing, etc. and rusted steel surface shall be prepared in accordance with the following table. Intact shop primer to be sweep blasting or brush disk cleaning.  
+|  |  |  |
+| --- | --- | --- |
+| Area | In Block Stage | In Pre-erection, Dock & Quay Stage |
+| Bottom and boot top | Sa 2.5 | ST3 |
+| Topsides | Sa 2.5 | ST3 |
+| Weather deck and hatch coaming | Sa 2.5 | ST3 |
+| Hatch cover | Sa 2.5 (outside) | ST3(outside) |
+| Sa 2.0 (inside) | ST2(inside) |
+| Deckhouse exterior | ST 3 | ST 2 |
+| Deckhouse interior | ST 2 | ST 2 |
+| E/R interior | ST 2 | ST 2 |
+| Water ballast tanks | Sa 2.5 | ST3 |
+| Fresh water tanks | Sa 2.5 | ST3 |
+| Cargo holds | ST 2 | ST 2 |
+| F.O &.,D.O.tanks | No treatment | ST 1 |
+| L.O. tanks | No treatment | Wiping with system oil after cleaning |
+| Others | SIS ST 2 | SIS ST 2 |  
+2.2.2.4 Surface Cleaning Before Over-Coating  
+The surfaces shall be cleaned of oil, moisture, dust, and other foreign materials with thinner, fresh water, wire brush, or compressed air prior to coating.  
+2.2.3 PAINTING WORK  
+The painting shall be carried out by airless spray, in general. Where the spraying is impracticable, the brush or roller shall be used.  
+**The first full coat shall be spray, then roller and brush can be used. Roller and brush can be used in difficult and narrow area.**  
+Mixing and thinning of paint material, conditions/methods of application and minimum and maximum over coating time of painting application shall be in accordance with paint manufacturer's recommendation and data sheets.  
+Free-edges of steel members which have been gas cut and welding slag remains shall be ground in accordance with the Builder's practice, WBT as per PSPC.  
+After the first coat one (1) stripe coat shall be applied on the edges of holes, scallops and frames in fresh water tanks and water/weather-exposed areas as well as cargo holds behind and between cell guides in accordance with the Builder’s practice. The stripe coat colour same with the full coat colour.  
+Watertight weld lines by manual welding shall be painted after air test has been finished, but adhesive tape and touch up of shop-primer may be performed during painting application.  
+2.2.4 INSPECTION OF THE FILM THICKNESS  
+**Paint work will not start unless a block has been accepted or a written waiver is given by the Buyer’s representative.**  
+**For the paint, date of manufacture, batch number, shelf life and expiry dates to be provide as per paint maker’s standard.**  
+**Paint samples will be taken by Buyer’s site team and sent to paint Maker factory for analysis to confirm Maker’s formula is used.**  
+The checking of final paint dry film thickness shall be carried out by the Builder in the presence of Buyer's representative and paint manufacturer.  
+Measuring  
+The cleaning condition and dry film thickness between coats shall be inspected by two (2) parties, the Builder and the paint maker. **Builder will provide daily schedule to Buyer’s site office in the morning time.** The Buyer will carry out the patrolling inspection.  
+In general, two (2) separate spot measurements shall be made over every 10 m2 in tanks, and for each 20 m2 in other spaces. The average of five (5) separate spot measurements must be within the specified thickness. For PSPC areas and fresh water and technical water tanks areas, rule 90%-90% shall apply as acceptance criteria for DFT measurement. **Total**  
+**DFT specified in painting schedule shall be attained in at least 85% of the painted area and balance 15% measured should be not less than 85% of specified DFT.**  
+In any measurement there is a certain level of uncertainty. Two inspectors using the same gage will not necessarily record the exact same number for given spot measurement. To allow for this natural fluctuation, an individual spot measurement is permitted to be below the 85% of specified minimum thickness, however The average of the means(3 points in the same 4cm diameter circle) shall not be less than the specified 85% of minimum thickness.  
+No measurement shall be made for about 100mm breadth from free edges of painted steel members, machinery, equipment, outfitting, pipes with nominal diameter of 250 mm and below, pipe supports, machinery seats, small fittings, etc.  
+***Dry Film thickness always to be measured at every stage of coating, final confirm will be done after anti-corrsion paint finish.***  
+2.2.5 control  
+2.2.5.1 Painting Work  
+Mixing and thinning of paint material, conditions/methods of application and time interval between each coat shall be observed to the paint manufacturer's recommendation.  
+Paint works shall not be performed in the open air during the periods of rain, snow, fog or mist and also shall not be carried out when the weather conditions may cause condensation i.e., relative humidity above 85% and steel temperature is lower than the dew point by three (3) degrees in centigrade except the case that paint maker has confirmed that a particular paint can be applied at such weather condition.  
+During coating processes, when dispute happen, the final arbitration shall come from the painting maker.  
+**Any condition deviation from Paint’s MDS for application in relation to RH and Steel temperature must be given by Maker’s Office in writing and stamped. E-Mail correspondence is not acceptable.**  
+2.2.5.2 Dry Film Thickness  
+In general, two (2) spot measurements for each 10 m2 in tanks and holds, and for each 20m2 in other spaces shall be measured.  
+2.2.6 Painting Scheme  
+Painting scheme for the parts and spaces, which are not specified herein, shall be similar to surrounding space or comparable spaces.  
+Epoxy finishes will chalk and exposed deck to have a Polyurethane finish coat.  
+Final dry film thickness and painting system shall be as listed below in the specification, changeable according to paint manufacturer’s recommendation subject to the Buyer’s approval.  
+|  |  |  |  |  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Code | Painting Area | | | Paint System | | | No. of Coat | | | | DFT (micron) | |
+| **Flat bottom**  (up to bilge keel level) | | | | ME (HB) A/C  A/F  (tin free) | | | According to maker ‘s recommendation  5 year life design | | | | According to maker ‘s recommendation  5 year life design | |
+| **Side bottom**  (from bilge keel to scantling draught) | | | | ME (HB) A/C  A/F  (tin free) | | | According to maker ‘s recommendation  5 year life design | | | | According to maker ‘s recommendation  5 year life design | |
+| **Shellplate Scrubber area** | | | | Phenolic epoxy | | | 2 | | | | 400  Antifouling same as surrounding | |
+| **Topside**  (from scantling draught to upper deck) | | | | ME (HB) A/C  PU F/C | | | 2  1 | | | | 200  50  *250* | |
+| **Exposed area and hull outfitting** | | | | | | | | | | | | |
+| 1) | Weather deck | | | | | | | | | | | |
+|  | Hatch cover outside only | | | | | Epoxy A/C  PU F/C | | | 1  1 | | | 100  50  *250* |
+|  | Other weather deck | | | | | Epoxy A/C  PU F/C | | | 2  1 | | | 200  50  *250* |
+| 2) | Deck house | | | | |  | | |  | | |  |
+|  | Outside wall | | | | | Epoxy A/C  Polyurethane F/C | | | 2  1 | | | 200  50  *250* |
+|  | Exposed decks | | | | | Epoxy A/C  PU F/C | | | 2  1 | | | 200  50  *250* |
+| 3) | Funnel | | | | |  | | |  | | |  |
+|  | Outside | | | | | Epoxy A/C  Polyurethane F/C | | | 2  1 | | | 200  50  *250* |
+|  | Inside | | | | | epoxy primer/finish Heat resistance paint | | | 1  2 | | | 75  25  *100* |
+| 4) | Handrails, stanchion and outside of steel pipe | | | | | | | | | | | |
+|  | Galvanized | | | | | Epoxy A/C  Same as surrounding | | | 1  1 | | | 40  50  *90* |
+|  | Bare steel | | | | | Epoxy A/C  Same as surrounding | | | 1  1 | | | 150  50  *200* |
+| 5) | Vent duct | | | | | | | | | | | |
+|  | Outside | | | | | Same as surrounding | | |  | | |  |
+|  | Inside | | | | | Epoxy primer | | | 1 | | | 100 |
+| **Cargo areas** | | | | | | | | | | | | |
+| 1) | Cargo holds | | | | | | | | | | | |
+|  | Wall and overhead, hatch cover underside and cell guide | | | | | Epoxy A/C  Epoxy F/C | | | 1  1 | | | 100  100  *200* |
+|  | Hold Bottom | | | | | Epoxy A/C (HB)  Epoxy F/C | | | 1  1 | | | 100  100  *200* |
+|  | Bilge well | | | | | Epoxy A/C | | | 2 | | | *300* |
+| 2) | Hatch coaming | | | | |  | | |  | | |  |
+|  | Outside | | | | | Epoxy A/C  PU F/C | | | 2  1 | | | 200  50  *250* |
+|  | Inside | | | | | Epoxy A/C  Epoxy F/C | | | 1  1 | | | 100  100  *200* |
+| 3) | Transverse box inside in way of bulkhead | | | | | Epoxy A/C | | | 1 | | | 150 |
+| **Accommodation areas** | | | | | | | | | | | | |
+| 1) | Accommodation and store | | | | | | | | | | | |
+|  | Wall and overhead | Bare steel | | | | Epoxy primer/finish | | | 1 | | | 120 |
+| Behind lining/insulation | | | | Epoxy primer/finish 1 80 | | | | | | |
+|  | Floor head | Bare steel | | | | Epoxy primer/finish | | | 1  1 | | | 80  40  120 |
+| Under covering | | | | No coating (Shop-priming) | | | | | | |
+| 2) | Refrigerated provision chamber converter room | | | | | Epoxy primer/finish | | | 1 | | | 125 |
+| **Engine room and steering gear room** | | | | | | | | | | | | |
+| 1) | Wall and overhead | | | | | Epoxy primer/finish | | | 1 | | | 120 |
+| 2) | Deck and flat | | | | | Epoxy primer/finish | | | 1  1 | | | 80  40  120 |
+| 3) | Tank top (below lowest gratings) | | | | | Epoxy primer  Epoxy F/C | | | 1  1 | | | 100  100  200 |
+| 4) | Behind lining | | | | | Epoxy primer/finish | | | 1 | | | 80 |
+| **Tanks** | | | | | | | | | | | | |
+| 1) | Water ballast tanks | | | | | as per PSPC Standard with approved coating system | | | | | | *320* |
+| 2) | Fresh water/drinking water tanks | | | | | Holding primer 40 at block stage  Pure epoxy (Solvent Free) | | | 1 | | | *300* |
+| 3) | Fuel oil tanks | | | | | Dry and clean with inhibitive oil | | | | | | |
+| 4) | Engine cooling water expansion tanks and boiler cascade tank | | | | | Pure epoxy  Pure epoxy | | | 1  1 | | | 125  125  250 |
+| 5) | Lub. Oil tanks | | | | | Wiping :system oil after cleaning | | | | | | |
+| 6) | Bilge tanks in engine room | | | | | Epoxy | | | 2 | | | 250 |
+| 7) | Related Scrubber tanks | | | | | Pure epoxy  Pure epoxy | | | 1  1 | | | 150  150  300 |
+| **Machinery and equipment** | | | | | | | | | | | | |
+|  | - Deck machinery | | | | | According to Manufacturer’s standard) | | | | | | |
+|  | - Engine room machinery | | | | | According to Manufacturer’s standard | | | | | | |
+|  | - Electric equipment | | | | | According to Manufacturer’s standard | | | | | | |
+| **Miscellaneous** | | | | | | | | | | | | |
+| 1) | Void space and cofferdam | | | | | Epoxy | | | 1 | | | 150 |
+| 2) | Pipe duct inside | | | | | Epoxy F/C (HB) | | | 2 | | | 200 |
+| 3) | Chain locker | | | | | Epoxy | | | 2 | | | *250* |
+| 4) | Rudder | | Outside | | | Same as Bottom | | | | | | |
+| Inside | | | Volatile corrosion inhibitors | | | | | | |
+| 5) | Rudder trunk | | | | | Same as Bottom | | | | | | |
+| 6) | Sea chest inside | | | | Same as Bottom | | | | | | | |
+| 7) | Draught mark and freeboard mark | | | | Same as surroundings with or PU. marking paint | | | | | | | |
+| 8) | Vessel’s identification | | | | P.U C.R. F/C or epoxy F/C | | | | | | | |
+| 9) | Void below upper deck | | | | Epoxy A/C (HB) | | | 1 | | 150 | | |
+| 10) | Other store and workshop | | | | Epoxy primer/finish | | | 1 | | 120 | | |
+| 11) | Entry guide piece of cell guide head | | | | Finished with fluorescent type paint | | | | | | | |
+| 12) | Anchor and anchor chain | | | | AS per manufacturer’s standard | | | | | | | |  
+Notes:  
+1. Dry film thickness of tin free type antifouling paint shall be in accordance with manufacturers’ standard for 60 months life time.
+2. Non-slip paint shall be applied for upper deck passageway and mooring surrounding, forecastle deck, and for the deck in steering gear room, other anti-slip method may instead.
+3. Painting scheme to be in accordance with the following specification or equivalent products, from the makers in Maker’s List. The positions not mentioned hereinafter should be painted same as the surrounding area or similar positions. Number of coats and total DFT (dry film thickness) might be adjusted according to paint manufacturer’s recommendation.
+4. Welding defect such as blow hole or pore and undercut where not affect the structure strengthen will be applied the epoxy filler which recommended by paint maker.
+5. The paint on the shell outside will be finished before launch, if the period between the launch and delivery is not more than 8 months and if paint manufacturer will give anti fouling system a guarantee for five(5) years, no final dry docking to be carried out for the vessel.
+6. In any measurement there is a certain level of uncertainty. Two inspectors using the same gage will not necessarily record the exact same number for given spot measurement. To allow for this natural fluctuation, an individual spot measurement is permitted to be below the ***85%*** of specified minimum thickness, however The average of the means(3 points in the same 4cm diameter circle) shall not be less than the specified ***85%*** of minimum thickness.
+7. Dry film thickness shall be measured after each coat for quality control purpose and the total dry film thickness shall be confirmed after completion of final coat. The quality control shall be carried out by shipyard and paint maker.
+8. The E/R, accommodation, free board, cargo hold，main deck etc. area only apply one coat, ***No DFT measurement for E/R, ACC C/H etc., only one primer as holding primer at block stage. Final DTF to be measured and confirmed at erection/dock/quay stage,*** ***Void, WBT , shellplate etc., which will be finished final coat at block stage need to be DFT measurement.*** **Buyers should be informed the final coat before equipment installed on board.**
+9. Time schedule for application of each coat to be decided according to builder's construction schedule, all inspections without disturbing builder's construction schedule. Painting inspection schedule to be submitted to Buyer at the same day morning.
+10. Some outfitting, some small area painting job which will affect other department schedule will be carried out de-rusting and painting by shipyard self. **Shipyard to carry out the final coat for cable tray/cable supports and control panel supports before installation of the cable/panels.**
+11. The intermediate coat and stripe coat to be inspected by Builder QC and Paint Manufacturer's representative , the inspection of final coat/surface preparation are to be done by Builder QC and Paint Manufacturer's representative and owners supervisor .
+12. The spray dust of adjacent painting may be left as it is where it is considered harmless to the performance or to the appearance.
+13. When owner chose the Scrubber maker, the discharge PH in tanks should be >5.
+14. Minor paint contamination need not to be cleaned.
+15. **The fore mast inside to be painted as far as possible (no blasting due to grit can clean inside).**
+16. **If maker require, Report providing data of surface roughness will submit as per Anti Fouling maker’s standard after application of anti-fouling paint prior launching. Shipyard will assistant maker if maker required.**
+17. **PSPC Tri-Partite Agreement to be developed by the Builder and submitted for the Buyer’s review and acceptance prior to final signing by the Builder, Buyer and Paint Maker.**
+18. **Coating Technical File (CTF) will be developed by the yard and sent to the Buyers for review.**
+19. **The painting of the exposed structural steel surface such as outsides of shell, deckhouse, funnel, etc., and of living space and passages in living quarters to be free from obvious sags and runs.**
+20. **The steel structure surfaces including all welded seams to be painted before the leak test, in general. However, fillet welding joint and erection butt joint forming tank boundary to be painted after joint has been examined either by compressed air test, vacuum test or tank air test as appropriate.**
+21. **Pre-erection joint of hull block which is erected at any location, to be painted before leak test and not to be considered as block erection joint.**
+22. **Under water hull paint thickness to be checked before and after application of antifouling paint and recorded at dock stage.**
+23. **For the F.W.TK ventilation and washing, the Builder will accord paint maker's recommendation. The chemical component analyzes of water sample in these tanks to be carried out by authorized office and the report should be submitted to owner together with the delivery certificates.**
+24. **Main sea water filter body internals will be coated with anti-fouling paint.**
+25. **Exhaust pipes outside will be coated with temperature resistant paint before placing the insulation,** **the area under insulation no need to paint.**
+26. **PSPC blocks will be treated as PSPC requirements.**
+27. **All the bilge well in passageway/cargo hold/Chain locker to be applied 150\*2.**
+28. ***Maker of Anti Fouling to submit a report providing data of surface roughness after application of anti fouling paint if maker has this requirement.***
+29. ***TSL: outfitting / cable/supports and some small area Owner will be informed the plan before install the equipment.***
+30. ***Minor/spots paint need not to be removed if under insulation/lining.***  
+2.2.7 GALVANIZING  
+Galvanizing shall be applied for items as described throughout this Specification and following outfitting shall also be galvanized:  
+* Handles and clips of steel doors
+* Small chains (8mm dia. and below)
+* Small shackles and thimbles (8mm dia. and below)
+* Hinges, small bolts and nuts under 12mm dia. exposed to weather
+* Standing rigging for masts
+* Ventilator ducts (thickness below 2 mm) (refer to galvanized thin plate spire ducts, mainly used for accommodation etc.)
+* Steps of inclining and vertical ladders on weather deck
+* Chain pipe and hawse pipe covers
+* ***outfitting in WBT to be galvanized.***  
+Outfitting may apply one universal epoxy coat according to Builder’s practice.  
+The galvanizing shall be done by hot dip method in general except bolts, nuts, screws, etc. which are to be electroplated, unless otherwise specified in this Specification. Damaged area of galvanizing part caused by the electric welding, mechanical damage, etc. shall be touched-up by one (1) coat of Zinc Rich or epoxy primer as far as practicable.  
+In general, the steel outfittings to be painted with one (1) coat of the Builder’s standard epoxy primer.  
+* + 1. CATHODIC PROTECTION  
+1. The underwater hull and appendages shall be protected by an automatically controlled Impressed Current Cathodic Protection (ICCP) system.  
+Mean current density: 35 mA/m2for underwater hull  
+600 mA/m2for propeller  
+120 mA/m2for rudder  
+1. Aluminum alloy anodes shall be fitted inside sea chests and bow thruster tunnel.  
+Mean current density: 35 mA/m2  
+Life time: five (5) years  
+Sea chest filter shall be protected by MGPS aluminum and copper anodes.  
+The size, quantity and fitting method of ICCP system and anodes shall be as per the Builder’s practice and/or Maker’s recommendation.  
+**CHAPTER 3**  
+**ACCOMMODATION**  
+Version:A  
+Key words: Breadth 27.5m, Gearless, 6S60ME-C10.5 Tier II, 220ReeferPlugs, Open loop scrubber  
+**CONTENT**  
+[CHAPTER 3 ACCOMMODATION 3](#_Toc50573607)  
+[3.1 COMPLEMENTAND CLASSIFICATION OF ACCOMMODATION 3](#_Toc50573608)  
+[3.1.1 COMPLEMENT 3](#_Toc50573609)  
+[3.1.2 CLASSIFICATION OF ACCOMMODATION 3](#_Toc50573610)  
+[3.1.3 NAME PLATE & IDENTIFICATION 5](#_Toc50573611)  
+[3.2 JOINER WORK 6](#_Toc50573612)  
+[3.2.1 DIVISIONAL BULKHEAD, LINING AND CEILING 6](#_Toc50573613)  
+[3.2.2 FIRE INSULATION, HEAT INSULATION AND SOUND ISOLATION 8](#_Toc50573614)  
+[3.2.3 DECK COVERING 9](#_Toc50573615)  
+[3.3 WINDOW, DOOR, STAIRWAY, ETC. 10](#_Toc50573616)  
+[3.3.1 WINDOW 10](#_Toc50573617)  
+[.3.3.2 DOOR 11](#_Toc50573618)  
+[3.3.3 STAIRWAY AND STORM RAIL IN ACCOMMODATION QUARTER 15](#_Toc50573619)  
+[3.4 FURNITURE AND UPHOLSTERY 16](#_Toc50573620)  
+[3.4.1 FURNITURE 16](#_Toc50573621)  
+[3.4.2 UPHOLSTERY 20](#_Toc50573622)  
+[3.5 COMMISSARY AND SANITARY OUTFIT 21](#_Toc50573623)  
+[3.5.1 COMMISSARY EQUIPMENT 21](#_Toc50573624)  
+[3.5.2 SANITARY OUTFIT 22](#_Toc50573625)  
+[3.5.3 DRINK WATER FOUNTAIN 23](#_Toc50573626)  
+[3.6 STORE 24](#_Toc50573627)  
+[3.6.1 REFRIGERATED PROVISION STORE 24](#_Toc50573628)  
+[3.6.2 DRY PROVISION STORE 26](#_Toc50573629)  
+[3.6.3 MISCELLANEOUS STORES 26](#_Toc50573630)  
+[3.7 ELEVATOR 26](#_Toc50573631)

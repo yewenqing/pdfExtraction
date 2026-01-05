@@ -1,0 +1,20 @@
+METADATA: {'Header 1': 'CHAPTER 5 HULL PIPING', 'Header 2': '5.1 HULL PIPING', 'Header 3': '5.1.15 SCHEDULE OF VALVES'}
+--------------------
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Piping system | Size (nominal) | Material | | |
+| Body | Seat | Stem |
+| Steam and drain line for tank heating | 50 mm & above | Cast steel | As per Maker’s standard | |
+| 40 mm & under | cast steel |
+| Fuel oil line | All | Cast steel or cast  iron | ditto | |
+| Scupper line (storm  valve) | All | Cast steel | ditto | |
+| Ballast and bilge line | All | Cast iron | ditto | |
+| Cold water line | All | As per Maker’s standard  ditto | | |
+| Hot water line | All | As per Maker’s standard  ditto | | |
+| Domestic steam and  drain | 40 mm & under | Cast steel | ditto | |
+| Fire and wash deck line | 50 mm & above | Bronze\* | ditto | |
+| 40 mm & under | Bronze | ditto | |
+| Refrigerant | All | As per Maker’s standard | | |
+| CO2 | All | As per Maker’s standard | | |  
+“\*” Except butterfly valve.  
+For the valve seat and stem material, finally to be decided by the usage and the Maker, and satisfied with the rule’ requirement.

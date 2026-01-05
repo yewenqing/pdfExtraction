@@ -1,0 +1,17 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.2 PRINCIPAL PARTICULARS OF MACHINERY', 'Header 3': '6.2.2 MAIN ENGINE'}
+--------------------
+|  |  |  |
+| --- | --- | --- |
+| No. of set | : | One (1) |
+| Type |  | MAN B&W6S60ME-C10.5,Tier II, two (2) stroke, single acting， direct reversible, high efficiency turbocharger type |
+| NMCR | : | 14,940 kW x 105 r/min |
+| SMCR | : | 10,380 kW x 96 r/min |
+| CSR (90%SMCR) | : | 9,342 kW x 92.7 r/min |
+| No. of cylinder | : | 6 |
+| Cylinder bore | : | 600 mm |
+| Stroke | : | 2,400 mm |
+| Tuning method | : | Low-Load |
+| NOx emission compliance | : | IMO Tier II compliant |
+| BSFC | : | Abt. 159.0 g/kW.h +5% at CSR based on the use of a fuel oil with lower calorific value of 42,700 kJ/kg at shop test under ISO ambient condition at Tier II mode(ME back pressure max. 60mbar) at shop test. |
+| Cooling type | : | Central fresh water cooling |
+| Fuel | : | HFO,LSHFO/ULSFO,MGO |

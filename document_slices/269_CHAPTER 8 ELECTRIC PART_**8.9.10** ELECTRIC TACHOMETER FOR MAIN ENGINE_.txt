@@ -1,0 +1,11 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.9.10** ELECTRIC TACHOMETER FOR MAIN ENGINE'}
+--------------------
+One (1) set of electric tachometer system shall be provided, measuring and indicating the speed in revolution per minute and the direction of rotation.  
+One (1) set transmitter shall be attached to the main engine and each one (1) receiver shall be installed as follows:  
+* Wheelhouse ceiling console (with separate dimmer)
+* Both bridge wings wall type (with dimmer)
+* C/Engineer’s day room
+* Engine control console
+* M/E machinery side  
+One (1) revolution counter and one (1) running hour counter shall be installed in the engine control console.  
+Illumination with dimmer switch shall be provided for the tachometer receivers in wheelhouse ceiling console and bridge wings.

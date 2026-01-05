@@ -1,0 +1,10 @@
+METADATA: {'Header 1': 'CHAPTER 5 HULL PIPING', 'Header 2': '5.1 HULL PIPING', 'Header 3': '5.1.11 FUEL OIL PIPING'}
+--------------------
+Fuel oil filling main lines of one (1) DN200 for HFO and LSHFO/ULSFO and one(1) DN100 for MGO respectively with butterfly valve and blank flange shall be provided.  
+The remote control valve shall be fitted on branch fuel oil filling line of each HFO and LSHFO/ULSFO bunker tanks.  
+The main lines shall be connected to the fuel oil fill piping and fuel oil transfer pump in engine room.  
+Each one(1) bunker station for HFO and LSHFO/ULSFO and MGO shall be provided at each side of the vessel on upper deck, and with sampling device, thermometer, butterfly valves blank flanges, pressure gauges, spill trays etc.  
+Oil spill spaces with drain plug shall be provided at F.O. filling stations.  
+Caution plate required by U.S.C.G. shall be fitted on bunker station and ship office.  
+Remote level reading for oil tanks shall be indicated in engine room.  
+High level alarms shall be provided for HFO/ULSFO bunker tanks and MDO/MGO bunker tank.

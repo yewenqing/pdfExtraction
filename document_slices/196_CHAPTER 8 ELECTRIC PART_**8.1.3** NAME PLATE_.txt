@@ -1,0 +1,12 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.1.3** NAME PLATE'}
+--------------------
+***Flame retardant and*** non-corrosive material are to be used for nameplates, labels, etc. ***Nameplates on open decks shall be made of brass or stainless steel***.  
+All nameplates are to be fixed with screws or rivets. ***The nameplates shall include at least item number and functional description***  
+Type of plate shall be as follows:  
+|  |  |  |  |
+| --- | --- | --- | --- |
+| - | Rotating machine | : | ***Flame retardant and non***-corrosive metal plate |
+| - | Controller and panel | : | Plastic plate or Maker’ standard, except  non-corrosive metal plate for those exposed to weather |
+| - | Others | : | Maker’s standard |  
+The letter on the nameplate shall be in English. The fitting type of nameplate should be screw fitting or according to maker’s standard.  
+The caution plates shall be in English.

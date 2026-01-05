@@ -1,0 +1,14 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.8 MISCELLANEOUS EQUIPMENT AND OUTFITTING', 'Header 3': '6.8.7 DISTINGUISHING AND UNIT'}
+--------------------
+In case of two or more sets of identical machinery units are installed, those machinery shall be distinguished by numbering. In general, the numbering shall be carried out in this way:  
+From up to down  
+From fore to aft.  
+From port to starboard  
+The measuring instruments used for equipment and piping shall be according to International Standard.  
+Name plates shall be made of brass plate and marked by etching and painted black for illustration plate, red for warning plate and valve name plate respectively.  
+|  |  |  |
+| --- | --- | --- |
+| Item | Language | Measuring unit |
+| Instruments:  Thermometer  Temperature indicator  Pressure gauge  Compound gauge  Vacuum gauge  Level indicator  Electric indicator  Salinity indicator  Flow meter  Indication of tank volume  Measuring instruments | English | Metric or SI |
+| Name plates & drawings:  Name plate (fitted to machinery) Plan for approval  Finished plan  Instruction book  Inspection record  Test record  Sea trial record | English | Metric or SI |
+| Name plate (fitted to valve) | English |  |

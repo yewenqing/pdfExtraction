@@ -1,0 +1,42 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.2 PRINCIPAL PARTICULARS OF MACHINERY', 'Header 3': '6.2.10 LUBRICATING OIL SYSTEM'}
+--------------------
+Main lubricating oil pump  
+No. of set : Two (2)  
+Type : M.D. vert. centrifugal tank mounting*,* deep well type  
+Capacity : abt. 320 m3/h (if lub. oil to be used for auto. filter back washing, back washing capacity shall be added)  
+Total head : 0.62 MPa  
+Lub. oil transfer pump  
+No. of set : One (1)  
+Type : M.D. vert. screw  
+Capacity : 5m3/h  
+Total press : 0.35MPa  
+M/E L.O. purifier with steam heater and electric motor driven oil feed pump  
+No. of set : One (1)  
+Type : Automatic, self-cleaning  
+Effective capacity : abt.2,030 l/h (SAE30)  
+.  
+G/E L.O. purifier with steam heater and electric motor driven oil feed pump  
+No. of set : One (1)  
+Type : Automatic, self-cleaning  
+Effective capacity : abt. 2,030 l/h (***SAE30, and the capacity of SEA40 accordign to the maker standards***)  
+M/E Lubricating oil cooler  
+No. of set : One (1)  
+Type : Plate type, stainless steel  
+Heat dissipation : 1,020 kW  
+Cylinder L.O. transfer pump  
+No. of set : One (1)  
+Type : M.D. horiz. screw  
+Capacity : 1m3/h  
+Total press. : 0.3MPa  
+Lub. oil fine filter with manual by-pass filter  
+No. of set : One (1)  
+Type : Auto. back wash  
+Absolute fineness : 50 micron  
+Capacity : 320m3/h  
+Working press. : 0.40 MPa  
+Gen. engine L.O. cooler attached to G/E  
+No. of set : Three (3)  
+Capacity : As per Maker’s recommendation  
+Gen. engine L.O. filter attached to G/E  
+No. of set : Three (3)  
+Capacity : As per Maker’s recommendation

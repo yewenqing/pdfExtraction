@@ -1,0 +1,7 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.7.5** LIGHTING – STORE'}
+--------------------
+| Lighting fixture | Space |
+| --- | --- |
+| Fluorescent pendant light  (20 W x 2)  Or incandescent bulb pendant light (60 W) | General store, CO2 room |
+| Incandescent bulb pendant light (60 W) | Refrigerated chambers |
+| Incandescent bulb pendant light  (60 W, explosion-proof type) | Battery store, paint store, acetylene store etc. dangerous spaces |

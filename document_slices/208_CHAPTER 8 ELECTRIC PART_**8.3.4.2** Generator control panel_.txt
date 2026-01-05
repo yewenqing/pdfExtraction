@@ -1,0 +1,29 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.3.4.2** Generator control panel'}
+--------------------
+For proper operation and maintenance, the following instruments and apparatus shall be provided for each generator panel:  
+1 - Air circuit breaker (ACB)  
+1 - AC ammeter  
+1 - Change-over switch for AC ammeter (for each phase of generator)  
+1 - AC voltmeter  
+1 - Change-over switch for AC voltmeter (between each line of generator)  
+1 – Power factor meter  
+1 – Running hour meter  
+1 - Frequency meter  
+1 - Manual voltage regulator.  
+1 - ACB open/close control switch (or push button)  
+1 - Switch for space heater  
+1 - Generator running indicating lamp (white)  
+1 - ACB close indicating lamp (green)  
+1 - ACB open indicating lamp (red)  
+1 - Space heater indicating lamp (orange)  
+1 - Reverse power relay  
+1 - Running hour meter  
+1 – Diesel gen. remote control ready indicating lamp  
+1 –set of diesel gen. start/stop switch  
+1 – set of power management unit  
+1 – set of differential protection transformer (supplied by manufacturer)  
+**1 – set standby indicator light in blue**  
+1- Switch for External excitation and De Excitation  
+Etc.  
+And other necessary equipment;  
+***The generators system must automatically block start of Bow Thruster till the load is brought down to acceptable limits.***

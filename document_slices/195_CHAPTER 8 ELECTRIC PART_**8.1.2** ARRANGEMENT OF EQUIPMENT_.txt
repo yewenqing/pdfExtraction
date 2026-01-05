@@ -1,0 +1,6 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.1.2** ARRANGEMENT OF EQUIPMENT'}
+--------------------
+The arrangement of the electrical equipment throughout the Vessel shall be such as to provide ready and safe access to all parts for inspection, maintenance and repair as far as practicable.  
+All electrical equipment shall be so located that as far as practicable they are not exposed to risk of mechanical injury or damage from water, steam, oil or excessive heat and where inflammable gases cannot accumulate. Where necessarily exposed to such risks, the equipment shall be suitably constructed or enclosed.  
+**All junction boxes shall be clearly marked with name by the drawings, necessary access hatches and space around repairing and etc. shall be considered**.  
+Where electrical equipment is installed in the hazardous area such as battery store or paint store or cargo hold carried dangerous goods in, the equipment shall be of explosion proof type or intrinsically safe type.

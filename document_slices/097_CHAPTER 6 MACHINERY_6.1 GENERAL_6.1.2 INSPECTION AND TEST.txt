@@ -1,0 +1,44 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.1 GENERAL', 'Header 3': '6.1.2 INSPECTION AND TEST'}
+--------------------
+All inspection and tests for machinery shall be carried out in accordance with the Classification Society and Maker's inspection standard. The builder should notice the buyer, if the Buyer's representative cannot attend due to his own cause, these inspections and tests shall be entrusted to surveyor of the Classification Society and/or Builder's inspector, results of which shall be regarded as acceptance by the Buyer.  
+Data shall be recorded during these tests and the results shall be submitted to the Buyer. However, if the Buyer's representative cannot attend due to his own cause, these inspections and tests shall be entrusted to surveyor of the Classification Society and/or Builder's inspector, results of which shall be regarded as acceptance by the Buyer.  
+There will be a "items for inspection and test" document to be confirmed with Buyer in detail design stage.  
+**The Buyers representative will have the right to postpone any shop test if test procedures are not submitted in advance.**  
+#### 6.1.2.1 Main Engine Shop Test  
+The main engine shop test shall be performed according to the requirement of theclassification society and Maker’s standard.  
+The effective output of main engine shall be determined at various loads by means of hydraulic dynamometer.  
+Shop test shall be carried out with MDOin the presence of builder, Buyer Representation(s) and Surveyor(s) of the class.  
+The relevant pressure, temperature, and revolution, etc., for all test condition shall be measurement and record.  
+(1) Load Test  
+|  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- |
+| Load | 25% | 50% | 75% | CSR | 100% | 110% |
+| Hours | 1/2 | 1/2 | 1/2 | 1 | 1 | 1/2 |  
+(2) Governor function test at full load  
+(3) Fuel oil consumption measurement at all loads for reference (only CSR to be of guarantee point)  
+(4) Starting test and reversing test  
+(5) Minimum revolution test at no load (approx. 5 minutes)  
+(6) Astern running test at no load (min. 5 minutes)  
+(7) One cylinder cut off test (test load according to Maker's standard only for proto engine)  
+(8) Safety device confirmation before M/E shop test  
+(9) Overhaul inspections for necessary portions after shop test shall be carried out in accordance with Maker's usual practice and class requirement. One cylinder shall be dismantled completely for inspection.  
+#### 6.1.2.2 Generator Engine Shop Trial  
+The Generator engine shop trial will be done according to the requirement of the classification society and Maker’s standard.  
+The following tests shall be performed by using equipment, lubricating oil supplied by the manufacturer coupled together with the alternator.  
+(1) Load Test  
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Load | 25% | 50% | 75% | 100% | 110% |
+| Hours | 1/2 | 1/2 | 1/2 | 1 | 1/2 |  
+(2) Starting test at no load  
+(3) Emergency trip test and safety device test  
+(4) Governor test  
+(5) Fuel oil consumption measurement at 100% load  
+(6) Torsion vibration test recorded to be submitted for the first vessel  
+(7) Voltage regulation test  
+(8) Overhaul inspection shall be carried out in accordance with Maker's usual practice and class requirement. Overhaul of one cylinder unit per engine to be done as well as inspection of all cams and gear wheel drive.  
+Note: During test on board of Generator, PF (power factor) = 1.0 applied as test load.  
+#### 6.1.2.3 Other Aux. Machinery  
+The air compressors, pumps, ventilation fans, and other auxiliary machineries to be carefully tested in respect of performance and function at Maker's shop (if any) or on board in compliance with the requirement of Classification Society and Maker’s standard (if any).  
+For the machinery having the same capacity, performance test shall be carried out for only one set.  
+Above mentioned test shall be not applied to spare parts (if any), which the dimension test only shall be applied to.

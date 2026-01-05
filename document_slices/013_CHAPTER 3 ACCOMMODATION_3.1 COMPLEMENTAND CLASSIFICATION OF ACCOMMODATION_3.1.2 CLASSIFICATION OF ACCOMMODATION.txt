@@ -1,0 +1,33 @@
+METADATA: {'Header 1': 'CHAPTER 3 ACCOMMODATION', 'Header 2': '3.1 COMPLEMENTAND CLASSIFICATION OF ACCOMMODATION', 'Header 3': '3.1.2 CLASSIFICATION OF ACCOMMODATION'}
+--------------------
+3.1.2.1 Living Space  
+* + - * 1. Cabin  
+|  |  |  |
+| --- | --- | --- |
+| Name of Class | Room | Lavatory |
+| Captain class | Day room, bed room | Private lavatory with shower |
+| Senior officer | Day room, bed room | Private lavatory with shower |
+| Junior officer | Single- berthed | Private lavatory with shower |
+| Petty officer | Single- berthed | Private lavatory with shower |
+| Rating | Single- berthed | Private lavatory with shower |
+| Pilot | Single- berthed | Private lavatory with shower |
+| Owner | Single- berthed | Private lavatory with shower |
+| Hospital | Single- berthed | Private lavatory with bath tub |
+| Suez crew | Six(6) steel folding beds | Stevedore’s toilet |  
+* + - * 1. Other compartments  
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Public space | | Officer’s mess room  Crew’s mess room  Recreation room,  Gymnasium  Meeting room  Dispensary and Medicine locker | |
+| Office space | Tally office  Ship office and ballast control station |
+| Sanitary space | Private lavatory  Public toilet  Stevedore’s toilet  Officer’s laundry with drying room  Crew’s laundry with drying room  changing room |
+| Catering space | Galley  pantry |
+| Corridor space | Corridor  Stairway |
+| Control space | Wheelhouse (incl. radio space and chart space)  Engine control room  Fire control station |
+| Machinery space | Air conditioning unit room  Emergency generator room |
+| Working space | Deck workshop  Electrical workshop  E/R workshop |
+| Provision space | Dry provision store  Refrigerated provision stores |
+| Sundry space | CO2 room  Paint store  Deck store  Bosun store  Safety equipment store  Rope store  Bonded locker  Oxygen/Acetylene bottle store  SOPEP store  Electrical equipment store  Battery store  Garbage store  Bonded store  Linen store and other lockers |  
+***Recreation room will use as smoking area with an exhaust equal to about 12 air changes an hour.***  
+* + - 1. Anti-Pirate Citadel  
+A citadel to be provided in steering gear room withpermanently installed ventilation, potable water, ***steel door with anti-piracy deviceand*** VSAT cable.  
+Portable toilet, portable battery lantern, ***VSAT, medical first aid kit, emergency food and blanket*** antenna of the Iridium radio which to be supplied by Buyer.

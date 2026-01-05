@@ -1,0 +1,8 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.5.4** RECEPTACLE FOR REEFER CONTAINER'}
+--------------------
+Total 220 reefer container sockets (CEE type, 32A) will be provided on open deck.  
+Suitable number multi-gong type receptacle box shall be installed on operation platform.. Each gang should include circuit breaker, and power receptacle etc. these receptacle box shall be connected to some reefer distribution panels, each reefer distribution panel shall be fed from the main switchboard.  
+One (1) set of reefer container monitoring system, which to be of power cable data transmission (PCT) type with operating and display (24” TFT) unit shall be installed in ship office.  
+The communication between the PCT system and loading computer shall be established, therefore, necessary hardware and software shall be provided.  
+**Where the water-proof socket outlets on upper deck are exposed to rain, sea water splashes, etc. the socket outlet to be protected with sheet steel casing. But Reefer container sockets below hatch coaming no need protection.**  
+**Each individual reefer socket shall be capable of being switched on/off.**

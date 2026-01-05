@@ -1,0 +1,11 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.7 deck outFITTING', 'Header 3': '4.7.4 CANVAS COVER'}
+--------------------
+Canvas cover shall be provided for each of the following equipment on weather deck:  
+* Chain pipe
+* Winch drum of life boat davit
+* Winch drum of accommodation ladder and pilot assistant ladder
+* Pilot rope ladder
+* Embarkation rope ladder for liferaft
+* Magnetic compass and gyro repeater
+* Search light
+* Exposed flood light projector

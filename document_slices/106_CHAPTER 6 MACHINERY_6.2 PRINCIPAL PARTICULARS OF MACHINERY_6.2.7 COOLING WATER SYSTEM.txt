@@ -1,0 +1,39 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.2 PRINCIPAL PARTICULARS OF MACHINERY', 'Header 3': '6.2.7 COOLING WATER SYSTEM'}
+--------------------
+Main cooling S.W pump  
+No. of set : Three (3) each 50% (two working, one for stand-by)  
+Type : M.D. vert. centrifugal,  
+Capacity : abt.420 m3/h (depending on final heat balance)  
+Total head : 0.25 MPa  
+M/E jacket cooling F.W. pump  
+No. of set : Two (2)  
+Type : M.D. vert. centrifugal  
+Capacity : abt.75 m3/h  
+Total head : 0.30 MPa, as per ME’s recommendation  
+L.T. cooling F.W. pump  
+No. of set : Three (3) each 50% (two working, one for stand-by)  
+Type : M.D. vert. centrifugal  
+Capacity : abt. 320 m3/h (depending on final heat balance)  
+Total head : 0.35 MPa  
+M/E Jacket cooling F. W. cooler  
+No. of set : One (1)  
+Type : plate type, stainless steel  
+Heat dissipation :. abt.1,370 kW, as per ME’s recommendation  
+Central F.W. cooler  
+No. of set : Two (2) (Each 60% of total load)  
+Type : plate type, to be made of titanium and equipped with in line filter at SW side  
+Heat dissipation : depending on final heat balance  
+**Note: the back washing piping for central coolers sea water side shall be arranged.**  
+Main engine jacket F.W. preheating unit  
+No. of set : One (1)  
+Type : As per Maker’s recommendation, to be provided with removable tube bundle  
+Capacity : As per Maker’s recommendation  
+Main engine jacket F.W. preheating pump  
+No. of set : One (1)  
+Type : M.D. horiz. centrifugal  
+Capacity : 10 m3/h  
+Total head : 0.3 MPa  
+G/E H.T.F.W. preheating unit  
+No. of set : One (1)  
+Type : As per Maker’s recommendation  
+Capacity : As per Maker’s recommendation

@@ -1,0 +1,3 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.8 MISCELLANEOUS EQUIPMENT AND OUTFITTING', 'Header 3': '6.8.4 SILENCERS'}
+--------------------
+The silencer shall be provided for generator engines and emergency generator engine.

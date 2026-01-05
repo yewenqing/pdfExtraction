@@ -1,0 +1,6 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.2 PRINCIPAL PARTICULARS OF MACHINERY', 'Header 3': '6.2.12 FRESH WATER GENERATOR'}
+--------------------
+F.W generator  
+No. of set : One (1)  
+Type : Plate types, vacuum distilling  
+Capacity : abt. 20 t/d (at CSR of M/E under ISO reference condition) Heating medium : M/E jacket cooling fresh water

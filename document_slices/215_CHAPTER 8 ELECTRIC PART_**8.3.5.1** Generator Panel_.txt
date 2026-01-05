@@ -1,0 +1,19 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.3.5.1** Generator Panel'}
+--------------------
+1 -Air circuit breaker (ACB) (draw-out type)  
+1 -AC ammeter  
+1 -Change-over switch for AC ammeter (for each phase of generator)  
+1 -AC voltmeter  
+1 -Change-over switch for AC voltmeter (between each phase of generator)  
+1 -Frequency meter  
+1 -kW meter  
+1 -Bus tie for link with the main switchboard  
+1 –Running hour meter  
+1 -Switch for space heater  
+1 -Generator running indicating lamp (white)  
+1 -ACB close indicating lamp (green)  
+1 -ACB open indicating lamp (red)  
+1 -Space heater indicating lamp (orange)  
+1 -Manual voltage adjuster (if necessary)  
+1 -Red lamp for ACB abnormal trip  
+And other necessary equipment

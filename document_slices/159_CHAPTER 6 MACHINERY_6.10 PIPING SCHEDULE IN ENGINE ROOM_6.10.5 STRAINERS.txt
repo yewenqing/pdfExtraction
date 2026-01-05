@@ -1,0 +1,23 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.10 PIPING SCHEDULE IN ENGINE ROOM', 'Header 3': '6.10.5 STRAINERS'}
+--------------------
+Strainers shall be provided for various systems according to the following table.  
+Strainers not listed below and supplied together with equipment shall be according to Maker’s recommendation.  
+| System | Place of installation | | No. of set | Type | Mesh of element | Material | |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Body | Elem. |
+| Fuel oil | Main engine | Inlet | 1 | Auto. back wash with manual by-pass filter | As per Maker’s recommendation | Cast iron  or fabricated  steel plate | Brass wire or stainless steel |
+| Generator engine | Inlet | 1 | Auto. back wash with manual by-pass filter | As per Maker’s recommendation |
+| FO purifier | Suction | 1  each | Simplex | 30 |
+| HFO , LSHFO/ULSFO trans pump | Suction | 2 | Simplex | 24 |
+| M.G.O. trans. pump | Suction | 1 | Simplex | 24 |
+|  |  |  |  |  |
+| Lub. oil | Lub. oil pumps (for main engine) | Suction |  |  |  |
+| Delivery | 1 | Auto. back wash with manual by-pass filter | As per Maker’s recommendation |
+| L.O. purifier | Suction | 1  each | Simplex | 30 |
+| L.O. trans. pump | Suction | 1 | Simplex | 32 |
+| Cylinder L.O. transfer pump | Suction | 1 | Simplex | 32 |
+| Water | Sludge pump | Suction | 1 | Simplex | 4 mm | Galv. steel | Stainless steel |
+| Sea chests | Suction | 1  each | Simplex | 5 mm |
+|  |  |
+|  | Daily bilge pump | Suction | 1 | Simplex | 4 mm | Galv. steel | plate |
+| Fresh water pumps | Suction | 1  each | Simplex | 24 | Galv. steel | Stainless steel wire |

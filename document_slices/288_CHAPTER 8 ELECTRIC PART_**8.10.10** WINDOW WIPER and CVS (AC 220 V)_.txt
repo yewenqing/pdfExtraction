@@ -1,0 +1,5 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.10.10** WINDOW WIPER and CVS (AC 220 V)'}
+--------------------
+Abt. ***Three(3)*** sets of window wipers with heater ***and Two(2) CVS*** shall be installed on the front windows of the wheelhouse according to rules requirements. (Refer to Accommodation Part)  
+The wiper shall be of horizontal movement type. Speed controller at the bridge console shall be provided for each window wiper.  
+***Each CVS controller shall be located at the lower part of front bulkhead***

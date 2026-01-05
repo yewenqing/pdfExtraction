@@ -1,0 +1,27 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.2 PRINCIPAL PARTICULARS OF MACHINERY', 'Header 3': '6.2.16 WORKSHOP EQUIPMENT'}
+--------------------
+Lathe  
+No. of set : One (1)  
+Type : Motor driven.  
+Center span : 1,000 mm  
+Max. drilling dia. : 38 mm  
+Table driller for electrical workshop  
+No. of set : One (1)  
+Type : Motor driven, table type  
+Max. drilling dia : 20 mm  
+Grinder  
+No. of set : One (1)  
+Type : Double head, dry type, electric motor driven.  
+Stone dia. : abt. 200 mm  
+Electric welder with voltage reduce device  
+No. of set : One (1)  
+Type : A.C. arc welding shock proof type  
+Capacity : 200 A  
+***Note: The socket for electric welder to be installed in bosun store.***  
+Gas welder compatible unit  
+No. of set : One (1)  
+Type : 2 x 40 l Oxygen bottles.  
+1 x 40 l Acetylene bottle  
+Hose length : 50m x 2  
+Fuel oil injector testing bed  
+No. of set : One (1)

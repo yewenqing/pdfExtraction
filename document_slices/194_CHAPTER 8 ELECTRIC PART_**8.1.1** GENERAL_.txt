@@ -1,0 +1,30 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.1.1** GENERAL'}
+--------------------
+The whole electrical installation shall comply with IEC and ISO standard, and to meet relative rules, regulations and convention which are listed in the “Part I General” of the Specifications.  
+Electric works on the vessel shall be carried out in accordance with these Specifications and Builder's practice.  
+Electric equipment and function shall be satisfied with specification and related recent rule.  
+Earth wire for equipment in/outside shall be prepared as per IEC standard.  
+More than terminal or connector with protective cover in electric panel shall be applied in order to prevent electrical shock of the operator.  
+Enough working space and door stopper shall be prepared when door of electric equipment open.  
+Pipe joints near side electric equipment shall be provided by sleeve or equivalent method for electric equipment protection. No piping or components containing liquids (including drains) shall be arranged inside rooms where switchboards, transformers, batteries, rectifiers, variable frequency controllers, etc. are installed. If piping passing through cannot be avoided, piping welding joints (sleeves) must be used, and shields must be installed above the electrical equipment / panels.  
+Final electric connection diagram with pocket shall be prepared in the panel door for easy maintenance.  
+If any items in the hull or machinery Specification necessitate the installation of electrical equipment not mentioned in this part, such equipment shall be provided by Builder.  
+Voltage and Frequency:  
+All electric equipment to function at variations of:  
+Frequency: ±5% at the continuous load condition  
+±10% at the transient load condition  
+Voltage: +6/-10% at the continuous load condition  
+±20% at the transient load condition  
+An ambient temperature of 45deg.C shall be assumed for electrical equipment in all spaces. Where ambient temperature is in excess of these values, the temperature specified by the Rule shall not be exceeded.  
+The meters to be of Class 1.5 and to have scale of the following range with red color mark at rated value.  
+Voltmeter: 0 to abt. 120% of rated voltage  
+Ammeter: 0 to abt. 130% of rated current  
+Wattmeter: -15% (reverse power) to abt. 130% of rated wattage  
+Frequency meter: 55 - 65 Hz  
+The type and construction of electrical equipment incorporated or packed with the appliances, shall be in accordance with the manufacturers' standard unless specially described and may be changed by their Maker’s type or model changes.  
+All electrical machines and apparatus delivered to the shipyard and waiting installation are to be kept in a clean, dry and well ventilation store.  
+Electric equipment will be inspected and tested in accordance with the Rule, the Regulations and the Builder's usual practice.  
+Trial  
+The trials for all electrical equipment in manufacturer’s shop and or on board shall be carried out according to the requirements of Classification Society and the Builder’s standard and approved by Buyer.  
+**“Trials program for electrical equipment” shall be provided for *Owners* review one month before sea trial.**  
+After installations on board have been finished, all electrical equipment shall be tested to demonstrate their condition for satisfactory operation in accordance with the requirement of Rules and the detail design document of “Trials program for electrical equipment”.

@@ -1,0 +1,23 @@
+METADATA: {'Header 1': 'CHAPTER 5 HULL PIPING', 'Header 2': '5.1 HULL PIPING', 'Header 3': '5.1.6 VALVE REMOTE CONTROL SYSTEM'}
+--------------------
+1) Valve remote operation  
+The valve control system of pneumatic type shall be provided for the remote control of following valves:  
+- Ballast valves in cargo hold area and major valves in engine room for ballast system  
+- Bilge suction valves in cargo hold area  
+- Fuel oil filling / suction main valves in cargo hold area  
+Discharge main valves of the ballast pumps shall have open, closed and intermediated position indications. Other valves shall have open and closed indication only.  
+The remote operated suction valves for HFO and LSHFO/ULSFO bunker tanks in cargo hold area shall be single acting type.  
+The remotely controlled valves shall have an emergency operation facility by means of portable hand pump or spanner.  
+**Remote valves should not be placed in areas they serve and should be easily accessible in any operational condition of vessel. where is possible.**  
+2) Control  
+A control station with color graphic monitor shall be provided in the ship office, engine control room for ballast, bilge, FO.  
+Control functions and indications mentioned below shall be mounted on the monitor.  
+- Mimic diagram of ballast, bilge and FO system  
+- Open / shut function with indication for remote operated valves (Remote control valves in fuel oil system shall be controlled from engine control room.)  
+- Start/ stop function with running indication for ballast pump, fire, bilge & G.S. pumps.  
+- Suction and discharge pressure indication on monitor for ballast pump  
+- Level indication able to display tank volumes on monitor for water ballast, fresh water tank, HFO and LSHFO/ULSFO storage tanks and MGO storage tank.  
+- Draft indication on monitor  
+- High level alarm for cargo hold bilge wells, bosun store, fore & aft end of pipe duct, bow thruster & emergency fire pump room.  
+- Other necessary equipment and fittings not mentioned above shall be provided as per maker's standard  
+- HFO and LSHFO/ULSFO and MGO storage tanks shall be provided with independent level switches for high level alarm.

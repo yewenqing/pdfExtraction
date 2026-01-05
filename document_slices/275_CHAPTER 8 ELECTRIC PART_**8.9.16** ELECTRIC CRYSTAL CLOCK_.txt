@@ -1,0 +1,22 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.9.16** ELECTRIC CRYSTAL CLOCK'}
+--------------------
+One (1) set of electric crystal clock system shall be provided as follows:  
+1 -Master clock with slave clock control panel in chart space.  
+The master clock unit shall be incorporated with GMT and local time indication and slave clock control device such as advance and reverse control switch etc.  
+The Master clock shall be interfaced with DGPS.  
+Two hands slave clock:  
+Decorative type: Each captain class day room  
+Mess room  
+Recreation room  
+Gymnasium  
+Chief. Officer  
+Second engineer day room  
+**Ship office**  
+Ordinary type: Each one (1) double side type in corridor for each deck of accommodation  
+Each office  
+Hospital  
+Pantry  
+Galley  
+Three hands slave clock: Wheelhouse control console,  
+Engine control room  
+Three hands slave clock (UTC type): Radio space

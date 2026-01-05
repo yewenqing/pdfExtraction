@@ -1,0 +1,3 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.9.6** Refrigerated Chamber ALARM'}
+--------------------
+One (1) set of refrigerated provision chamber alarm device shall be provided. Each one (1) switch with indicator shall be fitted in the refrigerated chamber and a bell with red lamp shall be fitted in the galley & a buzzer with lamp shall be fitted in wheelhouse so as to signal when a person is locked in.

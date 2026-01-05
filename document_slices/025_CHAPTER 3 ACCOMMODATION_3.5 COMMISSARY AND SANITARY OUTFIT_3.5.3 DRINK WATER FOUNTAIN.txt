@@ -1,0 +1,7 @@
+METADATA: {'Header 1': 'CHAPTER 3 ACCOMMODATION', 'Header 2': '3.5 COMMISSARY AND SANITARY OUTFIT', 'Header 3': '3.5.3 DRINK WATER FOUNTAIN'}
+--------------------
+Drink water fountains shall be fitted as follows:  
+1- Wheelhouse  
+2- officer mess room and crew mess room  
+1- Near Engine control room  
+1. Corridor on B deck

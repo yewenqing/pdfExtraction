@@ -1,0 +1,8 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.10.1** Magnetic Compass (AC 220 V, DC 24 V)'}
+--------------------
+One set of transmitting type magnetic compass (TMC) with reflector binnacle shall be installed. Transmitting magnetic compass signal should be connected to auto pilot.  
+Accessory to be provided as per the Maker’s standard.  
+Heading signal of TMC should be sent to the steering unit for auto steering and off-course alarm in the event of a gyrocompass failure.  
+One (1) spare bowl will be provided. Heading signal of TMC should be sent to the steering unit for auto steering and off-course alarm.  
+A length of bypass tube and facilities shall be considered as per the maker’s standard if the binnacle had to locate a distance from the top of the helmsman position in the wheelhouse.  
+Dimmer at bridge console for magnetic compass lamps of both DC24V and AC220V shall be provided.

@@ -1,0 +1,18 @@
+METADATA: {'Header 1': 'CHAPTER 5 HULL PIPING', 'Header 2': '5.1 HULL PIPING', 'Header 3': '5.1.10 COMPRESSED AIR PIPE FOR DECK USE'}
+--------------------
+Suitable number connection piece shall be provided on weather deck including deckhouse, mooring deck, etc for general service.  
+Connection piece with DN15mm hose valve and hose coupling (quick coupling type) shall be provided.  
+Air shall be supplied from deck service air reservoir in the engine room.  
+Compressed air shall be supplied for following space or equipment:  
+Bosun store  
+Steering gear room  
+Workshop  
+Bow thruster & Emergency fire pump room  
+CO2 room  
+Emergency generator room  
+Air conditioning room  
+Paint store  
+Forecastle deck  
+Upper deck at an interval of 30m between cargo holds  
+Each deck outside of living quarters P/S  
+The separate airline from main air reservoirs via two (2) reducing valves shall be supplied to air horn with locally open valve.

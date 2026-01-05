@@ -1,0 +1,33 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.7.1** GENERAL'}
+--------------------
+The vessel shall be adequately illuminated throughout with fluorescent lights ***or energy saving light*** and supplemented by incandescent lights. Lighting fixtures for flood lighting shall be of halogen type lamps.  
+In general, incandescent lamps must be used as little as possible unless otherwise specified.  
+The lighting system shall be divided into normal lighting, emergency lighting.  
+Machinery space light should be arranged/supplied in such a manner that the failure of anyone branch circuit not to cause any space to be entirely dark.  
+In general, emergency lights shall be arranged without local switches, except for wheelhouse and crew cabins.  
+All emergency lights must be marked with a red mark.  
+***Anti-vibration mountings to be used in areas subject to local vibration (if necessary), except hanging type lighting fixtures.***  
+***The general features and dimensioning of lighting fixtures, switches and receptacles to be submitted for Owner's approval. Quantity and size of lighting fixtures, switches and receptacles may be changed in accordance with Owner's approved General Arr't of Electrical Equipment during plan approval procedure.***  
+***a) The lighting fixtures fitted in the weather part to be water-proof and to have the body of cast brass or brass plate or stainless steel or synthetic resin.***  
+***b) Lighting fixtures fitted under the risk of mechanical damages to be protected with guards for (energy saving tube) lights and polycarbonate globes for fluorescent lights.***  
+***c) For protection guards, steel guards to be used for the lamps fitted indoor space and brass guards for the lamps exposed to weather***  
+***Incandescent Lamps to be replaced by energy saving tube wherever is feasible.***  
+Emergency light may be normally used as part of the general lighting system and 1/3 quantity at least in the following rooms & spaces :.  
+|  |  |
+| --- | --- |
+| Wheelhouse | Inner and outer passages |
+| Electric equipment room | Stairs in accommodation |
+| Emergency generator room | Workshop |
+| Hospital | Engine control room |
+| Offices | Engine room |
+| Public rooms | Steering gear room |
+| Public toilet and deck toilet | Emergency fire pump room |
+| Navigating light and signal lights | Chart light |
+| Fire control station | Navigation Equipment |  
+In general the enclosure of the lighting fixtures and fittings shall be of the following type dependent on their location:  
+|  |  |
+| --- | --- |
+| Waterproof type:  (IP 55) | Spaces exposed to the weather, pipe funnel, refrigerated chamber, E/R below floor, oil purifier area, machinery spaces, store room, laundry, bow thruster room etc. wet spaces. |
+| Enclosed type (IP 34 or 44) | Galley and pantry |
+| Non-waterproof type:  (IP 22) | All cabin, mess room, engine control room, wheelhouse, control room and office etc. dry spaces. |
+| Explosion proof type: | Battery room, paint store, acetylene bottle store and other dangerous spaces. |

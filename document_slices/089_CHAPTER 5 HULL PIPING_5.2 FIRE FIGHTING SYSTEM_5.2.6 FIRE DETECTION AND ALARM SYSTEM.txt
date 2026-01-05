@@ -1,0 +1,10 @@
+METADATA: {'Header 1': 'CHAPTER 5 HULL PIPING', 'Header 2': '5.2 FIRE FIGHTING SYSTEM', 'Header 3': '5.2.6 FIRE DETECTION AND ALARM SYSTEM'}
+--------------------
+Indication of fire shall be provided on fire alarm panel in wheelhouse and extension alarm in fire control station in accordance with SOLAS.  
+***Comply with latest FSS Code. E.g Detector and Control panel are to be tested according to EN54(2001)***  
+Suitable numbers of fire/smoke detectors shall be provided in the machinery spaces, living quarters, alleyways, and staircase according to the requirement of the Rule/Regulations.  
+Smoke tube type fire detecting system shall be provided for cargo holds.  
+CO2 smoke suction line shall be led in each cargo hold, smoke detection with valve and suction fan shall be arranged in the CO2 bottle room, a repeater panel shall be in the wheel house.  
+Audible / visual alarm shall be provided according to the Rule.  
+Suitable numbers of push buttons shall be provided in access of every deck and passage ways and suitable spaces.  
+The details of the system refer to “Chapter 9 - Electric Part” of the Specification.

@@ -1,0 +1,5 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.4 CONTAINER lashing and securing', 'Header 3': '4.4.5 Others'}
+--------------------
+Painted steel boxes or hangers for loose container fittings storage to be provided by the Buyer.  
+Turnbuckle shall always be secured by lashing eyes on hatch covers and deck stanchions if necessary and in accordance with the Maker’s standard.  
+Lashing bar storage provided by builder, other storage boxed are provided by Buyer.

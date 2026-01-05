@@ -1,0 +1,3 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.9 SPARE PART AND DECK INVENTORY'}
+--------------------
+Spare parts, tools and inventory shall be furnished as per the Maker's and/or Builder's practice in accordance with the Rules recommendation of the Classification Society unless otherwise specifically described in this Specification.

@@ -1,0 +1,20 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.9.14** FIRE DETECTING AND ALARM SYSTEM'}
+--------------------
+(1) One (1) set of ***fixed addressable type fire detection and fire alarm system shall be so installed and arranged as to provide smoke detection in all corridors, stairways and escape routes within accommodation spaces as per the SOLAS IC requirement:***  
+One (1) - Fire alarm panel in the wheelhouse  
+One (1) –Fire alarm repeater in fire control station  
+One (1) –Fire alarm repeater in ECR  
+Heat detector - in galley, recreation room and engine room  
+Smoke detector - in passage, stair of accommodation, laundry, engine room, steering gear room and other machinery space; Smoke detector in E/R workshop shall be with blocking time controller (0~2 hours)  
+Push button - in passage near the exit, wheelhouse, engine control room, entrance to the E/R, steering gear room, emergency generator room etc.;  
+**Fire detection and alarm system shall be independent and not to be combined with fixed water mist fire fighting system in engine room.**  
+I.S. type smoke detector shall be provided in paint store, battery store, and other dangerous area.  
+Emergency batteries to be built in fire alarm panel, when main net failure, the emergency batteries to support the system working normally as per rules.  
+**Stairway doors closer shall be connected to fire alarm system for automatic closing after 2 mins of fire alarm.**  
+**The fire alarm signal to be sent to VDR.**  
+(2) One set of smoke detection and alarm system for cargo hold shall be provided as follows:  
+Detecting and monitor panel: CO2 room  
+Exhaust fan motor box: Suitable location  
+Some smoke sample intake: Suitable location in cargo hold  
+Detecting and monitor repeater: Wheelhouse  
+Both systems should interface with the VDR.

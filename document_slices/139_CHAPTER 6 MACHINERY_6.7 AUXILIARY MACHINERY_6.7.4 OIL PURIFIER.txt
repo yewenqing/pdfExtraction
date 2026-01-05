@@ -1,0 +1,25 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.7 AUXILIARY MACHINERY', 'Header 3': '6.7.4 OIL PURIFIER'}
+--------------------
+All purifier heaters will be as per maker’s standard.  
+**A working bench with two (2) wash basins (sinks) shall be provided in the purifier room if space available. Drains from each wash basin shall be led to the sludge tank.**  
+#### 6.7.4.1 Fuel Oil Purifier  
+Two (2) sets of HFO/LSHFO/ULSFO purifier shall be used for HFO/LSHFO/ULSFO, and arranged in the purifier area in engine room.  
+**FO purifiers to be provided with flexible feed and discharge lines. Flexible mounting(rubber cushions) to be provided for the FO purifiers. Heater unit for the purifiers to besteam supplied, equipped with steam trap, insulation, temperature gauges etc.**  
+**Each FO purifier shall be equipped with water monitoring system & sludge space monitoring system.**  
+One (1) purifier shall be running and the other as stand-by.  
+The independent supply pump with driving motor shall be provided for each purifier. **The heaters of two FO purifiers to be fully interchangeable.**  
+Materials and accessories shall be provided according to Maker's standard.  
+Each purifier shall be provided with necessary fittings such as a pressure gauge, a thermometer, abnormal flow detector, oil feed shut off valve, water transducer and etc.  
+Each fuel oil purifier shall run continuously and sludge discharge shall be carried out automatically by means of a timer and water transducer. Start and stop of the purifiers shall be manually and locally effected.  
+**Automatic control panel to be provided for each FO purifier.**  
+Each one (1) automatic control board with abnormal alarm shall be arranged near the purifiers.  
+One (1) “I” beam shall be fitted above all the purifiers for maintenance.  
+One (1)-cleaning table shall be provided with cold water, hot water, MGO pipes and valves and drain valve.  
+#### 6.7.4.2 Lubricating Oil Purifier  
+One (1) set of M/E L.O. purifier and one (1) set of G/E L.O. purifier shall be arranged in the purifier area in the engine room. G/E LO purifier shall be also as standby for ME  
+Each L.O. purifier shall be with independent supply pump.  
+Materials and accessories shall be provided according to Maker's standard.  
+Each purifier shall be provided with necessary fittings such as a flow indicator, pressure gauge, thermometer, abnormal flow detector, oil feed shut off valve and etc.  
+The purifier shall be run continuously and sludge discharge shall be carried out automatically by means of a timer. Start and stop of the purifier shall be manually and locally effected.  
+Each one (1) automatic control board with timer and an abnormal alarm shall be arranged near the purifier.  
+“I” beam reference with 6.7.4.1

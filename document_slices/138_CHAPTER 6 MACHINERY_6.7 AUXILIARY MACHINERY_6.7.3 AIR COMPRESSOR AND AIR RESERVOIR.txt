@@ -1,0 +1,18 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.7 AUXILIARY MACHINERY', 'Header 3': '6.7.3 AIR COMPRESSOR AND AIR RESERVOIR'}
+--------------------
+The air compressor and air reservoir are to be of sufficient capacity to meet the requirement of the Classification Society.  
+The construction, materials, accessories, spares and tools shall be in accordance with Maker's standard.  
+#### 6.7.3.1 Main air Compressor  
+The main air compressors shall be of single acting, two or three stages, fresh water cooled and piston type and shall be driven by electric motors.  
+Each main air compressor shall be fitted with unloaded, safety valve, air strainer, pressure gauge, fresh water cooler, drain cock and other necessary fittings. Each main compressor shall be provided with automatic and remote starting and stopping device and local manual controller.  
+**Low lub oil Pressure and Compressed air high temperature safety shall be provided as per maker’s standard.**  
+#### 6.7.3.2 Service Air Compressor  
+The air compressor to be of screw type, electric motor driven, air cooled, self-contained L.O. system, oil filter and oil separator.  
+Material, spares and tools to be in accordance with the manufacturer’s standard.  
+#### 6.7.3.3 Emergency Air Compressor  
+The emergency air compressor shall be of electric motor driven, air-cooled type and used for charging to the aux. air reservoir and starting the “dead ship”.  
+#### 6.7.3.4 Air Reservoir  
+The air reservoirs shall be of cylindrical type of welded steel plate, and complete with pressure gauge, safety valve, and drain connection. The main air reservoirs shall be fitted with manual drain valve and manhole.  
+The air reservoir drain connection shall be with double shut drain valves. Outlet of all safety valves for main air reservoir should be connected to open deck.  
+The air reservoirs shall be painted inside with anti-rusting.  
+The air reservoirs have ample construction and hydraulic test shall be in compliance with the requirement of Classification Society.

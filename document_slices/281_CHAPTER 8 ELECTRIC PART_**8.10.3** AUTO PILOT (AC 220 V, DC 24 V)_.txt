@@ -1,0 +1,9 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.10.3** AUTO PILOT (AC 220 V, DC 24 V)'}
+--------------------
+One (1) complete set of adaptive auto-pilot shall be installed consisting of:  
+One (1) - Steering stand in the wheelhouse, which might be combined with the bridge consoles;  
+The steering stand shall be equipped with a steering mode select switch in order to select the operation mode of automatic steering or electric hand steering with follow-up or non follow-up control. Non follow-up control units for both bridge wings shall be provided.  
+The steering stand shall be provided with power failure alarm and off course alarm.  
+The feedback unit shall be arranged in steering gear room with level link rod as per the maker’s standard .  
+Auto pilot override tiller to be provided in main console on wheelhouse.  
+The heading signal from the magnetic compass and gyro compass shall be connect in the autopilot separately.

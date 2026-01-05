@@ -1,0 +1,17 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.4.2.1** For General Use and for Engine Room Area'}
+--------------------
+The maintenance free lead-acid type batteries to be installed as follows:  
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+|  | No. of set | Capacity  (Ah) | Voltage  (V) | Rating | Location |
+| For general service | 1 | 200 | 24 | 10 hours | Engine room |
+| 1 | 200 | 24 | 10 hours | Battery room |
+| For automation system | Manufacturer's standard | | | | Engine room |
+| For radio equipment | Manufacturer's standard | | | | Radio space |
+| For emergency generator starting | Manufacturer’s standard | | | | Emergency generator room |  
+Each one (1) set of charging and discharging board for general service batteries and engine room battery may be of floating charging type.  
+All necessary charging apparatus i.e. source switch, transformer, voltage adjuster, silicon rectifier, voltmeter, ammeter, indicating lamps, miniature circuit breaker (MCB), fuses, etc. to be provided.  
+24V DC distribution board (with feeder breakers, insulation monitor, ammeter, voltmeter and other necessary fittings;  
+**A safety factor of 1.3 is to be used for the calculation of the capacity of all batteries to compensate for capacity loss caused by ageing.**  
+**1. All battery chargers are to be capable of supplying the total load of all consumers and simultaneously charge totally empty batteries.**  
+**2. Chargers are to be able to operate with batteries disconnected. A low voltage alarm for the battery and battery charger output is to be provided in AMS.**

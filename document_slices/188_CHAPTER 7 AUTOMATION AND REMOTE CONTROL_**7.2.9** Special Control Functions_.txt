@@ -1,0 +1,3 @@
+METADATA: {'Header 1': 'CHAPTER 7 AUTOMATION AND REMOTE CONTROL', 'Header 2': '**7.2.9** Special Control Functions'}
+--------------------
+The important equipment, if formerly operated, shall be automatically, sequentially restarted when electric power on main bus is recovered after “black-out”.

@@ -1,0 +1,45 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.8 outfitting for access', 'Header 3': '4.8.1 access HATCH, MANHOLEcover and steel door'}
+--------------------
+#### 4.8.1.1 Access Hatch Cover, Rope Hatch Cover, etc.  
+Hatches for access, etc. shall be provided to the space listed in the table hereinafter. Nuts, bolts for hatches on weather deck shall be of stainless steel SUS304.  
+The coaming height shall be complied with ICLL requirement and all weather-tight doors and hatches shall be tested according to class approved method..  
+All hatches except those specially indicated shall be of hinged type.  
+Number and size of hatches for each compartment to be as follows:  
+|  |  |  |
+| --- | --- | --- |
+| Served Space | Number | Size (mm) |
+| Rope store | 1 | Ф 600 |
+| Bosun store | 1 | 1,200 x 1,200 (sq.) |
+| Cargo hold | **2** | 630 x 830 |
+| Engine room | 1  1 | 1,600 x 2,000  (bolted flush type) |
+|  |  |  |
+| ***Escape access from engine room*** | ***1*** | ***800 x 800 (sq.)*** |
+| Access to bow thruster room | 1 | 630 x 830 |
+| Bow thruster room  (for handling motor etc.) | 1 | As per detail design  (bolted flush type) |
+| CO2 room | 1 | 1,000 x 1,000 (sq.) |
+| Pipe duct access | 2 | 600 x 600 (sq.) |
+| Steering gear room | 1 | 1000 x 1000 (sq.) |  
+Note:  
+1. Hatch for rope handling shall have protector of steel round bar for running of rope where sharp edge exists at coaming or deck beam etc.
+2. All hatches shall have eye plates for pad lock (except escape hole).
+3. The manually operated hinged type hatch of 1.2 m x1.2 m size and above shall be fitted with counter balance or equivalent for easy handling.  
+#### 4.8.1.2 Manhole Cover and Other Bolted Cover  
+Oil tight or water tight oval manhole cover to be provided for double bottom tank, side tanks, cofferdams.  
+The manhole cover to be of steel and watertight or oil tight construction with synthetic rubber sheet gasket, bolts and nuts. Studs and nuts to be stainless steelSUS304, but those on exposed deck to be SUS316.The manhole cover to be of flush type on container stowage position in cargo hold and on under deck passageway floor. However on the tank top in engine room and oil tank, steel coaming of about 100 mm in height to be fitted.  
+In general, at least two (2) manhole covers shall be provided for each big tank with capacity over 20m3.  
+The manhole cover on wall to be fitted with handle.  
+The marks to be of welding line on the manhole cover, no additional mark on tank bulkhead. Steps and handles to be provided on vertical fitted manhole covers if the distance from lower edge of manhole to deck is more than 600 mm.  
+Number and size of manhole cover and bolted cover for each space to be as follows:  
+|  |  |
+| --- | --- |
+| Served Space | Size (mm) |
+| Oil tank | 400 x 600 (oval) |
+| Fresh water tank | 400 x 600 (oval) |
+| Fore peak tank | 400 x 600 (oval) |
+| Aft peak void | 400 x 600 (oval) |
+| Chain locker (on chain locker wall in bosun store) | 600 x 800 (hinged) |
+| Ballast water tank | 400 x 600 (oval) |
+| Other hull structure tanks in E/R | 400 x 600 (oval) |
+| Cofferdam and void space | 400 x 600 (oval) |
+| Pipe duct | 400 x 600 (oval) |
+| Stern tube cooling water tank | 400 x 600 (oval) |

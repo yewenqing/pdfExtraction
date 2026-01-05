@@ -1,0 +1,25 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.1.6** EQUIPMENT AND MATERIAL'}
+--------------------
+Electrical equipment and material shall be marine use one in general.  
+***Control box with contact and emergency stop box (bunker station) on the open deck to be provided with space heater. Not including switches, reefer container sockets junction boxes, navigation and radio equipment.***  
+Fuse, terminal and lamp shall be as mentioned below, except for those of special equipment such as navigation instrument, radio equipment and other electronic equipment shall be of Maker’s standard.  
+Fuse In general, tubular or screw type fuse to be used except special type fuses for electronic equipment.  
+Terminal Solderless type except for small electric terminal for lighting fixtures, switch and branch box etc.  
+Lamp  
+|  |  |  |
+| --- | --- | --- |
+|  | Purpose |  |
+| For fluorescent lamp | General light | Two pin type |
+| For incandescent lamp | General light, floodlight and  signal light | .  E-27 (≤200 W) |
+| Pilot lamp of switchboard,  starter, console, etc. | Manufacturer’s standard |
+| Floodlight and searchlight | E-40 (>200 W) |
+| For sodium and halogen lamp | Floodlight | E-40, ***Manufacturer’s standard*** |  
+Electrical equipment and wiring shall in general not to be installed in hazardous areas unless essential for operational purposes. The type of equipment and installation requirements shall comply with class rules.  
+*Breaker*  
+(A) Air Circuit Breaker (ACB)  
+Air circuit breakers may be used for protection of main generators, bow thruster. Air circuit breaker (ACB) to be of 3-pole hand and automatic operated, trip free, with breaker operation facilities in the main contact isolated position.Air circuit breakers (ACB) in Main and Emergency Switchboards shall be with draw-able type.  
+(B) Moulded Case Circuit Breaker (MCCB)  
+Moulded case circuit breaker will be used for protection of feeder circuits and may be fitted with magnetic instant trip, thermal trip, or shunt trip coil and/or under voltage trip coil depending on each application.Moulded Case Circuit Breakers (MCCB) is to be of plug-in type in Main- and Emergency Switchboards.  
+Miniature circuit breaker (MCB) will be used for protection of feeder circuits in lighting system and domestic equipment.  
+(C) Bus-tie switch (as per Maker)  
+Due to total electrical power of generators to be very large, bus bar and bus-tie switch of MSB must have enough capacity as per rules and Manufacturer’s standard.

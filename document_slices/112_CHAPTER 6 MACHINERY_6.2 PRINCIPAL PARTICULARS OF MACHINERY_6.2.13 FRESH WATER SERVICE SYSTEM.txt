@@ -1,0 +1,31 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.2 PRINCIPAL PARTICULARS OF MACHINERY', 'Header 3': '6.2.13 FRESH WATER SERVICE SYSTEM'}
+--------------------
+Fresh water pump  
+No. of set : Two (2)  
+Type : M.D. centrifugal  
+Capacity : 10 m3/h  
+Total head : 0.6 MPa  
+Hot water circulating pump  
+No. of set : One (1)  
+Type : M.D centrifugal  
+Capacity : 2m3/h  
+Total head : 0.15 MPa  
+Fresh water hydrophore tank  
+No. of set : One (1)  
+Capacity : 1000 l  
+Pressure : 0.6 MPa  
+Material : Mild steel  
+Calorifier  
+No. of set : One (1)  
+Type : shell & tube. using steam & electric heating (electric heating capacity abt. 18 kW)  
+Temperature in/out : 10-70C  
+Capacity : 500 l  
+Material : Mild steel  
+Sterilizer  
+No. of set : One (1)  
+Type : Ultra violet ray  
+Capacity : 1,500 l/h  
+F.W. mineralizing unit  
+No. of set : One (1)  
+Type : Dolomite filter  
+Capacity : 1.5 m3/h

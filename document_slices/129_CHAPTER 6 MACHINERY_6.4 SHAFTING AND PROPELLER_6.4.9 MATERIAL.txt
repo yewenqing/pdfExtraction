@@ -1,0 +1,13 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.4 SHAFTING AND PROPELLER', 'Header 3': '6.4.9 MATERIAL'}
+--------------------
+#### 6.4.9.1 Shafting  
+Intermediate shaft Forged steel  
+Propeller shaft Forged steel  
+#### 6.4.9.2 Stern tube assembly  
+Stern tube assembly forge steel or/and steel plate  
+6.4.9.3 Bush  
+Bush Cast iron with white metal  
+The material for oil sealing device shall be viton type and accordance with the manufacturer's standard.  
+#### 6.4.9.4 Intermediate Shaft Bearing  
+Upper and lower shells Cast steel lined with white metal  
+Pedestal Cast iron

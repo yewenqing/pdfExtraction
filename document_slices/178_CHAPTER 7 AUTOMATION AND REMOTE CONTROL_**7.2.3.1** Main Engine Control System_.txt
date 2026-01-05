@@ -1,0 +1,26 @@
+METADATA: {'Header 1': 'CHAPTER 7 AUTOMATION AND REMOTE CONTROL', 'Header 2': '**7.2.3.1** Main Engine Control System'}
+--------------------
+***A circuit breakers as protective device shall be prepared for the control circuits in the switchboards.***  
+1. Local control  
+Manual, emergency controls from M/E local operating panel placed on the engine in engine room with following functions:  
+Start/stop, reversing, speed control, and the most important engine data displayed.  
+2. Remote control from engine control room  
+Main operating panel shall be used for carrying out engine commands, adjust the engine parameters, select the running modes, and observe the status of the control system.  
+3. Remote control from wheelhouse or navigation bridge deck wings  
+The following controls shall be sequentially performed according to a preset RPM time loading program by operating the engine telegraph in wheelhouse or navigation bridge deck wings:  
+Starting and stopping  
+Speed increasing and decreasing as per engine design  
+Reversing  
+The reversing and speed setting of M/E shall be controlled by engine telegraph lever which is used as maneuvering lever.  
+Main engine speed control shall be carried out through the electronic speed control system.  
+In case of the first starting failure, two or more staring attempts shall be automatically carried out (total three attempts). An alarm shall be given after three attempts without firing. Re-starting shall be carried out after setting the telegraph lever at the “STOP” position.  
+The auxiliary blower shall be automatically started and stopped by detecting the scavenging air manifold pressure, and also shall be capable of being started and stopped from engine control room.  
+4. Control position transfer system  
+Engine running modes shall be done from the main operating panel in ECR.  
+Control shall be done from one station only at a time.  
+(1) Local – engine control room  
+Maneuvering position change-over between the engine side and the engine control room shall be carried out at the engine side.  
+(2) Engine control room – wheelhouse  
+Maneuvering position change-over between the wheelhouse and the engine control room shall be carried out in the engine control room.  
+(3) Wheelhouse – navigation bridge deck wings  
+Maneuvering position change-over between the wheelhouse and the both bridge wings shall be carried out in the wheelhouse.

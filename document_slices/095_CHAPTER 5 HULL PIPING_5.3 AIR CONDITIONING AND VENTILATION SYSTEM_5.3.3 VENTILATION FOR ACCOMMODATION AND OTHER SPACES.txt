@@ -1,0 +1,140 @@
+METADATA: {'Header 1': 'CHAPTER 5 HULL PIPING', 'Header 2': '5.3 AIR CONDITIONING AND VENTILATION SYSTEM', 'Header 3': '5.3.3 VENTILATION FOR ACCOMMODATION AND OTHER SPACES'}
+--------------------
+Mechanical supply and/or exhaust ventilation system shall be designed to have the following air change rate based on the volume of each compartment.  
+| Compartment | Supply | Exhaust |
+| --- | --- | --- |
+| Office space | \*1) | 10 |
+| Hospital/hospital bath room | \*1) | 12 |
+| Private lavatory | - | 10 |
+| Public/deck toilet | - | 15 |
+| Laundry | \*1) | 10 |
+| Drying room | \*1) | 10 |
+| Galley | AC30\*2) | 40 |
+| Pantry | \*1) | 15 |
+| Dry provision store | \*1) | 5 |
+| CO2 room | - | 6 |
+| Battery room | - | 5 |
+| Paint store |  | 6 |
+| Air conditioning unit room | - | 15 |
+| Emergency generator room | 20(finally according the calculation) | - |
+| Steering gear room combined with store space | 6 | - |
+| Bow thruster and emergency fire pump room | 10(finally according the calculation) | - |
+| Pipe duct in double bottom | 6 | - |  
+Remarks:  
+\*1) Conditioned air shall be supplied in accordance with the air change rate specified on 5.3.1.  
+\*2) Conditioned air for galley shall be supplied from the separate unit.  
+3) Hospital and galley shall have independently exhaust system.  
+4) AC: Spot A.C.  
+#### 5.3.3.1 Mechanical Ventilation  
+Ventilation Fan  
+Mechanical ventilating fan shall be A.C. electric motor driven, single speed, duct/axial or centrifugal type.  
+The electric motor for the paint store shall be of explosion proof type.  
+Start and stop of the fan shall be done remotely.  
+Materials of the fan shall be as Maker’s standard.  
+Mechanical ventilation duct in living quarters  
+Mechanical ventilation duct shall be single spiral or rectangular duct made of galvanized steel sheet.  
+Stainless steel canopy shall be provided over electric range in galley for exhaust. Canopy shall have stainless steel mesh and fire damper.  
+Ventilator shall be having stainless steel wire net grid.  
+The duct opening on weather side shall have a rat proof wire net, and stainless steel insert screens with steel cover.  
+Mechanical ventilation duct in other spaces  
+Gooseneck, mushroom or wall louver type ventilations shall be provided as a ventilation head on weather deck. The size and type of ventilator shall be decided in accordance with the Builder’s standard to comply with the Rules/Regulations.  
+Ventilators shall be of fabricated mild steel plate and painted same as surrounding. Coaming heights shall be in accordance with requirement of Rules/Regulations.  
+In general, trunk and duct shall be of fabricated mild steel and rectangular cross-section type and painted same as surrounding. Small duct shall be galvanized steel plate and rectangular or circle cross-section type as per practice.  
+Engine room ventilation shall be described in “Part VII- Machinery Part”.  
+#### 5.3.3.2 Natural Ventilation  
+The space which has no mechanical ventilation system shall be naturally ventilated through suitable mushroom ventilators, wall ventilators, and gooseneck ventilators or door louvers.  
+Natural ventilator heads leading to the stores and accommodation spaces shall be fitted with stainless steel rat-proof nets and those leading to living quarters shall be fitted with stainless steel wire net insect screen.  
+Natural ventilators shall be fitted with hinged type weather-tight closing device if required by the Rule.  
+Coaming height of ventilators shall be in compliance with Rule requirements and Builder’s practice.  
+**CHAPTER 6**  
+**MACHINERY**  
+Version:A  
+Key words: Breadth 27.5m, Gearless, 6S60ME-C10.5 Tier II, 220ReeferPlugs, Open loop scrubber  
+**CONTENT**  
+[CHAPTER 6 MACHINERY 4](#_Toc50572577)  
+[6.1 GENERAL 4](#_Toc50572578)  
+[6.1.1 GENERAL 4](#_Toc50572579)  
+[6.1.2 INSPECTION AND TEST 5](#_Toc50572580)  
+[6.1.3 FUEL OIL 7](#_Toc50572581)  
+[6.1.4 DESIGN CONDITION 7](#_Toc50572582)  
+[6.2 PRINCIPAL PARTICULARS OF MACHINERY 10](#_Toc50572583)  
+[6.2.1 NOx EMISSION SOLUTION 10](#_Toc50572584)  
+[6.2.2 MAIN ENGINE 10](#_Toc50572585)  
+[6.2.3 SHAFTING AND PROPELLER 10](#_Toc50572586)  
+[6.2.4 ELECTRIC GENERATING PLANT 11](#_Toc50572587)  
+[6.2.5 STEAM GENERATING PLANT 11](#_Toc50572588)  
+[6.2.6 COMPRESSED AIR SYSTEM 12](#_Toc50572589)  
+[6.2.7 COOLING WATER SYSTEM 13](#_Toc50572590)  
+[6.2.8 FEED AND DRAIN SYSTEM 14](#_Toc50572591)  
+[6.2.9 FUEL SYSTEM 14](#_Toc50572592)  
+[6.2.10 LUBRICATING OIL SYSTEM 15](#_Toc50572593)  
+[6.2.11 FIRE, BILGE, BALLAST AND GENERAL SERVICE SYSTEM 16](#_Toc50572594)  
+[6.2.12 FRESH WATER GENERATOR 17](#_Toc50572595)  
+[6.2.13 FRESH WATER SERVICE SYSTEM 17](#_Toc50572596)  
+[6.2.14 scrubber system 18](#_Toc50572597)  
+[6.2.15 FANS 19](#_Toc50572598)  
+[6.2.16 WORKSHOP EQUIPMENT 19](#_Toc50572599)  
+[6.2.17 MISCELLANEOUS 20](#_Toc50572600)  
+[6.2.18 TANKS IN ENGINE ROOM 21](#_Toc50572601)  
+[6.3 MAIN ENGINE 23](#_Toc50572602)  
+[6.3.1 GENERAL 23](#_Toc50572603)  
+[6.3.2 FITTINGS AND ACCESSORIES 23](#_Toc50572604)  
+[6.3.3 INSTALLATION 24](#_Toc50572605)  
+[6.4 SHAFTING AND PROPELLER 25](#_Toc50572606)  
+[6.4.1 GENERAL 25](#_Toc50572607)  
+[6.4.2 INTERMEDIATE SHAFT 25](#_Toc50572608)  
+[6.4.3 PROPELLER SHAFT 25](#_Toc50572609)  
+[6.4.4 COUPLING 26](#_Toc50572610)  
+[6.4.5 INTERMEDIATE SHAFT BEARING 26](#_Toc50572611)  
+[6.4.6 STERN TUBE AND STERN TUBE BEARING 26](#_Toc50572612)  
+[6.4.7 PROPELLER, FAIR WATER CAP AND PROPELLER NUT 27](#_Toc50572613)  
+[6.4.8 EARTHING DEVICE 28](#_Toc50572614)  
+[6.4.9 MATERIAL 28](#_Toc50572615)  
+[6.5 ELECTRIC GENERATOR ENGINE 29](#_Toc50572616)  
+[6.5.1 GENERAL 29](#_Toc50572617)  
+[6.5.2 CONSTRUCTION FOR GENERATOR ENGINE 29](#_Toc50572618)  
+[6.5.3 ACCESSORIES 29](#_Toc50572619)  
+[6.6 STEAM GENERATING PLANT 31](#_Toc50572620)  
+[6.6.1 GENERAL 31](#_Toc50572621)  
+[6.6.2 ACCESSORIES 31](#_Toc50572622)  
+[6.6.3 Materials 32](#_Toc50572623)  
+[6.7 AUXILIARY MACHINERY 32](#_Toc50572624)  
+[6.7.1 PUMPS 32](#_Toc50572625)  
+[6.7.2 HEAT EXCHANGERS 34](#_Toc50572626)  
+[6.7.3 AIR COMPRESSOR AND AIR RESERVOIR 35](#_Toc50572627)  
+[6.7.4 OIL PURIFIER 36](#_Toc50572628)  
+[6.7.5 FRESH WATER GENERATOR 37](#_Toc50572629)  
+[6.7.6 ENGINE ROOM VENTILATING FANS 38](#_Toc50572630)  
+[6.7.7 OILY BILGE SEPARATOR 38](#_Toc50572631)  
+[6.7.8 SEWAGE TREATMENT PLANT 38](#_Toc50572632)  
+[6.7.9 INCINERATOR 39](#_Toc50572633)  
+[6.8 MISCELLANEOUS EQUIPMENT AND OUTFITTING 40](#_Toc50572634)  
+[6.8.1 OVERHAULING AND REMOVAL OF MACHINERY 40](#_Toc50572635)  
+[6.8.2 TANKS IN ENGINE ROOM 41](#_Toc50572636)  
+[6.8.3 VENTILATING OF MACHINERY SPACE 42](#_Toc50572637)  
+[6.8.4 SILENCERS 43](#_Toc50572638)  
+[6.8.5 ENGINE CONTROL ROOM, ENGINE ROOM WORKSHOP & STORES 43](#_Toc50572639)  
+[6.8.6 LADDERS, HANDRAILS, GRATINGS AND FLOOR PLATES 44](#_Toc50572640)  
+[6.8.7 DISTINGUISHING AND UNIT 45](#_Toc50572641)  
+[6.9 INSULATION AND PAINTING 46](#_Toc50572642)  
+[6.9.1 INSULATING 46](#_Toc50572643)  
+[6.9.2 PAINTING 48](#_Toc50572644)  
+[6.10 PIPING SCHEDULE IN ENGINE ROOM 49](#_Toc50572645)  
+[6.10.1 GENERAL 49](#_Toc50572646)  
+[6.10.2 VALVE AND FITTING 51](#_Toc50572647)  
+[6.10.3 VELOCITIES IN PIPE LINES 52](#_Toc50572648)  
+[6.10.4 MATERIALS & SIZE OF PIPING 52](#_Toc50572649)  
+[6.10.5 STRAINERS 57](#_Toc50572650)  
+[6.11 PIPING SYSTEMS IN ENGINE ROOM 59](#_Toc50572651)  
+[6.11.1 COOLING SEA WATER SYSTEM 59](#_Toc50572652)  
+[6.11.2 COOLING FRESH WATER SYSTEM 59](#_Toc50572653)  
+[6.11.3 LUBRICATION OIL SYSTEM 60](#_Toc50572654)  
+[6.11.4 FUEL SYSTEM 61](#_Toc50572655)  
+[6.11.5 COMPRESSED AIR SYSTEM 63](#_Toc50572656)  
+[6.11.6 STEAM AND DRAIN SYSTEM 64](#_Toc50572657)  
+[6.11.7 FEED WATER SYSTEM 64](#_Toc50572658)  
+[6.11.8 SHIP'S SERVICE SYSTEM OF ENGINE ROOM 65](#_Toc50572659)  
+[6.11.9 EXHAUST GAS SYSTEM 67](#_Toc50572660)  
+[6.11.10 INSTRUMENTATION 68](#_Toc50572661)  
+[6.12 scrubber system 69](#_Toc50572662)  
+[6.13 SPARE PARTS AND TOOLS 70](#_Toc50572663)

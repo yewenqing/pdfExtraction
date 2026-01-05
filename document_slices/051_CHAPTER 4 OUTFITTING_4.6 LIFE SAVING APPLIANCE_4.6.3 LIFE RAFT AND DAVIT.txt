@@ -1,0 +1,18 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.6 LIFE SAVING APPLIANCE', 'Header 3': '4.6.3 LIFE RAFT AND DAVIT'}
+--------------------
+4.6.3.1 Life Raft  
+Life rafts shall be provided as follow:  
+|  |  |  |  |
+| --- | --- | --- | --- |
+| No. | Capacity (persons) | Type | Position |
+| 1 | 24 | Inflatable, throw overboard type with a hydrostatic releasing device | Accommodation port side |
+| 1 | 24 | Inflatable, throw overboard type with a hydrostatic releasing device | Accommodation starboard side |
+| 2 | 6 | Inflatable, throw overboard type | Ship’s forward |  
+Each one (1) embarkation ladder shall be supplied for liferaft at accommodation port side and starboard side.  
+Two (2) embarkation ladders shall be arranged at the protected location on forward ship.  
+The canvas covers for these ladders to be provided.  
+The inflatable life rafts shall be stowed in fiber glass reinforced plastic (FRP) container. The container shall be stowed in cradle and float free,  
+Effective term of nine (9) months shall be available for the life rafts at the time of the Vessel’s delivery.  
+Indication lamp and instruction sheet (in English) shall be provided for life raft.  
+4.6.3.2 Life Raft Davit  
+Life raft davit shall not be provided.

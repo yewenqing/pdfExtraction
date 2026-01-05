@@ -1,0 +1,30 @@
+METADATA: {'Header 1': 'CHAPTER 7 AUTOMATION AND REMOTE CONTROL', 'Header 2': '**7.2.2** Automation System'}
+--------------------
+All pneumatic valves / items for main engine control should be tagged by stainless steel name plate with valve position deeply etched on it. This should exactly match with control drawing.  
+Automation system consists of the following subsystems:  
+1. DG Power Management System Refer to item 1-5.  
+2. Automatic change-over of stand-by pumps  
+The following pumps to be automatically changed-over by low pressure or low level and abnormal trip:  
+- Cooling S.W. pump  
+- M/E jacket cooling F.W. pump  
+- L.T. cooling F.W. pump  
+- Composite boiler feed water pump  
+- F.O. pumps attached to the F.O. supply module unit  
+- Composite boiler F.O. supply pump  
+- Main L.O. pump  
+3. Automatic regulation of temperature and viscosity  
+The following equipment and systems to be provided with automatic regulation of temperature or/and viscosity.  
+- HFO/LSHFO settling and service tanks (refer to Chapter 6 Machinery 6. 2.17)  
+- Oil purifier’s heater (acc. to Maker’s recommendation)  
+- F.O. supply module unit (acc. to Maker’s recommendation)  
+- Generator engines (acc. to Maker’s recommendation)  
+- Calorifier  
+- M/E and G/E pre-heaters (acc. to Maker’s recommendation)  
+- Following ancillary system for main engine (if necessary)  
+M/E jacket cooling F.W. circuit  
+Central F.W. coolers outlet  
+M/E L.O. cooler outlet  
+4. Ballast/bilge/fuel oil transfer pumps and valves/control system  
+Refer to item 1-14.  
+5. Automatic start and stop  
+HFO/*LSHFO/*ULSFO transfer pump

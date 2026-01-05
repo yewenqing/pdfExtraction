@@ -1,0 +1,15 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.1.4** PAINTING COLORS'}
+--------------------
+Metal surfaces of the enclosure of electrical equipment shall be painted with the following colors or according to the Buyer’s specified.  
+|  |  |
+| --- | --- |
+| Generators, motors | Munsell code 7.5BG 7/2 |
+| Transformers | Munsell code 7.5BG 7/2 |
+| Switchboards, distribution panels and starter boards, engine control console etc. | Munsell code 7.5BG 7/2 |
+| Bridge control console | Munsell code 7.5BG 7/2 |
+| Interior communication, navigation and radio equipment | Manufacturer's standards |
+| General alarm and other emergency operating equipment | Munsell code 5R4/13 (Red) |
+| Others | Manufacturer's standard |  
+Interior metal surfaces of electrical equipment shall be painted with manufacturer's standard colors.  
+Resin made surface of electrical equipment shall be of manufacturer's standard colors.  
+Emergency lights to be provided with red mark.

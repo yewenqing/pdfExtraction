@@ -1,0 +1,4 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.7.8** PORTABLE LAMPS'}
+--------------------
+Total ten (10) sets of 24 V, 60 W portable working lamps (no-explosion proof type) with protection cover shall be provided. Each portable lamp shall have flexible cord of fifteen (15) meters with plug.  
+Five (5) sets of explosion proof type, chargeable, portable battery lamp shall be provided.

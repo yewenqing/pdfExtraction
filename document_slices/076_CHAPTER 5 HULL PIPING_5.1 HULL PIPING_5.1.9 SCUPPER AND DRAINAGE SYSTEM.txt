@@ -1,0 +1,17 @@
+METADATA: {'Header 1': 'CHAPTER 5 HULL PIPING', 'Header 2': '5.1 HULL PIPING', 'Header 3': '5.1.9 SCUPPER AND DRAINAGE SYSTEM'}
+--------------------
+Sufficient scuppers shall be provided for all decks, top of deck houses and other enclosed spaces, wherever necessary.  
+Drainage shall be arranged away from accommodation ladder, pilot ladder and life boat position.  
+Upper deck scuppers shall have \grids, a rubber plug shall be provided on the top of each scupper.  
+Separate scuppers for refrigerated space shall be with plugs.  
+Scupper pipes shall be led to the weather decks or overboard directly according to the situation.  
+Storm valves shall be fitted for necessary pipes as required by the Classification Society.  
+Water sealed traps shall be fitted to the refrigerated provision chambers.  
+Scuppers shall be arranged accessibly, and hard bending for galley scuppers and soil pipes shall be avoided as far as possible.  
+Gutter way in stainless steel shall be arranged on the deck of galley with scuppers on each corner. Fat trap shall be provided for galley scuppers.  
+Adequate cleaning plugs shall be fitted, wherever necessary.  
+Necessary drain plugs shall be fitted as required.  
+Drain pan shall be fitted frames.  
+Gutter bar shall be fitted along the inside deck house on each deck, finally according to the detail design.  
+Gutter bars shall be fitted around deck machinery, steering gear etc.  
+Drain pipe from funnel top to engine casing top shall be provided.

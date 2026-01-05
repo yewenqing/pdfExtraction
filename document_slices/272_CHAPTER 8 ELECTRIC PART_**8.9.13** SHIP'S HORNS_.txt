@@ -1,0 +1,12 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': "**8.9.13** SHIP'S HORNS"}
+--------------------
+One whistle system with air horn, electric motor horn complete with automatic fog signal control unit shall be provided.  
+Air horn with magnetic valve shall be mounted on the radar mast; electric motor horn shall be mounted on the fore mast; one (1) time controller shall be in the wheelhouse control console.  
+Manual operation facility shall be provided for the air horn.  
+The horn shall be capable of automatic blowing for fog signal by means of time controller; it may be operated by push button switches also as following:  
+2- water tight type for wings;  
+2- for bridge console near the OOW seat;  
+2- at the front bulk of wheelhouse where the OOW usually stay for watching  
+In addition, the air horn on the radar mast shall be operated by mechanical pull from the wheelhouse or one DC 24V solenoid valve to be provided for emergency operation purpose.  
+The horn light may be used in common with Morse signal light also. And the light control function will meet requirement of IMO MSC.253 (83)  
+Electric heaters for the air horn and electric motor horn shall be provided.

@@ -1,0 +1,83 @@
+METADATA: {'Header 1': 'CHAPTER 5 HULL PIPING', 'Header 2': '5.3 AIR CONDITIONING AND VENTILATION SYSTEM', 'Header 3': '5.3.1 AIR CONDITIONING SYSTEM'}
+--------------------
+Air Conditioning System shall be provided to serve as ventilation, heating and/or cooling for all cabins, offices spaces, public spaces and hospital in this Specification.  
+The air condition system shall be of medium or high pressure, medium velocity, single duct system having a central heating and cooling plant.  
+The system shall consist of refrigerating plant and air handling unit with distribution duct.  
+One (1) set of water-cooled package air conditioner shall be provided for engine control room, and galley. The package air conditioners to be cooled by LT FW in the engine room.  
+Spot cooling shall be arranged in wheelhouse, chart room, catering space, and not be counted as air conditioned spaces with regard to temperature and relative humidity.  
+The fresh air shall be conditioned by air handling unit, and the conditioned air shall be supplied to the air conditioning spaces and spot air cooling/heating spaces.  
+The surplus air in conditioned space, except hospital, shall be exhausted into the corridor or main line pipe through the door louver and/or into the appropriate private sanitary space, if applicable, through the door gap.  
+The surplus air in corridor shall be exhausted naturally to weather.  
+No recirculation from hospital, catering space, dry provision store and sanitary space.  
+Diffuser shall not be located directly above bed or desk, as far as practicable.  
+One (1) set of portable type, refrigerant recovery unit shall be provided in accordance with Classification Society requirements.  
+Air intakes for accommodation ventilation shall not be situated near fuel/lube vents or be able to take in tainted air (air that smells of fuel fumes)  
+The doors to each cabin or wall where necessary, shall be fitted with ventilation shutter to allow exhausting air into the corridor.  
+1. Design condition:  
+|  |  |  |
+| --- | --- | --- |
+|  | Cooling | Heating |
+| Outside | 35℃ 70%RH | -20℃ |
+| Inside | 27℃ 50%RH | 20℃ 50%RH |
+| Cooling F.W. temp | 36℃ |  |  
+The plant shall be designed to cool and/or heat the supply air and to maintain the above condition when the doors and windows are closed.  
+The fresh air ratio shall be 50% fresh air for summer and winter, and 100% fresh air for other seasons.  
+1. Air changing rate for air condition system  
+Air conditioning system shall be designed to have the following minimum air change rate based on the volume of each compartment.  
+|  |  |  |
+| --- | --- | --- |
+| Compartment | Air changes per hour | Remarks |
+| Private space | 6 |  |
+| Public space | 10 |  |
+| Office space | 10 |  |
+| Hospital | 10 |  |
+| Catering space except galley | 15 | Spot A.C |
+| Changing room | 6 | Spot A.C. |
+| Wheelhouse/radio space/chart space | 15 | Spot A.C. |
+| Dry provision store | 6 | Spot A.C. |
+| Laundry | 5 | Spot A.C. |
+| Bonded store | 5 | Spot A.C. |
+| Elect. Equipment store | 5 | Spot A.C. |  
+1. Air conditioning plant  
+Two (2) sets of refrigerating plant, which to be R-407C direct expansion and electric motor driven, shall be installed, and each capacity shall be ***60%*** of total.  
+Each plant shall consist of:  
+One (1) – Compressor  
+Electric motor driven, reciprocating or scroll type with manual start/stop, automatic unloading  
+One (1) – Condenser  
+Horizontal straight shell and tube type,  
+One (1) - Gas dryer  
+Leakage detector also shall be provided.Air handling unit  
+One (1) set of air handling unit (100% capacity) shall be installed in air conditioning unit room.  
+The unit shall consist of:  
+One (1) - Ventilation fan  
+Single speed, electric motor driven, centrifugal type,  
+One (1) – Heating coil chamber.  
+One (1) - Cooling coil chamber,  
+One (1) - Humidifying fresh water spay nozzle for humidifying,  
+One (1) - Fresh air and air recirculation air mixing chamber with two (2) manual dampers,  
+One (1) - Removable air filter.  
+The accessories such as pressure gauge and thermometer shall be provided in accordance with the Maker’s standard.  
+Piping system  
+Cooling fresh water for condenser shall be supplied from the L.T. cooling fresh water system in engine room.  
+Temperature control system  
+Automatic temperature controller shall be fitted.  
+In summer, the supply air temperature from air handling unit shall be automatically controlled by expansion valve in AHU and compressor unloading mechanism in compressor.  
+In winter, steam regulating valve shall be controlled by a temperature sensor located in the main supply duct. Fresh water will be used for humidity.  
+In mild climates when cooling or heating is not required, the system to serve as mechanical ventilation for the accommodations, supplying fresh air only.  
+The temperature in each room shall be manually controlled by means of adjustment of air flow rate at each diffuser.  
+Ducting system  
+Fresh air for the air handling unit shall be drawn through the air supply head and shall be let to the central unit.  
+Recirculation air for the air handling unit shall be drawn through the grill provided on the wall or ceiling of the corridor space and shall be led to the air handling unit.  
+Air conditioning supply ducts shall be pre-insulated spiral or rectangle duct made of galvanized steel sheet.  
+The air conditioning supply ducts shall be carried into each room and terminated with ceiling type controllable diffuser and galvanized louvers in spot cooling spaces.  
+Necessary damper shall be fitted to main branches at easy accessible locations.  
+Non-return flaps and fire dampers shall be installed in accordance with the requirement of the rules.  
+Drainage of water shall be arranged from the lowest points of the ducts.  
+Easy access for inspection and service for fire closing and balancing dampers is to be provided.  
+Air supply line to hospital shall be provided with non-return damper and an individual exhaust fan.  
+Test and trial  
+The air handling unit shall be tested at the Maker's shop in accordance with the Maker's usual practice.  
+After the completion of air conditioning system, following tests shall be performed in accordance with Builder's practice.  
+1. Air volume test  
+2. Cooling or heating test  
+The air conditioning test shall be carried out as applicable in connection with testing season. When the heating or cooling is not applicable, only the running test shall be performed.

@@ -1,0 +1,170 @@
+METADATA: {'Header 1': 'CHAPTER 2 HULL', 'Header 2': '2.1 HULL CONSTRUCTION'}
+--------------------
+2.1.1 GENERAL  
+For the materials of hull steel of structures exposed to low air temperatures shall be based on the design temperature tD (the lowest mean daily average air temperature in the area of operation) of -10℃. (refer to IACS UR S6) ***(Rev 9 July 2018)***  
+#### 2.1.1.1 Scantling  
+The scantling of hull structure members shall be based on the scantling draught of the Vessel in compliance with the Rules requirements of the Classification Society.  
+Design stack load in cargo holds to be as follows.  
+20ft container: 30.5 MT / TEU (152.5 MT/Stack)  
+40ft container: 30.5 MT / FEU (152.5 MT/Stack)  
+the design stack load for container on upper deck shall be as follows:  
+20ft container: **90** MT/Stack  
+40ft container: **120** MT/Stack  
+The scantlings, which are not specified by the Classification Society, shall be in accordance with the Builder’s practice.  
+Finite element analysis and fatigue strength analysis shall be performed according to the Rules requirement of the Classification Society.  
+**The fatigue life of hull structure to be in accordance with Class requirement for 25 years worldwide service.**  
+***Still water bending moment and shear force during cargo loading and otherwise must never exceed 92%.***  
+#### 2.1.1.2 Material  
+Hull structure members shall be of mild steel and high tensile steel approved by the Classification Society. The steel material including casting and forging shall be of qualities complying with the Rules requirements of the Classification Society.  
+High tensile steel with minimum yield stress of 315N/mm2 and 355N/mm2 shall be used where necessary.  
+Steel material not specified by the Classification Society shall be of ordinary commercial quality in accordance with Chinese Industrial Standard as per the Builder's practice.  
+All frames, beams and stiffeners to be of rolled section, bulb bar, flat bar or built-up section.  
+#### 2.1.1.3 Workmanship  
+The works for hull construction shall be carried out in accordance with the Builder's practice and under the survey of the Classification Society.  
+Chinese Shipbuilding Quality Standard (CSQS) (GB/T34000-2016) and/or Builder's and Maker's Quality Standard shall be applied for workmanship of hull construction and outfitting.  
+***Builder’s Standards and Practices will submit to owner for review at the beginning of detail design stage.***  
+#### 2.1.1.4 Welding  
+Welding procedure including edge preparation shall be executed in accordance with the Builder's practice and approved by the Classification Society except unimportant or attachment weld which shall be carried out as per Builder's practice.  
+Welding shall be performed for the entire hull structure by manual, gravity, electro gas or any other automatic welding including CO2 semi-automatic shall be applied as per Builder's practice.  
+Fillet welding for the entire hull structure shall be double side continuous, except in some special area which the double side fillet welding can not be applied. In accommodation area and ventilation pipe, the intermittent or one side continuous fillet welding can be adopted.  
+Excessive distortion of hull structures due to welding shall be cured by means of cold press, line heating or spot heating. The IACS Rec.47 Shipbuilding and Repair Quality Standard is applicable as reference.  
+***If needed plate thickness to be increased to meet strength requirement, the treatment shall be according to class requirement.***  
+#### 2.1.1.5 Slot, Scallop and Hole  
+Slots, scallops, air holes and drain holes shall be provided where necessary in accordance with the Builder's practice and shall be avoided in high stress areas.  
+In general, non-watertight structural members shall be provided with access and/or lightening holes as per the Rules requirements of the Classification Society and the Builder's practice, provided that such holes are not detrimental to the local strength of structural members.  
+***Lightening holes on horizontal surface shall be provided with protections bars as per IACS REC 47.***  
+#### 2.1.1.6 Access Opening and Temporary Piece  
+Access opening for Builder’s workers during construction and for future convenience shall be provided for each cellular space in the double bottom and vertical wing spaces as shown on the Midship Section Plan.  
+Provisional access opening may be opened where required for access, communication and/or ventilation, etc. for the Builder’s workers during construction and shall be closed by welding after completion of the construction work.  
+Temporary pieces such as staging pieces, lifting lugs and their reinforcements, etc. fitted to the hull structure for construction may remain as per the Builder's practice unless they are inconvenient for the Vessel’s service and/or painting work. If temporary pieces should be removed, they will be cut off near the root and the edge to be properly finished.  
+***Temporary access opening drawing will be provided to owner and the area where needs inspection to be discussed at site.***  
+#### 2.1.1.7 Strength and Leak Test for Hull Tanks  
+Structural strength test and leak test shall be carried out in compliance with the Rules requirements of the Classification Society and the Builder’s practice.  
+Leak test shall be carried out by pressurized air using soapy water at assembly or erection stages. However, fillet and erection joints of the tank boundaries may be tested locally by a compressed air or vacuum testing device.  
+Hydrostatic structural strength test shall be carried out for ***the tanks that over 20m3 except cofferdam and void space in accordance with the requirements of Classification Society***, by filling with water during construction or afloat at Builder’s convenience to demonstrate the structural adequacy. However the hydrostatic test may be replaced by the air test subject to the agreement with the Classification Society and the Buyer for the subsequent Vessel(s).  
+Weather-tight and/or watertight doors, hatches, etc. shall be tested with water hose or pouring in accordance with requirements of the Classification Society.  
+Rudder shall be leak tested with air after completion of fabrication.  
+#### 2.1.1.8 Welding Seam Test  
+Non-destructive test (NDT) shall be carried out in accordance with the requirements of the Classification Society.  
+The location and extension of the NDT shall be in compliance with the requirements of the Classification Society and NDT plan approved by Classification Society.  
+2.1.2 MAIN HULL  
+#### 2.1.2.1 General  
+The structural details shall be in accordance with the Builder's agreed practice and shall be approved by the Classification Society.  
+Adequate drain holes and air holes shall be provided in the internal structural members in tanks to ensure free movement of contents to suctions and of air escape to vents and shall keep away from high stress areas.  
+The reinforcement for docking shall be carried out in accordance with the requirement of the Classification Society.  
+The decks under machinery and other heavy concentrated loads shall be reinforced according to the Rules requirements of the Classification Society.  
+Step and hand grips shall be provided for the access opening of which sill height is over 600 mm according to the requirement of the Classification Society and the Builder’s practice.  
+Lightening holes on the horizontal stringers shall be protected with steel bars to prevent personnel falling through according to the Builder’s practice.  
+Flat plate keel shall be provided throughout the Vessel’s length and connected to the stem and stern frame.  
+***All FO tanks with capacity more than 30 m3 shall be protected by double hull structure.***  
+***Opening in the shell plating, deck girders, etc. to be rounded and reinforced by snipped end flat bar where ever necessary.***  
+***Hand grip for access manhole according to shipyard standard, yard will supply standard for owner approval.***  
+#### 2.1.2.2 Aft Body Construction  
+The stern shall be of open water type to obtain adequate clearance for the propeller and to support the rudder.  
+Steering gear room shall be arranged on the steering gear platform above the aft peak void.  
+Necessary eye plates for lifting rudder, shaft and propeller shall be provided.  
+**The shafting shall be so designed that the propeller can be dismounted without unshipping the rudder, but the steering gear shall be able to turn suitable degree (with dismantle limit stopper/ram pin to release the rudder angle restriction) to enable propeller removal.**  
+The stern frame shall be consist of steel plates, stern tube unit and weldable cast steel partly.  
+The stern tube unit shall be fixed to hull structure by stern frame bossing-piece by resin chock.  
+Aft peak bulkhead shall be of plane type with adequate stiffeners.  
+Stern tube cooling water tank shall be arranged below the aft peak void.  
+#### 2.1.2.3 Engine Room Construction  
+Double bottom  
+The double bottom in the engine room shall be built on transverse framing system with solid floor in general.  
+Continuous longitudinal girders shall be provided in the double bottom so that the main engine including thrust block can be set directly on the double bottom. Main engine foundation shall be strengthened in accordance with the main engine Maker’s recommendation.  
+Double bottom knuckling shall be 50mm away from main double bottom floor.  
+L.O. sump tank below main engine shall be surrounded by cofferdam at sides and bottom to comply with main engine Maker’s recommendation.  
+Necessary tanks and bilge wells shall be arranged at suitable place in the double bottom.  
+Decks, side shell and engine casing, etc.  
+Upper deck and side shell shall be longitudinally framed and side shell shall be transversely or longitudinally in general.  
+Platform decks shall be arranged in engine room. These decks shall be extended from side to side with opening around main engine. Openings in the engine room decks shall be fitted with coamings of 100mm height.  
+Bulkheads and engine casing shall be constructed of steel plate with stiffeners and welded to the decks.  
+Primary structural member shall be arranged as required by the layout of machinery paying special care to minimize transmission of machinery vibration.  
+Tanks  
+Storage, settling and service tanks etc. for fuel oil and lubricating oil shall be arranged in the engine room as shown on the G.A. plan.  
+However, arrangement of small independent tanks such as service tanks for cylinder oil etc. to be shown on the Machinery Arrangement in E/R, which to be submitted during detail design stage.  
+***Engine control room***  
+***Engine control room shall be provided with two windows of size 1.2m x 0.8m to get the direct view of Main Engine from ECR.***  
+Funnel  
+The funnel shall be of mild steel construction with vertical stiffeners and horizontal stringers inside, and with top roof, adequate number of eye plate, scupper pipe, and steel door on it. The funnel top shall be sloped slightly aft to aid drainage to the scuppers aft.  
+Eye plates on the upper part of the funnel shall be provided in accordance with the Builder’s practice.  
+#### 2.1.2.4 Cargo Hold Area Construction  
+The Vessel to have four (4) individual cargo holds divided by transverse watertight bulkheads.  
+Double bottom  
+Double bottom shall be arranged throughout cargo holds as shown on the G.A. plan.  
+Double bottom under the cargo holds shall be built with longitudinal framing supported by solid floor fitted at appropriate spacing. Longitudinal girders shall be arranged at appropriate spacing.  
+***Doublers*** shall be welded on tank top, and local stiffening shall be provided at container corners under the tank top in accordance with the Builder’s practice.  
+Two (2) bilge wells shall be provided at the aft corner of every cargo hold, outside of container corner area and accessible.  
+Side construction  
+Side shell and longitudinal bulkhead to be longitudinally framed, in general.  
+The ship side shall be of double hull construction in way of the cargo area.  
+Watertight bulkhead  
+The watertight transverse bulkheads shall be arranged as shown on the G.A. plan.  
+The transverse bulkheads shall be of plane type construction with adequate stiffeners and primary members.  
+Structural bulkhead  
+The non-tight grillage shaped structural bulkheads shall be fitted in the middle of each cargo hold between 40ft container bays.  
+The structural bulkheads shall have sufficient strength to support the container load transmitted by cell guides fitted thereon.  
+Stringer decks to be provided as walkway for each 8'6" container tier in cargo holds. The structure to be strengthened to allow for flexi loading capability for the high cube containers in hold.  
+***Stiffeners used on bulkhead between ballast tank and fuel oil tank shall be on fuel tank side.***  
+Deck construction  
+The upper deck shall be connected to the shell plating by the square gunwale with 100mm extension above. ***Full/Deep penetration weld shall be used for Upper deck to Sheer strake connection (cargo hold).***  
+Upper deck plating outside of hatch openings shall be longitudinally framed and stiffened with transverse webs in way of cargo hold region.  
+The corner edge of hatch opening in the upper deck shall be reinforced in compliance with the requirements of the Classification Society.  
+Hatch coaming  
+Cargo hatch shall be arranged as shown on G.A plan. Each cargo hatch shall have steel coamings of suitable height for stowing of containers.  
+The hatch coaming to be of steel construction with stays as required by the Classification Society. ***Hatch end bracket shall be curved with two radius type and not the straight bracket.***  
+Side hatch coamings shall be continuous from forward to aft of cargo hold area and tapered at each ends according to the requirement of the Classification Society.  
+#### 2.1.2.5 Fore Body Construction  
+General  
+The fore body consists of store space(s), fore peak tank and chain lockers as shown on the G.A. plan.  
+The shell plating shall be increased in thickness at the anchor rubbing areas as per the Builder’s practice.  
+Framing at forward end to have deep floors, deep web frames, side stringers and breast hooks as required by the Classification Society.  
+Side frames in the fore peak tank shall be arranged transversely or longitudinally.  
+The bulkhead of fore peak tank shall be of flat type stiffened by horizontal or vertical stiffeners supported by vertical webs or horizontal stringers fitted at suitable space.  
+The strength of the forecastle deck shall consider impacts from green water as per Class requirement.  
+Fore body construction to be designed against bow flare slamming according to the requirement of the Classification Society.  
+The forecastle to be arranged as shown on the G.A. plan.  
+Chain locker and Hawse pipe, etc.  
+Two (2) self-stowing circular or rectangular type chain lockers with sufficient capacity shall be arranged to stow the anchor chains well clear of deck over.  
+The lockers shall be of watertight steel construction and fitted with perforated false bottom grating with one removable steel cover at a level approx. 800 mm above the bottom of the locker to make a bilge well space underneath.  
+Chain pipe with bell mouth shall be led vertically from windlass according to the Builder’s practice. Each one (1) set of chain pipe cover shall be provided.  
+The chain cable shall be secured by quick releasing type cable clench on the side wall of the chain locker. The cable clench shall be provided for the chain locker in easily accessible position accordance with the Builder’s practice.  
+One (1) access manhole to be arranged on each chain locker wall in bosun store for inspecting locker and cable.  
+One (1) pair of hawse pipe with cast steel bell mouse shall be provided at the bow and shall allow acceptable housing of the anchor and easy lead of chain to the gypsy wheel.  
+For the details, refer to “Chapter 4–Outfitting Part” of the Specification.  
+2.1.3 Deck House  
+Deckhouse shall be of welded steel construction.  
+External walls of deckhouse shall be of flat plate type with vertical stiffeners inside, and the internal walls shall be of flat plate type.  
+The arrangement of internal webs, pillars and steel bulkheads to be considered to minimize vibration.  
+Decks shall be transversely and/or longitudinally stiffened with beams and girders.  
+Bridge wings shall be extended to full beam of the Vessel and be suitably supported with open type construction.  
+Wheelhouse front wall and side wall with windows shall be inclined outward from navigation bridge deck as shown on the G.A. plan.  
+***As far as possible super structure exterior plates must be at least 6 mm.***  
+2.1.4 MISCELLANEOUS  
+Foundation  
+Foundation of main engine shall be of welded steel construction in conjunction with bed plate, floors and girders of double bottom structure and shall have adequate strength and rigidity.  
+Foundation of main engine shall be designed according to the Builder's practice and the manufacturer's recommendation.  
+Foundation of auxiliary machinery, deck machinery, etc. shall be of welded steel construction and shall be reinforced with girders or carlings underneath as per manufacturer’s recommendation and Builder’s practice.  
+***Main Engine foundation girders and face plates shall be welded with full penetration weld or deep penetration weld if class approval.***  
+Bilge keel  
+Non-continuous type bilge keel shall be fitted on the bilge strake port and starboard with about 25% of the Vessel’s L.B.P. amidships.  
+Bilge keel to be built up with flat-bar and bulb plate. The bulb plate is welded to a flat-bar attached onto bilge strake by welding. The butt seams on the bilge keel flat-bars and shell plates to be staggered each other as per the Rule.  
+The flat-bar to be of continuous type.  
+Fore and aft ends of the bilge keels shall be gradually tapered and discontinued at block butt joint. ***Tapering of the bilge keel at both the ends shall be done as per IACS guidelines. The ends detail to be shown in the detailed BILGE KEEL DWG.***  
+Sea chest  
+One (1) high sea chest and one (1) low sea chest shall be provided to side shell in way of engine room. One (1) separate sea chest shall be provided for emergency fire pump.  
+For details about drainage, air escape etc., refer to “Chapter 6–Machinery Part” of the Specification.  
+***Nuts and bolts used for sea chest fittings shall be of stainless steel.***  
+Bottom plug  
+One (1) bottom plug shall be supplied and fitted at ***bottom*** ballast water tank. Basically, the bottom plugs for oil tank and side ballast water tanks shall not be provided.  
+The size (M42), material (plug: SUS316, socket: mild steel) and design of the bottom plug shall be in accordance with the Builder’s practice. ***Spare parts of SS plugs to be provided*** ***according to yard practice.***  
+Bottom plugs shall be fitted as close as possible to the lowest point of each tank and shall be kept clear of points where the keel block is laid beneath in dry dock.  
+***Bottom plug sockets to be full penetration welded to Shell plate .Weld plug procedure will full weld and test for UT+PT or vacuum box(submit information to owner approval)***  
+Two (2) spanner wrenches for bottom plugs shall be supplied for opening/closing of bottom plugs. .  
+Bulwark  
+The bulwarks of steel plate, suitably stiffened by stays at moderate space, shall be fitted on the forecastle deck and bridge wings as shown on the G.A. plan.  
+Knuckled wind-deflector shall be provided on the front bulwarks of the navigation bridge wings.  
+The bulwark plating shall be reinforced in way of openings for fairleaders, etc., if necessary.  
+Step and safety handrail shall be provided on the bulwark for the inspection of anchor stowage and on the operation position of mooring ropes.  
+Breakwater  
+Breakwater to be provided as shown on the G.A. plan. The height of breakwater shall be determined according to ILLC and Class rule’s recommendation.

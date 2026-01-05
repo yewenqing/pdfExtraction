@@ -1,0 +1,10 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.7.3** LIGHTING – MACHINERY SPACE'}
+--------------------
+|  |  |
+| --- | --- |
+| Lighting fixture | Space/location |
+| Fluorescent pendant light  (40 W x 2, 20 W x 2) | Engine room over floor, steering gear room, emergency generator room, bow thruster room and other machinery space |
+| Fluorescent ceiling light  (20W x 2, flush type) | Engine control room |
+| Incandescent pendant light (40W~60W) , ***energy saving light (11W)*** | Pipe duct, escape trunk, under the E/R lower floor |
+| Incandescent spot light (100W, with adjustable arm) | On work face of machine tool and worktable in workshop |
+| Halogen type floodlight (500W, 8 sets) | E/R upper flat top of M/E & A/E |

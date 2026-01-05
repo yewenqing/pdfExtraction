@@ -1,0 +1,31 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.11 PIPING SYSTEMS IN ENGINE ROOM', 'Header 3': '6.11.10 INSTRUMENTATION'}
+--------------------
+Following instrument shall be provided for each machinery or on the piping side, and exclusive of the instruments used for automatic control in ECR.  
+#### 6.11.10.1 Pressure, Compound and Vacuum Gauges  
+Pressure, compound and vacuum gauges shall be manufactured in accordance with the Chinese Industrial Standard or equivalent for marine use.  
+All gauge to have black figures, white faces, letter in English and units in metric or SI system (Red figures for vacuum), and working range shall be clearly marked for each gauge. Following gauges shall be furnished.  
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Place of installation | No. of set | Diameter of gauge (mm) | Remark |
+| Water | Centrifugal pumps suction & delivery | 1 each | 100 |  |
+| Reciprocating pumps suction & delivery | 1 each |  |
+| Oil | Rotary pumps suction & delivery | 1 each |  |
+| Oil strainer inlet & outlet | 1 each |  |
+| Steam  &  Condensate | Boiler drum | 2 | 150 |  |
+| Heaters (steam side) | 1 each | 100 |  |
+| Steam line after reducing valve | 1 each | 100 |  |
+| Compressed air | Air line after reducing valve | 1 each | 100 |  |
+| Air reservoir | 1 each | 150 |  |
+| Others | Various pressure gauge fitted at main engine, generator engines, main air compressors, and boiler burning set, etc.  U-tube difference-pressure gauge fitted at exhaust gas section of composite boiler. | Assorted | Manufacturer's standard |  |  
+#### 6.11.10.2 Thermometers  
+Thermometers shall be indicated in Centigrade and shall be manufactured in accordance with the International Standard or equivalent, and working range shall be clearly marked for each gauge. Thermometers of liquid in glass type with separable sockets shall be provided as follows.  
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+|  | Place of installation | | No. of  set | Remarks |
+| Water | Fresh water cooler | Fresh water & sea water inlet & outlet | 1 each | Fresh water: after temp. control valve |
+|  | Atmospheric condenser | Cooling water inlet & outlet | 1 each |  |
+|  | Lub. oil cooler | Cooling water inlet & outlet | 1 each | Lub. oil: after temp. cont. valve |
+| Oil | Heaters | Oil inlet & outlet | 1 each |  |
+|  | Heated tanks | Oil pocket on tank wall or outlet | 1 each |  |
+| Others | Various thermometers fitted at main engine, generator engines, air compressors, stern tube bearing, boiler | | Assorted |  |
+|  | Oil purifiers | Acc.to Maker's standard |  |  |

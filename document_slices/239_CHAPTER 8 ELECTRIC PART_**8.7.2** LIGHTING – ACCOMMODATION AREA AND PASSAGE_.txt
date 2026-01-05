@@ -1,0 +1,13 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.7.2** LIGHTING – ACCOMMODATION AREA AND PASSAGE'}
+--------------------
+|  |  |
+| --- | --- |
+| Lighting fixture | Space/location |
+| Fluorescent ceiling light  (20 W x 2, flush type) | Crew’s cabin, mess room, pantry, hospital, conference room, office, gymnasium etc. |
+| Fluorescent ceiling light  (20 W x 2, surface type) | Galley, laundry, public toilet, deck toilet |
+| Fluorescent corner light  (20 W x1) | Inner passage, staircase |
+| Fluorescent desk light(15W) | On the writing table in each cabin and office |
+| Fluorescent berth light(8W) | Over the head of each berth (fed by emergency power supply) |
+| Fluorescent mirror light  (with shaver socket) | On each private lavatory room |
+| Decorative type wall light | Mess room, gymnasium, recreation room |
+| Fluorescent light  (20 W x 2, waterproof type) | Outer passageway, every 3~5 meters or a proper distance around superstructure and along on deck passage ways below/at hatch coaming |

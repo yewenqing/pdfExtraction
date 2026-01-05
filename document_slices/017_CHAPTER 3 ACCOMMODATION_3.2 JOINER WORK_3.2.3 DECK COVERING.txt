@@ -1,0 +1,20 @@
+METADATA: {'Header 1': 'CHAPTER 3 ACCOMMODATION', 'Header 2': '3.2 JOINER WORK', 'Header 3': '3.2.3 DECK COVERING'}
+--------------------
+Deck covering shall be applied as per following list:  
+| Material | Application |
+| --- | --- |
+| A-60 deck covering | according to  SOLAS requirement |
+| 5 mm thick full synthetic carpet on 10 mm latex type deck composition, | Captain class bed room |
+| 2mm PVC on 10mm latex type deck composition, | Other living space, corridors, public spaces and office space |
+| 3mm thick rubber tile including studs (non-slip type) on 10mm latex type deck composition | Wheelhouse ***and ECR*** |
+| Ceramic tile on 30 mm cement  (Anti-slip type) | Galley, pantry, laundry and drying room, all toilets, and lavatories (as per maker’s standard) |
+| Paint (steel deck ) | Store and locker space, deck workshop, machinery space, all exposed steel decks and other similar spaces (except mentioned above.) |  
+Deck covering shall not be applied on all the weather deck surfaces.  
+The floor top covering or finished coat on latex type deck composition shall not be applied under fixed furniture with baseboard such as bed, wardrobe, locker etc.  
+Floating floor shall be applied for Engine control room.  
+The type of floating floor maybe apply according to noise and vibration analyses suggestion.  
+Gutter ways shall be fitted for galley which formed by stainless steel plate and covered by stainless steel cover.  
+The space applied with joiner lining and partition shall be provided with approx. 60mm high plastic skirting. The space applied with tile shall be provided with approx. 150mm high tile skirting.  
+The deck covering for wet space shall slope to scupper.  
+Non-slip type rubber mat with 1,000 mm breath and 3mm thickness shall be provided to the front and back side of the Main Switchboard (MSB), Transformers, emergency switchboard and local group starter panel. ***These mats will be certified.***  
+Perforated rubber mat of 15 mm thickness shall be provided on navigation bridge wing area.

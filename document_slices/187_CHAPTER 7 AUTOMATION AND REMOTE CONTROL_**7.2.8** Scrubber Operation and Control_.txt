@@ -1,0 +1,8 @@
+METADATA: {'Header 1': 'CHAPTER 7 AUTOMATION AND REMOTE CONTROL', 'Header 2': '**7.2.8** Scrubber Operation and Control'}
+--------------------
+The operation and control system shall be the type of programmable logic controller (PLC) Following parameters shall be continuously monitoring for the cleaned exhaust gas and water emissions:  
+* Wash water turbidity, pH value, etc. of outlet;
+* CO2/SO2 analysis measuring for exhaust gas outlet
+* ME/AE power signal and GPS signal shall be supplied by Yard for logging
+* etc.  
+An operating station shall be in the ECC for the system operation.

@@ -1,0 +1,23 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.11 PIPING SYSTEMS IN ENGINE ROOM', 'Header 3': '6.11.3 LUBRICATION OIL SYSTEM'}
+--------------------
+#### 6.11.3.1 L.O. Filling and Transfer Systems  
+One (1) each separate deck filling lines with stop valve and blank flanges shall be arranged on bunker station port & stb side. for main engine and generator engine system oil. The main engine cylinder oil filling line shall be arranged on bunker station port & stb. side.  
+The lub. oil transfer pump shall be arranged to transfer L.O. between the lub. oil tanks in engine room or to discharge overboard via “on deck” filling connections.  
+A simplex filter shall be provided at suction side of lub. oil transfer pump.  
+#### 6.11.3.2 Lub. Oil Service System  
+Lubrication of the M/E main bearings, thrust bearings, bottom-end bearings, crosshead bearings, together with piston cooling, is carried out by the main lubricating oil system.  
+The lubricating oil pump shall draw from the lub. oil sump tank and through LO cooler, a thermostatic control valve and auto. back wash filter or a by-pass filter then enter to the main engine. Lubricating oil shall flow out directly from engine crankcase into the lub. oil sump tank after lubrication or piston cooling.  
+M/E turbocharger shall be lubricated from the main engine system oil.  
+The lub. oil sump tank shall be arranged in double bottom.  
+Cylinder oil from cylinder oil storage tank(s) shall be transferred to cylinder oil service tank by a pump ***and a high level auto cut off for the pump to be provided.***  
+Cylinder lubricating oil shall be fed to the main engine by means of a pump station mounted on the engine from the cylinder oil service tank.  
+Each generator engine shall have its own internal lubrication oil system with components built on the engine.  
+Lub. oil cooler shall have a thermostatic valve for temperature control. The return of the back flush filter shall be arranged close to the purifier suction and far from the main L.O. pump suction.  
+#### 6.11.3.3 L O. Purifying System  
+The main engine and the generator engines shall have independent L.O. purifying system.  
+The main engine L.O. purifying system shall have one (1) set ME L.O. purifier. Lub. oil purifier shall be connected so that purification may be carried out from the main engine lub. oil sump tank or the lub. oil settling tank to the lub. oil settling or the main engine sump tank.  
+The generator engines L.O. purifying system shall have one (1) set AE L.O. purifier. Lub. oil purifier shall be connected so that purification may be carried out from the G/E or the lub. oil settling tank to the lub. oil settling tank or G/E.  
+Sludge and water from the purifier shall be led to the sludge tank, and shall be shifted to waste oil tank for incinerator or to shore by the sludge pump.  
+#### 6.11.3.4 Lub. Oil Drain  
+Dirty oil collected from the M/E scavenge box is led to the M/E scavenge box drain tank and then to waste oil tank.  
+Save-all drip pans shall be provided for lub.oil pumps, purifiers and tanks, and shall be led to the waste oil rank.

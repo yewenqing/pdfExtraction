@@ -1,0 +1,35 @@
+METADATA: {'Header 1': 'CHAPTER 5 HULL PIPING', 'Header 2': '5.1 HULL PIPING', 'Header 3': '5.1.7 AIR AND SOUNDING PIPES'}
+--------------------
+5.1.7.1 Air escape/Overflow Pipe  
+The air pipes shall be arranged in compliance with the load line regulation.  
+In general, one (1) or two (2) air pipes shall be provided for each tank and void space and shall be led to above exposed deck.  
+Air escape/overflow pipes shall be provided to all cofferdams and tanks, and shall be terminated in the place that shall be in accordance to the requirements of the classification society with suitable heads.  
+The air pipe head for fuel oil tank shall be fitted with float type closer and fire proof screen of stainless steel, and the head for fresh water tank shall be fitted with closer and stainless steel wire gauge insect guard. Air escape/overflow pipes for oil tanks shall be of steel and for other tanks shall be of steel pipe galvanized.  
+Oil spill coaming with plug shall be provided around air escape pipe head of oil tanks in accordance with the U.S.C.G. requirements.  
+Size of air escape/overflow pipes shall be not less than 125% of sectional area of suction pipe in accordance with the requirements of the Classification Society.  
+Air vent pipes for HFO and LSHFO/ULSFO bunker tanks shall not be arranged passing through the water ballast tanks or vice versa as far as practicable.  
+The location of air vent head for fuel oil tanks shall be as per Rule’s requirement.  
+Welded sleeve joint shall be used for air escape pipe passing through deck.  
+Steel vent pipes to be required for water tanks outside of engine room.  
+5.1.7.2 Sounding Pipe  
+Sounding pipe with bronze screw type cap (deck stand type) or deck flush type shall be fitted to water ballast tanks, cofferdams and chain lockers, and terminated above upper deck or hatch coaming platform in accessible location.  
+Double bottom tanks in engine room shall be provided with short sounding pipe terminated above floor plating about 800 mm with self-closing devices, and self-closing test valves **are only used for double bottom oil or oily tanks in engine room according to class requirement.**.  
+The sounding pipes for side ballast water tanks shall be terminated on weather deck level. Those for double bottom ballast tanks and cargo hold bilge wells shall be arranged between transverse bulkhead and cell guide in cargo holds, and terminated on weather deck level.  
+The sounding pipes for HFO and ULSFO/LSHFO tanks shall be terminated on weather deck level in accessible location.  
+The sounding pipe shall be of steel pipe of 50 mm for fuel oil tanks and cargo hold bilge wells, 40 mm for water tank and chain locker unless otherwise required by the Class. Application of galvanization for sounding pipes shall be the same as air escape/overflow pipes.  
+Generally the sounding pipe shall be as straight as practicable and fitted with brass cap.  
+The lower end shall be extended to a height of about 20 mm above the tank bottom and striking pad of 10 mm thick shall be fitted to pipe end.  
+Lower part of sounding pipes about 350 mm length shall be detachable for removing broken sounding tapes.  
+One (1) test cock with self-closing valve shall be provided for stern tube cooling water tank.  
+Two (2) sounding tapes with plumb shall be furnished, one (1) for clean water tanks and the other for dirty oil tanks.  
+Sounding pipes for HFO and LSHFO/ULSFO bunker tanks shall not be arranged passing through the water ballast tanks or vice versa as far as practicable.  
+***100mm coaming to be provided for all the sounding pipes used for oil tanks.***  
+***Ship side pipes/ Scuppers shall be welded to side shell with deep penetration weld.***  
+5.1.7.3 Remote Reading Level Gauge and Bilge Alarm  
+One (1) remote reading leveland volumegauge of electronic pressure sensor type able to display tank volumes shall be provided for each water ballast tank and fresh water tank.  
+One (1) remote reading level and volume gauge of electronic pressure sensor type able to display tank volumes shall be provided for each HFO , LSHFO/ULSFO and MGO tank as specified at Machinery Chapter 6.2.18.  
+High level alarm shall also be provided for HFO , LSHFO/ULSFO and MGO tank in engine room as specified at Machinery Chapter 6.2.18..  
+One (1) bilge high level alarm by a float switch shall be provided for each bilge well in all cargo holds, bosun store, , bow thruster & emergency fire pump room and fore end of pipe duct and one (1) common audible alarm for bilge wells shall be provided in engine control room and wheelhouse.  
+Suitable protection pipe for oil tank for electrical sensors cable submerged in tank shall be provided accordance with Maker’s recommendation. **PVC protection pipe to be used for water tanks and bolt(if used) to be stainless steel.**  
+5.1.7.4 Name plate  
+Name plates for air and sound pipes shall be provided in English.

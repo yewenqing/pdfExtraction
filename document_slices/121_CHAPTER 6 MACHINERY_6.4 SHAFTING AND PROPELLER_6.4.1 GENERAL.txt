@@ -1,0 +1,9 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.4 SHAFTING AND PROPELLER', 'Header 3': '6.4.1 GENERAL'}
+--------------------
+The shafting shall consist of one (1) intermediate shaft and one (1) propeller shaft, one (1) intermediate bearing, one (1) stern tube and sealing. The intermediate shaft shall be fitted with oil-lubricated plain bearing and propeller shaft shall be of oil-lubricated white metal bearing. Thrust shaft and thrust bearing shall be incorporated in main engine.  
+The shaft diameter, propeller diameter and the number of blades and other details shall be determined and designed in consideration of the main engine torsion vibration as well as hull vibration.  
+If the barred speed range exists in the operating speed range, the barred speed range shall be remarked on the revolution indicator. Barred speed range with automatic quick by-pass arrangement shall be allowed at nonessential range of shaft revolution.  
+The calculation sheets regarding the torsional vibration shall be submitted to Classification Society for approval.  
+The torsional vibration shall be measured during sea trial for the first vessel.  
+The length of propeller shaft shall be so designed that the shaft can be withdrawn and taken in from engine room side without removal of the main engine.  
+Spare propeller, spare propeller shaft and intermediate shaft not to be supplied.

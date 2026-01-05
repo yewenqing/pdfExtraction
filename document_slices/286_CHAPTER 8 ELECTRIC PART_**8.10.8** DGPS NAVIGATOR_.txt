@@ -1,0 +1,7 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.10.8** DGPS NAVIGATOR'}
+--------------------
+Two (2) sets of DGPS navigator with necessary accessories shall be provided: one set in wheelhouse control console and one set on the chart table.  
+Each 1 - Main display unit in chart space and on WHC  
+2 - Antenna on the after mast or compass deck  
+1 - Signal distribution box in wheelhouse  
+The GPS signal shall be sent to the following equipment: Inmarast-Fleet broadband , Inmarast-C, MF/HF DSC, VHF DSC, Radars, speed log, Echo sounder, VDR , gyro-compass,ballast water treatment, scrubber and other systems requirement etc.

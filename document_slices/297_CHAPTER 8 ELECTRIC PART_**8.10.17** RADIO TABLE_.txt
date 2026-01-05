@@ -1,0 +1,8 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.10.17** RADIO TABLE'}
+--------------------
+One (1) radio and safety plan table to be provided in wheelhouse and the following instruments to be mounted:  
+* Data terminal for Inmarsat C
+* Printer for Inmarsat C
+* MF/HF radio controller
+* Battery charger
+* Low voltage power distribution box

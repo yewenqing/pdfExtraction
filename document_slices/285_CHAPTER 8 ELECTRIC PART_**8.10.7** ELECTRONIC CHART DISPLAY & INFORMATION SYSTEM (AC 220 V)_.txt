@@ -1,0 +1,13 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.10.7** ELECTRONIC CHART DISPLAY & INFORMATION SYSTEM (AC 220 V)'}
+--------------------
+Electronic chart display & information system (ECDIS) will fully comply with the latest standards and resolutions of IMO, IHO, and IEC. The electronic chart is compatible with ENC (S57 Edition 3) charts, C-MAP, ARCS charts etc. The electronic chart can be overlaid with a variety of navigation data such as radar images, position, heading, speed, and others to facilitate safe and efficient navigation.  
+Two (2) independent set of ECDIS (master & back-up) shall be provided; (Option:both ECDIS were installed the Uninterruptible Power System(UPS)}  
+(Option:A monitoring screen shall be arranged in the Master’s room, which may be combined with the one screen of radar in the room (if it were be)  
+They shall be supplied via navigation power distribution box which to be fed from MSB and ESB auto-changeable.  
+The ECDIS shall have following main functions:  
+Electronic chart;  
+Radar image superimposition;  
+Continuous monitoring vessel position;  
+Route planning and route monitoring etc.  
+Display of ECDIS to be 24".  
+External signals from echo sounder, anemometer, AIS, DGPS, gyrocompass, speed log and radars etc. shall be received.

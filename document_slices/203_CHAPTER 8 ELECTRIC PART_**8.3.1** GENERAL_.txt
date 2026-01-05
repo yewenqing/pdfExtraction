@@ -1,0 +1,4 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.3.1** GENERAL'}
+--------------------
+Three(3) sets of main generator AC 450 V, 3 PH, 60 Hz, each driven by diesel engine shall be installed in the engine room with the shaft parallel to ship's centerline.  
+One (1) set of emergency diesel generator AC 450 V, 3 PH, 60 Hz shall be installed in the emergency generator room. The emergency generator shall be used for supplying the loads such as radio equipment, interior communication equipment, nautical instruments, emergency lights, one set steering gear and emergency fire pump, one engine room fan, the emergency air compressor, etc. when the main power station fails.

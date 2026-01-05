@@ -1,0 +1,9 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.3 CARGO HATCH COVER', 'Header 3': '4.3.1 CARGO HATCH'}
+--------------------
+Cargo hatches shall be arranged as shown on the G.A. plan and opening size shall be as follows:  
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Hatchway | Length  (Approx. mm) | Width  (Approx. mm) | No. of panels | Type | Tightness |
+| No. 1 | 12,600 | 15,282 | 2 | Pontoon, Non-sequential | Weather- tight |
+| No. 2 | 12,600 | 20,258 | 2 |
+| No. 3 ~No.8 | 12,600 | 25,030 | 2 each |

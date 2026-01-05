@@ -1,0 +1,6 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.9.18** E/R local water mist alarm system'}
+--------------------
+One (1) set fire alarm control panel of local water mist system shall be in the fire control station.  
+One (1) set local pumps unit and starters in E/R.  
+One (1) set repeater panel in wheelhouse control console and alarms connected to the AMS  
+Other flame detector, manually operated call points, flash lamp & sirens etc. will be provided in each local mist area (i.e. M/E, A/E, F.O. purifier, boiler area etc.) as per rule.

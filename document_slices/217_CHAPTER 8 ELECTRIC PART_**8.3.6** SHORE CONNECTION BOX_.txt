@@ -1,0 +1,12 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.3.6** SHORE CONNECTION BOX'}
+--------------------
+One (1) set of shore connection box for receiving AC 440V volts, 400 amperes, 3 phase 60 Hz shore source shall be provided and wired to the main switchboard (MSB).  
+The box shall be of drip-proof type with a three (3) pole moulded case circuit breaker (MCCB), connecting terminals and phase sequence indicator; and:  
+**1 - White lamp for shore source alive**  
+**1 - Green lamp for shore MCCB closed**  
+**1 - White lamp for shore MCCB open**  
+**1 - Voltmeter for shore power**  
+**1 - Ammeter for shore power**  
+**Interlocking shall be arranged to disable any parallel operation with the ship’s generators.**  
+The shore connection box shall be of wall mounted type and shall be installed near emergency generator room or other suitable place.  
+On the bulkhead of laid room, a hole with water tight cover shall be provided for passing through the shore connection cables.

@@ -1,0 +1,47 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.2 PRINCIPAL PARTICULARS OF MACHINERY', 'Header 3': '6.2.17 MISCELLANEOUS'}
+--------------------
+Incinerator  
+No. of set : One (1)  
+Type : Solid waste and waste oil burning, IMO approved type  
+Capacity : abt. 400,000kcal  
+Fuel : MGO  
+**Note： Unit must be able to load Solid waste while burning sludge and oil waste.**  
+***Mechanical or compressor air mixing unit to be provided for the attached waste oil tank.***  
+Sewage treatment plant  
+No. of set : One (1)  
+Type : Biological and gravity type, according to the MEPC regulation  
+Capacity : 24 P  
+Sewage pump  
+No. of set : One (1)  
+Type : M.D. close coupled with non-clogging system  
+Capacity : 10m3/h  
+Discharge pressure : 0.15MPa  
+Main engine overhauling crane  
+No. of set : One (1)  
+Type : hoisting, traveling and traversing by motor driven.  
+Capacity : total 4.0 t  
+E.C.R. unit cooler  
+No. of set : One (1)  
+Type : Packaged type  
+Capacity : Abt. 22 kW  
+Cooling media : R407C  
+Galley unit cooler  
+No. of set : One (1)  
+Type : Packaged type  
+Capacity : abt.17 kW  
+Cooling media : R407C  
+Marine growth preventing system fitted on main SW strainers  
+No. of set : One (1)  
+Type : Pole ionizing anode.  
+Capacity : bases on total capacity of two (2) main cooling SW pumps, one (1) FW generator SW pump and scrubber sea water pump.  
+Anodal life : Five (5) years continuous running (for each sea chest in E/R)  
+Shut off valves control device for oil tanks  
+No. of set : One (1)  
+Type : Air operated  
+Work pressure : As per Maker’s recommendation  
+Valves remote control system  
+No. of set : One (1)  
+Type : pneumatic  
+Work pressure : As per Maker’s recommendation  
+Cold water fountain in engine room  
+: Refer to Chapter 6 Hull Piping

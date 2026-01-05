@@ -1,0 +1,6 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.4 SHAFTING AND PROPELLER', 'Header 3': '6.4.3 PROPELLER SHAFT'}
+--------------------
+The propeller shaft shall be made of forged high quality carbon steel with a solid flange coupling on fore end. The propeller shaft shall be smoothly machined all over and finished brightly in way of bearings where the diameter is increased abt. 5mm.  
+The after portion of the shaft shall be machined to 1/20 tap to fit the propeller hub and the end of the shaft shall be left-hand threaded to suit a propeller shaft nut.  
+Removal of the propeller shaft from the Vessel shall be carried out via a temporary opening cut in the shell plating when overhauling and the location shall be clearly marked. The location of temporary opening shall be given on approval drawing.  
+**Eye plates for lifting propeller and rudder to be fitted at stern.**

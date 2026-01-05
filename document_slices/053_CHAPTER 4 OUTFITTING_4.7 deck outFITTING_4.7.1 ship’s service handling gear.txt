@@ -1,0 +1,23 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.7 deck outFITTING', 'Header 3': '4.7.1 ship’s service handling gear'}
+--------------------
+#### 4.7.1.1 Provision Crane  
+|  |  |
+| --- | --- |
+| No | One (1) set |
+| Type | Electric driven lifting and manual slewing |
+| Location | B deck PS side as per GA plan |
+| Destination | Handling spare parts of engine room, Suez boat etc. |
+| Lifting capacity | 4.0 t |
+| Max outreach | abt. 4 m |
+|  |  |
+| No | One (1) set |
+| Type | Electric driven lifting, manual slewing |
+| Location | B deck SB side as per GA plan |
+| Lifting capacity | 4.0 t |
+| Max outreach | abt. 4 m |  
+#### 4.7.1.2 Suez Canal searchlight davit  
+One (1) manual steel jib type weighted 0.25t to be place on forecastle for hoisting Suez Canal searchlight and articles in bosun store.  
+#### 4.7.1.3 Hose Davit  
+Two (2) sets of SWL 0.5 t, electric motor driven hoisting, manual slewing type bunker hose handling davit shall be provided on port and starboard as per G.A. plan.  
+#### 4.7.1.4 CO2 bottles handling Davit  
+One (1) set of SWL 0.2t, manual hoisting and slewing type davit for handling CO2 bottles.

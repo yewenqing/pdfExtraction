@@ -1,0 +1,7 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.10.12** AUTOMATIC IDENTIFY SYSTEM (ais) (DC 24 V)'}
+--------------------
+One (1) set of AIS with necessary accessories shall be provided.  
+One (1) set antenna shall be installed on compass deck and one (1) controller shall be installed in the wheelhouse.  
+One (1) interface for communicating between AIS and pilot’s computer shall be provided, and one (1) power receptacle with supply AC 110 V (USA type socket) for pilot’s computer shall also be provided.  
+AIS shall interface with Radar and ECDIS units to display the AIS information on Radar’s TFT and ECDIS display.  
+Gyro and DGPS signal and other information requirement by rules shall be sent to AIS. The system may be fed from DC 24 V and AC 220 V.

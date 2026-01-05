@@ -1,0 +1,11 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.3.8** TEST PANEL'}
+--------------------
+One (1) set of wall mounted type electrical test panel shall be installed in the electrical workshop. The panel shall be provided with following devices: (or according to manufacturer's standard) switches, pilot lamps, voltmeter and ammeter.  
+|  |  |
+| --- | --- |
+| Each one (1) | Set of test terminals of AC 440V. 3 PH and AC 220V. 3 PH both up to 20A, AC110V and AC 24V 5A |
+| One (1) | Set of test terminals of DC 24V up to 5A |
+| One (1) | Fuse checker |
+| Each one (1) | Lamp holder for various fluorescent lights of 40W, 20W, 8W |
+| Each one (1) | Lamp holder for various incandescent lamps of E40, E27, E14, B15, B22 |
+| Each one (1) | Receptacle of non-water-tight and water-tight for AC 220V, 10A |

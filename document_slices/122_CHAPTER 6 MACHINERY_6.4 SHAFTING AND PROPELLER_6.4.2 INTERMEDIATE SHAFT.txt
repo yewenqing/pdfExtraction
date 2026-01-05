@@ -1,0 +1,4 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.4 SHAFTING AND PROPELLER', 'Header 3': '6.4.2 INTERMEDIATE SHAFT'}
+--------------------
+The intermediate shaft shall be made of forged high quality carbon steel with integral flanges at both ends*,* and coupled together with each shaft with parallel forged steel reamer bolts.  
+The shaft shall be machined all over and finished brightly in way of bearing where the diameter is increased abt.5mm. The shafting shall be electrically earthen to the hull; a shaft earthing device shall be fitted to the intermediate shaft.

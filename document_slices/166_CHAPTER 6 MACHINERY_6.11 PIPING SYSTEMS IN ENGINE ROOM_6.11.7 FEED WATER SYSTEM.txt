@@ -1,0 +1,8 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.11 PIPING SYSTEMS IN ENGINE ROOM', 'Header 3': '6.11.7 FEED WATER SYSTEM'}
+--------------------
+Condensate from atmos. condenser shall be discharged to cascade tank by gravity.  
+Feed water pump of the composite boiler shall draw water from the cascade tank and then discharge it to the composite boiler.  
+Feed water to cascade tank shall be manually from the F.W. hydrophore.  
+The bottom and surface blow down lines of the composite boiler shall be combined to led overboard.  
+The blow-down lines shall have double valves.  
+Each feed water pump shall have a capacity for max. evaporation when the main engine operating at SMCR and one (1) pump of them shall serve as stand-by.

@@ -1,0 +1,39 @@
+METADATA: {'Header 1': 'CHAPTER 3 ACCOMMODATION', 'Header 2': '3.5 COMMISSARY AND SANITARY OUTFIT', 'Header 3': '3.5.2 SANITARY OUTFIT'}
+--------------------
+#### 3.5.2.1 Material  
+Private toilet and hospital toilet shall be of prefabricated unit type.  
+Wash basin shall be of white vitreous china for toilet.  
+All wash basins shall be provided with hot and cold mixing valve with one (1) outlet. An S-shaped drainage trap shall be fitted.  
+Water closet to be of gravity type and fitted with flush valve, and seat and cover to be of plastic material.  
+Bathtub shall be constructed of plastic or white china and fitted with shower, hot and cold water mixing valve and drain plug shall be provided.  
+Shower shall have flexible hose, and fitted with hot and cold water mixing valve, and the angle of shower head shall be adjustable.  
+Stop valves shall be provided for each hot and cold water pipe below wash basin.  
+Paper holder, storm rail, towel rail and soap dish shall be provided for individual use as necessary.  
+#### 3.5.2.2 Fittings in Lavatory and Changing Room  
+Private lavatory Shower set, water closet, wash basin and toilet cabinet with mirror, paper holder, soap dish, towel bar, hand grip, coat/hat hook  
+Public toilet /Stevedore’s toilet Water closet, washbasin and lavatory mirror, paper holder, soap dish, towel bar, hand grip, coat/hat hook  
+Hospital lavatory Bath tub, water closet, wash basin and toilet cabinet with mirror, paper holder, soap dish, towel bar, handgrip, coat/hat hook  
+|  |  |
+| --- | --- |
+| Changing room | 1 - Wash basin (with mirror, soap dish, towel bar)  1 - Wooden bench  13 - Steel cloth locker  8 – Coat hook |  
+Bathtub to be provided for captain class.  
+***The main pipe of the soil pipes will arrange the corridor ceiling as far as possible.***  
+#### 3.5.2.3 Equipment in Laundry and Drying Room  
+##### 3.5.2.3.1 Officer’s Laundry  
+2- Washing machine ***with front loading*** (abt. 5kg capacity, domestic type)  
+1 - Drying machine (abt. 5kg capacity, domestic type)  
+1- Electric steam iron  
+1- Ironing table  
+1- Washing sink (stainless steel) with rack on wall  
+##### 3.5.2.3.2 Crew’s Laundry  
+1- Washing machine ***with front loading*** (abt.10kg capacity, domestic type)  
+1- Washing machine (abt.5kg capacity, domestic type)  
+1- Drying machine (abt. 5kg capacity, domestic type)  
+1- Table with shelf under  
+1- Electric steam iron  
+1- Ironing table  
+1- Washing sink (stainless steel) with rack on wall  
+##### 3.5.2.3.3 Drying Room  
+One (1) drying room to be provided for each laundry with electric heater.  
+1- Electric heater (abt. 1.5 kW)  
+4- Cloth hanging rail of stainless steel pipe

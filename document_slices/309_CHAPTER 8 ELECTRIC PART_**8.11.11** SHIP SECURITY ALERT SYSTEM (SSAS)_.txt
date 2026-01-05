@@ -1,0 +1,4 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.11.11** SHIP SECURITY ALERT SYSTEM (SSAS)'}
+--------------------
+One (1) set of ship security alert system in compliance with the requirement of SOLAS will be installed. SSAS may be combined with Inmarsat C system.  
+Each one (1) security alert button shall be installed at wheelhouse and captain day room. The system will be fed from DC 24 V and AC 220 V.

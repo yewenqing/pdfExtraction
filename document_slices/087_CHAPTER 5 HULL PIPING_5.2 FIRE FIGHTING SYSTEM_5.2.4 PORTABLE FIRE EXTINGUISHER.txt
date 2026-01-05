@@ -1,0 +1,12 @@
+METADATA: {'Header 1': 'CHAPTER 5 HULL PIPING', 'Header 2': '5.2 FIRE FIGHTING SYSTEM', 'Header 3': '5.2.4 PORTABLE FIRE EXTINGUISHER'}
+--------------------
+Portable form, CO2 and/or dry power fire extinguishers shall be furnished and properly secured in accordance with the requirement of the SOLAS.  
+|  |  |
+| --- | --- |
+| Type | Space |
+| 5 kg CO2 type | Wheel house & chart space, electric equipment room, electrical workshop, galley, ER workshop, emergency generator room, engine room, air conditioning room, ship office and fire control station |
+| 45L foam type | Engine room |
+| 135L foam type | Engine room |
+| 9L foam type or 6 kg dry powder type | Space where required by rules |  
+The number of portable fire extinguishers shall be decided in accordance with the rule requirement. Spare charges shall be stowed in the safety store in living quarters.  
+Survey card shall be fitted for each portable fire extinguisher.

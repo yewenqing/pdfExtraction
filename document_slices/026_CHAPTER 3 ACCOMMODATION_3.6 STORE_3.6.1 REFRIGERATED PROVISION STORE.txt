@@ -1,0 +1,51 @@
+METADATA: {'Header 1': 'CHAPTER 3 ACCOMMODATION', 'Header 2': '3.6 STORE', 'Header 3': '3.6.1 REFRIGERATED PROVISION STORE'}
+--------------------
+#### 3.6.1.1 General  
+Cold rooms to be equipped with lockable quarantine shelves or lockers.  
+|  |  |  |
+| --- | --- | --- |
+|  | Temperature (0C) | Volume (m3) |
+| Lobby | No cooling | abt. 10 |
+| Dry provision | Cooled by A/C | abt. 20 |
+| Vegetable room | +4 | abt. 20 |
+| Meat room | –18 | abt. 15 |
+| Fish room | –18 | abt. 7 |  
+|  |  |
+| --- | --- |
+| L. T. cooling F.W. temperature | 36oC |
+| Ambient temperature | 35oC |  
+Measurement of volume shall be taken to the inner surface of insulation and lining.  
+Volume of each compartment may be adjusted in accordance with detail design of the accommodation arrangement.  
+***In general, finished ceiling height of compartments shall be not less than 1.9 meters.***  
+#### 3.6.1.2 Insulation  
+Insulation for refrigerated store:  
+Side : 120 mm thick polyurethane foam(PUF)  
+Top : 120 mm thick PUF  
+Partition : 120 mm thick PUF  
+Bottom : 120 mm thick PUF + 12 mm thick plywood + 1.0 mm thick stainless steel plate  
+The polyurethane foam panel shall be coated with 0.6mm thick stainless steel sheet for visible parts and 0.6 mm thick galvanized steel sheet for invisible parts.  
+#### 3.6.1.3 Door  
+|  |  |  |
+| --- | --- | --- |
+| Door type | : | Air-tight pontoon, hinged type. |
+| Material | : | Stainless steel filled with PUF insulation. |
+| Dimensions | : | Abt. 750mmx 1,700mm |  
+Necessary door fittings such as locking device, open able and unlocking device from inside and door holder, etc. shall be provided.  
+#### 3.6.1.4 Furnishing  
+Meat, fish and vegetable room shall be fitted with 2-tier shelves made of stainless steel.  
+Thermal expansion valve control panel shall be fitted near the chamber.  
+A remote reading thermometer shall be fitted for each room and an indicator shall be mounted in the passage in vicinity of the lobby. One (1) ozone generator shall be provided in vegetable room.  
+Alarm bell shall be fitted in galley with signal light outside the compartment and push button arranged in each chamber and lobby. Other details refer to "- Electric Part".  
+A meat chopping block and a sink with fresh hot and potable water supply shall be provided in lobby.  
+Plastic gratings shall be fitted on the floor.  
+Water seal scupper shall be provided for each compartment.  
+#### 3.6.1.5 Refrigerating Plant  
+The refrigerating system shall be of refrigerant R-407Cdirect expansion with automatic control device.  
+Two(2) sets of condensing unit shall be arranged in Air conditioning unit room(one as stand-by) and each unit shall be consisted of compressor and condenser and necessary accessories as per Maker’s standard.  
+Cooling water shall be supplied by low temperature cooling F.W. system in engine room.  
+The refrigerating plant shall be capable to maintain the specified temperatures with one(1) compressor working at full load not more than 16 hours per day. The other compressor shall serve as standby. Cooling down to specified temperatures shall be worked by two compressors. Ambient temperature of atmosphere shall be based on 35C and cooling water temperature of 36C. Compressors shall be automatically started and stopped to maintain the specified temperatures.  
+Each compartment shall be cooled by one (1) ceiling unit cooler. Diffuser shall consist of an aluminum fin cooling coil and an electric fan contained in an enameled metal case. Drain pan shall be fitted and drain pipe shall be led to the scupper in the chamber.  
+Unit cooler, drain pan and pipe shall be equipped with electric heating coils for defrosting (auto operation) for meat room and fish room.  
+Thermostat, pressure gauges, remote reading thermometers, necessary valves and safety valves, sight glass, and gas charging device, etc., shall be fitted completely.  
+De-frosting of diffusers shall be provided for meat room and fish room with electric heater with time controller.  
+Materials for compressors and condensers, etc. shall be in accordance with Maker's standard.

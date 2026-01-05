@@ -1,0 +1,9 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.10.11** VOYAGE DATA RECORDER VDR (AC 220 V, DC 24 V)'}
+--------------------
+One (1) set of voyage data recorder system VDR which performance standard will meet the requirement of Resolution MSC.333 (90) shall be provided as follows:  
+One (1) main electronics unit for data acquisition and recording shall be installed in the suitable space of bridge deck.  
+One (1) capsule (black box, auto floating type) ***and*** One (1) capsule (black box, fixed type) shall be fixed on compass deck and shall be capable of being removed but secure against tampering.  
+Interface box and power supply unit shall be provided. ***The data shall be easy download without any special needs to a hard drive and can be play back on a normal PC.***  
+Six (6) sets of microphones to be provided, two (2) outdoor type microphones on both bridge wings and four (4) indoor type microphones in the wheelhouse.  
+VDR extension backup cable for captain day room computer will be provided and the computer shall be supplied by ***Owner***.  
+Gyro compass, speed log, echo sounder, at least 2 stations radar video, DGPS, rudder order, engine order, wind speed and direction, VHF communication audio, alarm and other information requirement by rules shall be sent to the VDR.

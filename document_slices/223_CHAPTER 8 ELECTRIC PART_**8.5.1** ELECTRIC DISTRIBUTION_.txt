@@ -1,0 +1,9 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.5.1** ELECTRIC DISTRIBUTION'}
+--------------------
+In general, separate main feeders shall be fed from the main switchboard to essential pump motors, bow thruster, each reefer power distribution panel, each power distribution panel, and one (1) of steering gear motor and other large capacity services.  
+Motors of which starters are assembled into the group starter panels, however, shall be connected to the AC 440 V feeder bus bar of the main switchboard.  
+Non-essential services and other small motors shall be connected to each distribution board or local group starter board fed from the main switchboard.  
+Separate feeders shall also be fed from the emergency switchboard to one (1) of the steering gear motor, one (1) set of the E/R exhaust fan and emergency fire pump motor, emergency air compressor motor, generator engine pre-lub. oil pump etc.  
+The general lighting system and AC 220 V general consumers shall be fed from AC 220 V feeder panel of the main switchboard.  
+Emergency lighting system and AC 220 V system of radio equipment and nautical instruments shall be fed from AC 220 V feeder panel of the emergency switchboard.  
+DC 24V system of alarm, DC 24V emergency lighting, some interior communication equipment and nautical instruments shall be fed from the battery charging & discharging board.

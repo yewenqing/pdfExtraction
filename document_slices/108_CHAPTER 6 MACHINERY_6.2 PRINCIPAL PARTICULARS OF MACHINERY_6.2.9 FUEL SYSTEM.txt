@@ -1,0 +1,21 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.2 PRINCIPAL PARTICULARS OF MACHINERY', 'Header 3': '6.2.9 FUEL SYSTEM'}
+--------------------
+M/E & G/E F.O. supply module unit  
+No. of set : One (1)  
+Capacity : According to the requirement of M/E at SMCR and two(2) sets G/E at max output  
+Including fuel oil supply pumps, automatic filter and bypass filter (35 microns nominal), de-aeration tank, fuel oil booster pumps, steam heaters, viscometer, MGO cooler (cooled by L.T.F.W.), automatic change-over device between HFO and LSHFO/ULSFO and MGO, and other accessories, the supply/booster pumps and viscosity control to be suitable to MGO. One (1) MGO pump shall be fitted for emergency.  
+HFO, LSHFO/ULSFO transfer pump  
+No. of set : One (1)  
+Type : M.D. screw  
+Capacity : 30 m3/h  
+Total press. : 0.4MPa  
+MGO transfer pump  
+No. of set : One (1)  
+Type : M.D. screw  
+Capacity : 30 m3/h  
+Total press. : 0.4MPa  
+HFO /LSHFO/ULSFO purifier with steam heater and electric motor driven oil feed pump  
+No. of set : Two (2) (one working, one for stand-by)  
+Type : Automatic, self-cleaning, no gravity ring  
+Effective capacity : abt. 3,000 l/h (based on 380cSt/50C, max. density of 1,010kg/m3)  
+The fuel oil supply unit for composite boiler to be provided and recommended by composite boiler Maker.

@@ -1,0 +1,4 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.5 ELECTRIC GENERATOR ENGINE', 'Header 3': '6.5.1 GENERAL'}
+--------------------
+The electric generating plant shall consist of three (3) sets of diesel generator and one (1) set of emergency diesel generator. The relevant data refer to Paragraph 7.2.3. Concerning electric alternator, refer to “Electric Part”.  
+Safety protecting and auto start device for three (3) main generator sets shall be installed according to the requirements of unattended machinery space. Emergency generator set shall be auto started, switched on and supply electric power in case of the power failure of main generator sets.

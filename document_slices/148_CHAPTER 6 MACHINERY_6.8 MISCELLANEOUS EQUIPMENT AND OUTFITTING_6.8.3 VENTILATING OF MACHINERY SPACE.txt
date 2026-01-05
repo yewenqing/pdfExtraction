@@ -1,0 +1,20 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.8 MISCELLANEOUS EQUIPMENT AND OUTFITTING', 'Header 3': '6.8.3 VENTILATING OF MACHINERY SPACE'}
+--------------------
+The ventilating ducts shall be so arranged that air can be supplied to engine room where necessary such as for main engine, generator engines, composite boiler, workshop store and working space etc. All ducts shall be of steel plate or galvanized steel sheet.  
+Total capacity of ER supply fan shall be calculated according to “ISO8861Shipbuilding-Engine room ventilation in diesel engine ships – Design requirement and basis of calculation (1998(E)).  
+The ventilating ducts shall be of rectangular cross section and made with flange or welding sleeve connection to allow replacement for repair.  
+In general, min. height at main passage beneath the air duct shall be 2.0m (as far as possible). The thickness of ventilating duct shall be as follows:  
+The biggest side ≥800mm to be made of steel plate Q235-B, about 5.0mm thick;  
+600 mm ≤the biggest side< 800mm to be made of steel plate Q235-B, about 3.0mm thick; The biggest side < 600mm to be of 1.0mm galv. steel plate.  
+**The inside of main duct (not include galv. steel plate) to be painted with epoxy paint.**.  
+The air ducts shall be provided with adjustable dampers where necessary for proper ventilation keeping healthy conditions and even temperature distribution within the machinery space.  
+**Pneumatically controller fire dampers or ventilation inlet to be provided for engine room supply fans.**  
+The adjustable dampers in engine room shall be operated manually by chain if necessary.  
+The independent exhaust air duct shall be arranged for purifier area and ER workshop welding space. And the ventilating duct for purifier area should be fitted a fire damper.  
+**Exhaust duct to be provided over heavy fuel oil purifiers in the purifier’s space.**  
+**Exhaust duct to be provided in welding space of workshop.**  
+Ducts shall be securely supported or braced from ship's structure and shall be designed to avoid irregular bends or branches as far as practicable.  
+The pin, hinge, bolts and nuts in the fan casing and duct-connecting flange exposed to weather shall be stainless steel (SUS316 or brass).  
+Excess air from the engine room shall be discharged to atmosphere through louvers at the aft of the funnel.  
+The E.C.R. shall be air-conditioned and supplied with mechanical ventilation with damper.  
+The working ladders or step shall be provided for maintenance if necessary.

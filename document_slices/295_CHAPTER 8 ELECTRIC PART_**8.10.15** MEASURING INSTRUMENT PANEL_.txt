@@ -1,0 +1,10 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.10.15** MEASURING INSTRUMENT PANEL'}
+--------------------
+One (1) measuring instrument panel shall be provided at the wheelhouse ceiling console and following equipment shall be mounted:  
+* Electric slave clock
+* Digital type gyro compass repeater
+* Revolution indicator for ME
+* Anemometer
+* Ship’s speed indicator
+* Depth indicator of echo sounder
+* Rate of turn indicator

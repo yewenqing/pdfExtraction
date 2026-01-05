@@ -1,0 +1,3 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.2 PRINCIPAL PARTICULARS OF MACHINERY', 'Header 3': '6.2.1 NOx EMISSION SOLUTION'}
+--------------------
+Only IMO Tier II NOx emission limitations.

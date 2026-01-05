@@ -1,0 +1,24 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.2 STEERING SYSTEM', 'Header 3': '4.2.1 STEERING GEAR'}
+--------------------
+One (1) set of electro-hydraulic ram type with 4 cylinders and 2 rams steering gear shall be installed in the steering gear room.  
+The steering gear shall be capable of turning the rudder from 35 deg. on one side to 30 deg. on the other side within 28 seconds with operation of one of the two (2) pumps (one (1) pump stand by), under the condition that the Vessel runs ahead at the summer load draught with maximum ahead service speed.  
+The operating angle of the steering gear shall be able to reach maximum 35 degree both sides, and the rudder stoppers shall be fitted on the steering gear to prevent the rudder from being hard over at about 37 degree both sides.  
+The steering gear shall consist of two (2) electro-hydraulic pump units, each with 100% capacity, and integrated hydraulic piping instruments. If one power unit fails, the remaining unit to be able to operate by change of the gear. One (1) of two power units can be operated at the capacity in accordance with relevant rule by emergency electric power supplied from emergency generator in case of the main electric power failure.  
+Each pump unit shall be equipped with a hydraulic oil pump, an IP44 type squirrel cage electric motor and a hydraulic oil tank with a low level alarm switch.  
+***Each one pump unit in sea trial for testing to be output 100%.***  
+The power unit shall be started/stopped from the wheelhouse and the steering gear room.  
+In case of main power failure, the power shall be automatically supplied from emergency generator to steering gear within 45 seconds in compliance with the Rules and Regulations.  
+A notice plate for emergency operation shall be provided in steering gear room and wheelhouse.  
+The steering gear shall be controlled by the steering control system (auto pilot) in the wheelhouse. In addition, the steering gear also shall be provided with a manual control device in the steering gear room for emergency operation in case of failure of control system.  
+The remote control and rudder angle indicator of the steering gear shall be provided in the wheelhouse and bridge wings, and the remote rudder angle indicator shall be provided in the engine control room.  
+The piping between the pumps and cylinders shall be seamless steel.  
+The hydraulic system of the steering gear shall be flushed at the manufacturer’s shop according to their standard, and then shall be properly protected during transportation and installation.  
+A fixed hydraulic oil storage tank with manual pump ready shall be provided in the steering gear room for recharge of the system as required by the Rule.  
+The mechanical type rudder angle indicator shall be fitted on the steering gear body. The rudder angle indicator shall be independent of the steering gear control system, and be readily visible from all control positions.  
+A gyro repeater shall be installed in the steering gear room readable from the manual control stand.  
+The construction, materials, accessories, etc., shall be in compliance with the requirements of the Classification Society and the manufacturer’s standards unless otherwise specified.  
+Lifting eyes shall be fitted underneath of upper deck for maintenance of the steering gear.  
+Working platform with handrail shall be provided around the steering gear for easy accessibility.  
+Non-slip paint (width : 1 m) shall be provided from the entrance of the steering gear room to the steering gear in compliance with the Rules and Regulations.  
+Steel coaming of about 100 mm high shall be provided around the steering gear.  
+Steel chock or resin chock shall be used for liner of steering gear foundation according to Maker’s recommendation.

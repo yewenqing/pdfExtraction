@@ -1,0 +1,18 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.4 SHAFTING AND PROPELLER', 'Header 3': '6.4.6 STERN TUBE AND STERN TUBE BEARING'}
+--------------------
+#### 6.4.6.1 Stern tube assembly  
+The stern tube shall be of forge steel combined with steel plate tube and be secured by epoxy resin to the stern frame boss and bulkhead of the stern tube cooling water tank.  
+A steel plate rope guard shall be provided at the after end of the stern frame hub.  
+#### 6.4.6.2 Stern Tube Bearing  
+There are two (2) bearings in the stern tube, one at the stern frame hub and another bearing at the forward end of the stern tube.  
+The bearing shells shall be of cast iron lined with white metal and of oil retaining type.  
+The length of after stern tube bush is to comply with the requirements of Classification Society.  
+Two (2) temperature sensors shall be fitted on the aft. bearing to indicate the bearing temperature, one of them as stand-by.  
+The wear-down measuring gauge shall be provided.  
+The temperature sensors to be drawn out and replaced from engine room side. **Two remote reading temp. sensors for aft stern tube bearing to be installed. One of them to be as standby.**  
+#### 6.4.6.3 Stern Tube Seal  
+The oil seal assembly shall be fitted at forward end of the stern tube and the air seal assembly shall be fitted at aft end of the stern tube to prevent ingress of seawater or loss of lube oil.  
+Stern tube sealing shall be of non-split simplex type. The forward seal shall have two sealing rings and the aft seal shall have four sealing rings.  
+Net cutter shall be provided.  
+A split spacer ring for aft seal to be fitted for purpose of removal so that seal nest can be moved on shaft liner.  
+The renewing of stern tube sealing rings to be of possible without disconnecting the shafting or Propeller. The aft seal to be protected with welded type steel rope guard.

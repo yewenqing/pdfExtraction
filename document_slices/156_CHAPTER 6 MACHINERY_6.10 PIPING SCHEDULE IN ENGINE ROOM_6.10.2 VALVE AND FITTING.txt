@@ -1,0 +1,20 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.10 PIPING SCHEDULE IN ENGINE ROOM', 'Header 3': '6.10.2 VALVE AND FITTING'}
+--------------------
+All valves and cocks shall be in accordance with Chinese standard, but the connecting dimension of flange shall be in accordance with ISO standard.  
+In general, stop valves, gate valves and angle valves shall be used for all piping system unless specially specified. Butterfly valves shall be used for the pipe lines of 80 mm bores and above where applicable for fresh water, sea water, lubricating oil, fuel oil and others in accordance with Builder’s practice.  
+The material of the butterfly valve shall be as follows:  
+Body Cast steel for ship side valves, cast iron for others  
+Disc Aluminum bronze  
+Seat Synthetic rubber (NBR) spindle stainless steel  
+The wafer type butterfly valve shall be adopted except ship side valves, which are to be of flanged type or lugged type. That in ER (DN250mm above) to be lugged type.  
+All butterfly valves (except oil valve) shall be provided with synthetic rubber (NBR) lining or renewable NBR seat except that fluoro rubber lining shall be used for high temperature fresh water cooling system.  
+Butterfly valves for oil piping line shall be applied to oil resistance material instead of NBR seat.  
+***Manually operated butterfly valve shall be provided with mechanical indicator (open or close) actuated by the revolution of the hand wheel or hand notch***  
+In case where drain traps are served continuously, a by- pass line shall be provided.  
+Each pressure reducing valve is to be provided on its discharge side with a pressure gauge and a safety valve having sufficient discharge capacity to prevent excessive pressure in the low pressure line.  
+Temperature control valves are to be provided with a manually operated handle. In case where manual handle is not fitted, a suitable by-pass line is to be provided.  
+Valves are to be fitted as extensively as possible instead of cocks.  
+Cocks may be used for low pressure gauge and drain lines.  
+Remote quick-closing valves in fuel oil lines are to be of pneumatic type. These valves are to be capable of being operated locally.  
+Valves below engine room floor are to be arranged for easy access with wheel spindle upward vertically near to floor plate as far as possible.  
+Suitable handles having engraved brass name plate with arrow indicator in English are to be fitted to each manually operated valve.

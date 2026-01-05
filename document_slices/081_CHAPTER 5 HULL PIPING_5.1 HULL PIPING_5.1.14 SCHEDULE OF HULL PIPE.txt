@@ -1,0 +1,34 @@
+METADATA: {'Header 1': 'CHAPTER 5 HULL PIPING', 'Header 2': '5.1 HULL PIPING', 'Header 3': '5.1.14 SCHEDULE OF HULL PIPE'}
+--------------------
+|  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| System | | | | Pipe | | | Pipe  Joint | Pressure for flange (MPa) |
+| Size | Material | Thickness |
+| Tank heating coil in fuel oil tank | | | | All | Seamless steel | B | sleeve | 1.0 |
+| Compressed air pipe for deck  service | | | | All | Seamless steel  galv.\* | A | Sleeve  or flange | 1.0 |
+| Fuel oil | In pipe duct | | | All | Seamless steel | A | Sleeve or flange | 0.6 |
+| On deck | | | B |
+| Ballast | In pipe duct water  ballast tanks and void spaces | | | All | Seamless steel  galv. | B | Sleeve  or flange | 0.6 |
+| Bilge | In water ballast tanks | | | All | Seamless steel  galv. | B | Sleeve  or flange | 0.6 |
+| In other spaces | | | All | Seamless steel galv. | A | Sleeve or flange | 0.6 |
+| Domestic steam & drain | | | | 15 &  above | Seamless steel galv. | A | Sleeve or  flange | 0.6 |
+| 10 | Seamless  copper |  | Socket | 0.6 |
+| Fresh water in accommodation | | | | All | PERT***\*\**** |  | Sleeve or Flange | 1.0 |
+| Hot fresh water in accommodation | | | | All | PERT***\*\**** |  | Sleeve  or  Flange | 1.0 |
+| Soil pipe | | | | All | Seamless steel  galv. or PVC***\*\**** | B | Sleeve  or  Flange | 0.6 |
+| Sanitary Water | | | | All | Seamless steel  galv. or PVC***\*\**** | B | Sleeve  or  Flange | 0.6 |
+| Scupper | | Above upper deck | | All | Seamless steel galv. | B | Sleeve or flange | 0.6 |
+| Under upper deck | | All | Seamless steel  galv. | B as per  Rule | Sleeve  or flange | 0.6 |
+| Air | | For oil tanks | | All | Seamless steel. | B as per  Rule | Sleeve  or flange | 0.6 |
+| For other tanks | | All | Seamless steel galv. | B as per  Rule | Sleeve or flange |
+| Sounding | | In oil tanks | | All | Seamless steel | B as per  Rule | Sleeve  or flange | 0.6 |
+| In other tanks | | All | Seamless steel  galv. | B as per  Rule | Sleeve  or flange | 0.6 |
+| Fire and wash deck | | | | All | Seamless steel galv. | B | Sleeve or flange | 1.0 |
+| Refrigerant | | | Connecting  pipe | All | As per Maker’s standard  ***(to be seamless)*** | | | |
+| CO2 | | | Connecting  pipe | All | As per Maker’s standard  ***(to be seamless)*** | | | |  
+Notes:  
+Thickness of pipe in the table refer to Paragraph 7.11.4 of Machinery Part. A……ordinary, B……Medium, C……Heavy  
+\* Compressed air horn pipe exposed to weather shall be of seamless copper.  
+\*\* If the PERT or PVC used ,the pipe penetration to be steel filling with PERT or PVC inside.  
+All galv. pipes to be of hot dip type.  
+The F.O. pipe, steam pipe to be not through water tank. The water pipe to be not through oil tank.

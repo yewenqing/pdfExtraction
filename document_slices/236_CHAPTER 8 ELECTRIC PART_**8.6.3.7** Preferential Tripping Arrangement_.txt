@@ -1,0 +1,11 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.6.3.7** Preferential Tripping Arrangement'}
+--------------------
+Preferential tripping arrangement shall be as follows:  
+First stage unload:  
+* Galley and laundry powers;
+* Air conditioner compressor room warmers etc.
+* Ventilation fan for accommodation
+* Lathe, drilling machine, tool grinder
+* Air conditioner for engine control room;  
+Second stage unload:  
+* Reefer containers

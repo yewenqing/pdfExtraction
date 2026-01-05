@@ -1,0 +1,11 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.9.1** SOUND POWER TELEPHONE'}
+--------------------
+One (1) set of selective calling type sound power telephone system shall be provided as follows:  
+1- Wheelhouse  
+1- Emergency generator room  
+1- Fire control station  
+1- Steering gear room  
+1- Bow thruster room  
+1- Engine control room/main engine side.  
+1- Fuel oil filling station (one portable telephone and two sockets).  
+The sound power telephone in engine room, steering gear room, bow thruster room and emergency generator room shall be of anti-noise type (head set type).

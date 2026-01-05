@@ -1,0 +1,13 @@
+METADATA: {'Header 1': 'CHAPTER 7 AUTOMATION AND REMOTE CONTROL', 'Header 2': '**7.2.3.4** Shafting Revolution Indicators'}
+--------------------
+One (1) set of shafting revolution-indicating system shall be provided and installed at  
+following places.  
+One (1) pick-up type transmitter on M/E flywheel.  
+One (1) flush type RPM indicator with an illumination on wheelhouse ceiling console with  
+separate dimmer switch on W/H control console.  
+Each wall type RPM indicator (with dimmer) on each bridge wings.  
+One (1) flush type RPM indicator on the engine control console and Chief Engineer’s day  
+room.  
+One (1) electric or mechanical type indicator at main engine machine side according to  
+engine Maker's standard.  
+One (1) shaft revolution counter of 8digits shall be provided on engine control console.

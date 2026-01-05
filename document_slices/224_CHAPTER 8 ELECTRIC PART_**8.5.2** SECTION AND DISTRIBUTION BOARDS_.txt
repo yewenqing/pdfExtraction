@@ -1,0 +1,9 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.5.2** SECTION AND DISTRIBUTION BOARDS'}
+--------------------
+All section boards and distribution boards shall be enclosed with steel sheet case.  
+***Certified rubber insulation mats (IEC61111) shall be provided around reefer container distribution panels.***  
+Distribution boards and section boards fitted in the living quarters and other similar places shall be of non-water-proof type, and those fitted in the engine room, steering gear room, stores and other similar places shall be of drip-proof type.  
+Reefer container distribution panels shall be fitted in under deck passageway of cargo hold region and shall be non-water-proof type.  
+In general, distribution boards and section boards shall be equipped with two or three pole miniature circuit breaker (MCB).  
+An electric circuit drawing shall be provided in a vinyl envelope in each distribution boards or boxes.  
+The circuit label shall be fitted on the inside of each board door.

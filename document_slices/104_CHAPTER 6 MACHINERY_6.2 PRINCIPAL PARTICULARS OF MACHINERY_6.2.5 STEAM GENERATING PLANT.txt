@@ -1,0 +1,13 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.2 PRINCIPAL PARTICULARS OF MACHINERY', 'Header 3': '6.2.5 STEAM GENERATING PLANT'}
+--------------------
+Composite boiler  
+No. of set : One (1)  
+Type : Cylindrical vertical type with pressure atomizedburner and feed water regulator (on/off control).  
+Evaporation  
+Oil fired section : Abt.1,800kg/h, final capacity to be decided acc. to steam balance.  
+Exhaust gas section : abt. 1,300 kg/h at CSR of M/E under ISO condition.  
+Steam state : 0.7 MPa (working) saturated  
+Feed water temperature : 80oC  
+Fuel : HFO, LSHFO/ULSFO,MGO  
+The exhaust gas section of the composite boiler also serves as M/E exhaust gas silencer and the noise attenuation shall be as per Maker’s standard.  
+Final capacity to be decided acc. to final selected maker’s calculation.

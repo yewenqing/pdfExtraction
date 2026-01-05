@@ -1,0 +1,10 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.7 AUXILIARY MACHINERY', 'Header 3': '6.7.5 FRESH WATER GENERATOR'}
+--------------------
+The vacuum type fresh water generator, utilizing the waste heat of M/E jacket cooling F.W. shall be installed in engine room and shall be cooled by sea water.  
+The generator to be of plate type with titanium plates.  
+The fresh water generator shall produce rated capacity of fresh water not exceeding 10p.p.m. of salinity at rated vacuum and main engine jacket cooling F.W. temperature of 85C and cooling sea water temperature of 32C.  
+The fresh water generator shall consist of an evaporator, a condenser and complete with water ejector, ejector pump, distillate pump, salinity indicator, automatic alarm, water meter and other necessaries for operation.  
+Fresh water with high salinity shall be automatically discharged back to the fresh water generator or bilge.  
+A chemical injection system included dosage tank shall be provided.  
+**Main Engine to be tested during sea trial for one(1) hour without operation of fresh water generator in order to confirm that the jacket cooler capacity is sufficient for dissipating of main engine heat produced.**  
+The materials shall comply with the requirements of the Classification Society and Maker's standard.

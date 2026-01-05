@@ -1,0 +1,12 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.4 SHAFTING AND PROPELLER', 'Header 3': '6.4.7 PROPELLER, FAIR WATER CAP AND PROPELLER NUT'}
+--------------------
+The propeller is to be of fixed pitch, aerofoil section, right handed, nickel aluminum bronze, keyless type.  
+The propeller design to refer to the “Chapter 1 General paragraph 1.2.7.2”  
+**The surface roughness measurement and the static balancing test of the propeller to be carried out in accordance with the manufacturer's standards in compliance with the requirements of the Classification Society.**  
+The hub shall be bored to taper so that it may be accurately fitted to the taper end of the propeller shaft.  
+The propeller shall be force fitted to the propeller shaft and secured by hydraulic mounting tool and hydraulic nut with locking device.  
+A fair water cap of Ni-Al bronze is to be fitted over the propeller nut.  
+The fair water cap shall be drilled and to have connections with brass plugs for filling the void spaces with rust preventive grease.  
+After the propeller has been finished and inspected according to ISO 484 class 1 standard, the static balance of the propeller shall be checked.  
+**The shafting shall be so designed that the propeller can be dismounted without removal of the propeller shaft ,and the steering gear shall be able to turn suitable degree (with dismantle limit stopper/ram pin to release the rudder angle restriction) to enable propeller removal.**  
+***Propeller light running margin to 6 %.***

@@ -1,0 +1,5 @@
+METADATA: {'Header 1': 'CHAPTER 3 ACCOMMODATION'}
+--------------------
+Cabin arrangement shall be as shown on G.A. plan.  
+The clear height of accommodation spaces between the deck surface covering and the underside of deck head beam or ceiling shall be about 2,100 mm in general, except that to be about 2,030 mm in sanitary, catering spaces, refrigerated provision stores, ***2300mm for Gymnasium if possible.*** However, the protruding parts shall be excluded from the measurement.  
+In wheelhouse, the clear height between the bridge deck surface covering and the underside of the deck head beam or ceiling shall be at least 2,200 mm, and the lower edge of deck head mounted equipment shall be about 2,100 mm.

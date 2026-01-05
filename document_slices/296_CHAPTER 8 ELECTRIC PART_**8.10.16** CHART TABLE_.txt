@@ -1,0 +1,11 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.10.16** CHART TABLE'}
+--------------------
+One (1) chart table to be provided in the wheelhouse and following instruments to be mounted:  
+* Master clock with slave clock control panel
+* Speed log indicator master panel
+* No.1 DGPS
+* Weather facsimile recorder
+* Chart table lights with dimmer
+* Course recorder
+* Echo sounder main unit
+* Navtex receiver

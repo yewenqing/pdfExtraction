@@ -1,0 +1,17 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.2 PRINCIPAL PARTICULARS OF MACHINERY', 'Header 3': '6.2.3 SHAFTING AND PROPELLER'}
+--------------------
+|  |  |  |
+| --- | --- | --- |
+| One (1) -Intermediate shaft  Material:  Diameter: |  | Forged steel  Abt. 3mm above the Classification Society Rules, subject to torsion vibration calculation, and bearing part to be of 5mm over size with at least 15 mm beyond the ends of bearing. |
+| One (1) -Propeller shaft  Material:  Diameter: |  | Forged steel with integral flange at fore end.  Abt. 5 mm above the Classification Society Rules, subject to torsion vibration calculation |
+| One (1) - Intermediate shaft bearing |  | Cast iron or cast steel construction with removable steel half shells (upper and lower part) lined with white metal.  (Number may be adjusted as the result of shafting line alignment calculation.) |
+| One (1) -Stern tube assembly |  | The stern tube shall be of forge steel combined with steel plate tube, to be installed on hull structure by  epoxy resin. |
+| One (1) -Stern tube seal |  | Oil seal at forward (two rings seal) and air seal (four rings seal) for aft end with rope guard and net cutter .  A split spacer ring of aft seal to be fitted for purpose  of removal so that seal nest can be moved on shaft liner. |
+| One (1) -Stern tube bearing  (Forward and aft.) |  | Cast iron bearing bush lined with white metal. |  
+One (1) -Propeller  
+Type: Solid, aerodynamic section, keyless, right handed looking from aft.  
+Material: Nickel aluminum bronze of suitable diameter and pitch.  
+One (1) -Fair water cap  
+Material: Ni Al bronze  
+One (1) -Propeller Nut Conventional type made of forged steel with hydraulic mounting.  
+Neither spare propeller nor spare propeller shaft to be provided.

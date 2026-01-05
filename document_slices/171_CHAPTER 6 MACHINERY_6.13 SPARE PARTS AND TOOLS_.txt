@@ -1,0 +1,39 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.13 SPARE PARTS AND TOOLS'}
+--------------------
+All spare parts and special tools shall be supplied according to the Rules of Classification Society and manufacturer’s standard.  
+***Normally only 1 set spare for each type equipment, such as Aux engines, just one set spare for three Aux engines.***  
+***The spares list will be supplied to the owner after the yard receive the approved drawing from maker. The list will be checked by yard, if have any deviation, the shipyard will inform the owner.***  
+General tools and outfits for machinery part are supplied according to builder standard.  
+**`**  
+**CHAPTER 7**  
+**AUTOMATION**  
+Version:A  
+Key words: Breadth 27.5m, Gearless, 6S60ME-C10.5 Tier II, 220ReeferPlugs, Open loop scrubber  
+CONTENT  
+[CONTENT 2](#_Toc50574715)  
+[CHAPTER 7 AUTOMATION AND REMOTE CONTROL 3](#_Toc50574716)  
+[7.1. General 3](#_Toc50574717)  
+[7.1.1. Principle 3](#_Toc50574718)  
+[7.1.2. Control standS 3](#_Toc50574719)  
+[7.1.3. Control room 5](#_Toc50574720)  
+[7.2. Automation System 6](#_Toc50574721)  
+[7.2.1. Engine’s Alarm and Monitoring System 6](#_Toc50574722)  
+[7.2.2. Automation System 8](#_Toc50574723)  
+[7.2.3. Main Propulsion Control 8](#_Toc50574724)  
+[7.2.3.1. Main Engine Control System 9](#_Toc50574725)  
+[7.2.3.2. Protecting and safety devices 10](#_Toc50574726)  
+[7.2.3.3. Telegraph System 11](#_Toc50574727)  
+[7.2.3.4. Shafting Revolution Indicators 12](#_Toc50574728)  
+[7.2.4. Control of electric gneeratring plant 12](#_Toc50574729)  
+[7.2.4.1. Main generator sets 12](#_Toc50574730)  
+[7.2.4.2. Emergency diesel generator set 14](#_Toc50574731)  
+[7.2.5. Composite Boiler 14](#_Toc50574732)  
+[7.2.6. Control of Oil Purifiers 14](#_Toc50574733)  
+[7.2.7. Control of Air Compressors 15](#_Toc50574734)  
+[7.2.8. Scrubber Operation and Control 15](#_Toc50574735)  
+[7.2.9. Special Control Functions 16](#_Toc50574736)  
+[7.2.10. Local Automatic Control 16](#_Toc50574737)  
+[7.2.11. Miscellaneous Controls 16](#_Toc50574738)  
+[7.2.12. Running Lamps 17](#_Toc50574739)  
+[7.2.13. Remote Quick Closing Valve 17](#_Toc50574740)  
+[7.2.14. Ballast Control Station 17](#_Toc50574741)

@@ -1,0 +1,4 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.8.2.1** Daylight Signal Lamp (DC 24 V)'}
+--------------------
+One (1) set of portable type daylight signal lamp (60 W) shall be provided with battery and charger.  
+One (1) source receptacles shall be installed on each bridge wing.

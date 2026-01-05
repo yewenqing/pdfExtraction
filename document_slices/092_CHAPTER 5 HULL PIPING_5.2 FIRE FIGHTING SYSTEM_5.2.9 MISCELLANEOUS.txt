@@ -1,0 +1,3 @@
+METADATA: {'Header 1': 'CHAPTER 5 HULL PIPING', 'Header 2': '5.2 FIRE FIGHTING SYSTEM', 'Header 3': '5.2.9 MISCELLANEOUS'}
+--------------------
+Fire-fighting equipment, such as axes, emergency escape breathing devices (EEBD), etc. shall be provided and stowed in the space in accordance with the Rules and Regulations in the Specification.

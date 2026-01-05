@@ -1,0 +1,7 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.6.1** GENERAL'}
+--------------------
+The specification described in this section shall be applied to the power motors and their control equipment except for following electrical equipment which are constructed according the maker's standards:  
+(1) Galley and laundry equipment  
+(2) Governor motors  
+(3) Instrumentation and automation equipment  
+(4) Motors and their control equipment supplied as a complete set with auxiliaries machinery such as deck machinery, aux. blower, turning gear, small and household appliances etc.

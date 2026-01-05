@@ -1,0 +1,13 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.10 NAVIGATION EQUIPMENT', 'Header 3': '4.10.2 SOUND SIGNAL AND SHAPE EQUIPMENT'}
+--------------------
+|  |  |
+| --- | --- |
+| Item | Number |
+| Electric whistle on fore mast | 1 |
+| Air horn on radar mast | 1 |
+| Big signal bell, | As per Rules |
+| Signal gong (460 mm) | As per Rules |
+| 610mm black ball | 3 |
+| Ship's bell (300 mm dia. on forecastle deck) | 1 |
+| Black diamond shape  (610 mm dia. x 1,200 mm folding type) | 1 |
+| Black cylindrical shape  (610 mm dia. x 1,200 mm folding type) | 2 |

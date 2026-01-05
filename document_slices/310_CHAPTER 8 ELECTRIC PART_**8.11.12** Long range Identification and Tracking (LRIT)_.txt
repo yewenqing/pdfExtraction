@@ -1,0 +1,4 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.11.12** Long range Identification and Tracking (LRIT)'}
+--------------------
+One (1) set long range identification and tracking system (LRIT) will be provided.  
+LRIT may be combined with Inmarsat C system.

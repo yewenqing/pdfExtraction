@@ -1,0 +1,8 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.8.1** NAVIGATION LIGHTS'}
+--------------------
+The following navigation lights shall be of double lamp type and connected to a panel with control switches and indicating lamps graphically arranged, audible and visible signal alarm, and this panel shall be incorporated into the wheelhouse control console.  
+Navigation lamps should be installed according the requirement of Rules. Navigation lights and its controller should meet the performance standard requirement MSC.253 (83) and as per rules.  
+Two separate feeder circuits shall be provided for the panel, one (1) from the AC 220V feeder panel of main switchboard directly and one (1) from the AC 220 V feeder panel of emergency switchboard directly.  
+Two (2) - Mast head lights AC. 220 V, 60-65 W  
+Two (2) - Side lights AC. 220 V, 60-65 W  
+One (1) - Stern light AC. 220 V, 60-65 W

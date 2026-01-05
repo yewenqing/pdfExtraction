@@ -1,0 +1,3 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.11.9** RADAR TRANSPONDER'}
+--------------------
+Two (2) sets of radar transponder operating on 9 GHz shall be provided. Four(4) brackets shall be supplied, which two of them shall be installed in the lifeboats.

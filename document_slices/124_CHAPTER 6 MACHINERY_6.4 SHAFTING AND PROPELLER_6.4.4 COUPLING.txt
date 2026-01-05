@@ -1,0 +1,4 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.4 SHAFTING AND PROPELLER', 'Header 3': '6.4.4 COUPLING'}
+--------------------
+The diameter of the coupling bolts and the thickness of the coupling flanges of intermediate shaft and propeller shaft are to comply with the requirements of the Classification Society.  
+The fillet radius at the base of flanges is to comply with the requirements of the Classification Society.

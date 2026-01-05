@@ -1,0 +1,16 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.11.4** SATELLITE COMMUNICATION SYSTEM'}
+--------------------
+(1) INMARSAT-Feet Broadband FB 500 (AC 220 V)  
+One (1) set INMARSAT Fleet broad band 500 standard will be installed, consisting of:  
+1- Main unit  
+1- Telephone (in captain day room)  
+1- Facsimile in radio space  
+1- Antenna on compass deck  
+1- AC/DC power supply unit  
+(2) INMARSAT-C (AC 220 V / DC 24 V)  
+Two (2) sets of standard-C satellite communication SES with EGC reception (One of them may be combined with LRIT and SSAS function), each one shall be provided as follows:  
+1-Main unit  
+1-Terminal unit  
+1-Printer  
+1. Antenna  
+DC 24 V Power shall be fed from the radio battery.

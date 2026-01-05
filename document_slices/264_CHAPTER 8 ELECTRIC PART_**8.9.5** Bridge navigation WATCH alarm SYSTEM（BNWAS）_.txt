@@ -1,0 +1,4 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.9.5** Bridge navigation WATCH alarm SYSTEM（BNWAS）'}
+--------------------
+One (1) set of bridge navigation watch alarm system (BNWAS) will be supplied according to requirements of the IMO Res.MSC.128 (75).  
+One (1) main unit shall be installed in wheelhouse control console and each one (1) set of signal box with acknowledge push button shall be provided in wheel house and both wing of the bridge, alarm signal of notification shall be provided in Captain, Chief off., 2nd off., 3rd off. cabin, Officer mess room and ship's office, recreation room and Gymnasium..

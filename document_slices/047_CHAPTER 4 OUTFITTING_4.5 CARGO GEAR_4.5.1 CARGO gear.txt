@@ -1,0 +1,3 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.5 CARGO GEAR', 'Header 3': '4.5.1 CARGO gear'}
+--------------------
+No deck crane to be fitted.

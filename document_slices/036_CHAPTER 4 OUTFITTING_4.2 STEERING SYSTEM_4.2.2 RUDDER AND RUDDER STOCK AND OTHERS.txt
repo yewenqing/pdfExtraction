@@ -1,0 +1,14 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.2 STEERING SYSTEM', 'Header 3': '4.2.2 RUDDER AND RUDDER STOCK AND OTHERS'}
+--------------------
+Rudder to be of semi balance spade type. A suitable rudder bulb shall be fitted on the rudder.  
+The rudder area to be designed as per Class rules.  
+Propeller shall be capable of removal without dismantling the rudder ,rudder bulb.  
+The rudder plates and horizontal & vertical rudder frames to be of fabricated steel plate.  
+The rudder blade is made of high quality, sand blast shipbuilding steel and is pressure tested.  
+The rudder blade is constructed with a streamline cone coupling for the connection to the rudder stock.  
+The rudder blade has a protection against corrosion, which is inside solution and outside primer.  
+Rudder blade to be arranged with provision for hoisting eye.  
+Earthing device to be provided for rudder stock.  
+The jumping stopper shall be provided in way of the rudder top.  
+Rudder stock to be constructed of forged steel and to have keyless ways at the upper and lower ends to take steering gear and rudder respectively. Lower part of rudder stock to be tapered with screw, and connected with rudder by a nut. Rudder stock to be fitted with sleeve in way of lower bearing. ***Sleeves for rudder stock to be of stainless steel 316L material***  
+Lifting hole, lifting eye plate, air and drain plug of the rudder to be provided. ***Peep hole or small manhole shall be provided to take rudder pintle and bush clearance in afloat condition.***

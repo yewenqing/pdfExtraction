@@ -1,0 +1,35 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.4.1** TRANSFORMERS'}
+--------------------
+1. For General Service  
+Two (2) sets of 3 phase main transformer (i.e. d-d or y-y) shall be installed in the engine room. One (1) transformer shall be capable of supplying to all AC220V service so that only one (1) transformer is for working and the other is for spare. Working transformer manually changing-over shall be provided only.  
+Principal particulars shall be as follows:  
+Type: Drip-proof, dry type  
+Output: Abt.99 kVA (as per final E-balance)  
+Number: 2 (one as stand-by)  
+Voltage: AC 450/230V  
+Frequency: 60 Hz  
+Insulation: Class F  
+Rating: Continuous  
+Cooling: Natural-cooling  
+1. For Emergency Service  
+Two (2) sets of 3 phase transformers (i.e. d-y11) shall be installed in the emergency generator room for emergency service. One (1) transformer shall be capable of supplying all emergency service so that only one (1) transformer is for working and the other is for spare. Working transformer manually changing-over shall be provided.  
+Principal particulars shall be as follows:  
+Type: Drip-proof, dry type  
+Output: Abt. 50 kVA (as per final E-balance)  
+Number: 2 (one as stand-by)  
+Voltage: AC 450/230 V  
+Frequency: 60 Hz  
+Insulation: Class F  
+Rating: Continuous  
+Cooling: Natural-cooling  
+1. For Galley Service  
+One (1) set of 3 phase transformers (i.e. y-d11) shall be installed in galley room or near place for galley service. The transformer shall be double wiring and capable of supplying all AC440V & AC220Vservice.  
+Principal particulars shall be as follows:  
+Type: Drip-proof, dry type  
+Output: Abt. 99 kVA (450V 65kVA / 230V 30kVA) (as per final E-balance)  
+Number: 1  
+Voltage: AC 450/450V/ 230 V  
+Frequency: 60 Hz  
+Insulation: Class F  
+Rating: Continuous  
+Cooling: Natural-cooling

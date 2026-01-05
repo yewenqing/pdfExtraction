@@ -1,0 +1,15 @@
+METADATA: {'Header 1': 'CHAPTER 5 HULL PIPING', 'Header 2': '5.2 FIRE FIGHTING SYSTEM', 'Header 3': '5.2.7 FIRE control STATION'}
+--------------------
+A fire control station for fire-fighting system shall be arranged in living quarters.  
+Followings shall be controlled or stowed in:  
+* Emergency stop of the ventilation fans for E/R
+* Emergency stop of fuel oil pumps and lubricating pumps in E/R
+* Emergency quick-closing of valves on oil tanks in E/R
+* Start/stop push button of the bilge, fire & G.S. pumps and emergency fire pump
+* Fire alarm push button
+* Fire alarm repeater panel
+* Portable international shore connector
+* Portable fire extinguisher as required by the Rule
+* CO2 releasing box for engine room
+* Auto telephone
+* Others as per the Rule and Regulation

@@ -1,0 +1,23 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.1 anchoring AND MOORING EQUIPMENT', 'Header 3': '4.1.5 mooring fitting AND MOORING ROPE'}
+--------------------
+#### 4.1.5.1 Mooring Rope  
+Mooring ropes shall be equipped in accordance with the Rules requirements as follows:  
+|  |  |  |
+| --- | --- | --- |
+| Item | No. | Standard |
+| Mooring rope | 11 | 64mm dia. x***220m*** floating type (Polypropylene or equivalent material) (size subject to maker’s recommendation)with strength of as per Rules but min. 500kN |
+| Towing rope(Buyer’s supply) | 1 | Steel wire, 260m with strength of min.1,471kN |  
+#### 4.1.5.2 Mooring Fitting  
+The mooring fittings shall be arranged as symmetric as possible as shown on the G.A. plan.  
+***Mooring fittings, such as bollard, fairleader, close chock, stand fairleader etc, to be arranged as shown on the G.A plan. ISO or GB standard type mooring fitting will be choosen by design stage.***  
+Size, number and type of mooring fitting shall be finally determined according to the “Mooring fitting arrangement plan” during detail design stage based on the requirements of Rules.  
+Construction, material, dimensions etc. of the mooring fittings not specified in the Specification shall be in accordance with the Builder’s standard.  
+***2-roller or 3-roller type fairleader to be provided. All roller type chocks to be provided with upper roller and/or retaining pipe, in order to avoid rope jumping.***  
+***All deck rollers to be removed / under surface cleaned and final coat applied prior delivery to avoid rust streaks running from dust trapped underneath during grinding in vicinity as far as possible.***  
+All moving parts of the fittings shall have bronze bushes and fitted grease nipple. ***The***  
+***grease gun to be provided and the grease nipples to be of same size/type as far as possible.***  
+Non-slip paint shall be provided around bollard and rope handling space for anti-slip.  
+All surfaces of the fittings in contact with the mooring rope shall be ground smoothly so that the mooring rope can be protected from wearing.  
+Seat of mooring fitting shall be of steel plate and strengthened under deck as per Rules.  
+Round bar or half round bar shall be fitted on the top of shell plate in way of mooring fitting to protect rope.  
+The safety working loads to be welded on the equipment.

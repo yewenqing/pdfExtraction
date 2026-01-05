@@ -1,0 +1,4 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.9.17** PC LOCAL AREA NETWORK'}
+--------------------
+1- LAN system (***Owner*** supply; 10 stand socket, ***CAT.6 type*** cable wiring ***and sockets shall*** be supplied by the Builder only)  
+**This system to be connected to VSAT.**

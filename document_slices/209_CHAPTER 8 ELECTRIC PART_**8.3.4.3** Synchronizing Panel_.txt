@@ -1,0 +1,23 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.3.4.3** Synchronizing Panel'}
+--------------------
+The following apparatus shall be provided:  
+1 -Dual voltmeter and frequency meter for main bus bar and each generator with generator selection switch  
+3 -kW meters  
+3-Governor control switches  
+1 -Synchroscope with a control switch  
+1 -Set of synchronizing lamp  
+1 -Set of stand by gen. select switch  
+1 –Set gen. Stand-by indicating lamp  
+1 –24 V DC source indicating lamp  
+1 –Emergency gen. running indicating lamp  
+1 –Emergency gen. in auto mode indicating lamp  
+1 –Alarm unit  
+1 set Red lamps for the following alarm:  
+* - MSB preferential & emergency stop circuit source fail
+* Preferential trip
+* Low/high voltage
+* Low frequency
+* Insulation low for AC 440V circuit
+* Insulation low for AC 220V circuit in main switchboard
+* 1- Lamp test switch/alarm reset button  
+And other necessary equipment;

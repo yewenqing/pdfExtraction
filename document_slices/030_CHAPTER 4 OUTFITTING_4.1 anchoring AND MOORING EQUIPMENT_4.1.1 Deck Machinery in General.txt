@@ -1,0 +1,22 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.1 anchoring AND MOORING EQUIPMENT', 'Header 3': '4.1.1 Deck Machinery in General'}
+--------------------
+The arrangement of windlass and mooring winch shall be in accordance with the requirement of the Classification Society ***and Panama Canal regulations of 2020***. Final arrangement of winches and mooring fittings shall subject to detailed Mooring Fitting Arrangement Plan during detail design stage.  
+Electric hydraulic type deck machinery with auto-tension device for mooring drum shall be provided as shown on the G.A. plan.  
+Electric heater to be provided for electrical motor of deck machinery.  
+Gear for cable lifter part shall be of open type with steel cover for dust protection and gear for mooring winches shall be of enclosed type.  
+The mooring drum shall be of split type and large enough to wind the required mooring rope of not less than ***220*** m long and 64mm diameter(size subject to maker’s recommendation) on storage of the drum.  
+Warping head shall be of cast iron smooth barrel tube type and shall be directly connected to driving shaft without clutching device.  
+**Protection *plate or pipe* to be provided on top of the hydraulic motor especially if the motor is axial piston type.**  
+Each cable lifter and mooring drum shall be fitted with two (2) halves type hand operated friction band brake and clutch operated locally. Brake drum surface for cable lifter and mooring drum shall be of mild steel. **Break lining wear indication method to be provided as per maker’s standard.**  
+**Grease nipple to be provided for greasing the pin of brake bands and all pins. Grease**  
+**nipples to be of the same type as far as possible.**  
+Seat of cable lifters shall be of open type with height as low as possible.  
+Steel chock for cable lifters and resin chock for mooring winches shall be used for the liner of foundation.  
+The windlass/mooring winch shall be operated by local control. The control handle combined with a control stand shall be provided near the driving motor of each windlass and mooring winch at each machine side for local control. The clutch of mooring winch shall be provided with manual control device at machine side for local control.  
+Shipside remote control stand for the mooring winch to be provided with following function:  
+For mooring winch: remote control stand shall be combined with auto-tension control, speed, emergency stop, direction change  
+Material, construction, spare parts, etc. shall be in accordance with the manufacturer's standards and shall comply with requirements of Classification Society.  
+The stainless steel name plate shall be provided for each combined windlass/mooring winch and mooring winch.  
+***Snap back zones to be indicated on the mooring arrangements and paint marked on deck.***  
+***It is safe practice to provide rope guard around the mooring winch operation platform.***  
+***All platforms frame for windlass and winches to be galvanized open grating***

@@ -1,0 +1,36 @@
+METADATA: {'Header 1': 'CHAPTER 7 AUTOMATION AND REMOTE CONTROL', 'Header 2': '**7.2.4.1** Main generator sets'}
+--------------------
+The main generator sets shall be either manually remote controlled or automatically control, and also be capable of being started and stopped locally. Three(3) engine generators shall be capable of being set in stand-by with the selecting switch on main switchboard.  
+1. Manual control  
+The generator's engines shall be provided with remote manual starting and stopping facilities, EMCY stop and speed control switch in MSB, and local start/stop shall be also provided.  
+Manual synchronizing shall be available by means of synchronoscope and synchronizing lamps and the governor control switches for diesel generators on main switchboard.  
+Manual load sharing shall be carried out with the governor control switches for generators on main switchboard.  
+1. Automatic control  
+The main generating plant shall be automatically controlled by means of Power Management System (PMS) and safety system i.e.  
+- Automatic start/stop  
+- Monitoring of critical parameters  
+- Safety system with shutdown  
+- Automatic synchronizing  
+- Automatic load sharing  
+- Frequency control  
+- Load dependent start / stop  
+- Bow thruster start inquiry  
+1) Automatic start and stop of stand-by generator  
+When loading of a running generator is over about 90% of rated load, the predetermined generator shall be started, synchronized and the circuit breaker of started generator shall be closed and the load shall be shared automatically.  
+When two (2) or more generators are running in parallel and the total power is below about certain percentage of one generator’s rated load, the predetermined generator in running shall shift the load and the circuit breaker shall be opened and the engine shall be stopped after a time delay automatically.  
+Stand-by generator shall be automatically started in the following conditions:  
+(1) Power failure of main bus  
+(2) Low frequency of main bus  
+(3) Low voltage of main bus  
+(4) High voltage of main bus  
+(5) Trip of any air circuit breaker of running generators  
+(6) Over load (when one generator is running)  
+2) In case of above items (1) to (4)  
+The circuit breaker of running generator shall be automatically opened, and the circuit breaker of started generator shall be closed.  
+Then, some essential electric equipment formerly operated shall be automatically connected in sequence.  
+3) In case of above items (5) and (6)  
+The started generator shall be automatically synchronized and connected to main bus, and then the loads of generators shall be automatically shared.  
+The stand-by set shall be pre-lubricated according to Maker’s requirement. Automatic/manual selecting switch for pre-lubricating pump of each set shall be arranged in the starter.  
+When main generators operate in parallel and one of them fails, the preference trip system to be initiated and trip the non-essential loadsinclude Bow thruster. The non-essential consumers shall be manually restarted after tripping.  
+In case of “black-out”, the stand-by set shall be started automatically.  
+*Interlock between PMS operation and Generator standby system to be provided to prevent PMS selection when no generator is put on standby*.

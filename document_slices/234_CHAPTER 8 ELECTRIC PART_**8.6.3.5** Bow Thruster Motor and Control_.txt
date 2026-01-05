@@ -1,0 +1,18 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.6.3.5** Bow Thruster Motor and Control'}
+--------------------
+Bow thruster motor shall be interlocked with bow thruster room fan and the pitch of blades is in zero position.  
+The motor shall be of single speed and non-reversible type. The motor rating is S2-30 min as per manufacturer’s manual.  
+The motor can be started/stopped from local starter and wheelhouse and can be emergency stopped from both bridge wings. The running indication shall be provided in wheelhouse.  
+PT100 temperature sensors will be supplied in main motor winding.  
+The starter for bow thruster is located in bow thruster room or suitable place,**BT starter to be in upper deck level of BT room and not in the same level as BT motor..**  
+Bow thruster pitch order & response signal will be supplied to VDR system from bow thruster remote control system.  
+Adjustable timer shall be provided in the starter to prevent immediate re-starting of bow thruster.  
+**Load indicator to be provided in wheel house panel. MSB Bow Thruster Feeder Panel to include Running indication and Abnormal Condition Lights.**  
+Following shall be provided for the control of bow thruster.  
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Location | Start/stop | Pitch control & indicator | Em'cy stop | Ammeter |
+| Starter | O | - | - | O |
+| Wheelhouse control panel | O | O | O | - |
+| Wing control panels  (fixed type) | - | O | O | - |
+| Local (motor side) | O | *-* | *-* | - |

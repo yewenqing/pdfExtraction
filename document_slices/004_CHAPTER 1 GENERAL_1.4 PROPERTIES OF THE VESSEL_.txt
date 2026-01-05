@@ -1,0 +1,97 @@
+METADATA: {'Header 1': 'CHAPTER 1 GENERAL', 'Header 2': '1.4 PROPERTIES OF THE VESSEL'}
+--------------------
+1.4.1 MODEL TEST  
+The model tests consist of the following items which shall be carried out at SSSRI (Shanghai Ship& Shipping Research Institute) and / or CSSRC (China Ship Scientific Research Center).  
+1. Resistance test, at the sea trial ballast draught / EEDI draught / design draught / scantling draught (4draughts), six (6) speeds.
+2. Self-propulsion test with design propeller at sea trial ballast draught / EEDI draught / design draught / scantling draught (4draughts), six (6) speeds.
+3. Open water test of design propeller
+4. Stream line paint test for bilge keel at service speed on design draught
+5. 3-D Wake field measurement at service speed on design draught
+6. Designed propeller cavitation test with pressure fluctuation measurement at service speed on design draught and trial ballast draught. ***The rudder cavitation can be observed together, and the cavitation report will be provided including the rudder cavitation description.***  
+Model test reports shall be submitted to the Buyer for reference only.  
+EEDI verification shall be carried out according to IMO Resolution MEPC.254(67) and ISO 15016:2015(E).  
+The Builder will inform the Buyer to attend model test. The fee that Buyer attend model test are on Buyer’s account.  
+1.4.2 deadweight and lightweight  
+The deadweight shall be the difference between the lightweight and fully loaded displacement in sea water of specific gravity of 1.025.  
+“Fully loaded displacement” is the total displacement in metric tons at the draught specified in “1.2.3 Principal Dimensions” in sea water of specific gravity of 1.025 including shell and all appendages, under the condition of even keel, no heel, no deflection of the Vessel.  
+The following items shall belong to the lightweight:  
+* Hull, outfitting, machinery and electric weights, including the weight of fittings and equipment as stated in the Specification;
+* Spare parts and inventories according to the requirement of Classification Society and other contractual Regulatory Bodies;
+* Oil and water inside the machinery, heat exchangers, supplying/circulating piping and valves in engine room directly related to main engine based on the minimum quantity necessary for main engine starting.
+* Fixed fire-fighting mediums (CO2, dry chemical powder, foam concentrate, fresh water, etc.) as per IMO MSC.1/Circ.1539  
+All weight including the following other than those mentioned above shall belong to the deadweight:  
+* Cargo and/or ballast water (including water in ballast pipe);
+* All fuel oil(HFO/LSHFO/ULSFO/MGO), lubrication oil and fresh water including stern tube cooling water;
+* Spare parts and inventories in excess of the requirement of the Classification Society and other contractual Regulatory Bodies;
+* Equipment, spare parts and tools supplied by the Buyer in excess of the Rules and Regulations;
+* Tools and test equipment;
+* Crew, luggage and effects on board;
+* Provisions;
+* Stores of all kinds;
+* All loose fittings for containers lashing and securing;
+* Cargo lifting beams and grommets;
+* All other outfitting items supplied by the Buyer, if any.  
+1.4.3 TRIM AND STABILITY  
+The Builder shall carry out trim and stability calculation based on the following criteria and loading conditions.  
+Criteria (Only for Seagoing conditions):  
+* 2008 IS Code Part A Chapter 2.2&2.3
+* IMO SOLAS II-1, Part B-1 Subdivision and Damage Stability of Cargo Ships
+* Trim by stern limited to 1.0%LOA(except ballast conditions)  
+Loading Conditions:  
+1. Lightship condition.
+2. Docking condition with zero cargo and arrival bunker.
+3. Ballast condition with zero cargo, at departure and arrival.
+4. Ballast condition with cargo for Panama Canal transit, at departure and arrival.
+5. Homogeneous10, 12, 14, 16, 18 MT/TEU container (8’6’’ height) loading condition, at design draught, at departure and arrival.
+6. Homogeneous10, 12, 14, 16, 18MT/ TEU container (8’6’’ height) loading condition, at scantling draught, at departure and arrival.  
+Note:  
+1) The loadable number of containers shall be limited only by visibility requirements. The restrictions by capability of container lashing and securing system to be not taken into account.  
+2) Transverse metacentric height after free surface correction (G0M) shall not be less than the minimum GM value required by damage stability.  
+3) For each calculation, bunker and other consumable supplies shall be as follow  
+At departure: 100% consumables supplies  
+At arrival: Approx. 10% supplies forHFO/LSFO/ULSFO/MGO/FW and approx. 70%~85% supplies for LO of the total amount at departure  
+4) The vertical center of gravity (VCG) for stability calculations shall be assumed 45% of the container height.  
+5) Following values shall be used for the trim and stability calculation:  
+Kind of liquid Specific gravity Full filling ratio (%)  
+|  |  |  |
+| --- | --- | --- |
+| Ballast water: | 1.025 | 100 |
+| Fresh water: | 1.000 | 100 |
+| Heavy fuel oil: | 1.01 | 98 |
+| Low Sulphur Heavy fuel oil/  Ultra Low Sulphur fuel oil | 0. 990 | 98 |
+| Marine Gas oil: | 0.890 | 98 |
+| Lube. Oil: | 0.900 | 98 |  
+Ballast water may be loaded fully and/or partially to obtain suitable trim and stability within the permissible shear force and bending moments assigned by the Classification Society.  
+***The load conditions in the Trim and Stability Booklet shall show the values for each***  
+***read-out frame, given by the SF&BM&TM limit approval letter. Shear force, bending moment and cargo torsional moment to be used with the same unit as used at the Class approval letter (kN for force and kN.m for moment to be used).***  
+The Builder shall furnish the final Trim and Stability Booklet based on the lightship property obtained from inclining test or lightweight test.  
+If the final trim and stability booklet is under the approval stage by the Class or Authority at the delivery time of the Vessel, the preliminary one shall be onboard for provisional use.  
+1.4.4 VIBRATION AND NOISE LEVEL  
+#### 1.4.4.1 Vibration Level  
+The International standard ISO6954-2000(E) “Mechanical vibration-Guidelines for the measurement, reporting and evaluation of vibration with regard to habitability on passenger and merchant ships” shall be used as criteria for the vibrating evaluation in the accommodation and working area (except bridge wings).  
+The design target for vibration level shall be below the upper limit of the "stippled zone" on the figure of the mentioned ISO standard as far as possible. The vibration levels in living quarters shall be below 6.0 mm/sec for area classification B (crew accommodation areas) and below 8.0 mm/sec for area classification C (working areas) as defined in ISO 6954-2000(E).  
+The vibration measurement shall be carried out during the sea trial in condition of smooth water with main engine running at the operating rpm specified in CSR condition (1.2.7) of main engine as per the Builder’s practice according to ISO 6954-2000(E).  
+The vibrations deriving from abnormal sailing conditions such as bad weather, maneuvering, running astern, etc. shall not be taken into account.  
+If vibration level exceeds the limit as defined by ISO 6954-2000(E), the Builder shall make necessary improvement to a practical extent mutually agreed between the Buyer and the Builder, but without second sea trial unless Flag requires.  
+#### 1.4.4.2 Noise Level  
+Sound insulation and isolation treatment shall be provided as necessary to keep noise levels within the following values at normal sea going condition within the limit as defined by IMO Resolution MSC.337(91)–“Adoption of the code on noise levels on board ships” (only mandatory part) (Except bridge wing).  
+|  |  |
+| --- | --- |
+| Designation of rooms and spaces | dB(A) |
+| Machinery space | 110 |
+| Engine control room | 75 |
+| Work shop out of machinery space | 85 |
+| Wheelhouse including chart space | 65 |
+| Private cabin | 55 |
+| Mess room, recreation room and office | 60 |
+| Hospital | 55 |
+| Galley and pantry (without food processing equipment operating) | 75 |
+| Look-out posts including bridge wings and windows | 70 |  
+The noise level measurement shall be carried out according to IMO Resolution MSC.337(91). During sea trial, the Vessel shall be running ahead steadily at the operating rpm specified at CSR of main engine, and not less than 80% of the specified maximum continuous rating (SMCR), under the following conditions, and the bedding and linen as well as personal goods shall not be removed during these measurements:  
+* Auxiliary engine(s) shall be operated in normal sea going condition without reefer containers.
+* Machinery unnecessary for normal navigation shall be stopped.
+* Mechanical ventilation and air-conditioning equipment shall be in normal operation.
+* All doors and windows of the rooms shall be closed.
+* No intermittent sound and noise shall be included (i.e. from air horn, sanitary flushing, laundry machine, emergency generator, telephone, speaker, foot-step noise in stair and corridor space, etc.)
+* The measurement shall be taken at a height of 1.2 m to 1.6 m above deck, platform or walkway according to IMO Regulation.  
+If the measured noise level exceeds the specified value as required by Resolution MSC.337(91) by more than 3 dB(A), the Builder shall make necessary improvement to a practical extent mutually agreed between the Buyer and the Builder, but without second sea trial.

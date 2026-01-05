@@ -1,0 +1,14 @@
+METADATA: {'Header 1': 'CHAPTER 3 ACCOMMODATION', 'Header 2': 'WINDOW, DOOR, STAIRWAY, ETC.', 'Header 3': '3.3.3 STAIRWAY AND STORM RAIL IN ACCOMMODATION QUARTER'}
+--------------------
+##### 3.3.3.1 Stairway Dimension and Material  
+|  |  |
+| --- | --- |
+| Clear Breadth | 800mm |
+| Inclination | Approx.45° ~ 50°to horizontal |
+| Side frame | Steel, painted |
+| Step | Steel, covered with 2mmthick vinyl sheet |
+| Step guard (non-slip) | Copper |
+| Hand rail | Stainless steel pipe about Φ42 |
+| Stanchion | Stainless steel pipe about Φ20 |  
+##### 3.3.3.2 Storm Rail  
+Stainless steel (SUS 304) storm rail shall be provided at one side of the corridor at 1.0 m height above deck in accommodation quarter and front of wheelhouse according to the Builder’s practice.

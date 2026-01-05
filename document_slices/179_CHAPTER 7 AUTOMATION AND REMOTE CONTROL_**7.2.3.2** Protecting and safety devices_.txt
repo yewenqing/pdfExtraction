@@ -1,0 +1,20 @@
+METADATA: {'Header 1': 'CHAPTER 7 AUTOMATION AND REMOTE CONTROL', 'Header 2': '**7.2.3.2** Protecting and safety devices'}
+--------------------
+a. Emergency trip  
+Main engine shall be automatically tripped with an alarm according to Rules and propulsion plant manufacturer's requirements.  
+Each one manual emergency trip push button with cover shall be provided in engine control console, local emergency control station, navigation bridge deck wings and W/H control console.  
+Emergency trip system shall be independent of the remote control system and separated from Engine’s alarm and monitoring system.  
+Reset of trip circuit shall be carried out by setting the maneuvering/telegraph lever in engine control room at stop position after recovering to normal condition.  
+b. Critical speed protection  
+Automatic quick passing program shall be applied over the critical revolution zone during bridge control (if any).  
+Critical speed alarm to be provided in AMS ***for the long time running***.  
+c. Program speed control  
+When controlled in wheelhouse, the engine speed shall be controlled by load-up / load down program over certain ahead speed by program device with readjusted time up to the set speed of the maneuvering / telegraph lever.  
+One override push button for program speed up shall be provided in each of wheelhouse control console and navigation bridge deck wings.  
+d. Turning interlock  
+While the turning gear is engaged, a starting pilot air valve for starting shall be locked.  
+e. Automatic slow-down  
+The M/E speed shall be automatically reduced according to Rules and propulsion plant Manufacturer's requirements.  
+One by-pass push button of this system shall be provided in each of W/H control console and navigation bridge deck wings or as per maker standard.  
+Reset of the automatic slow down circuit shall be carried out by setting the telegraph lever in selected main engine control position below a predetermined position after recovering to normal condition.  
+Alarm and separate indicator for above as well as emergency trip shall be provided on engine control console in engine control room and W/H control console.

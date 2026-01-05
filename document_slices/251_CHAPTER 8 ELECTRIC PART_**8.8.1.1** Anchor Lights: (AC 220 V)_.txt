@@ -1,0 +1,4 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.8.1.1** Anchor Lights: (AC 220 V)'}
+--------------------
+Each one (1) 60 W anchor light of lamp fixed type shall be fitted at the forward and after end of the vessel.  
+The source of anchor lights will be from navigation light control panel.

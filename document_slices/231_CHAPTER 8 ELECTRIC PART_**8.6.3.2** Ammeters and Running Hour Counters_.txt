@@ -1,0 +1,5 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.6.3.2** Ammeters and Running Hour Counters'}
+--------------------
+Ammeters will be equipped on the starters for important motors in MSB and motor of 15 kW and above.  
+The running hour counters will be equipped on the starters for important motors in MSB and motor of 7.5 kW and above.  
+The ammeter on the starter shall be of overload type, the rated value shall be marked in red color.

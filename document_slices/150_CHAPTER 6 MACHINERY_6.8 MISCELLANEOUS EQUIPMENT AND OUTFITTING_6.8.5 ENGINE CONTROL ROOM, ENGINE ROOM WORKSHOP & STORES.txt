@@ -1,0 +1,19 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.8 MISCELLANEOUS EQUIPMENT AND OUTFITTING', 'Header 3': '6.8.5 ENGINE CONTROL ROOM, ENGINE ROOM WORKSHOP & STORES'}
+--------------------
+#### 6.8.5.1 Engine Control Room  
+The engine control room shall be heat and sound insulated, and shall be provided with engine control, monitoring console and main switchboard etc. A unit cooler for air conditioning shall be also provided.  
+One (1) escape with a continuous fire shelter and vertical ladders to open deck shall be provided in compliance with the requirement of MSC 93.  
+A clear walkway shall be arranged between consoles and window bulkhead.  
+#### 6.8.5.2 E/R Workshop  
+A workshop shall be located in the engine room and provided with such as universal machine tool, etc. as listed in Section 6.2.15 and one (1) work bench, two (2) sets of vise, one (1) welding table, shelves, lockers, etc. lifting beam and a door with locking device shall be provided for the workshop. Workshop to be enclosed by steel wall.  
+Fuel valve test devices shall be located in workshop.  
+**One (1) tool board to be provided in workshop.**  
+Acetylene and oxygen bottles shall be installed outside the engine room and suitable piping with blow back valve shall be provided from bottle room to welding space in workshop.  
+One (1) escape with a continuous fire shelter and vertical ladders to open deck shall be provided in compliance with the requirement of MSC 93.  
+#### 6.8.5.3 Electrical Workshop  
+A separate electrical workshop shall be located in the engine room.  
+One (1) motor driven table driller, one (1) bench with vice, and one (1) test panel shall be provided.  
+Electrical Workshop shall be enclosed by steel wall.  
+#### 6.8.5.4 Store  
+Each one (1) engine store and electric store shall be arranged and suitable steel shelves laid wood plate shall be provided in the store. The electrical store will be isolated with electrical workshop by steel wire wall.  
+***There are six(6) drawer style storage to be installed in the engine store.***

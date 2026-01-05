@@ -1,0 +1,14 @@
+METADATA: {'Header 1': 'CHAPTER 7 AUTOMATION AND REMOTE CONTROL', 'Header 2': '**7.2.11** Miscellaneous Controls'}
+--------------------
+1. Start/stop control of fire, bilge & G.S. pump in W/H control console and machine side and in fire control station also.
+2. Engine room ventilation fans – start / stop control in MSB.
+3. START / STOP control of sludge pump.
+4. Engine room bilge pumps and valves – locally controlled.
+5. Remote emergency stop.
+6. Remote start-stop switches and running indicating lamps for cargo hold ventilating fans shall be installed in wheel house ***along with one common isolation switch (key type) to isolate non-Ex. Proof vent fans during dangerous cargo loading through the AMS mimic diagram.***.  
+Emergency stop push button shall be arranged near shore discharge station for sludge pump and bilge pump.  
+Ventilating fans and oil pumps shall be stopped in an emergency case of fire.  
+- Ventilating fans in engine room, fuel and lub. oil pumps, boiler, purifiers, incinerator in engine room shall be remote stopped. Emergency stop push-buttons shall be provided in fire control station, wheelhouse and entrance of engine room.  
+- Separate emergency stop push-buttons of ventilation fans for accommodation and ventilation fans for cargo hold shall be installed in wheelhouse and fire control station.  
+- Boiler plant and incinerator can be emergency stopped in engine control room. In addition, Boiler Running, boiler water levels and steam pressure indications are to be provided in the ECR console  
+***Builder shall prepare a list to Buyer for the memory batteries of individual equipment control circuit, which shall including the reference data of type and replacement dates etc. that necessary for the batteries replacement work.***

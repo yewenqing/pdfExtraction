@@ -1,0 +1,35 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.8 outfitting for access', 'Header 3': '4.8.2 steel ladder and HAND RAIL'}
+--------------------
+#### 4.8.2.1 Access Ladder on Deck, in Cargo Hold / Tank etc.  
+Access ladders shall be provided as follows:  
+| Served space | Type | Breadth (mm) | Side stringer | Tread | Handrail |
+| --- | --- | --- | --- | --- | --- |
+| Exposed upper deck | Inclined | 700 | Section | Checkered steel plate  pitch:abt.220mm | Top rail 42.25mm diameter  galvanized water gas pipe. |
+| Other exposed deck |
+| Steering gear room, CO2 room | Inclined | 600 | Section | Checkered steel plate  pitch:abt.220mm | 42.25mm diameter  galvanized water gas pipe |
+| Cargo hold | Vertical | 350 | Steel flat bar | Steel square bar, 22x22mm | -- |
+|  |  |  |  |  |
+| Fuel oil bunker tank, Ballast water tank, F.W. tank, E/R escape, funnel, bow thruster room, access trunk, deck stanchion | Vert. | 350 | Steel flat bar | Steel square bar 22mm,  pitch: abt.300mm | Round bar, 25mm dia. where necessary |
+| Mast, post, miscellaneous part | Vert. | 300 | Steel flat bar | Steel square bar 22mm  pitch: abt.300mm | Round bar, 25mm dia. where necessary |  
+In general, ladder breadth shall be 350 mm and in no case not less than 300mm, middle support to be used for ladder length more than 2.5m***.Ladder safety hoop will be install according to AMSA rules.***  
+Non-slip paint to be taken at landing area from exposed deck to ladder.  
+Hand grips and steps to be provided, where necessary.  
+Ladder and handrail in ballast water tank and exposed to weather to be galvanized and to be painted as surrounding area.  
+Elevation angle of inclined ladder to be 55 deg. (max. 60 deg. In E/R and max. 65 deg. In cargo hold) to horizontal. But the elevation angle of inclined ladder used as means of escape to be not greater than 50 deg. To horizontal. Hand rail of inclined ladder to be fitted on each side.  
+**Mid Rail should be provided for incline ladders and the rail if the distance of the top railing from the step base is equal to or more than 500 mm in height.**  
+***All ladders and railing stanchions when welded to decks should be done with a doubler plate.***  
+#### 4.8.2.2 Hand Rail on Exposed Deck  
+The maximum distance of the rail stanchion, hand rail shall comply with Rules.  
+The height from hand rail top to deck shall be abt. 1,050mm, in general.  
+Handrails of Ø 42.25x 3.25 mm outer diameter top pipe (galvanized water gas pipe) and 0ne(1) Ø 20 mm steel round bars lower rails shall be fitted for exposed decks. Stanchion shall be 60 mm x16 mm flat bar with stay. Stanchion for masts, posts and platforms etc. on exposed deck shall be 60 mm x 16 mm flat bar without stay.  
+Stanchions shall be be welded with pad and welded to the curtain plate or deck and shall be well withstood to ensure rigidity of rail.  
+The stanchion shall be provided at about 1,500 mm intervals in general and the stay at every third stanchion, if fitted.  
+Non-magnetic hand rail shall be used in way of the compass on wheelhouse top shall be as per Maker's requirement.  
+**Gap between handrail and bulkhead/fittings shall be minimum 60 mm.**  
+#### 4.8.2.3 Hand Rail in Cargo Hold  
+The maximum distance of the rail stanchion, hand rail shall comply with Rules.  
+The height from hand rail top to deck shall be abt. 1,050 mm, in general, ***mid rails will be provided.***  
+Handrails of Ø 42.25x 3.25mm outer diameter top pipe (galvanized water gas pipe) and 0ne(1) Ø 20mm steel round bars lower rails shall be fitted for stringer platform in cargo hold. Stanchion shall be 60 mm x16 mm flat bar without stay.  
+#### 4.8.2.4 Storm Rail  
+Galvanized storm rail of 42.25mm outside diameter steel pipe (galvanized water gas pipe) to be fitted on outside wall of deckhouse where persons frequently walk around and to be positioned at about 1,000 mm above deck with adequate distance from the wall.  
+***Removable life lines and stanchions should be provided between accommodation front and forecastle deck as Rule's requirement where the width of clear passageway is more than 1.2m.***

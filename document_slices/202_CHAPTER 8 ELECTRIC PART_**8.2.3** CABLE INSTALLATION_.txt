@@ -1,0 +1,17 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.2.3** CABLE INSTALLATION'}
+--------------------
+All cables shall be installed according to builder's practice and in compliance with the requirement of the Classification Society.  
+In general, cables shall run in groups and parallel and be fixed on steel hangers or trays.  
+Where the cables are exposed to mechanical damage, they shall be protected with steel pipe or steel cover.  
+Cables installed on mast or post on upper deck to be laid in galvanized steel pipe up to about 1m height from the deck.  
+The cables installed under the engine room lower floor shall be protected with flexible conduit or steel pipe or steel cover.  
+Cables passing through water-tight decks or bulkheads, ***Heat shrunk for all*** water-tight cable glands or other appropriate methods shall be employed.  
+Cables passing through beams, non-water-tight decks and bulkheads etc., suitable bushing or coaming with round edge shall be used for their protection.  
+The cables in living quarters shall be secured by nylon straps and plastic covered stainless steel straps, at wet space and exposed weather space, only plastic covered stainless steel straps to be used, unless the cables secured by conduit or steel pipe.  
+Penetration of fire protection bulkheads or decks of steel structures shall be protected by pipes, cable glands or coaming stuffed with fire retardant compound according to the fire protection class and number of cables.  
+In rooms and inner passages, where lining walls over steel walls and ceiling over overhead decks are provided, cables shall be concealed behind the lining walls as far as practicable.  
+***Signal cables shall be always separated from power cables. Yard to describe same in shipyard standard for electrical practices; Sharp bend of cables not allowed.***  
+The cabletrays to be galvanized in general, except ***hanger to be the builder's practice,inside water ballast tanks, PVC pipe with stainless clamps can be adopted by builder’s practice***.  
+Foundation for electrical equipment, small outfitting materials and fittings will be blasted and painted in general.  
+The support of cable trays & electric equipment brackets should be welded directly on deck plate, frames, girders and bulkhead.  
+The installation of cable trays and electric equipment brackets will be in accordance with Builder’s actual practice.

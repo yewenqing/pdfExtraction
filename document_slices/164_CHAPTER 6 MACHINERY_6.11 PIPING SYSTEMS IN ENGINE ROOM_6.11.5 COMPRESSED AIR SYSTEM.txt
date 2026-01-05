@@ -1,0 +1,18 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.11 PIPING SYSTEMS IN ENGINE ROOM', 'Header 3': '6.11.5 COMPRESSED AIR SYSTEM'}
+--------------------
+Compressed air to be provided to the various services at the following pressure:  
+3 MPa : Main engine starting  
+Generator engine starting  
+0.7 MPa : Miscellaneous usage including air horn  
+control air, including the safety air and maneuvering system  
+Deck service  
+0.55MPa : Hydrophore tank charging  
+0.2MPa : Sea chest  
+Main air reservoirs and aux. air reservoir shall be charged by main air compressors and emergency air compressor.  
+Deck service air reservoir shall be charged by the service air compressor.  
+Compressed air for starting the main engine shall be supplied from the main air reservoirs. Generator engines shall be supplied from the main air reservoirs or the aux. air reservoir.  
+The deck service compressed air to be supplied from service air reservoir and main air reservoirs via pressure reducing valve.  
+The pressure reducing valve shall be provided with a pressure relief valve and a pressure gauge at its outlet and the stand-by pressure reducing valve shall be provided.  
+Maneuvering and control air shall be supplied through one (1) pressure reducing valve and one (1) dehydrator from the main air reservoirs.  
+Separate airline shall be provided for air horns with locally open valve.  
+Air hose connections shall be provided at suitable locations in the engine room.

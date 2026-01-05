@@ -1,0 +1,12 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.11.2** MF/HF RADIO EQUIPMENT (AC 220 V, DC 24 V)'}
+--------------------
+One (1) set of MF/HF radio equipment shall be installed in radio space.  
+1- 250W MF/HF transmitter  
+1- Self-supporting Tx antenna  
+1- MF/HF receiver  
+1- MF/HF receiving whip antenna  
+1- MF/HF DSC terminal  
+1- MF/HF DSC receiver and whip antenna  
+1- Radio controller  
+1- Battery charger  
+1- Set of necessary accessories according to Maker’s standard

@@ -1,0 +1,6 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.7.11.2** Water-proof Type Receptacles'}
+--------------------
+AC 220 V/24 V water-proof, two (2) poles with earthling contact, with switch receptacles boxes shall be fitted in steering gear room (2 sets), engine room (10 sets), bosun store (1 set), outside of ref. provision chamber (1 set), and emergency generator room (1 set), etc. used for portable lamps or tools.  
+Receptacles fitted in weather space shall be of brass-made  
+Two (2) AC 440 V receptacles for electric welding will be provided. One in E/R workshop, one in the bosun store forward.  
+Two (2) AC220V/10A receptacles protected by water-tight boxes will be provided for reefer container maintenance in each side of the reefer container cargo bay.

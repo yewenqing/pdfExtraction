@@ -1,0 +1,19 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.1 anchoring AND MOORING EQUIPMENT', 'Header 3': '4.1.4 HAWSE PIPE AND CHAIN PIPE'}
+--------------------
+#### 4.1.4.1 Hawse Pipe  
+Location: one(1) at each side of forecastle deck forward.  
+|  |  |  |
+| --- | --- | --- |
+| Material: | Pipe | Welded steel plate |
+|  | Bell mouth | Welded steel plate and cast steel |  
+Deck flange shall be fitted at the deck openings of the hawse pipes to allow satisfactory housing of the chain cable and easy leading to the gypsy wheel. Attention shall be paid to the anchoring arrangement to obtain good clutch of the chain cables round the cable holders. Fixed guard rails shall be fitted around the deck flanges.  
+The bell mouth shall extent to outside to ensure the clearance of min. 300 mm between anchor and side shell under ship upright condition on even keel. ***Anchor when stowed in the bell mouth should have 3 point contact.***  
+Galvanized steel cover plate shall be provided for hawse pipe opening on forecastle deck, and fixed with stainless steel stud-bolt and pin. Three (3) nozzles shall be provided in hawse pipes for cable chain.  
+Watching platform and protection handrail shall be arranged on the forecastle bulwark in suitable place ***for anchor inspection***.  
+#### 4.1.4.2 Chain Pipe  
+Location: one(1) under each gypsy wheel  
+|  |  |  |
+| --- | --- | --- |
+| Material: | Pipe | Welded steel plate |
+|  | Cover | Galvanized steel plate |  
+Chafing ring of fabricated steel bar on deck and bell-mouth at lower edge shall be fitted for protection and smooth running of cables.

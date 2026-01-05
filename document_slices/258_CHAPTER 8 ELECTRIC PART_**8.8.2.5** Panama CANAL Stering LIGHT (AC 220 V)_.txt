@@ -1,0 +1,3 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.8.2.5** Panama CANAL Stering LIGHT (AC 220 V)'}
+--------------------
+25W blue steering lights shall be fitted on the foremast behind and controlled from wheelhouse through dimmer switch.

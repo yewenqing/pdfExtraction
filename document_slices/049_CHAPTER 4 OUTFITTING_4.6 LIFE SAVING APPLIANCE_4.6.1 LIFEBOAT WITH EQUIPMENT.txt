@@ -1,0 +1,16 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.6 LIFE SAVING APPLIANCE', 'Header 3': '4.6.1 LIFEBOAT WITH EQUIPMENT'}
+--------------------
+The lifeboat shall be provided as follows:  
+|  |  |
+| --- | --- |
+| No. of set | Two (2) |
+| Type | Totally enclosed  Starboard side lifeboat shall be used as rescue boat. |
+| Material | Glass reinforced plastics(GRP) |
+| Capacity | 24persons |
+| Propulsion | Diesel engine (sea water cooling) |
+| Location | Beside deck house as shown on G.A. plan |  
+Dimension, capacity and certified date shall be marked at position approved by the Regulation.  
+Name of ship, Call sign, complement and port of registry shall be painted.  
+The boat embarkation area to be protected and illuminated sufficiently.  
+***Emergency lighting*** and instruction sheet (in English) shall be fitted on wall near the lifeboat.  
+Construction, material, and accessories shall be in accordance with the approved manufacturer’s standard to comply with the Rule/Regulations.

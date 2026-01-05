@@ -1,0 +1,9 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.3.5** EMERGENCY SWITCHBOARD'}
+--------------------
+In case that the contents in the following each panel of this section differ from manufacturer's standard for specific equipment, Manufacturer's standard shall be applied in general.  
+Emergency switchboard shall be installed in emergency generator room.  
+In principle, the construction of the emergency switchboard shall be similar to the main switchboard, but service access at front.  
+The emergency generator shall be protected by a three-pole air circuit breaker (ACB), which to be of draw-out type.  
+Interlock circuit shall be provided between emergency generator ACB and the space heater circuit.  
+**A socket of portable welding machine shall be supplied in the ECR, which shall be powered from the ESB.**  
+The switchboard shall be consisted of the following:

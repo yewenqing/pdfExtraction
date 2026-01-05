@@ -1,0 +1,10 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.10.5** SPEED LOG (AC 220 V)'}
+--------------------
+The speed log must meet the requirement of Resolution MSC.334 (90).  
+***(Option:Speed log on the bridge display screen, there are speed of water or speed of ground, were displayed the direction of flow and arrows of velocity indicator.)***  
+One (1) set of Doppler speed log shall be provided as follows:  
+1- Transducer with gate valve fitted in ship forward bottom  
+1- Electronic unit in fore room  
+1- Main unit in chart space  
+**1**- Speed indicator at wheelhouse ceiling console  
+The speed signal shall be sent to two radars, AIS and VDR and autopilot etc.

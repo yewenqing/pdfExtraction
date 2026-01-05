@@ -1,0 +1,50 @@
+METADATA: {'Header 1': 'CHAPTER 7 AUTOMATION AND REMOTE CONTROL', 'Header 2': '**7.1.2** Control standS'}
+--------------------
+The following control stands shall be provided:  
+- Wheelhouse control console (WHC) including Bridge Maneuvering Console (BMC) and Navigation Signal Console (NSC) in wheelhouse  
+- Engine control room console (ECC) in engine control room.  
+- Ballast control station in ship office.  
+- Local stands for local controls of machines.  
+- Bridge wing control console at navigation bridge deck wings.  
+1. Bridge maneuvering console  
+Refer to “Chapter 8 Electric”.  
+2. Engine control room console  
+The console shall be of steel construction self-standing type, with hinged doors in front side and removable doors in rear side if applicable.  
+The console shall be supplied from main switchboard and emergency switchboard by means of each one feeder 3 x 220V AC, and from charging & discharging board by means of one feeder 24V DC.  
+Inside the console AC220 V socket outlets shall be provided.  
+Inside the console 2 pcs of AC220V 20W lights should be provided.  
+The following equipment shall be included in/on the console, but not limit to:  
+*-* Main propulsion–main operation panel / safety panel  
+- Main engine indication panel  
+- Engine telegraph (receiver / transmitter)  
+- 2 pcs of PC workstation with 24 inch TFT VDU and other engine room monitoring and alarm equipment  
+- Alarm & Data logging printer  
+- Slave clock  
+- Dead man alarm main switch or push button (combined in extension alarm panel)  
+- Remote water level analogue or digital indicator for boiler  
+- Main engine auxiliary blower, and start / stop switch with running indication lampas per main engine Maker’s standard  
+- Composite boiler emergency stop push button  
+- Composite boiler running (firing on) lamp  
+- Composite boiler steam pressure gauge  
+- Main engine RPM indicator and revolution counter  
+- Main engine turbocharger RPM indicator  
+* Scrubber monitoring and shut-down control in emergency  
+- Rudder angle indicator  
+- Analogue measuring instruments for essential pressures and temperatures  
+- Main air compressor auto/start/stop switch and running indication  
+- Fuel oil viscosity indication  
+- HFO, LSHFO and MGO change-over position indicator  
+- Duty engineer selector  
+- Auto. telephone  
+- Speed log indicator  
+- Sound power telephone  
+- Suitable place for writing  
+- Lubricator controller .  
+- Temperature controllers of HT, LT & LO.  
+- M/E running hour counter  
+Water mist alarm repeater panel  
+Manual emergency trip buttons with cover of necessary  
+- Other necessary equipment specified elsewhere  
+3. Ballast control station in ship office. Refer to item 1-14.  
+4. Local stand for local control of main engine. Refer to “Chapter 6 Machinery”.  
+5. Bridge wing console at navigation bridge deck wing. Refer to “Chapter 8 – Electric”.

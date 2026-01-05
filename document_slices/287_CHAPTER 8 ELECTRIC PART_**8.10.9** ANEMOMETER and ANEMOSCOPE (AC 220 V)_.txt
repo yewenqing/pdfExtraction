@@ -1,0 +1,6 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.10.9** ANEMOMETER and ANEMOSCOPE (AC 220 V)'}
+--------------------
+One (1) set of anemometer of propeller type ***(Option: ultrasonic type)***shall be provided.  
+1-Transmitter on the radar mast  
+1-Wind speed and direction indicator with illumination on the W/H ceiling console  
+Interface facility to ECDIS shall be provided.

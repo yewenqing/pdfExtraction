@@ -1,0 +1,52 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.9 INSULATION AND PAINTING', 'Header 3': '6.9.1 INSULATING'}
+--------------------
+#### 6.9.1.1 General  
+The surface of the equipment, tanks and piping which shall treat or contain the fluid with temperature over 60C except for cooling F.W. piping and L.O. piping should be insulated.  
+Main engine, generator engines, boiler, incinerator and calorifier shall be insulated according to the Maker’s standard.  
+Where it is necessary to fit removable and replaceable insulation on flanges, fittings, and covers, etc. The tailor-made pads or blankets shall be used.  
+The outer face temperature after insulation shall be not exceeded by 60oC when the engine room temperature is 45C.  
+#### 6.9.1.2 Insulation for Thermal Equipment.  
+(1) Boiler and Heater  
+Maker will deliver the boiler with insulation.  
+The minimum thickness of insulation material for surfaces of large extent such as heaters, etc. shall be met the following requirements or according to the Maker’s standard.  
+|  |  |
+| --- | --- |
+| Temperature range of internal fluid | Ceramic fibre moulding or rock wool |
+| 60 to 155C | 25mm |
+| 156 to 260C | 50mm |  
+(2) H.F.O., U.L.S.F.O./ L.S.H.F.O. Tanks  
+* HFO and LSHFO/ULSFO settling tanks
+* HFO and LSHFO/ULSFO service tanks  
+In case of structure tank, front and side walls faced to engine room area only shall be insulated and to be covered with galvanized steel plate up to 2.3m in height from bottom of deck. The remaining upper part shall be covered with aluminum foil coated fiber glass cloth.  
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  | Material | Dimension | Remark |
+| 1 | Ceramic fibre moulding or rock wool | 25 mm |  |
+| 2 | Steel plate | 0.5 mm | Galvanized |  
+(4) Silencers  
+The exhaust gas silencers for generator engine and emergency generator engine should be insulated with min. 50mm thickness of Ceramic fibre moulding or rock wool and covered with 0.5mm galvanized steel sheet.  
+#### 6.9.1.3 Insulation for exhaust gas piping  
+The exhaust gas piping and uptake in engine room shall be insulated and the requirements are as follows:  
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Name of equipment | Insulation | | Cover |
+| Thickness (mm) | Material |
+| Main engine | Pipe 75  Flange75 | Ceramic fibre moulding or rock wool | Glass cloth + galv. steel sheet 0.5mm thick |
+| Generator engine | Pipe & flange 75 | Ditto | Ditto |
+| Incinerator &  boiler | Pipe & flange 50 | Ditto | Ditto |  
+The exhaust gas piping and uptake from bottom to nav. deck above three (3) meters in funnel shall be insulated with thickness of 50mm and covered with galvanized steel sheet of 0.5mm thickness.  
+In all case where the pipe insulation contacts on the flanges and fittings, the insulation shall be suitably terminated to permit free removal of bolt and to allow for movement of the pipe at supports.  
+#### 6.9.1.4 Insulation for Thermal Fluid Piping  
+The following piping system should be insulated.  
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Name of pipe | DN  mm | Insulation | | Cover |
+| Thickness  mm | Material |
+| H.F.O.，/LSHFO/ULSFO | <50  >50  <10 | 30  40 | Mineral wool  Two layers of glass cloth | glass cloth  glass cloth |
+| Steam, condense | <50  >50 | 30  40 | Mineral wool h | glass cloth |
+| Hot water |  | 20 | Mineral wool | glass cloth |  
+In principle, the H.F.O. ,LSHFO/ULSFOpiping (including HFO,LSHFO/ULSFO transferring pipe line, HFO,LSHFO/ULSFO purifying pipe line, HFO,LSHFO/ULSFO service pipe line, HFO,LSHFO/ULSFO drain pipe line and HFO,LSHFO/ULSFO return pipe line) should be provided with steam tracing pipe and the connection of steam tracing pipe should close up to the flange of the H.F.O. ,LSHFO/ULSFO pipe.  
+The following pipes shall be insulated with glass cloth.  
+Boiler blow pipe  
+Exhaust steam pipe for safety valves  
+Drain pipe after steam drain valves and drain traps

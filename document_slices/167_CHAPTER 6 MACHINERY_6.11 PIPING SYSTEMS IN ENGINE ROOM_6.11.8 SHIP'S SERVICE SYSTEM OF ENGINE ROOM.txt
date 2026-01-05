@@ -1,0 +1,45 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.11 PIPING SYSTEMS IN ENGINE ROOM', 'Header 3': "6.11.8 SHIP'S SERVICE SYSTEM OF ENGINE ROOM"}
+--------------------
+#### 6.11.8.1 Bilge System  
+The engine room bilge system shall be served by two (2) sets of fire, bilge & G.S. pump, one (1) set of daily bilge pump **and one (1) set of Clean Drain Tank Pump**  
+One (1) set of dangerous goods bilge eductor for cargo holds shall be arranged in suitable place outside engine room*,* the pump shall be used for pumping the bilge of cargo holds when carry dangerous goods.  
+Each bilge well in engine room shall have a suction line with mud box and a stop check valve and shall be connected to the bilge main. The daily bilge pump shall take suction from the bilge main to the bilge holding tank. The oily bilge separator pump shall take suction from the oily bilge holding tank, and discharge overboard through the oily bilge separator and separated oil shall be automatically drained to the sludge tank by gravity.  
+***The IBTS shall be complied.***  
+***Clean bilge in engine room shall be led to the clean drain tank, and discharge overboard by the Clean Drain Tank Pump. An independent 15 PPM monitor to be provided on pump discharge side.***  
+Bilge suction shall be provided for double bottom cofferdams in engine room and main engine recess on tank top.  
+In addition to the suction from bilge main suction, one of the two fire, bilge & G.S. pumps shall have an independent bilge suction from the bilge well in the engine room.  
+The emergency suction line with non-return stop valve shall be connected to a ballast pump or a cooling sea water pump as per the Rule requirement.  
+Bilge high level alarm for each bilge well in engine room and cargo holds shall be provided. ***And before the suction pipe there is a mud box installed for each well.***  
+In general, the valves in engine room bilge system shall be manual operation.  
+#### 6.11.8.2 Water Fire Fighting System  
+##### 6.11.8.2.1 Sea Water Fire Fighting System  
+The fire main shall be served by the fire, bilge & G.S. pumps and emergency fire pump (in emergency case).  
+The fire hydrants with manual operation and hose boxes shall be arranged on platforms.  
+##### 6.11.8.2.2 Water Mist Fire Fighting System  
+The fixed low pressure water mist local application system shall be provided in engine room to protect following fire hazard space such as main engine, generator sets, boiler, fueloil purifiers, fuel oil booster and incinerator.  
+The system consists of water pump unit, F.W. tank, water nozzles, pipes, alarm system and release station etc.  
+The system shall have both automatic release located outside of the engine room and local manual release.  
+***Power for system must be routed through the Emergency Generator Switch Board.***  
+#### 6.11.8.3 CO2 Fire Fighting System  
+The system refers to Hull Piping Chapter.  
+#### 6.11.8.4 Ballast System  
+Two (2) sets of ballast pump shall be used for ballasting and de-ballasting via ballast water treatment plant. Generally one pump to work, and the other to be stand-by. Ballast stripping shall be carried out by one (1) ballast stripping eductor.  
+The detail refers to Hull Piping Chapter.  
+6.11.8.5 Fresh Water System  
+Fresh water shall be supplied by two (2) sets of fresh water pump with one (1) set of fresh water hydrophore tank.  
+Fresh water shall be supplied from hydrophore tank for domestic service in living quarters, technical fresh water service and calorifier in engine room.  
+The engine room technical water service shall be supplied directly from the fresh water hydrophore tank.  
+The fresh water pump to take suction from fresh water tank through a strainer and discharge to the fresh water hydrophore tank, fitted with limit pressure switch adjusted to start and stop the fresh water pump motor within a preset pressure range.  
+One of two fresh water pumps shall be used as stand-by.  
+Fresh water to main deck shall be provided with isolating valve and drain valve located at the lowest point (accommodation face).  
+The hot water shall be supplied by a calorifier with steam and electric heating.  
+One (1) set of F.W. sterilizer and one (1) set of mineralizing shall be provided for potable fresh water system.  
+Y- type filter shall be arranged before the F.W. sterilizer.  
+For fresh water system description, also refer to Chapter 6 - Hulling Piping , 6.1.8.  
+#### 6.11.8.6 Sea Chests  
+There are one (1) high suction sea chest and one (1) low suction sea chest in engine room and one (1) suction sea chest in emergency fire pump room. Each suction sea chest shall be fitted with a sea valve of butterfly type.  
+Each suction sea chest shall be of welded steel construction. A steam and compressed air blow out connection and an air vent to be equipped for engine room sea chests. But only a compressed air blow out connection and an air vent to be equipped for the sea chest of emergency fire pump.  
+Each suction sea chest shall be equipped with grid, made of galvanized steel flat bars, with a clear area of at least two (2) times the area of the sea valves.  
+Grid shall be secured to the chest so that no part extends beyond the shell surface.  
+Fitting bolts and nuts of sea chest grids shall be of stainless steel and locked by stainless steel wire.  
+One (1) marine growth preventing system shall be installed in main SW strainers for main sea chests in engine room only.

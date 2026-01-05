@@ -1,0 +1,4 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.4 SHAFTING AND PROPELLER', 'Header 3': '6.4.8 EARTHING DEVICE'}
+--------------------
+An earthling device with shaft potential monitoring at intermediate shaft shall be provided which is capable of keeping the electrostatic voltage between crankshaft and hull below 50mV finally according to the M/E requirement.  
+**A digital shaft / hull mili-voltmeter with alarm connected to AMS to be provided.**

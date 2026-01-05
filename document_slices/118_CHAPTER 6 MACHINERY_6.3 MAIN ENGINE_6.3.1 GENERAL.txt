@@ -1,0 +1,13 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.3 MAIN ENGINE', 'Header 3': '6.3.1 GENERAL'}
+--------------------
+The main engine shall be designed and manufactured under the license from MAN B&M.The particulars of main engine shall be as specified in Paragraph 6.2.1.  
+The direction of engine revolution shall be clockwise, looking from aft.  
+The main engine shall be remotely controlled from wheelhouse, navigation bridge deck wings and engine control room in the engine room.  
+The main engine shall be temporarily controlled from local operating console. The main engine output shall be valid at following conditions:  
+Atmospheric pressure: 0.1 MPa  
+Ambient temperature in E/R: 45oC  
+Sea water temperature: 32oC  
+L.T. fresh water temperature: 36oC  
+Relative humidity: 60%  
+The construction and materials of M/E shall be in accordance with Maker’s standard and to be complied with the requirement of Classification Society.  
+The main engine shall be completed with necessary fittings and accessories to develop the maximum continuous rating for propelling as described in Paragraph 6.3.2.

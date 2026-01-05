@@ -1,0 +1,15 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.7.7** OUTDOOR FLOOD LIGHTING'}
+--------------------
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Lighting fixture | Qty. | Location | Illuminated area |
+| 1000W halogen floodlight | 3  2 | Compass deck front  Foremast-behind | Main deck cargo space |
+| 500W halogen floodlight | 2 | Foremast forward | Fore mooring space |
+| 500W halogen lamp | 2 | Navigation deck after | Funnel mark |
+| 500W halogen lamp | 2 | Navigation deck both side | Ship’ name |
+| 500W halogen lamp | 2 | Stern | Stern mooring space |
+| 500W halogen lamp | 2 | Navigation deck | Main deck cargo space |
+| 500W halogenlamp | 6 | Fore, midship and stern both sides | Ship surrounding area  for ISPS requirement |
+| 500W halogen lamp | 2 | Main deck side | Pilot ladder |
+| 500W halogen lamp  (manual swivel type) | 2 | Boat deck side | Lifeboat embarkation and outboard (commonly used for accommodation ladder) |
+| 200W halogen lamp  (bay lamp) | 2 sets  /passage | Main deck side, between container line | Operation platform walkway |

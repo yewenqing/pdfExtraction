@@ -1,0 +1,6 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.6 STEAM GENERATING PLANT', 'Header 3': '6.6.2 ACCESSORIES'}
+--------------------
+The composite boiler shall be accordingly supplied with burner, boiler control panel, feed water regulator, water level gauge, safety valves, other valves and pressure gauges.  
+All accessories and fittings will be in accordance with Maker’s standard and requirement of Classification Society.  
+Chemical dosing unit, boiler water testing kit for measuring PH-value, oil detecting device and salinityalarm device shall be provided.  
+The feed water pumps and fuel oil supply pumps shall be provided in accordance with the Maker’s recommendation.Fresh water hose connection shall be provided adjacent to the composite boiler for water washing.

@@ -1,0 +1,22 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.10.14** Docking working station'}
+--------------------
+At each bridge wing including:  
+|  |  |  |
+| --- | --- | --- |
+| 1 | - | 5 W speaker |
+| 1 | - | Gyro repeater (pedestal type) |
+| 1 | - | Whistle push button |
+| 1 | - | Key for morse/manoeuvring light |
+| 1 | - | Bridge wings search light and switch |  
+2 - Sockets for VHF handset.  
+1 - Panama type main engine revolution indicator  
+1 - Panama type steering indicator  
+1 - VDR microphone  
+**1 - BNWAS reset switch**  
+Bridge wing console including:  
+-Main engine control panel for wings  
+-Bow thruster control unit for wings  
+-Non-follow-up tiller of autopilot  
+-Microphone receptacle for talk back system  
+-Dimmer switch  
+And other necessary equipment;

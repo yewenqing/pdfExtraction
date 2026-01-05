@@ -1,0 +1,10 @@
+METADATA: {'Header 1': 'CHAPTER 7 AUTOMATION AND REMOTE CONTROL', 'Header 2': '**7.2.10** Local Automatic Control'}
+--------------------
+The following auxiliaries to be operated in local automatic system:  
+* Fresh water generator abnormal alarm shall be connected to AMS and high salinity alarm in monitoring system.
+* Salinometer shall be provided with automatic control to re-circulate distillate on high salinity.
+* F. W. pumps shall be automatically operated in dependence on the tanks pressure
+* Oily bilge separator with failure/15ppm alarm in alarm and monitoring system (AMS).
+* Incinerator with failure alarm in alarm and monitoring system (AMS).
+* Sewage treatment plant with failure alarm in alarm and monitoring system (AMS).
+* Ballast water treatment plant with failure alarm in alarm and monitoring system and remote control from ships office.

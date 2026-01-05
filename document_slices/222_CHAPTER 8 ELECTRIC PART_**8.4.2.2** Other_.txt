@@ -1,0 +1,6 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.4.2.2** Other'}
+--------------------
+Battery for emergency generator engine starting and for radio emergency source shall be provided according to the Rules and Manufacturer's standard.  
+Emergency generator engine starting battery shall be charged by a charger supplied by emergency’s generator maker.  
+Radio battery shall be charged by a charger incorporated in radio console.  
+The power socket, cables with plugs etc. for life boat and rescue boat battery charging shall be equipped (if necessary) and the chargers shall be fixed on boat.

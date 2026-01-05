@@ -1,0 +1,10 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.11 PIPING SYSTEMS IN ENGINE ROOM', 'Header 3': '6.11.9 EXHAUST GAS SYSTEM'}
+--------------------
+Exhaust gas from the turbocharger of the main engine shall be led to the M/E exhaust gas section of the composite boiler , scrubber unit and discharged directly to open air.  
+No exhaust gas by-pass line to be provided for exhaust gas section of the composite boiler.  
+The oil fired section and incinerator shall be led up independently to open air.  
+Exhaust gas from G/E sets engine shall be led up independently to scrubber unit through each silencer.  
+Stainless steel expansion elements for exhaust gas pipes of main and gen. engines shall be fitted immediately after turbocharger through transition connection.  
+Adequate supports shall be fitted so that the weight of the piping shall not rest on the turbocharger, boiler, incinerator, silencers and expansion elements, etc.  
+***Recommend amend to Exhaust gas uptakes in the funnel to be insulated up to about at least 1,000 mm from the top plate of funnel.***  
+Necessary drains from the exhaust gas pipes and silencers shall be arranged with drain traps and led to bilge well.

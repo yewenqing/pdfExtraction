@@ -1,0 +1,215 @@
+METADATA: {'Header 1': 'CHAPTER 1 GENERAL', 'Header 2': '1.2 DESCRIPTION OF THE VESSEL'}
+--------------------
+1.2.1 GENERAL ARRANGEMENT  
+The Vessel to be designed and constructed as a full cellular container carrier for unrestricted world-wide ocean going service (except NOx ECA Tier III area and other areas which are stated or limited by the rules and regulation in section 1.3.3, the design and equipment condition of the specification), suitable for carrying dry cargo containers, reefer containers and specified dangerous cargo in closed containers within the scope of the Specification.  
+The vessel to be an ocean-going gearless container vessel with a single-acting two stroke turbo charged diesel engine, a fixed pitch propeller and a semi-spade rudder. .  
+The vessel is not service for NOx ECA (Tier III) area and do not comply with the rules and regulations regarding NOx Tier III. The vessel shall be built on the basis of Tier II regulation with the certificate of International Air Pollution Protection Certificate (IAPP) and Statement of compliance with the NOx technical code for main & aux. engine (EIAPP) in compliance with Tier II criterion.  
+**Open loop scrubber to be provided to satisfy the requirements of Global Sulfur Cap 2020 (option requirement of SECA).**  
+**HFO (< 3.5% Sulphur), LSHFO (< 0.5% Sulphur)/ULSFO (< 0.1% Sulphur) and MGO(< 0.1% Sulphur) to be loaded on board.**  
+**ULSFO (< 0.1% Sulphur), MGO (< 0.1% Sulphur) shall be adopted for on SOx Emission Control Area (SECA).**  
+The vessel to have a continuous main deck with a detached forecastle, eight (8) tiers of deck house.  
+The propulsion machinery and living quarters including navigation bridge shall be located semi-aft as shown on the General Arrangement Plan (hereinafter called as the "G.A. plan").  
+Containers, cargo holds, ballast water tanks, fuel oil tanks, fresh water tanks, bow thruster room, steering gear room and engine room etc. shall be arranged as shown on the G.A. plan.  
+The Vessel shall have four (4) cargo holds. each cargo hold have two (2) hatches each.  
+The double hull and double bottom space shall be arranged as ballast water tanks or void space. Fore peak tank shall be designed as ballast tank. Aft peak tank shall be designed asballast tank. One pair of anti-heeling tanks to be arranged at midship area port and starboard sides as shown on GA plan.  
+Double hull construction shall be provided for all cargo holds. A double bottom shall be fitted extending from the collision bulkhead to the aft peak bulk head **.**  
+**Cargo holds to be designed to have access from upper deck to cargo hold walkways and bilge wells in the aft end. Stringer to be provided as walkway location for each 8’6’’ standard container tiers in hold.**  
+One (1) pipe duct shall be provided in double bottom from aft end of No.2 cargo hold compartment to fore end of engine room. ***Small hatch covers in place in fore and aft end of pipe duct.***  
+Pipe duct to be fitted with trolley and sufficient lighting to be also provided.  
+One (1) set of bow thruster to be installed in bow thruster room..  
+Mooring facilities shall be arranged as shown on the G.A. plan.  
+1.2.2 intended cargo  
+The Vessel shall be designed for carrying container in all cargo holds and on deck.  
+The types and dimensions of dry cargo containers to be shown as below:  
+Type of container  
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Type | Height  ft-inches | Width  ft-inches | Length  ft-inches |
+| ISO-1AA | 8 - 6 | 8 | 40 |
+| ISO-1CC | 8 - 6 | 8 | 20 |
+| ISO-1AAA | 9 - 6 | 8 | 40 |
+| ISO-1EEE | 9 - 6 | 8 | 45 |  
+Dimension of container  
+|  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Type | Height | | Width | | Length | | Weight |
+| (mm) | Tole-rance  (mm) | (mm) | Tole-rance  (mm) | (mm) | Tole-rance  (mm) | Gross Max.  (MT) |
+| ISO-1AA | 2,591 | +0  –5 | 2438 | +0  –5 | 12,192 | +0,-10 | 30.48 |
+| ISO-1CC | 2,591 | 6,058 | +0,-6 | 30.48 |
+| ISO-1AAA | 2,896 | 12,192 | +0,-10 | 30.48 |
+| ISO-1EEE | 2,896 | 13,716 | +0,-10 | 30.48 |  
+Dangerous goods  
+Dangerous goods can be carried in closed freight containers in hold and on deck as qualified as follows.  
+| Loading space  IMO Class | In cargo hold No.1  \*1) | In cargo hold No.2 ~ No.4  \*2,4) | On hatch covers \*3) | Above E/R |
+| --- | --- | --- | --- | --- |
+| 1.1 to 1.6 explosives | X | X | P \*4)7) | X |
+| 1.4S | C | C | C | C |
+| 2.1 including hydrogen and hydrogen mixtures | X | X | C | X |
+| 2.1 excluding hydrogen and hydrogen mixtures | C | X | C | X |
+| 2.2 | | C | C | C | X |
+| 2.3 flammable | X | X | C | X |
+| 2.3 non-flammable | X | X | C | X |
+| 3 F.P.<23℃ | C | X | C | X |
+| 3 23℃≤F.P.≤60℃ | | C | C | C | X |
+| 4.1 | | C | C | C | X |
+| 4.2 | | C | C | C | X |
+| 4.3 liquids F.P.<23℃ | X | X | C | X |
+| 4.3 liquids F.P.≥23℃ | | C | C | C | X |
+| 4.3 solids | | C | C | C | X |
+| 5.1 | | C | C | C | P\*5) |
+| 5.2 | X | X | C | X |
+| 6.1 liquids F.P.<23℃ | C | X | C | X |
+| 6.1 liquids 23℃≤F.P.≤60℃ | C | C | C | X |
+| 6.1 liquids non-flammable | C | C | C | C |
+| 6.1 solids | | C | C | C | C |
+| 8 liquids F.P.<23℃ | C | X | C | X |
+| 8 liquids 23℃≤F.P.≤60℃ | C | C | C | X |
+| 8 liquids non-flammable having a subsidiary risk class 6.1 | C | C | C | C |
+| 8 solids | | C | C | C | C |
+| 9 including goods evolving flammable vapour | X | X | C | X |
+| 9 except goods evolving flammable vapour \*6) | C | C | C | C |  
+Notes:  
+F.P.: Flash point  
+C: Intended for carriage  
+X: Not intended  
+P \*x): Intended for carriage subject to \*x)  
+\*1) For cargo hold No.1, explosion-proof type fans to be of IIB-T4 grade or equivalent. If any dangerous cargoes require explosion-proof grade higher than IIB-T4, such cargoes cannot be loaded (i.e. hydrogen, hydrogen mixture, ethyl nitrite, ethyl nitrate, etc.).  
+\*2) For cargo hold No.2~ No.4, fans to be of non-explosion-proof type.  
+\*3) Reefer containers on weather deck to be stowed 3m away from the mechanical  
+ventilation outlet of dangerous cargo hold (No.1) where dangerous cargo is loaded.  
+\*4) Stow 3m horizontally away from the machinery space boundaries and not be  
+stowed within a horizontal distance of 6 m from potential sources of ignition in all case.  
+\*5) Except goods stowage away from sources of heat.  
+\*6) On examination into nature of dangerous goods and equipment of this vessel, judge  
+whether is able to stow or not.  
+\*7) Class 1 (except 1.4S) not to be stowed within a horizontal distance of 6 m from  
+potential sources of ignition in all case.  
+1.2.3 principalDIMENSIONs  
+Length over all (L.O.A.) max.172.00m  
+Length between perpendiculars (L.B.P.) approx.168.70 m  
+Breadth, moulded 27.50m  
+Depth, moulded 14.60 m  
+Design draught, moulded 8.50 m  
+Scantling draught, moulded 10.00m  
+Total height (from baseline to top of antenna) approx.49.00 m  
+Note: The length between perpendiculars may be adjusted according to hull form optimization results.  
+1.2.4 DECK HEIGHT, SHEER AND CAMBER  
+#### 1.2.4.1 Height between Decks  
+|  |  |  |
+| --- | --- | --- |
+| Upper deck to A deck | : | Approx. 3.30 m |
+| A deck to B deck | : | Approx. 3.10 m |
+| B deck to bridge deck | : | Approx.5X2.90 m |
+| Bridge deck to Compass deck | : | Approx. 3.00 m |  
+#### 1.2.4.2 Sheer of Deck  
+Upper deck Nil  
+Deckhouse Nil  
+Forecastle deck Approx. 0.15 m  
+#### 1.2.4.3 Camber of Deck  
+|  |  |
+| --- | --- |
+| Deck | Camber |
+| Upper deck | 100mm |
+| Compass deck | Nil |
+| Forecastle deck | Nil |
+| Exposed part of Navigation bridge deck | Nil |
+| Platform deck(s) in engine room | Nil |  
+#### 1.2.4.4 Rise of Floor  
+Nil  
+1.2.5 DEADWEIGHT, AND CAPACITY  
+#### 1.2.5.1 Deadweight  
+The deadweight of the Vessel shall be approx.23940 tons at scantling draught 10.0m, with even keel, with the vessel afloat in sea water with specific gravity of 1.025.  
+#### 1.2.5.2 Container Capacity  
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Capacity of Maximized Container | | | |
+|  | 20ft | 40ft | Total  (equivalent to TEU) |
+| On deck | 1245 |  | 1245 |
+| In hold | 644 | - | 644 |
+| Total | 1889 |  | 1889 |
+|  | | | |  
+|  |  |  |
+| --- | --- | --- |
+| Capacity of Self-contained Reefer Container (ISO-1AAA type) | | |
+|  | Cooling type | 40ft high cube |
+| On deck | Air cooled | 220 |
+| In hold | Air cooled | 0 |
+| Total |  | 220 |  
+1. IMO visibility requirement at the scantling draught with even keel is considered in the above mentioned container capacity.
+2. Containers shall be stowed in maximum five(5) tiers by ten (10) rows in holds and maximum seven(7) tiers by eleven(11) rows on hatch covers and maximum seven(7)tiers by eleven (11) rows on upper deck.
+3. 45ft container (45’ x 8’ x 9’6”) could be stowed on top of 40ft container above hatch  
+covers where available as shown on the G.A. plan.  
+1. Maximum clear height of cargo hold shall be based on three (3) tiers of 9’6” high cube container and two (2) tiers of 8’6” container.
+2. Reefer slots shall be provided in two (2) tiers on hatch covers and on upper deck as shown on the G.A. plan
+3. Number of tiers in the outmost rows of containers on hatch cover / upper deck may be adjusted according to Maker's lashing force calculation result.
+4. The final stack weight and weight distribution of the containers on upper deck /hatch covers shall be determined according to lashing force calculation result.
+5. Above mentioned number of containers may be decreased/increased in the course of the design development according to final hull lines and G.A. plan.  
+#### 1.2.5.3 Container Homogeneous Intake  
+The number of loadable containers of homogeneous 14MT / TEU (ISO 20’ x 8’ x 8’6’’) at scantling draught 10.0m with moderate trim by stern (not more than 1.0% L.O.A.) shall be about 1332TEU with 100% consumables at departure and VCG of 45% container height.  
+#### 1.2.5.4. Tank Capacity  
+|  |  |
+| --- | --- |
+| Heavy fuel oil /low sulpher heavy fuel oil/Ultra low sulphur fuel oil tanks  (including settling, service tanks) | approx.1,100 m3 |
+| Marine Gas Oil tanks (including service tank) | approx.200m3 |
+| Fresh Water tanks | approx.200m3 |
+| Ballast Water tanks (including anti-heeling tanks) | approx.8300 m3 |  
+Notes:  
+1. All the volumes of tanks in above table to be of geometric net volume without actual filling ratio considered.
+2. The volume of water ballast tanks specified above means only total geometric volume and some of the specified volume may not be utilized in ballast conditions to achieve proper trim and to avoid any excessive structural stress with the detail design development.  
+1.2.6 COMPLEMENT  
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Dep. Name  Class | Deck Dep. | Engine Dep. | Total |
+| Captain Class | 1-Captain | 1-Chief engineer | 2 |
+| Senior officer | 1-Chief officer | 1-Second engineer | 2 |
+| Junior officer | 1-Second officer  1-Third officer | 1-Third engineer  1-Electrician  1-Fourth engineer | 5 |
+| Petty officer | 1-Boatswain | 1-Chief Motorman | 2 |
+| Rating | 5-Seaman  1-Cook | 5-Motorman | 11 |
+| Others | 1-Pilot (Junior officer class) | | 1 |
+|  | 1-Owner (Junior officer class) | | 1 |
+| Total |  |  | 24 |
+|  | | | |
+| Suez crew (not included in the complement ) |  |  | 6 |  
+1.2.7 main engine, propellerAND SPEED  
+#### 1.2.7.1 Main Engine  
+|  |  |
+| --- | --- |
+| Model | MAN B&W 6S60ME-C10.5 Tier II |
+| No. of set | One (1) |
+| Tuning method | Low Load with EGB |
+| M.C.R. | 14940KW x 105rpm |
+| S.M.C.R. | 10380KW x 96 rpm |
+| C.S.R. (90% S.M.C.R.) | 9342KW x 92.7 rpm |  
+#### 1.2.7.2 Propeller  
+|  |  |
+| --- | --- |
+| No. of set | One (1) |
+| Type | Four (4) or five (5) blades, fixed pitch, skew type and keyless |
+| Material | Nickel-Aluminum-Bronze |  
+The propeller shall be designed at the power of ME CSR and revolution with about 4%-7% light running margin at design draught 8.50 m with clean hull and propeller in open calm sea.  
+Propeller strength shall be designed based on SMCR of M/E.  
+#### 1.2.7.3 Service Speed  
+The design service speed is about18.5 knots**,** based on:  
+* On design draught 8.50 m
+* Main Engine running at CSR (90% SMCR)
+* With 15% sea margin
+* Clean hull
+* In open, deep sea with Beaufort 0, Douglas sea state 0  
+Energy saving design:  
+The rudder bulb to be designed optimized together with propeller. The hull lines, propeller and rudder with rudder bulb to be finally decided by towing tank test.  
+1.2.8 m/e FUEL CONSUMPTION  
+The designed M/E Daily fuel oil consumption (D.F.O.C.) is about 35.69t，based on:  
+The Brake Specified Fuel Consumption (B.S.F.C) of the main engine is about 159.0 grams/kWh (excluding M/E supplier’s tolerance) at CSR（9342kW） based on the use of fuel oil with L.C.V. of 42,700 kJ/kg at ISO 3046-1:2002(E) and ISO 15550:2002(E) ambient condition and fulfilling the IMO NOx emission limitation Tier II (ME back pressure max. 60mbar), which shall be determined by shop test.  
+Only Brake Specified Fuel Consumption (B.S.F.C) of the main engine based on above-mentioned conditions determined by shop test shall be Contract guaranteed.  
+In case the shop test conditions are different from the above, the results shall be corrected in accordance with the manufacture’s standards.  
+1.2.9 CRUISING rANGE  
+About 11,000n.miles, assuming:  
+- ISO ambient conditions  
+- Main Engine running at CSR (90% SMCR)  
+- Service speed of 18.5 knots on design draught  
+- Fuel oil consumption for main engine and one (1) set of generator engine power supply at basic hotel load (including tolerance 5% of SFOC)  
+- Fuel oil with specific gravity of 1.01 tons/ m3 for HFO, 0.99 tons/m3 for LSHFO/ULSFO, 40,600kJ/kg in L.C.V. and 0.89 tons/ m3 for MGO, 42,707kJ/kg in L.C.V.  
+- 98% full of fuel oil tanks  
+- Including all HFO,LSHFO/ULSFO /MGO storage, settling and service tanks  
+1.2.10 FREEBOARD  
+The Vessel shall be designed according to the requirement of the International Convention on Load Lines (ICLL), 1966 revised by protocol 1988 and all latest amendments for type "B" ship.

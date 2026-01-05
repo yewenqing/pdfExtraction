@@ -1,0 +1,7 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.7.10** SWITCHES'}
+--------------------
+Switches in living quarters shall be of non-water-proof type, and switches in the machinery spaces, galley, laundry, toilets etc. shall be water-proof type in general.  
+Switches shall be constructed for wall mounting in general, and flush type switches shall be provided for the spaces where woody linings are fitted.  
+The switch for cold provision stores lighting shall be with a red indicating lamp to indicate when the inside lights are on.  
+Switches for berth lights and desk lights shall be fitted on their own fixtures.  
+In general, all tumbler switches and rotary switches for lighting branch circuits shall be of two-pole type.

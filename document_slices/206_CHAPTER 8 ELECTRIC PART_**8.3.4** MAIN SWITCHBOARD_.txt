@@ -1,0 +1,5 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.3.4** MAIN SWITCHBOARD'}
+--------------------
+In case that the contents in the following parts of this section differ from manufacturer's standard for specific equipment Makers’ standard shall be applied  
+in general.  
+***IEC standards or wording “national standards” for the Main Switchboard.(8.3.4 Main Sitchboard) to be reference., such as rule: IEC61111***

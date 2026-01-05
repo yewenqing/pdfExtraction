@@ -1,0 +1,27 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.6 LIFE SAVING APPLIANCE', 'Header 3': '4.6.4 PERSONNEL LIFESAVINGS'}
+--------------------
+Personnel lifesaving appliances shall be provided by the Builder in accordance with the Rule/Regulations of Classification Society and Flag Authority.  
+***Owner supply the SCBA and EEBD recharging compressor. Ship yard supply socket for the compressor,***  
+4.6.4.1 Life Jackets and Immersion Suits  
+Life jackets and immersion suits shall be provided for 24persons and stowed in each cabin in accordance with the Regulations.  
+Each life jacket shall be colored orange and marked with the name of the vessel and port of registry.  
+For other spaces, additional life jackets and immersion suits shall be provided and stowed, according to requirement of Classification Society and Flag Authority.  
+4.6.4.2 Lifebuoy  
+Lifebuoy shall be provided as per rules, general will be as follow:  
+|  |  |  |
+| --- | --- | --- |
+| Location | No. | Accessory |
+| Vessel’s side (port and starboard) and stern rail | as per rule | Buoyant lifeline of about 30 m |
+| Pilot boarding area | 2 | Self-igniting light |
+| Near lifeboat and rescue boat | 2 | Self-igniting light |
+| Near accommodation ladder | 2 | Self-igniting light and buoyant life line of about 30m |
+| Navigation bridge deck (port and starboard) | 2 | Self-igniting light and self-activating smoke signal with quick releasing device |  
+The self-igniting light shall be kept near the lifebuoy to which it belongs.  
+The self-activating smoke signal shall be capable of producing smoke of highly visible color for at least 15 minutes.  
+Each of the lifebuoy shall be marked with the name of the Vessel and port of registry in black letters.  
+Lifebuoy shall be made of rigid polyurethane with plastic cover and fitted with grab line.  
+4.6.4.3 Lifeline Throwing Appliance  
+One (1) lifeline throwing appliance consisting of four (4) projectiles with four (4) lifelines shall be provided.  
+Each projectile shall be capable of carrying the line at least 230 m in calm weather.  
+4.6.4.4 Distress Flares  
+Twelve (12) sets of rocket parachute flares shall be provided.

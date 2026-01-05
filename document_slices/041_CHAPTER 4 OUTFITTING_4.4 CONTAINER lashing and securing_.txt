@@ -1,0 +1,8 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.4 CONTAINER lashing and securing'}
+--------------------
+The Vessel to be designed for carrying ISO standard container of the types stated in Section 2.2 of “General Part” of the Specification.  
+Lashing and securing system shall ensure safe carriage of containers of all variations of high and low cube containers as per the requirement of Rules and Regulations.  
+Cargo Safe Access Plan (CSAP) in accordance with MSC.1/Circ.1352and MSC.1/Circ. 1353 to be prepared by the Builder.  
+All container loose fittings and Container Securing Manual (CSM) required by IMO shall be provided by the Buyer.  
+***The loose twist stackers supplied by the Buyer for mixed stowage shall be stowed in the***  
+***dedicated storage bins and racks supplied by the Buyer on upper deck***

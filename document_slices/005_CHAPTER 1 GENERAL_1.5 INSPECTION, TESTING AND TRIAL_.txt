@@ -1,0 +1,122 @@
+METADATA: {'Header 1': 'CHAPTER 1 GENERAL', 'Header 2': '1.5 INSPECTION, TESTING AND TRIAL'}
+--------------------
+1.5.1 GENERAL  
+The inspection, testing and trial during construction of the Vessel shall be carried out by the Builder and/or the Maker at Maker’s shop or onboard as per the Builder’s and/or the Maker’s practice in compliance with the Rules requirements of the Classification Society under the presence of the Buyer's supervisor(s) and/or the Surveyor of the Classification Society.  
+The list of items for inspection and testing shall be submitted to the Buyer for approval in advance.  
+In section schedule shall be submitted to the Buyer's supervisor(s) one (1) working day in advance, if inspection takes place inside shipyard or near shipyard. And seven (7) working days in advance for the inspection outside shipyard in China, and fourteen (14) calendar days in advance for the inspection out of China. Builder will provide the weekly schedule in advance.  
+Failure of the Buyer's supervisor(s) present, without justifiable reason after due notice as above, shall be deemed as the waiver of the right, and in such case the Buyer shall be obliged to accept the result so such test on the basis of the Builder's and the Classification Society’s reports on the said results.  
+Any different opinion of inspection or test between the Buyer’s supervisor and the Builder’s supervisor shall refer to the opinion of Classification Society Surveyor as the settlement.  
+As to the details of testing of hull, machinery and electrical equipment and installations, refer to relevant Parts.  
+1.5.2 INSPECTION AND TEST OF CONSTRUCTION  
+Tests and inspection for hull structure shall be conducted in accordance with the Rules requirement of the Classification Society, IACS Rec.47 and the agreed CSQS and/or the Builder’s standard at time of Contract. ***List of item for inspection to be submitted to owner.***  
+**Records with all measurements during inspections, tests and trials (for all hull /machinery / outfitting /electrical fields) to be prepared by the builder and submitted to the Buyer as a single finished quality booklet.**  
+**The Builder/ Subcontractor is to ensure safe access for all inspections.**  
+The block inspection to be carried out after completion of hull block steel works. Even if fittings are fitted wholly or partially to the hull blocks, the inspection for the hull blocks shall be carried out without dismantling such fittings unless the block inspection is obstructed by such fittings.  
+Castings of stern frame and rudder to be tested by magnaflux or equivalent according to rule's requirement.  
+***Up to total 20 X-rays/UT in addition to class requirements will be taken upon request of Buyer's supervisors and will be marked by Buyer's supervisors on the NDT drawing. if any defect area(such as working hole/or repair area), to be done NDT inspection according to class requirement.***  
+**List of tanks that will not be hydrostatically tested shall be provided to buyer during plan approval.**  
+**Piping tests to be carried out in two steps: Checking of system’s construction and flushing or blowing. Tightness test as per Class and Maker’s requirements and recommendations.**  
+1.5.3 SHOP TESTS  
+Shop tests for main engine, auxiliary machineries, boiler, deck machineries, provision crane, steering gear, boat davit, control console, etc. to be performed in accordance with the Rule’s requirement and/or the Maker’s standard. The items of shop test to be according to Class’s requirement and Maker's standard. ***Other machineries also same the M/E+G/E must inform to owner shop test day and test record.***  
+The shop tests of main engine, main generator sets and main switchboard to be attended by the Buyer. The Buyer shall be informed of the shop test schedule at least fourteen (14) calendar days in advance out of China and seven (7) calendar days in advance in China in general of the expected date of the shop tests. The Buyer’s attendance shall be confirmed to the Builder at least seven (7) calendar days in advance out of China and two(2) working days in advance in China of the expected date of the shop test. The list of the Buyer plans to join shop test will be mutually agreed by both sides and submitted later. ***Other machineries test must inform to owner shop test day and test record.***  
+The detailed descriptions of shop tests shall be also referred to respective Specifications.  
+The guarantee fuel consumption of the main engine to be certified at the Maker’s shop test.  
+1.5.4 MOORING TEST and lifting test of container  
+Items for mooring test to be submitted to the Buyer four (4) weeks ahead of the test. Procedure for mooring test of the Vessel shall be submitted to the Buyer for review.  
+The container stowage test for cell-guide in cargo holds and container sockets on deck to be carried out for each 20ftand 40ft socket.  
+**Calibrated container to be used and test carried out in the presence of buyer representative. In case the container test for hatch cover is done at factory, the test to be repeated at random on board for not less than 30% of sockets. *Others socket will be check by scanner or total station equipment.***  
+1.5.5 INCLINING TEST AND lightWEIGHT MEASUREMENT  
+When the Vessel is substantially completed except minor items of work, an inclining test and deadweight measurement shall be carried out in order to determine the lightship weight and center of gravity of the Vessel as per the Builder’s practice. **Inclining Test Procedure to be prepared by the Shipyard according to Class requirements and in line with IACS REC.031.**  
+#### 1.5.5.1 Inclining Test  
+The inclining test shall be carried out in the presence of the Buyer's Supervisor(s) and the Classification Society’s Surveyor in accordance with the procedure of inclining test and deadweight measurement.  
+The inclining test shall be conducted by shifting solid portable weights on upper deck or hatch cover and by measuring the Vessel's heeling angle using U-tubes or pendulums which placed forward and aft of the cargo hold region.  
+The results shall be submitted to the Classification Society for approval. The report shall be furnished to the Buyer.  
+For subsequent vessel(s) of this series, the inclining test except lightweight survey shall not be carried out and the results of the first Vessel shall be referred to subject to approval by the Classification Society.  
+#### 1.5.5.2 Lightweight Survey  
+For subsequent vessel(s) of this series, the inclining test except lightweight survey shall not be carried out and the results of the first Vessel shall be referred to subject to approval by the Classification Society if the deviation of lightweight of sister vessel(s) with first Vessel is not more than 1%.  
+Lightweight survey shall be carried out by visual reading the draught of the Vessel, by measuring specific gravity of water and by subtracting the weight temporarily loaded items on board and adding the weight of unfurnished items at the time of lightweight survey in the presence of the Buyer’s Supervisor(s) and the Classification Society’s Surveyor.  
+Draught of the Vessel shall be read at the port and starboard side in way of fore, midship and aft draught marks.  
+The displacement of the Vessel shall be determined from the hydrostatic tables based on the measured draughts with due corrections for trim, heel, deflection of the Vessel and specific gravity of water at the measurement according to the Builder’s practice.  
+1.5.6 QUAY TRIAL and sea trial  
+#### 1.5.6.1 Quay Trial  
+Quay trial for the main engine shall be carried out to check the starting and running of main engine with associated auxiliary machinery prior to the sea trials while the Vessel is moored at the Builder's quay according to Builder’s practice.  
+* Confirmation of starting position
+* Turning gear interlock test
+* Confirmation of control test
+* Safety device test (automatic trip by simulation)
+* Minimum revolution test
+* Inspection of crankcase
+* Test of starting air capacity  
+Following test shall be carried out during Quay trial or Official Sea trial.  
+* Anchoring test
+* Lifeboat and davit operation test, launching test
+* Refrigerating system test
+* Air conditioning system test
+* Ballast and bilge system test
+* Ballast water treatment plant test
+* Emergency fire pump test
+* Black-out test  
+#### 1.5.6.2 Sea Trial  
+When the vessel is substantially completed and ready for sea trial (excluding works which can be made after sea trial), sea trial to be performed by the Builderand mutually agreed program in the presence of the Owner’s representative and the Class surveyor.  
+Reports of official sea trial shall be submitted to the Buyer.  
+After sea trial, working parts of main engine and auxiliary machinery to be opened for the Buyer's inspection on Buyer’s request which cylinder to be opened in accordance with the standard of the Builder, approved by Buyer and refitted to working condition. A confirmation dock run after overhaul for 1/2 hours at low load to be carried out before delivery.  
+Marine diesel oil (MDO) and heavy fuel oil (HFO) of RMK380 available viscosity in  
+Chinese domestic commercial market shall be used for the sea trial at the Builder’s  
+decision. MDO ***(viscosity is 3~6 cSt/40oC (Sulfur content <0.1% m/m)*** will be used instead of MGO for MGO system function test.  
+The test condition of Scrubber in sea trial should be done as below:  
+1) The alkalinity of the sea water: according to the actual sea trail area.  
+2) The sulphur value of the fuel oil: according to the actual filling fuel oil (2.5~3.5%.).  
+3) The engine loading to be as following  
+For ME: 100%SMCR (to be carried out as per engine output power or engine revolution which reach first).  
+For AE: according to the actual consumption in the sea trial condition.  
+Duration: One(1) hour  
+Sea trial shall be carried out at the ballast condition corresponding to model test.  
+The measured trial speed shall be corrected to no wind and no wave, open, deep and current less sea conditions as per ISO 15016:2015(E) - "Guidelines for the assessment of speed and power performance by analysis of speed trial data".  
+The service speed at design draught under the conditions defined in Section 2-7.3 shall be obtained by means of extrapolation based on the above corrected speed and model test results.  
+During the sea trial following test and trial, as well as other items required by the Classification Society and/or the Regulation Bodies concerned shall be conducted.  
+| Item | M/E Load | 1st Vessel | Subsequent Vessel (s) | Remark |
+| --- | --- | --- | --- | --- |
+| Test condition | - | Ballast draught | Ballast draught | - |
+| Progressive speed |  |  |  |  |
+| 65% | O | O | \*1 |
+| 75% | O | O | \*1 |
+| CSR | O | O | \*1\*8 |
+| SMCR | O | O | \*1\*8 |
+| Endurance test  (Duration: two (2) hours at CSR and four (4) hours at SMCR plus 30 minutes at 103.2% normal propeller speed where engine adjustment permits.) | CSR | O | O | \*2 |
+| Maneuvering test | | | |  |
+| - Turning circle test | \*3 | O | X | \*5 |
+| - Zig-Zag test | \*3 | O | X | 10°/10° |
+| - Crash stop astern test | \*3 cond. To full astern | O | O | \*4 |
+| - Inertia test | CSR | O | X | \*7, \*9 |
+| - Williamson turning test | CSR | O | X | \*7 |
+| Measurement of noise level (during endurance test) | CSR | O | O | \*7 |
+| Measurement of hull local vibration | CSR | O | X | \*7 |
+| Steering gear test | SMCR | O | O | \*7 |
+| Anchoring equipment test | - | O | O |  |
+| Bow thruster test | - | O | O |  |
+| Tests and calibration or adjustment of navigation equipment and instruments such as magnetic compass, auto pilot, echo sounder, speed log and radar, etc. | - | O | O |  |
+| Lowest revolution test of main engine | Lowest RPM | O | O |  |
+| Remote control test of main engine such as main engine maneuver, load up and down, slow down, shut down and emergency stop test, etc. | - | O | O |  |
+| Fire alarm and general alarm test | - | O | O |  |
+| Unattended operation test (Duration: four (4) hours) | CSR | O | O | \*7 |
+| Exhaust gas section of boiler demonstration | - | O | O |  |
+| Fresh water evaporator capacity test | - | O | O |  |
+| Torsional vibration measurement in shafting | \*6 | O | X |  |
+| Main engine overhaul inspection after sea trial \*9 | - | O | O |  |
+| Dead ship recovery test |  | O | O |  |
+| Change over for M/E,G/Es and boiler from HFO-MDO (Statement to be certified by Classification Society) |  | O | O |  |  
+Notes:  
+“O” means “do”; “X” means “not do”  
+\*1: Trial running on each load of main engine shall be of at least one (1) double run consisting of one (1) run in a direction on the course and one (1) run in the opposite direction.  
+Speed tests for final verification of attained EEDI to be during progressive speed tests.  
+The Vessel's speed shall be measured by means of Differential Global Positioning System (DGPS).  
+Weather condition of wind velocity and significant wave height shall be in accordance with requirement of ISO 15016:2015(E). The speed trial shall be carried out under the weather condition of maximum Beaufort Scale 5.  
+The measuring of main engine power of the Vessel shall be done by the Builder’s torsion meter.  
+\*2: Fuel consumption of main engine shall be measured for ten (10) minutes at CSR during the endurance test for reference. The Brake Specified Fuel Consumption (B.S.F.C) of the main engine at shop test to be guaranteed.Endurance trial to be carried to be carried out as per engine output power instead of engine revolution except that Endurance trial at 90%SMCR and 100% SMCR to be carried out as per engine output power or engine revolution which reach first.  
+\*3: The test speed for Maneuvering test is at the operating rpm specified at CSR of main engine and complying with the IMO MSC.137(76).  
+\*4: To stop the Vessel (Until ahead speed becomes zero).  
+\*5: To port and starboard with 35 deg. of rudder angle.  
+\*6: Main engine RPM range for torsional vibration test to be decided according to manufacturer’s recommendation.  
+\*7: Operating RPM at the specified power  
+\*8: As per engine output power or engine revolution at the specified power which reach first.  
+\*9: To stop the Vessel (Until ahead speed to become approx. 6 knots)

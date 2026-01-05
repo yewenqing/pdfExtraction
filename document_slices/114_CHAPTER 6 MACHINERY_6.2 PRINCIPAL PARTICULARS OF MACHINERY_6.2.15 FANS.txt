@@ -1,0 +1,19 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.2 PRINCIPAL PARTICULARS OF MACHINERY', 'Header 3': '6.2.15 FANS'}
+--------------------
+Engine room ventilating fan  
+No. of set : Four (4)  
+Two (2) of them to be reversible  
+Type : Axial flow, split type,  
+Capacity : abt.1,300 m3/min  
+Static pressure : 600 Pa  
+Capacity shall be according to calculation which shall be based on ISO 8861 where a temperature rises of 12.5deg. C shall be considered.  
+Oil purifier area exhaust fan  
+No. of set : One (1)  
+Type : Centrifugal  
+Capacity : 200m3/min.  
+Static pressure : 500 Pa  
+ER workshop exhaust fan  
+No of set : One (1)  
+Type : Centrifugal  
+Capacity : 50 m3/min  
+Static pressure : 400 Pa

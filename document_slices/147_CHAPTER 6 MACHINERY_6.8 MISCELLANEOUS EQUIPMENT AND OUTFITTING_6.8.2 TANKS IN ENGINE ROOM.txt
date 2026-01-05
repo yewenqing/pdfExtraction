@@ -1,0 +1,15 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.8 MISCELLANEOUS EQUIPMENT AND OUTFITTING', 'Header 3': '6.8.2 TANKS IN ENGINE ROOM'}
+--------------------
+Tanks in engine room shall be of welded steel plate, and provided with necessary fittings such as heating coils, thermal insulation, level measuring apparatus, thermometer socket, air escape pipe, overflow pipe, drain plug, hole for cleaning, valves, etc., to be according to tank purpose.  
+All of the oil tanks shall be provided with drip pans as practicable. Heating coils shall be provided for the following tanks:  
+Tank name Heating coil surface ratio  
+HFO, ULSFO/LSHFO settling tank 0.2m2/m3  
+HFO, ULSFO/LSHFO service tank 0.2m2/m3  
+M/E LO settling tank 0.1m2/m3  
+M/E LO sump tank around bell mouth  
+Fuel oil drain tank 0.1m2/m3  
+Sludge tank 0.25m2/m3  
+Fuel oil overflow tank 0.08m2/m3  
+G/E lub. oil settling tank 0.1m2/m3  
+Lub. oil drain tank 0.1m2/m3  
+Bilge tank 0.1 m2/m3

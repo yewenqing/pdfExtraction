@@ -1,0 +1,8 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.10.4** ECHO SOUNDER (AC 220 V)'}
+--------------------
+One (1) set of echo sounder with necessary accessories shall be installed as follows:  
+1- Transducer in bottom of fwd working frequency type of transducer to be 200 kHz according to Maker’s standard,  
+***(Option: 1- Transducer in bottom of stern, and the bridge screen at the same time can display the depth of F/A);***  
+1- Main display in the chart space  
+1- Display in wheelhouse ceiling panel.  
+The maximum depth range scale is 300 meters or as per Maker’s standard and signal shall be transmitted to VDR and ECDIS.

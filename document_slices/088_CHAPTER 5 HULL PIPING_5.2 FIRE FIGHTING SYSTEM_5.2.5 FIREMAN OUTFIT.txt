@@ -1,0 +1,8 @@
+METADATA: {'Header 1': 'CHAPTER 5 HULL PIPING', 'Header 2': '5.2 FIRE FIGHTING SYSTEM', 'Header 3': '5.2.5 FIREMAN OUTFIT'}
+--------------------
+Fire-fighting apparatus shall be provided in accordance with the requirements of the Rule/Regulations as follows:  
+1. Two (2) sets of firefighter’s outfits including self-contained breathing apparatus in fire control station;
+2. Two (2) two-way portable radiotelephone apparatus (as a headset in the mask);
+3. Four (4) full protective clothing resistant to chemical attack for dangerous goods carriage;
+4. Two (2) self-contained breathing apparatuses in addition to the above for dangerous goods carriage;  
+Heat protection suit shall be of heavy duty version with heat protection for gloves and boots and hood.

@@ -1,0 +1,24 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.9.9** E/R SIGNALING AND ALARM SYSTEM (LIGHT COLUMN)'}
+--------------------
+Signaling and alarm system (alarm lighting column) shall be provided in engine room, alarming engine room staff if specified alarm condition happen or telephone is calling in engine room or in ECR.  
+In engine room, include boiler, AC room, steering gear room, suitable amount of signal light panels shall be installed, with the following illuminated signaling/alarm identification signs according to IMO Resolution:  
+- Fire alarm – red globe with “FIRE” sign  
+- General alarm – green globe with “ALARM” sign  
+- CO2 alarm – red globe with “CO2” sign  
+- Engine failure alarm – amber globe with “FAILURE” sign  
+- Telephone communication call – white globe with “TELEPHONE” sign  
+- Telegraph alarm – white globe with “TELEGRAPH” sign  
+- Dead man alarm – amber globe with DEAD MAN ALARM sign  
+Simultaneously with alarm display in signal light panels, rotating lights (with red or amber globe) and electric sirens shall be actuated.  
+Telephone calling signal shall be stopped automatically if no acknowledgement follows in abt. 4 min.  
+The quantity and position of columns shall be an example which can be changed by the final designing:  
+4- Upper platform in E/R  
+4- Lower platform in E/R  
+2- Floor in E/R  
+1- Steering gear room  
+1- Purifier room  
+1- Engine casing  
+A mini column panel for alarm shall be installed in the engine control room.  
+Abt : 14 pieces.  
+Power supply – AC 220 V from emergency mains;  
+***"Ref. Appendix of "Code on Alerts and Indicators, (2009)"***

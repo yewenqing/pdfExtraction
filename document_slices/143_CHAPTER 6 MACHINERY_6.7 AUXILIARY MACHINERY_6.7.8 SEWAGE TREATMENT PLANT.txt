@@ -1,0 +1,9 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.7 AUXILIARY MACHINERY', 'Header 3': '6.7.8 SEWAGE TREATMENT PLANT'}
+--------------------
+One (1) sewage treatment plant of biological type shall be provided in engine room.  
+The construction, materials, accessories, spares and tools shall be in accordance with Maker's standard.  
+Soil pipe from hospital block shall be separately led to the sewage treatment plant.  
+One (1) set of unit type toilet shall be provided in engine room and sewage shall lead to the sewage collecting tank by gravity.  
+The performance shall meet the requirement of IMO.  
+**The grey and black water pipes should be sufficient inclined downwards for easy draining of water. Furthermore, horizontal led drain pipes should be avoided. Suitable access openings with blind flanges for cleaning, to be arranged as far as possible.**  
+**The plant to be provided *two* air blower(or air compressor) and an alternative air at 7kg/cm2 .**

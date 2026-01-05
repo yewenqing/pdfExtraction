@@ -1,0 +1,4 @@
+METADATA: {'Header 1': 'CHAPTER 5 HULL PIPING', 'Header 2': '5.1 HULL PIPING', 'Header 3': '5.1.13 DRAFT GAUGE'}
+--------------------
+The sea valves for draft gauges shall be manually operated at local side.  
+Draft gauges shall be provided to read fore, midship (P/S) and aft draft with remote reading by analogue and digital display on TFT in ship office.

@@ -1,0 +1,14 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.4 CONTAINER lashing and securing', 'Header 3': '4.4.4 Cellular Construction'}
+--------------------
+Cellular construction shall be of fixed, continuous type and designed to guide and support the six(6) tiers of 8’6”standard containers.  
+The cell guide shall be reinforced to permit the stowage of 9’6” high cube container randomly in cargo hold in flexi loading condition.  
+The cell guides shall be of about 160 mm x 160 mm x 14 mm equal angle construction. The cell guides shall extend continuously from the entry guide down to around 2.0 meters above the inner bottom or container platforms in the cargo hold.  
+The top of each cell guide shall be connected to a fixed entry guide fabricated with ***22*** mm thickness steel plate, and the enter guides shall be of wave type in accordance with the Builder’s practice.  
+The cell guides and cell guide support structure shall be designed based on the container unit weight of 30.5MT per 20ft/40ft container. ***From entry guide within 2 meters the support bracket shall be double pieces to be installed (to be confirm at approved drawing).***  
+Side guide plates shall be provided in way of location between each 20ft container as follows:  
+For guide plate in way of side longitudinal bulkhead of all cargo hold:  
+(1) Approx. from hatch coaming top level to upper deck level  
+(2) Approx. 1.5m length above the tank top 1000m.  
+The side guide rails would be not fitted on other step bulkhead.  
+The test for container loading and unloading with real or dummy container shall be carried out in accordance with the Builder’s practice.  
+The bay numbers based on 40ft containers and row numbers shall be marked with Intermittent welding line and painted on the side/end wall of each cargo hold.

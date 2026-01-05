@@ -1,0 +1,4 @@
+METADATA: {'Header 1': 'CHAPTER 7 AUTOMATION AND REMOTE CONTROL', 'Header 2': '**7.2.13** Remote Quick Closing Valve'}
+--------------------
+Quick closing facilities for pneumatic remote closing valves in fuel oil and lub. oil systems shall be provided.  
+Low pressure alarm shall be provided to AMS.

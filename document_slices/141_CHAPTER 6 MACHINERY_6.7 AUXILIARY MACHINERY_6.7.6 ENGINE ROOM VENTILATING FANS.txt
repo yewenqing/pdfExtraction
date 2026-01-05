@@ -1,0 +1,10 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.7 AUXILIARY MACHINERY', 'Header 3': '6.7.6 ENGINE ROOM VENTILATING FANS'}
+--------------------
+The relevant data refer to Paragraph 6.2.15.  
+Four (4) ventilating fans shall be provided the airflow for combustion of main engine, generator engines, boiler and for evacuation of heat emission from aux. equipment in engine room. The ventilating fan shall be vertical split type totally enclosed motor driven axial flow type.  
+Two (2) sets of them shall be reversible and the capacity and head is reduced when the fan shall be run at reverse rotation. **Safety timer to be provided to prevent immediate reversal of fan.**  
+The materials shall be as follows:  
+Casing : hot galvanized steel  
+Impeller : sea water resistant aluminum alloy casting or Maker’s standard  
+Shaft : Carbon steel  
+In addition to above, each one (1) exhaust fan for purifier area, and welding space in ER workshop shall be installed.

@@ -1,0 +1,38 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.7 deck outFITTING', 'Header 3': '4.7.5 NAME PLATE AND MARKS'}
+--------------------
+Name plate and Marks shall be provided as follows and shall be distinguished by color paint.  
+| Item | Location | Remarks |
+| --- | --- | --- |
+| Name of Vessel | Bow (P&S) | Intermittent welding line and painted |
+| Transom stern |
+| Lifeboat, liferafts, lifebuoys | Painted |
+| Port of registry | Transom stern | Intermittent welding line and painted |
+| Vessel's name board | Wheelhouse top (P&S) | steel plate and painting |
+| Draught mark | Bow, midship and stern (P&S) | 6.0 mm steel plate welded and painted,  Arabic numerals of 100 mm projected height and 200 mm pitch |
+| Freeboard mark | Midship (P&S) | 6.0 mm steel plate welded and painted |
+| Notice boards, caution plates | Suitable location | Brass, stainless steel or plastic plate as per Builder’s practice |
+| Name plates to identify quarters and spaces | Cabins, public rooms, stores, lockers |
+| Vessel's call letter | Wheelhouse |
+| Funnel mark Funnel in Owner's colors and Owner's flag at both side of the accommodation. | Around of funnel | Intermittent welding line and painted as per Owner’s drawing |
+| Bow thruster mark | Bow (P&S) | Intermittent welding line and painted |
+| Bulkhead mark (tug pushing mark shall be used as bulkhead mark) | Side shell (P&S) | Intermittent welding line and painted |
+| Cargo hold No. | On hatch cover |
+| Hatch and manhole cover | Suitable location | ***6.0 mm steel plate welded and painted*** |
+| Bay no. and row no. | In hold/deck/deck stanchion | ***6.0 mm steel plate welded and painted*** |
+| Indication of bottom plug | Adjacent to bottom plug | 6.0 mm steel plate welded and painted |
+| Pilot boarding | Suitable location | Intermittent Welding line and painted |
+| Official number | Suitable location | Intermittent Welding line and painted |
+| “CC” mark | Suitable location | Welding line and painted |
+| “NO SMOKING” mark | Longitudinal bulkhead in dangerous cargo loading hold | Painted |
+| Tank boundary with initial letter if rule require | Side shell | 6.0 mm steel plate welded and painted |
+| “In water” survey mark | Suitable location | welding line and painted |
+| The Builder’s name plate | Deckhouse’s entrance | Bronze or artificial marble |
+| Company logo | Side shell | Intermittent Welding line and painted |
+| IMO number | Stern and E/R forward bulkhead | Intermittent welding line and painted |
+| Frame number | In under deck passageway | 6.0 mm steel plate welded and painted |  
+Note:  
+If bottom plug mark very close to tank boundary name mark,plug name mark will be omitted.  
+Pipe outlet mark shall be satisfied with the Rule’s requirement for under water inspection.  
+Tank name mark welded near the Manhole cover by 6.0 mm steel plate welded and painted. All shell openings under water including inside sea chests shall be clearly and suitably marked with welding bead and painting  
+**Design and Type of small name plates for identification of valves, pipes etc shall be**  
+**provided during plan approval drawing stage.**

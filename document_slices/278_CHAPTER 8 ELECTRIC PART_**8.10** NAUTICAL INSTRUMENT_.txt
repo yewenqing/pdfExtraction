@@ -1,0 +1,3 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.10** NAUTICAL INSTRUMENT'}
+--------------------
+Equipment and arrangement of nautical instrument will be supplied as per the rules requirement.

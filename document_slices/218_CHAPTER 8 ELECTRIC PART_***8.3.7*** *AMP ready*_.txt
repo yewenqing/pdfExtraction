@@ -1,0 +1,5 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '***8.3.7*** *AMP ready*'}
+--------------------
+***MSB with additional empty panel(cold-ironing) , and cable tray shall be installed which shall route from the cold-ironing panel to the port side on upper deck of AMP ready position with water tight penetration; packaged container solution with all other AMP device will be separated and supplied by the Buyer (refer to the installation of 40ft container which will include relevant transformer and AMP connection box inside). Appropriate space for future AMP device ready shall be considered on board.***  
+***MV transformer and cable reel shall not be installed on board. The Buyer will rent the container, which shall be contained with MV transformer(1.6MVA) and reel.***  
+***The cable for shore connection shall not be supplied by the Builder***

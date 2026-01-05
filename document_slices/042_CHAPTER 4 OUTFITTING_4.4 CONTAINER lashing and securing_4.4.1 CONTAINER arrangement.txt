@@ -1,0 +1,30 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.4 CONTAINER lashing and securing', 'Header 3': '4.4.1 CONTAINER arrangement'}
+--------------------
+#### 4.4.1.1 Container Fittings in Hold  
+The container stowage and securing method in hold shall meet the requirement of OSHA.  
+Twin 20ft containers shall be loaded in the 40ft cell up to maximum five (5) tiers from tank top.  
+Fixed stacking cones shall be welded on the tank top with doubling plate at each corner of 40ft container, and guide fitting at 20ft ISO gap for supporting the containers against the shifting.  
+Regardless of the maximum designed stack weight for tank top strength, the stack weight and the weight distribution will follow the calculation results of Rules.  
+The transverse clearance between two adjacent rows container in hold to be about 50 mm, in general.  
+#### 4.4.1.2 Container Fittings on Deck and Hatch Cover  
+The container stowage on deck and hatch cover shall meet the requirement of CSS Code including MSC.1/Circ.1352.  
+Arrangement and number of containers on upper deck, hatch cover and container deck stanchion to be as shown on the G.A. plan.  
+45ft container (45’ x 8’ x 9’6”) could be stowed on hatch covers from 2ndtier above No.2~No.8 hatch without additional lashing as outlined on G.A. plan.  
+Container on hatch cover to be arranged as symmetrical as possible in the section view and the transverse clearance between containers to be about 38mmin general.  
+In general, the containers on hatch covers and upper deck shall be secured by the combined use of twist locks, lashing rods, turnbuckles, and lashing eyes.  
+Regardless of the maximum designed stack weight for the hatch covers and upper deck aft, the maximum achievable stack weight of containers, especially for the outmost row(s) containers, may be adjusted in accordance with the lashing calculation result as per Class Rule based on the following lashing patterns or lashing patterns by Maker’s recommendation.  
+Lashing pattern:  
+Internal lashing pattern shall be applied, in general.  
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  | For 40ft /45ft containers on hatch cover and upper deck | For 20ft containers | |
+| Inboard container stacks | Double cross lashing (short) | Gap | single short cross |
+| End | single short cross |
+| Outboard container stacks | Double cross lashing (short) + Single diagonal lashing(long) | Gap | Single short cross+long wind lashing+long vertical lashing |
+| End | double lashing |  
+Container lashing method shall be in accordance with the Maker’s standard to comply with the Rules requirement and shall be submitted to the Buyer for reference.  
+The permissible weight distribution of containers in each tier to be decided in accordance with the Class Rules.  
+The container fixed fitting to be arranged on hatch cover, deck stanchion and upper deck based on the above lashing patterns.  
+ISO raised type twist lock foundation (about 110 mm high) and fixed type lashing eye plate shall be fitted on hatch cover, deck stanchion and upper deck for container stowage. Eye plate shall be sufficiently spaced to allow for easy inserting /removal of lashing bar ends.  
+Elongated-hole type twist lock sockets shall be fitted on outmost side of hatch cover or on deck stanchion considering hatch cover movement as per Maker’s recommendation.  
+All loose lashing and securing fittings such as semi-automatic twist locks, lashing rods, turnbuckles etc., and Container Securing Manual (CSM) required by IMO shall be supplied by the Buyer.

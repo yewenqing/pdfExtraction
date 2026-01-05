@@ -1,0 +1,3 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.9.15** FIXED GAS DETECTION SYSTEM'}
+--------------------
+None

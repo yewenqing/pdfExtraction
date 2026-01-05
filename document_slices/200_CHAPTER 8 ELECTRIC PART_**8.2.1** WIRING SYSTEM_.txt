@@ -1,0 +1,26 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.2.1** WIRING SYSTEM'}
+--------------------
+**All cables shall be marked at both ends with the cable reference numbers as per drawings. Marks shall be flame retardant with impressed letters. The individual conductor ends in the cables shall be marked with closed ring marks. All internal wiring in switchboards, panels, consoles, etc. shall also be marked with closed rings at both ends with reference numbers as per drawings. (according to maker standard)**  
+The distribution system shall consist of three-phase AC. three-wire insulated system, single phase AC. two-wire insulated system and DC two-wire insulated system.  
+The distribution system shall be as follows:  
+General power system:  
+1) AC 440 V system: 3 PH, 60 Hz, 3-wire insulated system  
+2) AC 220 V system: 3 PH, 60 Hz, 3-wire insulated system and single phase two-wire insulated system  
+3) DC 24 V system: 2-wire insulated system.  
+Galley and domestic equipment (large capacity AC440V):  
+AC 440 V/220 V, 3 PH/1PH, 60 Hz, 3-wire/2 wires  
+Lighting main circuit:  
+AC 220 V, 3 PH, 60 Hz, 3-wire  
+Branch circuits of lighting, small capacity domestic equipment:  
+AC 220 V, 1 PH, 60 Hz, 2-wire  
+Nautical instruments and radio equipment:  
+AC 220 V, 3 PH /1 PH, 3 wire/2 wire, 60 Hz, and DC 24 V 2-wire  
+Interior communication and alarm system and automation:  
+AC 220V, 1 PH, 60 Hz, 2-wire or DC 24 V, 2-wire  
+Bow thruster motor:  
+AC 440 V, 3 PH, 60 Hz  
+Reefer container:  
+AC 440 V, 3 PH, 60 Hz  
+The distribution system shall be insulated against hull throughout the vessel except for ground detecting circuits, secondary circuits of potential and current transformers will be earthed at switchboard or control panel.  
+The voltage for some portable equipment such as portable control box for turning gear motor and traveling crane and so on should be lower than AC 50 V using two (2) windings type transformer of which the secondary winding shall not be earthed.  
+The metal frame or body for portable equipment shall be earthed by the earth connection, if the voltage for portable equipment is AC 220 V.

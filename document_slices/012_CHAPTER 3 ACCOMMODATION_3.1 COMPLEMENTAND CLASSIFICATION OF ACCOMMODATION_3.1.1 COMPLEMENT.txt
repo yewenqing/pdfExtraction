@@ -1,0 +1,15 @@
+METADATA: {'Header 1': 'CHAPTER 3 ACCOMMODATION', 'Header 2': '3.1 COMPLEMENTAND CLASSIFICATION OF ACCOMMODATION', 'Header 3': '3.1.1 COMPLEMENT'}
+--------------------
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Dep. Name  Class | Deck Dep. | Engine Dep. | Total |
+| Captain Class | 1-Captain | 1-Chief engineer | 2 |
+| Senior officer | 1-Chief officer | 1-Second engineer | 2 |
+| Junior officer | 1-Second officer  1-Third officer | 1-Third engineer  1-Electrician  1-Fourth engineer | 5 |
+| Petty officer | 1-Boatswain | 1-Chief Motorman | 2 |
+| Rating | 5-Seaman  1-Cook | 5-Motorman | 11 |
+| Others | 1-Pilot (Junior officer class) | | 1 |
+|  | 1-Owner (Junior officer class) | | 1 |
+| Total |  |  | 24 |
+|  | | | |
+| Suez crew (not included in the complement ) |  |  | 6 |

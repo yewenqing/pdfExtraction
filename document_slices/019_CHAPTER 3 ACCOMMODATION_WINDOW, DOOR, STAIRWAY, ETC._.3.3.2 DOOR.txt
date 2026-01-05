@@ -1,0 +1,81 @@
+METADATA: {'Header 1': 'CHAPTER 3 ACCOMMODATION', 'Header 2': 'WINDOW, DOOR, STAIRWAY, ETC.', 'Header 3': '.3.3.2 DOOR'}
+--------------------
+Doors shall be arranged according to G.A. plan.  
+Mosquito screen will not be fitted.  
+#### 3.3.2.1 Steel Door  
+Steel doors shall be hinged type, except specified, and shall be provided as follows:  
+| Type | Material | Clear width  (mm) | Location |
+| --- | --- | --- | --- |
+| Weather tight | Steel plate | 800 | * Entrance from exposed deck to corridor （except wheel house） * Entrance from exposed Upper deck to CO2 room * Entrance from exposed deck to Dispensary * Entrance from exposed deck to Bosun store, paint store |
+| Weather tight | Steel plate | 700 | * Entrance from exposed Upper deck to Garbage store * Entrance from exposed A deck to Emergency generator room * Entrance to Bosun store, Safety equipment store * Entrance from exposed deck to Refrigerated chamber * Entrance from exposed deck to Gym * Entrance from exposed deck to Steering gear room stair * Entrance from exposed deck to engine room escape |
+| Weather tight | Steel plate | 650 | * All other weather tight door form expose deck to cabin. |
+| Watertight, | Steel plate | 700 | * Entrance from E/R to steering gear room (subject to Rule requirement), |
+| Watertight, | Steel plate | 650 | * Entrance from E/R to side void space, (subject to Rule requirement) |
+| Steel door with ventilation grille | Steel plate | 650 | * Oxygen/acetylene bottle store |
+| Sliding type, hollow with square window | Stainless steel | 1,000 | * Entrance from exposed Bridge deck to Wheelhouse |
+| Wire mesh door | Steel | 700 | * ER spare room, elec. store |  
+Notes:  
+\*1) watertight door to be provided with open/close indication on wheelhouse.  
+2) The tightness of the steel doors (weather-tight or watertight) may be adjusted based on requirement of damage stability.  
+All steel doors shall be of rectangular, hinged type with round corner, except otherwise specified.  
+Steel hinged single handle weather door with fixed rectangular window shall be provided for entrance door to accommodation corridor, cylinder lock will be install for the entrance door that fulfill with ISPS rules. .  
+Weather tight steel doors shall be of welding of seal channels continuous with synthetic rubber gasket, and pad lock eye plate( or cylinder lock) and fixing hook and door stopper according to the purpose intended, and shall be provided in accordance with the requirement of the Rule/Regulations and the Builder’s standard.  
+The height from covering of the deck to the top of steel door opening shall be of 2,000 mm.  
+Height of weather tight steel door sill shall meet ICLL requirement. Door sill of entrance from weather deck shall be abt. 150 mm high above steel deck where there is no Rule requirement.  
+Sill height shall be measured from top of deck plate, even where deck covering is applied subject of LL requirement.  
+Foot step to be installed only to sills with height equal and above 600 mm.  
+The weather tight door for emergency escape trunk shall be of quick-open type.  
+#### 3.3.2.2 Internal Accommodation Door  
+Stairway doors to be held open on magnetic catches and released by the fire alarm system.  
+|  |  |  |
+| --- | --- | --- |
+| Kind of Doors | Material and Type | Location |
+| "A-60" class fire protection | "A-60" class approved, steel sash type | In accordance with SOLAS |
+| "A-0" class fire protection | "A-0" class approved, steel sash type | In accordance with SOLAS |
+| "B" class fire protection | "B" class approved, steel sash type | In accordance with SOLAS |
+| Light type (P.V.C. film) | Steel sash hollow door with vent mesh | Private toilet |
+| Sound proof type | Pontoon type steel door with sound insulation | Engine control room |  
+Notes:  
+* + 1. Self-closing door devices shall be fitted according to rules requirement.
+2. Door catcher with cushion shall be fitted on all doors except those with self-closing device.  
+Clear height of internal accommodation door to be abt.1,950mm above the surface deck covering except door of private toilet and the door between the two spaces that the deck covering's thickness difference is more than 90mm.  
+Clear width of internal accommodation door opening to be as shown in the following table.  
+|  |  |
+| --- | --- |
+| Clear width (mm) | Location |
+| 800 | Entrance to corridor, Galley, From Pantry to Officer’s mess room, Dry provision |
+| 700 | Stairways, Fire control station, Lobby, Mess rooms, Ship office, Recreation room, Meeting room, escape in ER, Fire control station, entrance door to ER, |
+| 600 | Private lavatory |
+| 650 | All other internal accommodation doors |  
+#### 3.3.2.3 Hardware  
+All hardware shall be of marine type.  
+##### 3.3.2.3.1 Lock  
+All door handles shall be of lever type，***the springs to be moderately heavy type.***  
+All locks and latches shall have rim or mortise type casing to meet the requirements of particular installations.  
+Locks shall be furnished so that each lock will have a different key, and all locks except lavatory locks can be opened by a master key.  
+All living cabins shall have mortise type cylinder lock and latch set with thumb turn.  
+Public space, catering space, wheelhouse, fire control station, engine control room, laundry, changing room and inside lockers shall have mortise type cylinder lock and latch set.  
+Weather doors on A to F deck and wheelhouse to have mortise lock.  
+Public/deck toilet and hospital bathroom door shall have mortise type latch with "vacant" indicator. Bonded store door shall have padlock made of brass.  
+Weather deck steel doors shall have latch， padlock or cylinder lock where necessary.  
+General Anti-pirate locking device to be provided for all external doors.  
+Locking device only openable from inside shall be fitted at steel doors to accommodation area and engine room area from upper deck as per ISPS.  
+##### 3.3.2.3.2 Key  
+Three (3) sets of key shall be supplied for each lock set except "vacant" lock.  
+Keys shall be divided into user’s group in accordance with shipboard practice.  
+Key of each door to be different, doors of one room to use the same key.  
+Three (3) sets of master key shall be provided.  
+All keys shall be supplied with a plastic identification tag. A list of keys identifying the cabin and number shall be supplied by the Builder.  
+The tag shall be marked in English only.  
+##### 3.3.2.3.3 Door Closer  
+Door self-closing device shall be provided for the following locations except steel doors :  
+* + - * Engine room entrance
+* Stairway
+* Electric cable trunk, A.C. ventilation trunk and pipe tunnel in accommodation block
+* Public toilet
+* Inside passage entrance door on upper deck, A deck and B deck
+* Engine control room
+* Galley
+* Wheel house
+* A-class, B-class fire doors (if required by Class rules)  
+Door closers shall be of sufficient size to close the doors under all conditions of list and trim.

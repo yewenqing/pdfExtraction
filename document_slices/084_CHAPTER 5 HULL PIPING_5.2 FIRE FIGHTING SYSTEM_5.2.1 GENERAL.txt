@@ -1,0 +1,12 @@
+METADATA: {'Header 1': 'CHAPTER 5 HULL PIPING', 'Header 2': '5.2 FIRE FIGHTING SYSTEM', 'Header 3': '5.2.1 GENERAL'}
+--------------------
+The following fixed fire-fighting systems shall be provided for the spaces as listed below.  
+Sea water system Exposed decks, Engine room, Steering gear room, Cargo hold, Paint store  
+Living quarters, and other working spaces  
+Fixed fresh water mist system Localized fire suppression in E/R  
+CO2 fixed system Engine room, Cargo hold, Galley hood  
+Portable fire extinguisher Living quarters and other working spaces, engine room, emergency generator room and emergency fire pump room  
+All fire-fighting system and equipment shall comply with the requirements of SOLAS.  
+Fire Control Plan shall be provided in accordance with Rule and Regulation and shall be stored in galvanized steel case on both sides of living quarters on upper deck.  
+Fire control station is shall be provided with controls for quick closing valves, E/R fans, CO2 releasing box for engine room, oil pumps etc.  
+***One fire detector for every laundry.***

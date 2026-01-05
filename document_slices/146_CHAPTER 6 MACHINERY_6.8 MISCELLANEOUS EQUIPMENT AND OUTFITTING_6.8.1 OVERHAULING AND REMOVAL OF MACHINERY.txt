@@ -1,0 +1,39 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.8 MISCELLANEOUS EQUIPMENT AND OUTFITTING', 'Header 3': '6.8.1 OVERHAULING AND REMOVAL OF MACHINERY'}
+--------------------
+Overhauling equipment for main engine and auxiliary machinery shall be provided as mentioned below.  
+During designing and construction of the engine room, particular attention shall be paid to ensure sufficient space for operation and dismantling of machinery and equipment.  
+#### 6.8.1.1 Overhauling Crane of Main Engine  
+For overhauling cylinder piston and liner etc. of main engine, there is a crane on the overhead-lifting beam.  
+The crane shall be of marine trolley type with electric motor driven two speeds for hoisting, and single speed for traveling and traversing. The construction and materials shall be in accordance with Maker's standard.  
+The capacity of the engine room overhead crane is to be at least 4.0 t ***and can be hoist the heavisest spare part of the main engine.***  
+**Overhead lifting beam shall be securely supported to ship's structure and to extend the full length of the main engine**.  
+Lifting eyes or I-beam shall be provided for overhaul T/C of main engine in case E.R. crane can’t be utilized for overhauling.  
+**Facilities to be provided to visit the engine room crane if it stops at any position of its travel.**  
+**Source cable layout to be of a suspension type and long enough to reach the lower floor.**  
+**A cargo light to be fitted on the top of the overhead crane beam.**  
+#### 6.8.1.2 Shafting Removal  
+**One (1) lifting beam with two (2) trolley hooks of adequate capacity to hoist the propeller shaft (+25% margin) to be provided above the propeller shaft if the lifting beam installation available. If enable, builder provided eye plate with chain block.**  
+Necessary lifting eye plates shall be fitted above the shafting alley for lifting of the intermediate shaft and withdrawing the propeller shaft inboard. Removal of propeller shaft from the vessel shall be carried out via a temporary opening out in the shell plating which shall be marked by welding bead in approved colored scheme. Equipment and pipes arranged at that place shall be easily dismantled.  
+#### 6.8.1.3 Overhauling of Auxiliaries  
+Generator engines shall have adequately strength lifting beam to facilitate overhaul.  
+**Provided for the generator engines to be of sufficient capacity to hoist the alternator’s rotor.**  
+Lifting beam : 3 sets  
+Chain block with roller : 3 sets, manual type  
+Capacity : according to the generator Maker’s recommendation.  
+Oil purifiers shall have lifting beam using chain blocks to facilitate overhaul.  
+Lifting beam : 1 set  
+Chain block with roller : 1 set, manual type  
+Capacity : 1.0t  
+A lifting beam shall be provided for transport of the heavy parts from engine room to workshop.  
+Lifting beam : 1 set  
+Chain block with roller : 1 set, manual type  
+Capacity : 2.0 t  
+Other larger aux. equipment above shall have eye plates to facilitate overhaul.  
+#### 6.8.1.4 Heavy Element in/out Engine Room  
+Spare gears, tools and other machine parts and big strainers shall be carried in/out of engine room through the hatch on deck.  
+**A lifting beam shall be provided for transport of the heavy parts from spare landing hatch to workshop and E/R store shop.**  
+**One trolley to be provided to transport heaviest engine spare like liner.**  
+Lifting arrangements and transport ways from exposed deck to bottom floor in engine room shall ensure easy transport of heavy elements by or harbor crane.  
+**Lifting eyes to be provided for pieces of machinery weighting more than 50kg.**  
+**Lifting eyes with chain block to be provided for main SW filter.**  
+**Lifting beam to be provided for oil purifier to facilitate overhauling.**

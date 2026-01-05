@@ -1,0 +1,17 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.1.5** MARK AND ARRANGEMENT OF BUS BAR'}
+--------------------
+Bus bars and connections of major power equipment shall be marked with tapes, paints, letters or equivalent and shall be arranged as follows:  
+(A) A.C. system  
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| **Source side** | **Load side** | **Color** | **Arrangement** | | |
+| Phase R | Phase U | Black | Left | Top | Front |
+| Phase S | Phase V | Brown | to | | |
+| Phase T | Phase W | Grey | Right | Bottom | Back |  
+(B) DC. system  
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| **Pole** | **Color** | **Arrangement** | | |
+| Positive (+) | Brown | Left | Top | Front |
+| to | | | | |
+| Negative (-) | Blue | Right | Bottom | Back |

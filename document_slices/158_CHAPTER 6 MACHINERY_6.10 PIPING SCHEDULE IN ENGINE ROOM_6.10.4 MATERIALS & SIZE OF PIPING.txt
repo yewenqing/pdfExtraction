@@ -1,0 +1,102 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.10 PIPING SCHEDULE IN ENGINE ROOM', 'Header 3': '6.10.4 MATERIALS & SIZE OF PIPING'}
+--------------------
+Materials and size of pipes, valves and fittings shall be in accordance with following tables.  
+|  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| System | Nominal size (mm) | Pipe | | Pipe joint | Valve | | Fitting |  |
+| Material | Thickn ess | Body | Disc. & seal  Stem |
+| Steam  0.7MPa | 50 & above | Seamless steel | A | flange or butt welded or sleeve | Cast steel flgd. | As per GB/CB  standard | Cast steel or welded steel flgd. or welded branches |  |
+| 40-15 |
+| 10 &  below | Seamless copper |  | Brass union or bite joint or sleeve | Bronze or brass screwed | Brass screwed |
+| Steam  0.4MPa and  Drain | 50 & above | Seamless steel | A | flange or butt welded  or sleeve | Cast steel flgd. | As per GB/CB  standard | Cast steels or welded steel flgd. or welded  branches |  |
+| 40 |
+| 25-15 | Brass screwed |  |
+| 10 &  below | Seamless copper |  | Brass union or bite joint or sleeve | Bronze or brass screwed |
+| Heating coils in oil tank | All size | Seamless steel | B | sleeve | -- | -- | - |  |  
+|  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| System  Aux. boiler feed pump suction | Nominal size (mm)  25& above | Pipe | | Pipe joint  flange or butt welded or sleeve | Valve | | Fitting  Cast irons or welded steel flgd. or branches |  |
+| Material  Seamless steel | Thickn ess  A | Body  Cast steel flgd. | Disc. & seal  Stem |
+| As per GB/CB  standard |
+| 20 &  below | Seamless steel | A | Flange or butt welded or sleeve | Bronze screwed | As per GB/CB  standard |  |
+| 10 &  below | Seamless copper |  | Brass union or bite joint or sleeve | Bronze screwed | Brass screwed |
+| Aux. boiler feed pump Delivery  and boiler blow off. | 25 & above | Seamless steel | B | flange or butt welded or sleeve | cast steel | As per GB/CB  standard | Cast irons or welded steel flgd. or branches |  |
+| 20 &  below | Seamless steel | B | Flange or butt welded or sleeve | Bronze screwed | As per GB/CB  standard |  |
+| 10 &  below | Seamless copper |  | Brass union or bite joint or sleeve | Bronze screwed | Brass screwed |
+| Cooling sea water | 60 & above | Seamless steel  galv. | B | flange or butt welded or sleeve | Cast iron flgd or wafer. | As per GB/CB  standard | Cast irons or welded steel flgd. Or welded branches |  |
+| 50 &  below | Seamless steel  galv. | B | Bronze or brass flgd or wafer |
+| 10 &  below | Seamless copper |  | Brass union or bite joint or sleeve | Bronze or brass | Brass screwed |
+| Cooling fresh water | 25& above | Seamless steel | A | Flange or butt welded or sleeve | Cast iron flgd. or wafer | As per GB/CB  standard | Cast irons or welded steel flgd. Or welded branches  Brass screwed |  |
+| 20 &  below | Bronze or brass flanged |
+| 10 &  below | Seamless copper |  | Brass union or bite joint or sleeve | Bronze or brass screwed |
+| Water ballast, bilge | 25& above | Seamless steel  galv. | B | flange or butt welded or sleeve | Cast iron flgd.or wafer | As per GB/CB  standard | Cast iron or welded steel flgd. or  welded branches |  |
+| 20 &  below | Bronze or cast steel |
+| 10 &  below | Seamless copper |  | Brass union or bite joint or sleeve | Bronze or brass screwed | Brass screwed |
+| Fresh water in E/R. | 25& above | Seamless steel  galv. | A | flange or butt welded or sleeve | cast iron flgd. or brass screwed | As per GB/CB  standard | Cast iron or welded steel flanged or welded branches |  |
+| 20 &  below | A | flange or butt welded or sleeve | cast iron flgd. or brass screwed |
+| 10 &  below | Seamless copper |  | Brass union or bite joint or sleeve | Bronze screwed | Brass screwed |  
+|  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| System | Nominal size (mm) | Pipe | | Pipe joint | Valve | | Fitting |  |
+| Material | Thickn ess | Body | Disc. & seal  Stem |
+| Fire main | 50& above | Seamless steel  galv. | B | flange  or butt welded or sleeve | Cast iron flgd. | As per GB/CB  standard | Cast iron or welded steel flgd. or  welded branch |  |
+| 40& below | bronze or brass flgd. |
+| 10 &  below | Seamless copper |  | Brass union or bite joint or sleeve | Bronze or brass screwed | Brass screwed |
+| F.O. supply | 20& above | Seamless steel | B | flange  or butt welded or sleeve | Cast steel flgd. | As per GB/CB  standard | Cast iron or welded steel flgd. or  welded branch |  |
+| 15 |
+| Bronze or brass flgd. |
+| 10 &  below | Seamless copper |  | Brass union or bite joint or sleeve | Bronze or brass screwed | Brass screwed |
+| F.O. transfer | 50 & above | Seamless steel | A | flange or butt welded or sleeve | Cast steel flgd. | As per GB/CB  standard | Cast iron or flgd. or welded  branch |  |
+| 40-15 | Ditto |
+| 10 &  below | Seam less copper |  | Brass union or bite joint or sleeve | Bronze or brass screwed | Brass screwed |
+| Lub. oil | 25& above | Seamless steel | A | flange  or butt welded or sleeve | Cast iron flgd. | As per GB/CB  standard | Cast iron or welded steel flgd. or  welded branch |  |
+| 20& below | Bronze or brass flgd. |
+| 10 &  below | Seamless copper |  | Brass union or bite joint or sleeve | Bronze screwed | Brass screwed |
+| Com- pressed air  (3 MPa) | 40 & above | Seamless steel | B | butt welded or sleeve or flange | Cast steel flgd. | As per GB/CB  standard | Cast steel or welded steel flgd. or welded branch |  |
+| 25-15 | Cast steel flgd. |
+| 10 &  below | Seamless copper |  | Brass union or bite or sleeve | Forged steel screwed | Brass screwed |  
+|  |  |  |  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| System | Nominal size (mm) | Pipe | | Pipe joint | Valve | | Fitting |  |
+| Material | Thickn ess | Body | Disc. & seal  Stem |
+| Com- pressed air (0.7MPa) | 25 & above | Seamless steel  galv. (control air piping do not need galv.) | A | flange  or butt welded or sleeve | Cast steel flgd. | As per GB/CB  standard | Cast steel or welded steel  flgd. or welded branch |  |
+| 20 &  below | Bronze or brass flgd.  Forged steel screwed |
+| 10 &  below | Seamless copper |  | Brass union or bite joint or sleeve | Brass screwed |
+| Main & Aux. Engine exhaust gas, boiler exhaust gas | 600 &  above | Welded steel plate | 6mm | flange or butt welded or sleeve | -- | -- | Welded steel flgd. or welded branch | - |
+| 250-600 | Welded steel plate | 4mm |
+| 250 &  below | Seamless steel pipe | A |
+| Air vent & overflow attached  to double bottom & deep tank  & E/R tank, void space, located on exposed deck | 100 &  above | Seamless steel | B | flange, sleeve, butt welded | -- | --  -- | Cast iron or welded steel flgd. or  welded branch |  |
+| 80-65 | Seamless steel | B |
+| 50-25 | B |
+| Air vent & overflow except mentioned above open drain scupper | 50 & above | Seamless steel \* | B | flange or butt welded or sleeve | Cast iron flgd. | As per GB/CB  standard | Cast irons or welded steel flgd. or welded branch |  |
+| 40-15 | Bronze flgd. | Brass screwed |
+| 10 &  below | Seamless copper |  | Brass union or bite joint or sleeve | Bronze screwed |
+| Sounding for double bottom, deep tank  & void space |  | Seamless steel \* | B | flange or butt welded or sleeve | -- | -- | Cast irons or welded steel flgd. or welded branch |  |  
+Notes:  
+a) All galv. pipes shall be of hot dip type.  
+c) \* All air vent, overflow & sounding pipes shall be galvanized except for oil system, and the air pipe to be added thickness for open deck area.  
+d) Materials of automatic control valves for all system shall be of Maker's standard.  
+e) Start air system for ME, G/E and so on shall not be galvanized or as per Maker recommendation.  
+f) Number, positions, and type of pipes to be finally approved during plan approval.  
+g) ***The clamping for copper pipes will be according to the builder standards.***  
+Remarks:  
+A .......... Ordinary B .......... Medium C .......... Heavy  
+The thickness of 16mm material with epoxy painting after hot dip galvanized should be applied for the cross sea water pipes between the sea chests.  
+Table of steel pipes thickness  
+|  |  |  |  |  |
+| --- | --- | --- | --- | --- |
+| Nominal diameter  (mm) | External diameter  (mm) | Thickness (mm) | | |
+| A | B | C |
+| 10  15  20  25  32  40  50  65  80  100  125  150  200  250  300  350  400  450  500 | 17  22  27  34  42  48  60  76  89  114  140  168  219  273  325  377  406  457  508 | 2.0  3.0  3.0  3.03.0  4.0  4.0  5.0  5.0  5.0  5.0  6.0  6.0  7.0  8.0  8.0  8.0  8.0  8.0 | 2.5  3.5  3.5  4.0  4.0  5.0  5.0  6.0  6.0  6.0  7.0  8.0  8.0  9.0  10.0  10.0  10.0  10.0  10.0 | 3.5  4.0  4.0  5.0  5.0  6.0  6.0  7.0  8.0  9.0  10.0  11.0  13.0  13.0  13.0  13.0  13.0  13.0  13.0 |  
+Table of copper pipes thickness  
+|  |  |
+| --- | --- |
+| Normal diameter  (mm) | Thickness (mm) |
+| Copper pipe |
+| 8-12  14-20  25  32-40  50 | 1.0  1.5  2.0  2.0~3.0  2.0~3.0 |  
+Table of stainless steel pipes thickness  
+|  |  |
+| --- | --- |
+| Normal diameter  (mm) | Thickness (mm) |
+| Stainless pipe |
+| ≤12  15-40  50-80  100-150 | 1.0  2.0  3.0  4.0 |

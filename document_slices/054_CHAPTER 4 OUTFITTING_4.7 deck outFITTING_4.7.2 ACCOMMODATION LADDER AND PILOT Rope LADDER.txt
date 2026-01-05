@@ -1,0 +1,22 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.7 deck outFITTING', 'Header 3': '4.7.2 ACCOMMODATION LADDER AND PILOT Rope LADDER'}
+--------------------
+#### 4.7.2.1 Accommodation ladder  
+|  |  |
+| --- | --- |
+| No. of set | Two (2) |
+| Location | Accommodation sides on upper deck |
+| Type | One (1) man operated self-stowing, vertical stowing, one (1) piece type |
+| Step | Fixed non-slip curved step |
+| Material | Al-alloy for frame, step, rail and stanchion  Galvanized steel for upper platform and turn table |
+| Clear breadth | Approx. 600mm |
+| Davit | One (1) davit and one (1) winch with galvanized steel wire rope rigging for each accommodation ladder |
+|  |  |
+| Motor | One (1) set of fixed electric motor for each accommodation ladder |
+| Accessories | Rail and stanchions of hinged type, safety net, lower/upper platform and protection rollers |
+| Control | From the control stand on the upper deck near each accommodation ladder |  
+Ladder shall have length to reach not more than 600 mm above the light ballast water line at an inclination of 55 deg. to horizontal.  
+Ladder shall be stowed vertically within the Vessel’s side line on upper deck.  
+The SWL shall be marked with paint. ***Must be marked with the maximum load the weights and number of persons on the ladder at the entrance and exit.***  
+***Secondary support for accommodation ladder shall be provided.***  
+#### 4.7.2.2 Pilot Rope Ladder  
+Two (2) sets of pilot rope ladder with wooden steps shall be provided. ***Pilot rope ladder to be confirmed that the ISO or Class certificate is attached***

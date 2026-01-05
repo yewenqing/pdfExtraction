@@ -1,0 +1,22 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.11 PIPING SYSTEMS IN ENGINE ROOM', 'Header 3': '6.11.2 COOLING FRESH WATER SYSTEM'}
+--------------------
+The system shall consist of L.T. cooling F.W. circuit and H.T. cooling F.W. circuit. The L.T. cooling F.W. circuit includes three (3) sets of L.T. cooling F.W. pump, L.T. F.W. expansion tank, valves, fittings and pipes. The H.T. cooling F.W. circuit includes two (2) sets of M/E jacket cooling F.W. pump and one (1) set of M/E jacketcooling F.W. cooler, M/E H.T.F.W. expansion tank and accessories etc.  
+The three (3) L.T. cooling F.W. pumps shall be of same model. Two (2) sets shall be operated at normal sea going and the third shall be as stand-by. Each one of them can be used for harbor service.  
+The various consumers for L.T. circuit listed as follows:  
+(1) M/E air cooler  
+(2) M/E L.O. cooler  
+(3) M/E jacket cooling F*.* W. cooler  
+(4) G/E air coolers and L.O. coolers  
+(5) Main air compressor  
+(6) Intermediate shaft bearing  
+(7) Air conditioning plant  
+(8) Packaged air cooler for galley, ECR  
+(9) Ref. condensers  
+(10) Atmospheric condenser  
+(11) Sample cooler for boiler  
+(12) MGO cooler in M/E & G/E F. O. supply modular unit  
+The L.T. F.W. temperature at central cooler outlet shall be designed of 36℃. The H.T. fresh water shall be used for heating of F.W. generator.  
+The electronic type temperature regulating valves shall be provided for H.T. and L.T. fresh water circuits.  
+Feed water shall be auto supplied by float valve to M/E H.T. F.W. expansion tank and L.T. F.W. expansion tank from fresh water service system of the F.W. hydrophore tank.  
+One (1) set of M/E jacket F.W. pre-heater shall be provided in H.T. fresh water circuit, which capacity to be 1% of main engine SMCR.  
+G/E H.T. F.W. pre-heater unit shall be provided according to the manufacturer’s recommendation.

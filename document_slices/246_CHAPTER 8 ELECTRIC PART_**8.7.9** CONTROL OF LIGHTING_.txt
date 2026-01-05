@@ -1,0 +1,16 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.7.9** CONTROL OF LIGHTING'}
+--------------------
+The ceiling lights in the engine room shall be generally controlled by miniature circuit breakers (MCB) of the distribution boards in the engine room.  
+In mess rooms, recreation room, wheelhouse and engine control room etc. spaces, in case multiple access are arranged, the two-pole two-way switches shall be installed in each entrance for control the ceiling lights in common.  
+The lights in workshops and engine & electrical stores shall be controlled by a switch located near the respective entrances.  
+The lights in the machinery compartments such as steering gear room, emergency generator room, etc. shall be controlled by a switch located near respective entrances.  
+Cargo hold lights shall be controlled by switches on main deck suitable location.  
+**Cargo hold light (except inside C/H) and outside lights shall be controlled by switches in the wheelhouse.**  
+The lights in the living quarters, public spaces, stores, etc. shall be controlled by respective switches located near the entrances in general.  
+The lights in the inner passages shall be controlled by the circuit breakers of the distribution boards.  
+The lights for the outside passages shall be controlled from the wheelhouse.  
+The outside floodlights shall be controlled by respective switches on the group switch board in the wheelhouse.  
+The lights in the stair case of the wheelhouse entrances shall be controlled by a door limit switch (if necessary) also.  
+The lights of the explosion-proof type shall be controlled by respective switches located in the safety place.  
+The lighting fixture in pipe duct shall be controlled (on/off) from the pipe duct entrance in engine room.  
+**Emergency lights shall be arranged without local switches, except for wheelhouse and crew cabins.**

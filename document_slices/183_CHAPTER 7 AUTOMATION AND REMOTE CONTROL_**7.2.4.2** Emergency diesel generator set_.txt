@@ -1,0 +1,6 @@
+METADATA: {'Header 1': 'CHAPTER 7 AUTOMATION AND REMOTE CONTROL', 'Header 2': '**7.2.4.2** Emergency diesel generator set'}
+--------------------
+The emergency generator set shall be automatically started, the bus tie breaker in emergency switchboard shall be automatically opened, and the air circuit breaker shall be automatically closed in case of failure in supply feeder from main switchboard.  
+And then, when electric source on main bus is recovered, the air circuit breaker shall be automatically opened and the engine shall be stopped after a time delay automatically, and the bus tie breaker shall be automatically closed.  
+Manual start and stop of the generator set shall be carried out on site.  
+The automatic and manual control system shall be according to the Maker’s standard.

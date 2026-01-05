@@ -1,0 +1,5 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.9.4** ENGINEER CALL SYSTEM (AC 220 V)'}
+--------------------
+One (1) engineer call function shall be done in engine control console, each one (1) set of watch cabin panel with acknowledge push button shall be provided in chief engineer’s, 2nd engineer’s, 3rd engineer’s, 4th engineer’s, electrician’s cabin and recreation**,** Officer mess rooms.  
+**Patrol man in engine room call alarm to be provided.**  
+The system may be combined with both dead man alarm system and E/R monitoring & alarm system, i.e. this call system can be combined into extension alarm system.

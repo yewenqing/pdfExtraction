@@ -1,0 +1,22 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.3.3** EMERGENCY GENERATOR'}
+--------------------
+|  |  |
+| --- | --- |
+| Type: | Drip-proof, self-ventilated type |
+| Output: | Abt. 150 kW |
+| Voltage: | AC 450 V |
+| Phase: | 3 PH |
+| Frequency: | 60 Hz |
+| Power factor: | 0.8 (lagging) |
+| Rating: | Continuous at full load |
+| Revolution: | 1,800 r/min； |
+| Insulation: | Class “F” |
+| Exciting system: | Brushless, self-excitation |
+| Protection class: | IP 23 |  
+Other construction and characteristics of the emergency generator shall be in accordance with the manufacturer's standard.  
+Two starting methods will be provided as per rule and manufacturer's standard such as to be used by one(1) set battery and hydraulic device or other equivalent differ starting method.  
+The emergency generator shall have a space heater within the generator frame to prevent condensation of moisture while the generator is stopped.  
+An automatic voltage regulator for emergency generator shall be provided.  
+This generator shall be started automatically in case of occurrence of the power failure of the main power supply and shall automatically supply electric power to the emergency loads.  
+After restoration of electric power from the main generator, the power supply system shall be automatically disconnected from the emergency generator and connect to the main generator. The emergency generator engine shall be automatically stopped with time delay.  
+Emergency generator can’t be run in parallel with main generators.

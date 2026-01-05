@@ -1,0 +1,18 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.6.3.1** General'}
+--------------------
+All motors with reversible feature (eg. ER Vent fans) shall have timer interlock to prevent immediate reversal.  
+In general, starters shall be of magnetic control type with thermal protect device except for that small motors (0.5 kW and less) may be manually operated by line switch or miniature circuit breaker (MCB).  
+In general, motors shall be arranged to start direct on-line (DOL), but for 100 kW and above large capacity motors, star – delta starting, auto-transformer starting reduced voltage starting means shall be adopted.  
+In general, voltage for control circuits shall be isolated from main power source via transformer.  
+The wiring diagram of starter shall be fitted on the back of each starter door.  
+In general, starters located out of sight the motors shall have local interlock type with running indication lamp start/stop push button box near respective motors, except for the E/R fans, accommodation fans and cargo hold fans.  
+Starters for motors of steering gear and those for essential services will be provided with under voltage release protection (UVR) will permit these motors being restarted automatically on restoration of main power, and starters for other motors to be provided with under voltage protection (UVP) feature.  
+**All motors with reversible feature (eg. ER Vent fans) shall have timer interlock to prevent immediate reversal.**  
+(A) Group Starter Board:  
+In general, starters shall be assembled in group starter boards as far as practicable.  
+The group starter board shall be in combination with starters according to their location and/or purpose.  
+These group starter boards shall be of bulkhead type or floor mounting type and shall be installed near the respective motors as far as practicable.  
+Each starter unit to be fixed type and built into one enclosed metal box of drip-proof construction with hinged door***.* Starters for redundant motors shall be installed in different GSP’s, supplied from the different sections of the main switchboard*.***  
+(B) Individual Starter Cabinets:  
+Starters which are not contained in the group starter board shall be mounted in the drip-proof metal cabinet.  
+The cabinet shall be arranged for bulkhead mounting type near the respective motor.

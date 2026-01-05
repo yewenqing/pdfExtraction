@@ -1,0 +1,7 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.10 NAVIGATION EQUIPMENT', 'Header 3': '4.10.3 FLAG'}
+--------------------
+Code flags shall be provided as follow:  
+1 - International signal flag  
+2 - National flag (Buyer’s supply)  
+1 - Ship's name code flags (Buyer’s supply)  
+1 - International signal code book (Buyer’s supply)

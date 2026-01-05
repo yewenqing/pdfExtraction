@@ -1,0 +1,12 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.10.13.2** Bridge Maneuvering Console (BMC)：'}
+--------------------
+* Main engine remote control unit
+* Maneuvering lever and telegraph
+* Bow thruster control unit
+* ECDIS (with conning function)Auto telephone set
+* Ship’s horn controller
+* Automatic telephone and common battery telephone sets
+* Public address control unit. Dimmer switches
+* And other necessary equipment
+* No.1 VHF radiotelephone  
+The wheelhouse control console shall be supplied from the AC 220 V normal supply system, the AC 220 V emergency supply system and the DC 24 V supply system.

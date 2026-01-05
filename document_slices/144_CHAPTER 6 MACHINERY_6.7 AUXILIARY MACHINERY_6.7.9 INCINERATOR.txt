@@ -1,0 +1,13 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.7 AUXILIARY MACHINERY', 'Header 3': '6.7.9 INCINERATOR'}
+--------------------
+The incinerator shall be in compliance with the requirements of MARPOL 73/78 Annex VI and MEPC 76 (40) and alarms for furnace high temperature, flue high temperature, initiation failure, blanking failure and low fuel oil pressure etc.  
+The incinerator shall be capable of burning solid waste and waste oil.  
+Exhaust pipe for incinerator shall be provided with suitable expansion joints.  
+The following accessories to be included:  
+Burner unit 1 set  
+Sludge oil circulating pump 1 set  
+Diesel oil pump 1 set  
+Sludge oil tank 1 set  
+Flue gas fan 1set  
+Flue gas damper 1 set  
+Other necessary accessories, fittings, spares and tools shall be according to Maker's standard.

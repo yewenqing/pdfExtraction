@@ -1,0 +1,43 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.7 AUXILIARY MACHINERY', 'Header 3': '6.7.2 HEAT EXCHANGERS'}
+--------------------
+The relevant data refer to 6.2.  
+The construction, materials and accessories for heat exchangers being attached to other machinery such as generator engine, fresh water generator, etc. shall be in accordance with Maker's standard practice.  
+**Sacrificial flange or pipe to be provided for central coolers and sea water pumps.**  
+**Pipes shall be so arranged that the heat exchangers can be overhauled with the min. removal of the connected pipes.**  
+#### 6.7.2.1 Plate Type Coolers  
+##### 6.7.2.1.1 General  
+The heat-exchanging surface shall consist of some of corrugated plates clamped together in a frame and sealed at edges by rubber gaskets.  
+The plates form a closed system of parallel two media between which heat is exchanged flow through alternate interpolate spaces.  
+**Heat exchangers shall generally be provided with glass tube thermometers and manometers at inlet and at outlet of both fluids, air vent cocks, drain cocks.**  
+The accessories shall be in accordance with Maker’s standard.  
+##### 6.7.2.1.2 Materials  
+Frame Mild steel,  
+Plate Titanium (For S.W.)  
+Stainless steel SUS316 or equivalent (For F.W. & oil)  
+Gasket Maker’s standard  
+#### 6.7.2.2 Shell Tube Type Coolers  
+##### 6.7.2.2.1 General  
+The tubes shall be expanded into the plates at both ends of the tubes. Tube bundle to be removable.  
+The cooling fluid shall pass through the tubes and the cooled fluid to flow outside of the tubes.  
+Each heat exchanger shall be provided with a relief valve (oil heater and fresh water heater) vent valve, drain valve, pressure gauge, thermometer, and protective anode according to its service.  
+One (1) soda cock and one (1) boiling steam valve to be provided as common use for shell and tube type coolers and connecting seats with blind flanges for soda cock and boiling steam valve to be fitted on each tubular cooler.  
+**Tubular type coolers shall be of such design which will relieve stresses due to restriction of thermal expansion on the shell side. Tubes are to be expanded into the tube at both ends of the tubes.**  
+##### 6.7.2.2.2 Materials  
+Tube Aluminum brass  
+Tube plate Naval brass  
+Shell Steel plate or steel pipe  
+Water box and cover Steel plate or cast iron with tar epoxy coating.  
+#### 6.7.2.3 Heaters  
+Each heater shall be designed for the following conditions to heat oil or water required for each service intended:  
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Item | Heating steam  Pressure (MPa) | Fluid temp (oC) | |
+| Inlet | Outlet |
+| Heavy Fuel oil heater for M/E & G/E | 0.7 | 90 | 150 |
+| Heavy Fuel oil heater for purifier | 0.7 | 50 | 98 |
+| Lub. oil heater for purifier | 0.7 | 40 | 90 |
+| Calorifier | Steam & electric | 10 | 70 |
+| M/E jacket F.W. pre-heater | 0.7 | 15 | 50 |  
+Heavy Fuel oil heater for boiler shall be according to maker’s standard.  
+The oil heaters should attach temperature gauge and safety valve.  
+**Pre-heater pump shall automatically stop when ME is started,the steam of the pre-heater to be manual control**

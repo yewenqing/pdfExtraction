@@ -1,0 +1,12 @@
+METADATA: {'Header 1': 'CHAPTER 5 HULL PIPING', 'Header 2': '5.1 HULL PIPING', 'Header 3': '5.1.4 BALLAST PIPING'}
+--------------------
+One (1) ballast main ring line shall be arranged in pipe duct for ballasting, de-ballasting and transferring the ballast water in double bottom ballast tanks, side ballast tanks.  
+Ballast system shall consist of two (2) ballast pumps and one (1) ballast water treatment plant in engine room.  
+Trim adjustment shall be remotely done by ballast system from ship office.  
+A suction bell mouth shall be provided in each ballast tank. The suction mouth shall be connected with flange in tanks and easily dismounted.  
+Drain hole shall be provided enough at structure member surrounding mouth pieces.  
+The remote control pneumatic butterfly valve shall be fitted on each branch ballast line in pipe duct and shall be remote operated from ship office.  
+All remote operated ballast water valves can be open/shut manually in case failure of remote operation. And local open/shut indication shall be provided for the remote operated ballast water valves.  
+The valve before collision bulkhead shall be fitted directly at the collision bulkhead inside the bow thruster & emergency fire pump room located after the collision bulkhead, the valve operation position as per Class Rules.  
+Remote level able to display tank volumes and draft reading for ballast tanks shall be indicated on monitor in ship office and loading computer.  
+Particulars of ballast pumps and remote control butterfly valve system refer to Machinery Chapter of the specification.

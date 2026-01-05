@@ -1,0 +1,36 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.11 PIPING SYSTEMS IN ENGINE ROOM', 'Header 3': '6.11.4 FUEL SYSTEM'}
+--------------------
+Fuel oil system including the equipment such as purifiers, F.O. supply unit, heating coils, etc. to be designed for operation with HFOof 380 cSt at 500C.  
+#### 6.11.4.1 Fuel Oil Filling and Transfer System  
+The FO filling line shall be led to the HFO , LSHFO/ULSFO bunker tank and MGO bunker tank.  
+Each FO filling connection shall be provided with shut off valve, blank flange, pressure gauge, thermometer and sample taking device  
+One safety valve for HFO and LSHFO/ULSFO filling line to protect filling pipe shall be provided and to be connected to F.O. overflow tank. One safety valve with same function shall be provided for MGO filling line.  
+Overflow during filling shall be routed to overflow tank with a high level alarm.  
+One (1) sets of HFO/LSHFO/ULSFO transfer pump in the engine room shall be arranged to transfer HFO/LSHFO from bunker tanks to the engine room HFO and LSHFO/ULSFO settling tanks.  
+Automatic start/stop pumping signal of HFO *and LSHFO/ULSFO* settling tanks shall be provided for HFO/LSHFO/ULSFO transfer pump by level switches.  
+The HFO/LSHFO transfer pump shall have suction also from HFO/LSHFO service tanks.  
+One (1) set of MGO transfer pump in the engine room shall be arranged to transfer MGO from MGO bunker tank to MGO service tank.  
+A simplex filter shall be provided at the suction side of each transfer pumps.  
+***Manual changed over from LSHFO/ULSFO settling tank to HFO settling tank. And automatic start/stop pumping. Long time run stop function will be supplied.***  
+#### 6.11.4.2 Fuel Oil Service System  
+##### 6.11.4.2.1 Main Engine and Generator Engines System  
+One (1) common F.O. supply module unit shall be provided for main engine and generator engines. The unit consists of two (2) fuel oil supply pumps, two(2) fuel oil circulating pumps, two(2) fuel oil heaters, one(1) auto back flushing filter, one(1) viscosity control equipment, one(1) venting tank and etc.  
+Fuel oil supply pump shall draw fuel oil from the HFO and LSHFO/ULSFO service tank or MGO service tank through a strainer and then discharge to main engine through a flow-meter, F.O. circulating pumps, the heaters (for HFO and LSHFO/ULSFO) and an automatic back flush filter (to be installed on the hot side). The heaters shall be fitted with automatic regulating controller, governed by a viscometer. Excessive fuel oil from main engine shall be led to the fuel oil circulating pump suction side through a venting tank.  
+An emergency MGO pump shall be fitted in F.O. supply module unit for emergency use, the power source of the MGO pump shall be from emergency switchboard. And the emergency MGO supply line shall be separate from the main fuel oil line.  
+The automatic change-over device between HFO and LSHFO/ULSFO and MGO shall be arranged in the FO supply module.  
+##### 6.11.4.2.2 Composite Boiler  
+Two (2) sets of composite boiler FO supply pump shall be provided and arranged near the LSHFO/ULSFO service tank.  
+LSHFO/ULSFO for composite boiler shall be drawn from the LSHFO/ULSFO service tank by the composite boiler fuel oil supply pumps and discharge to the burner of the oil fired section.  
+A connection of MGO shall be fitted at the suction side of the supply pump for cold starting.  
+During Vessel in emission control area, boiler’s fuel oil supply pump shall draw ULSFO/MGO from ULSFO/MGO service tank.  
+One (1) F.O. volume flow meter shall be provided.  
+##### 6.11.4.3 Fuel Oil Purifying System  
+Two (2) sets of FO purifier shall be provided; one set of them shall be operated and the other as stand-by.  
+HFO and LSHFO/ULSFO after settled in the settling tank shall be drawn by the suction pump of fuel oil purifier and shall be delivered to the purifier through the fuel oil heater.  
+After purification, the clean oil shall be discharged into HFO and LSHFO/ULSFO service tank.  
+Overflow pipe from the bottom of the service tank back to settling tank shall be provided.  
+Sludge and water from purifier shall be discharged into the sludge tank for incinerator or to shore by the sludge pump.  
+#### 6.11.4.4 Fuel Oil System besides the above  
+For the waste oil incinerator, MGO transfer line from the incinerator MGO tank shall be provided.  
+#### 6.11.4.5 F.O. Drain  
+Save-all drip pans shall be provided for pumps, purifiers and tanks and shall be led to the fuel oil drain tank.

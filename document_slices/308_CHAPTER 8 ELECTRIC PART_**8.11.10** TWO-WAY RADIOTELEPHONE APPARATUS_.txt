@@ -1,0 +1,3 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.11.10** TWO-WAY RADIOTELEPHONE APPARATUS'}
+--------------------
+Three (3) sets of two-way VHF with battery charger and 3 sets of primary batteries shall be provided as per the rules.

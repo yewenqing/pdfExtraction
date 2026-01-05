@@ -1,0 +1,31 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.3 CARGO HATCH COVER', 'Header 3': '4.3.2 CARGO HATCH cover'}
+--------------------
+#### 4.3.2.1 Strength and Structure  
+The hatch cover shall be of single plated, welded open type steel construction. The hatch covers shall be fabricated with approved mild steel and/or higher tensile steel according to the manufacturer's practice.  
+Cargo hatch covers shall be designed according to Class rules ***and MO32 of AMSA***, and designed according as the followings:  
+1. Uniform load according to the requirements of Class and ICLL.
+2. Design stack load  
+|  |  |  |
+| --- | --- | --- |
+|  | 20ft | 40ft |
+| For hatch No.1 | 60 MT | 90 MT |
+| For hatch No.2 ~No.8 | 90 MT | 120MT |
+| Upper deck aft | 90 MT | 120MT |  
+The above stack load on hatch covers to be only as design basis of hatch cover strength, and the actual achievable stack load on hatch covers at specified positions shall be decided by lashing force calculations by the Maker.  
+For weather-tightness, hatch covers shall be fitted with rubber packing along the hatch periphery and double lips rubber seals or equivalent type for longitudinal panel joint in accordance with the manufacturer's standards. Water bar will be fitted on top plates along the longitudinal joints.  
+Maximum hoist weight of hatch cover panel (including fixed fittings but excluding all other container loose fittings) shall be about 35 MT.  
+Operation of panels to be non-sequence type operated by shore cranes.  
+The design condition of hatch cover operation shall be max. 2 degree of trim and 3 degree of heel.  
+#### 4.3.2.2 Fittings and Others  
+***Flexible pad type (replaceable) with laminated rubber bearing pad or equivalent shall be provided as per Maker's standard.***  
+The hatch cover panel shall be secured to the hatch coaming top plate by manual anti-lifting devices according to Maker’s standard.  
+Transverse/longitudinal pin stopper at forward of hatch panel and transverse stopper at aft of hatch panel shall be provided which shall be also used to serve the entry guide of covers.  
+When being opened, the hatch cover to be stacked on the top of other hatch cover up to three (3) panels as far as practicable.  
+When stacking, the stacking foot underneath the hatch cover to be rested on stacking foundation on top plate of the other hatch cover.  
+When stacking, sufficient height considering the container loose fitting (bottom twist lock) to be provided between each stacked panels.  
+Lifting sockets(8 pcs per panel) shall be fitted near the center of gravity of each panel for hatch cover handling by 20ft and 40ft spreader and eye plate(only for 20ft) . A doubling plate shall be provided around the lifting sockets.  
+ISO raised sockets on the hatch cover may be used as hatch cover lifting sockets, if possible.  
+Holding down device and jumping stopper shall be provided for the hatch cover.  
+Necessary marks such as name of hatch, bay number, row number and panel weight shall be marked with intermittent welded line and painted on each hatch cover.  
+The necessary ventilation for holds around hatch covers to be installed, if required.  
+Hatch cover handling test shall be carried out with each hatch cover to demonstrate the performance of the hatch cover guiding system and the hatch cover stacking system. This test can be combined with the installation of the hatch cover during construction of the Vessel.

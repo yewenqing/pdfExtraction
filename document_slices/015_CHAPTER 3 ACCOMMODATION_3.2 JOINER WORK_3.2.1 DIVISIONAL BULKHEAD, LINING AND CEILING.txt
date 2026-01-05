@@ -1,0 +1,25 @@
+METADATA: {'Header 1': 'CHAPTER 3 ACCOMMODATION', 'Header 2': '3.2 JOINER WORK', 'Header 3': '3.2.1 DIVISIONAL BULKHEAD, LINING AND CEILING'}
+--------------------
+The arrangement of all walls, bulkheads, lining and ceilings in living quarters shall be in accordance with Method “IC” as specified in SOLAS.  
+Corridor bulkheads, except steel wall shall be constructed of “B” class fire retarding panel.  
+Internal division bulkheads between cabins shall be “C” class panel. Non-combustible ceiling shall be provided in all cabins, public space and wheelhouse and “B” class non- combustible ceiling shall be provided in corridor of living space.  
+Partition wall, lining and ceiling shall be according to Rule’s requirement.  
+Watertight coaming with one side continuous welding to be applied for water-tightness in way of wet space and exterior steel boundary bulkhead.  
+Wall panels to be jointed and installed shall be in accordance with the Maker’s standard. Other detail of securing and construction shall in accordance with the Builder’s practice, unless otherwise required by the Rule and Regulation.  
+The Builder shall provide color samples for the Buyer’s selection of panel finishing.  
+3.2.1.1 Partition Bulkhead  
+The material and thickness of partition bulkhead to be as follows.  
+|  |  |
+| --- | --- |
+| Corridor bulkhead (“B” class) and division bulkhead | Rock wool insulation of 50 mm thickness furnished with galvanized steel sheet of 0.6 mm thickness decorated with PVC film on both sides. |
+| Partition bulkhead between two adjacent cabins (without neighboring bed), cabin and public space | Rock wool insulation of 50mm thickness furnished with galvanized steel sheet of 0.6 mm thickness decorated with PVC film on both sides. |
+| Partition bulkhead between two adjacent cabins with neighboring bed. | Double 25mm thick rock wool board with 30mm clearance, (the total thickness to be 80mm), Rock wool insulation of 25mm thickness furnished with galvanized steel sheet of 0.6 mm thickness decorated with PVC film on visible sides. |  
+3.2.1.2 Lining and Ceiling  
+The lining and ceiling to be applied as follows.  
+|  |  |  |
+| --- | --- | --- |
+| Compartment | Lining | Ceiling |
+| Living space  Public space  Office space  Control space (only for Wheelhouse and ECR)  Corridor space  Private toilet  Dispensary bath room | Rock wool insulation of 25mm thickness furnished with galvanized steel sheet of 0.6 mm thickness decorated with PVC film on visible side. | Rock wool insulation of 25mm thickness furnished with galvanized steel sheet of 0.6 mm thickness decorated with PVC film on visible side. |
+| Catering space | Rock wool insulation of 25 mm thickness furnished with SUS304 sheet of 0.5mmthickness on visible side. | Rock wool insulation of 25 mm thickness furnished with SUS304 sheet of 0.5mmthickness on visible side. |
+| Stevedore’s toilet, Public toilet, Changing room, Laundry and drying room | Paint finish in case of steel fabrication | Paint finish in case of steel fabrication |
+| Dry provision store  Machinery space  Fire control station  Sundry space (except lockers and store-rooms having area less than 4m2) | Paint finish in case of steel fabrication | Paint finish in case of steel fabrication |

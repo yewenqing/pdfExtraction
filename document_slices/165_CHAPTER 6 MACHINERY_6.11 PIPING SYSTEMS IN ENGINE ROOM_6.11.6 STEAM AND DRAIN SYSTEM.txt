@@ -1,0 +1,23 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.11 PIPING SYSTEMS IN ENGINE ROOM', 'Header 3': '6.11.6 STEAM AND DRAIN SYSTEM'}
+--------------------
+Following system shall be provided  
+a) Steam supply system  
+b) Condense system  
+Steam shall be supplied to various services at following pressure:  
+0.7 MPa: HFO and LSHFO/ULSFO service and settling tanks heating  
+HFO,LSHFO/ULSFO heater for F.O. supply module unit  
+HFO,LSHFO/ULSFO &LO heaters for purifiers  
+Steam tracing  
+Other tank heating and heaters (in engine room)  
+0.4MPa: Calorifier  
+Air conditioning plant  
+Sea chests in engine room  
+Miscellaneous usage  
+Drain from HFO,ULHFO/LSHFO and lub. oil tank heating coil and oil heaters shall be led to the cascade tank through atmos. condenser and the inspection tank.  
+Drain from the calorifier and accommodation also shall be led to the cascade tank.  
+Drain traps with by-pass and check cock shall be provided for HFO,LSHFO/ULSFO and lub. Oil tank’s coil and oil heaters.  
+Escape lines for steam safety/relief valves shall be led to the funnel.  
+Flange type or screw type steam hose connections shall be provided for cleaning oil tanks, sea chest etc. in the engine room.  
+No shore steam connection shall be provided.  
+The inspection tank shall be integrated with cascade tank or separately arranged.  
+Excess steam from M/E exhaust gas section of the composite boiler shall be led to cascade tank through auto. steam dump and atmos. condenser.

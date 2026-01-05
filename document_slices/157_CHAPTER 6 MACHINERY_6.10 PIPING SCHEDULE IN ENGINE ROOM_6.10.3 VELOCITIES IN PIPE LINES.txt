@@ -1,0 +1,9 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.10 PIPING SCHEDULE IN ENGINE ROOM', 'Header 3': '6.10.3 VELOCITIES IN PIPE LINES'}
+--------------------
+The fluid velocities in pipelines shall be as per follows:  
+Sea water cooling line, suction side: abt. 2.5m/s  
+Sea water cooling line, discharge side: abt.3.5m/s  
+Fresh cooling water line: abt.3m/s  
+ballast and bilge line : abt. 3 m/s for steel pipes  
+FO(excluding filling line): abt. 2.0m/s  
+LO(excluding filling line): abt. 2.0m/s

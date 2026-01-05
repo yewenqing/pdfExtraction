@@ -1,0 +1,29 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.3 MAIN ENGINE', 'Header 3': '6.3.2 FITTINGS AND ACCESSORIES'}
+--------------------
+The engine shall be completed with necessary fittings and accessories according to main engine Maker’s standard and the main body shall be included as follows:  
+1- Set of high efficiency exhaust turbo-charger**.**  
+2- Sets of electronically controlled auxiliary blowers complete with starters **for continuous running according to maker’s standard. Provide the lub. oil pump running to interlocked with the ME auxiliary blower.**  
+1- Set of air cooler with cleaning and drain pipes.  
+1- Set of turning gear with electric motor, starter and portable switch box with capture cable of 20m and pneumatic interlocking apparatus.  
+1- Air starting system.  
+1- Set of steam tracer piping for F.O. pipes on the engine.  
+1- Set of cleaning device for turbo charger. (According to turbo charger maker's standard)  
+1- Set of brackets for the engine platforms with gratings, handling and steps.  
+1- Set of steam connection for fire extinguish system of scavenging air space.  
+1- Set of pressure regulating valves for fuel oil return.  
+1-Set of oil mist detecting device.  
+1-Set of drain box for fuel oil leakage alarm  
+1- Set of integrated axial damper mounted at the forward end of the crankshaft  
+1- 2nd order moment compensator (if necessary), and the type of the compensator shall be according to the M/E maker 's standard.  
+1- Torsional vibration damper (if necessary subject to TV calculation and Rules)  
+1- Set of friction type engine stays  
+***1- Set of bearing wear monitoring***  
+***1- Set of Water in oil detection***  
+***1- Spare CCUs to be provided***  
+***1- The M/E hydraulic power lubricating oil system for FIVA and bearing lubricating system must be independent circuits and not connected to same source***  
+***Maker to provide data analysis support during guarantee period.***  
+***Turbo charger selection will be confirmed with Owner.***  
+ME components (rings, piston skirts, liners, exhaust valves, air cooler etc.) to be according to licensor's latest design recommendation.  
+***The spare of the main engine shall be according to maker standard and Class requirement.***  
+Revolution indicator and revolution counter (refer to Chapter 7, Automation 7.1.4.3.4)  
+Remark: If above fitting and accessories of main engine is not consistent with main engine standard scope range, maker standard shall prevail.

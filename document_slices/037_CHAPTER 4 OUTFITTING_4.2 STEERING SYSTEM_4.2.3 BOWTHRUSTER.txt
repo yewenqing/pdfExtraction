@@ -1,0 +1,30 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.2 STEERING SYSTEM', 'Header 3': '4.2.3 BOWTHRUSTER'}
+--------------------
+The bow thruster shall be provided as follows:  
+|  |  |  |
+| --- | --- | --- |
+| Location | Bow | |
+| No. of set | One (1) | |
+| Type | Tunnel type, CPP(Controllable Pitch Propeller) | |
+| No. of blade | Four (4) | |
+| Material of blade | Ni-Al-Bronze | |
+| Prime mover | Type | Electric motor, IP23, single speed, squirrel cage ,non-reversible |
+| Voltage | AC 440V, 60Hz, 3 phase |
+| Insulation | F class |
+| Capacity | Approx. 1,000kW input power |
+| Rating | Thirty (30) minutes at rated capacity |
+| Starting method | As per Maker’s recommendation | |
+| Control | Start & stop | From the wheelhouse |
+| Emergency stop | From bridge ***&*** wing console |
+| Pitch control | From the bridge ***&*** wing console |  
+Bow thruster shall consist of propeller unit, electric motor control panel.  
+The electric motor shall be connected to the thruster unit through a coupling. The motor can be started/stopped from local starter and wheelhouse and can be stopped in emergency from both bridge wings. The running indication shall be provided in wheelhouse.  
+A suitable interlocking device shall be provided to prevent starting of driving motor unless vent fan is in operation.  
+Tunnel of bow thruster shall be fabricated by steel plate. A stainless steel (SUS 316) ring shall be installed inside the tunnel in way of the propeller blades for protection from cavitation.  
+The other material, accessories, spare parts and tools shall be provided in accordance with the Maker’s standard to comply with the Rule/Regulations.  
+Galvanized steel grid shall be provided at entrance of thruster tunnel according to Maker’s recommendation. The configuration and orientation of thruster tunnel grid shall be determined as per results of stream line paint test and Builder's standard.  
+Bow thruster room shall be ventilated by one (1) mechanical supply fan to remove the heat. The ventilation duct shall be arranged so that the air flow passes over the electric motor. Vent shall not be in a position where moist air could be drawn into the bow thruster motor space.  
+Electric heater for the bow thruster room shall be provided.  
+**Bilge high level alarm is to be fitted in the Bow thruster Room.**  
+**Bow thruster starter/control panel to be placed outside the bow thruster motor level.**  
+***A easily accessible hatch with lifting arrangements to be provided for lifting the Bow Thruster motor from the location to outside the forecastle space to be provided.***

@@ -1,0 +1,10 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.2.2** CABLE APPLICATION'}
+--------------------
+All cables accepted by the Classification Society shall be provided.  
+In general, electric cable shall be of IEC marine cable (IEC 60092 series) ,and flame retardant type tested according to IEC 60332-1 and IEC 60332-3 Category, low smoke and halogen-free or equivalent type that has been approved by the Classification Society, except special cable which including: coaxial cable, compensate cable and LAN net cable etc.Cables in accommodation spaces to be of XLPE insulated, Metallic halide free sheathed (extruded or lapped).  
+Cables shall be of EP rubber or XLPE insulated, metal wire braided with polyolefin (PO) or polychloroprene rubber (PCP) covering.  
+Cables for lighting system in accommodation area shall be of EP rubber or XLPE insulated with polyolefin (PO) polychloroprene rubber (PCP)) covering.  
+For portable appliances, cables to be of flexible rubber insulated and polyvinyl chloride (PVC) or polychloroprene rubber (PCP) sheathed, and for table lamps to be of flexible vinyl cord.  
+The other insulating material cables may also be adopted, but permissive operating temperatures of cable conductor should be 90 oC.  
+Kind and size of cables supplied by manufacturers together with equipment to be accordance with manufacturer’s standard.  
+All cables throughout the vessel, except special cables such as coaxial cables, compensating cables, network cables, cables supplied together with equipment, etc. will be type approved by Classification Society.

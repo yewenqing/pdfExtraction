@@ -1,0 +1,10 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.3.4.5** AC 220 V Feeder Panel'}
+--------------------
+The following device shall be provided for AC 220 V feeder panel:  
+Necessary quantity - Miniature circuit breakers (MCB, with abt. 10% spare breakers based on amount of circuit breakers on feed panel);  
+1 - Insulation monitor with alarm lamp for checking AC 220 V system  
+1 - AC ammeter  
+1 - Change-over switch for AC ammeter (for each phase of power transformer secondary circuit)  
+1 - AC voltmeter  
+1 - Change-over switch for AC voltmeter (between each phase of power transformer secondary circuit)  
+And other necessary equipment;

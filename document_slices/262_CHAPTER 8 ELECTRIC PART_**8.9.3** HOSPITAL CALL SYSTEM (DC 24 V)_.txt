@@ -1,0 +1,4 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.9.3** HOSPITAL CALL SYSTEM (DC 24 V)'}
+--------------------
+One (1) set of calling bell system shall be provided as follows: Call push button Hospital (on berth side)  
+Buzzer with lamp Wheelhouse **& 2nd Officer cabin**

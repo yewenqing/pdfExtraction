@@ -1,0 +1,11 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.5 ELECTRIC GENERATOR ENGINE', 'Header 3': '6.5.2 CONSTRUCTION FOR GENERATOR ENGINE'}
+--------------------
+Generator engine  
+The design, construction, materials, and accessories shall be of Maker's standard in accordance with the requirements of the Classification Society.  
+Cooling medium shall be L.T. fresh water for cylinder jacket, cylinder cover, lubricating oil cooler and air cooler.  
+A governor shall be provided on the engine to regulate automatically the quantity of fuel oil supply at different loads. The governor shall be capable of holding the engine speed in accordance with requirement of Classification Society.  
+Emergency diesel generator engine  
+The design, construction, materials, and accessories are to be of Maker's standard in accordance with the requirements of the Classification Society.  
+The engine shall be a vertical, four cycle, single acting trunk piston, radiator-cooled marine diesel engine.  
+The engine shall be completed with self-contained cooling system and forced feed lubricating system.  
+The engine coupled with an alternator shall be installed on a common bed and resiliently mounted on the foundation as manufacture’s recommendation.

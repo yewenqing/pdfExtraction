@@ -1,0 +1,11 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.9.11** RUDDER ANGLE INDICATOR'}
+--------------------
+One (1) set of electrical rudder angle indicator system shall be provided as follows:  
+* One (1) transmitter with link bar stick in the steering gear room
+* One (1) three (3) face type indicator in the wheelhouse
+* One (1) indicator on wheelhouse ceiling console
+* One (1) indicator in the engine control console
+* Each one (1) indicator of watertight type on both bridge wings
+* One (1) indicator in the steering gear room
+* One (1) indicator on the navigation control console  
+Illumination with dimmer switch shall be provided for the rudder angle indicators in the wheelhouse and bridge wings.

@@ -1,0 +1,29 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.10.13.1** Navigation Signal Console:'}
+--------------------
+* Navigation light panel
+* Signal light panel
+* Outside light control panel
+* Distribution boards for lighting, nautical equipment
+* Emergency stop switch for the accommodation fans
+* Emergency stop switch for the cargo hold fans
+* Remote start and stop buttons for fire/G.S. pump and emergency fire pump
+* Dimmer switches
+* Hold fan emergency stop switch
+* Hospital alarm buzzer
+* Refrigerated chamber alarm buzzer with lamp
+* And other necessary equipment
+* AIS display unit
+* X band radar display unit
+* Extension alarm panel with group alarm indication
+* General alarm control panel
+* Window wiper controller (possible by the designing)
+* Gyro compass component
+* S-band radar display unit
+* VDR control panel
+* Engine order telegraph logger
+* No.2 DGPS receiver
+* No.2 VHF radiotelephone
+* Bridge navigation watch alarm system (BNWAS)
+* ECDIS
+* Remote distress alarm push button for GMDSS
+* Other necessary facilities

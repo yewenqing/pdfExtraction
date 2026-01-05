@@ -1,0 +1,4 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.4 CONTAINER lashing and securing', 'Header 3': '4.4.2 Lashing bridge and reefer maintenance platform'}
+--------------------
+No lashing bridge and reefer maintenance platforms to be provided on deck.  
+Two (2) sets of aluminum portable ladder to be provided for reefer container.

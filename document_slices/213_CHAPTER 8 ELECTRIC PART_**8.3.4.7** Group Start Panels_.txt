@@ -1,0 +1,9 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.3.4.7** Group Start Panels'}
+--------------------
+The starters for the essential pumps and ventilators in the engine room shall be assembled into group starter panels. Each unit (fixed type) to have circuit breaker, AC 440V/220V transformer, contactor, thermal relay, indicating pilot, push buttons, ammeter and running hour meter etc. which to be of fixed type.  
+Automation change-over function shall be provided for primary essential duplicate pumps.  
+The exact item and layout of starter unit shall be determined later during detail design.  
+**Following items to be agreed for detail design:**  
+**The main switch is to be lockable by pad lock (to inhibit start).**  
+**When starter is not visible at the motor, a separate start/stop switch shall be installed near the motor.**  
+**Starters for redundant motors shall be installed in different GSP’s, supplied from the different sections of the main switchboard.**

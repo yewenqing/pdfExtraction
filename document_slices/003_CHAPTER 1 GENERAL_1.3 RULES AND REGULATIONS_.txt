@@ -1,0 +1,133 @@
+METADATA: {'Header 1': 'CHAPTER 1 GENERAL', 'Header 2': '1.3 RULES AND REGULATIONS'}
+--------------------
+1.3.1 CLASSIFICATION  
+The Vessel including its hull, machinery, equipment and outfitting shall be built under the supervision of Classification Society (hereinafter called the "Class") and shall be distinguished in the record by the notation of:  
+***NK NS\* (CNC, EQ C DG, PSPC-WBT, NC) (IWS) (PSCM) (EA) (CSSA-R) (IHM) (Sox(EGCS)) MNS\*(M0)***  
+***Installation Character(s): BWM, MPP, LSA, RCF, M0, AFS***  
+***Loading computer will be approved by class.***  
+However, the Class rule shall be applied with the latest version at the date of the Contract signing.  
+1.3.2 FLAG  
+The Vessel shall be registered under the flag of ***Marshall*** .  
+1.3.3 RULES AND REGULATIONS  
+The Vessel shall comply with the following Rules and Regulations including amendments which have entered into force upon the date of signing this contract and are compulsorily applied to the vessel.. (*except Rules and Regulations regarding NOx Tier III*).  
+1. Maritime Regulation of Country or Region of Registry.
+2. Rules of the Classification Society.
+3. IACS UR-S11A Longitudinal Strength Standard for Container Ships and UR-S34 Functional Requirements on Load Cases for Strength Assessment of Container Ships by Finite Element Analysis.
+4. IACS URA1 Rev.6 for Anchoring equipment, URA2 Rev.4 for Towing/Mooring Equipment, URA3 for Windlass.
+5. International Convention on Load Lines 1966, including Protocol 1988 and Amendments.
+6. International Convention for the Safety of Life at Sea, 1974, and Protocol 1988,and Amendments.
+7. International Convention for the Prevention of Pollution from ships, 73/78 (Annex I, IV, V& VI) and Amendments.  
+*(The requirement of NOx Tier III is not applied in the scope of this Specification.)*  
+1. International Regulations for Preventing Collisions at Sea (London, 1972) and all Amendments.
+2. International Convention for Tonnage Measurement of Ships 1969.
+3. International Convention on the control of Harmful Anti-fouling System on Ships, 2001.
+4. International Telecommunication Union Radio Regulation, 2008.
+5. IMO "Code on Alerts and Indicators, 2009". (Resolution A.1021(26))
+6. International Ship and Port Facility Security Code (Equipment only).
+7. International Maritime Dangerous Goods Code (IMDG Code).
+8. IMO Res. MSC.267(85), “International Code on Intact Stability, 2008 (IS code 2008)”(except Ch.1,2 Dynamic stability Phenomena in Waves).
+9. IMO Resolution MSC.1/Circ.1352, “Amendments to the code of safe practice for cargo stowage and securing (CSS Code)”.
+10. IMO Resolution MSC.337(91), “Adoption of the code on noise levels on board ships” (only mandatory part) (Except bridge wing).
+11. IMO Resolution MSC.339(91), “Amendments to the FSS Code”.
+12. IMO Resolution MSC.365(93), “Amendments to the International Convention for the Safety of Life at Sea (SOLAS), 1974, as Amended.”
+13. Maritime Labor Convention (MLC) 2006, Title 3, Regulation Standard A3.1 (except swimming pool).
+14. ILO Convention 152 Occupational Safety and Health (Dock Work) Convention, 1979 Including Register of Lifting Appliances and Items of loose gear - Model Form and Certificates as required by Article 25(2).
+15. U.S. Coast Guard Regulations Applying to foreign flag vessel operating in navigable waters of the United States (CFRTitle33 – Part151, 155,159and164, CFR 46 – Part 162), with neither certificate nor inspection.
+* + - * CFR title 33 – part 151 and CFR 46- Part 162: Standard for Living Organisms in Ship’s Ballast Water Discharged in US waters (BWDS)
+* CFR title 33 – part 155: Oil Pollution Prevention Regulations of Vessels
+* CFR title 33 – part 159: Marine Sanitation Devices
+* CFR title 33 – part 164: Navigation Safety Regulation only for Section 164.35 Equipment
+16. U.S. Department of Labor Occupational Society and Health Administration (OSHA) safety and health regulation for Long shoring (CFT, Title 29, part 1918) regarding Containerized Cargo (Container lashing system) with neither certificate / statement of compliance nor inspection.
+17. Regulation (EU) No. 1257/2013 of the European Parliament and of the Council of 20 November 2013 on ship recycling and amending Regulation (EC) No. 1013/2006 and Directive 2009/16/EC(only Statement of Compliance).
+18. EU Directive 1999/32/EC, amended by 2005/33/EC and 2012/33/EU with regards to Operation within European Territory in relating to introduce 0.1% sulfur limit for marine fuel.
+19. California Code of Regulation, Title 13, Section 2299.2, “Fuel Sulfur and Other Operation Requirement for Ocean-going Vessel within California Waters and 24 Nautical Miles of the California Baseline” of California Air Resources Board (CARB).
+20. 2013 VGP issued by U.S. EPA, the requirement compulsorily applicable to foreign flag vessel calling US ports, on Environmentally Acceptable Lubricants (EALs) for bow thruster, stern tube (except air seal applied), rudder bearing (expect water lubricated) and stern tube of lifeboat.
+21. Suez Canal Navigation Rules, including Tonnage Measurement.
+22. Panama Canal Navigation Rules and Regulation OP NOTICE TO SHIPPING No. N-1-2019 including Tonnage measurement, Panama chock, mooring arrangement, visibility, etc. (Except paragraph 2.f.(b)(f): the requirement of minimum required draught under ballast condition and Pilot ladder accommodation) It is Buyer’s obligation/risk to apply for an exemption of any rules from the ACP Authority which require minimum required draught and pilot accommodation ladder.
+23. Australian Maritime Safety Authority, Marine Orders, Part 32 “Cargo Handling Equipment” 2016, regarding Cargo gear, cargo Hold/Deck and access to container onboard for loading and unloading and for material handling equipment.
+24. IMO Resolution MSC 282 (86), “SOLAS V, Reg. 19, requirement of ECDIS”.  
+1.3.4 guidelines and recommendations  
+The Vessel to be built in compliance with following Guidelines and Recommendations.  
+1. IEC Publication No.60092, Electrical installation in ships where required by the Classification Society.
+2. IMO ResolutionA.868 (20), “Guidelines for the control and Management of Ship’s Ballast Water to Minimize the Transfer of Harmful Aquatic Organisms and Pathogens.”
+3. International Convention for the Control and Management of Ship’s Ballast Water and Sediments, 2004 according to Regulation D-2 of Ballast water Treatment System. Ballast Exchange Standard (Regulation D-1)is not included.
+4. ISO 6954-2000(E), “Mechanical vibration – Guidelines for the measurement, reporting and evaluation of vibration with regard to habitability on passenger and merchant ships” (except bridge wings).
+5. IMO Resolution A.601(15), “Provision and display of maneuvering information on board ships”(Only Appendix 1,Appendix 2 and Appendix 3).
+6. IMO Resolution MSC.137(76), “Standards for ship maneuverability”.
+7. IMO MSC/Circ.1053, “Explanatory Notes to the Standards for Ship Maneuverability”.
+8. IMO Resolution MSC.1/Circ.1353, “Revised guidelines for the preparation of the cargo securing manual”.(To be prepared by the Buyer)
+9. IMO Resolution MEPC.227 (64), “2012 Guidelines on implantation of effluent standards and performance tests for sewage treatment plants” and amendments by Resolution MEPC.284(70).
+10. IMO Resolution MEPC.231(65),“Guidelines for calculation of reference lines for use with the energy efficiency design index (EEDI)”.
+11. IMO Resolution MEPC.245(66),“2014 Guidelines on the method of calculation of the attained energy efficiency design index (EEDI) for new ships” and amendments by Resolution MEPC.263(68) and Resolution MEPC.281(70).
+12. IMO Resolution MEPC.285(70),“2016 Guidelines for the Development of a Ship Energy Efficiency Management Plan (SEEMP)” and Amendments. (to be prepared by the Buyer)
+13. IMO Resolution MEPC.254(67),“2014 Guidelines on survey and certification of the energy efficiency design index (EEDI)” and Amendments.
+14. IMO ResolutionA.962(23), “IMO Guidelines on Ship Recycling Convention 2009”, amended by Resolution A.980(24) (Inventory of Hazardous Materials Only).
+15. IMO Res. MEPC.269 (68), “2015 Guidelines for the Development of the Inventory of Hazardous Materials”.
+16. Maritime and Port Authorities (MPA)of Singapore, Recommendation on night signal (3 all-round green lights) for vessels crossing the Traffic Separation Scheme (TSS) and precautionary areas in the Singapore Strait during the hours of darkness.
+17. MSC/Circ.1175 Shipboard equipment, fittings and supporting hull structures associated with towing and mooring for vessels keel laid after 1 July 2007
+18. ISPS Code – ref security locks of doors and hatches.
+19. MSC.1/Circ.1321 GUIDELINES FOR MEASURES TO PREVENT FIRES IN ENGINE ROOMS AND CARGO PUMP ROOMS"
+20. Resolution A.1021(26) Adopted on 2 December 2009 “CODE ON ALERTS AND INDICATORS, 2009
+21. ***Maritime Traffic Safety Law of Japan for foreign vessels (flash lamps without certification request).***
+22. ***ISO/FDIS 14726 (2008)***  
+1.3.5 CERTIFICATEs  
+The Builder shall obtain the following certificates and deliver to the Buyer at the time of the Vessel's delivery in triplicate, one (1) original and two (2) copies. ***All certificates issued by classification or authority party to be free of remarks except the exemption items.***  
+|  |  |
+| --- | --- |
+| Certificate | Issued by |
+| Classification Certificate | Classification Society |
+| International Load Line Certificate | Classification Society |
+| Cargo Ship Safety Radio Certificate | Classification Society (or Authorized party) |
+| Cargo Ship Safety Construction Certificate | Classification Society (or Authorized party) |
+| Cargo Ship Safety Equipment Certificate | Classification Society (or Authorized party) |
+| International Tonnage Certificate | Classification Society (or Authorized party) |
+| International Oil Pollution Prevention Certificate (IOPP) | Classification Society |
+| International Sewage Pollution Prevention Certificate (ISPP) | Classification Society |
+| International Air Pollution Protection Certificate (IAPP)  (Tier II) | Classification Society |
+| Statement of Compliance of International Prevention of Pollution by Garbage | Classification Society |
+| Statement of compliance with the NOx technical code for main & aux. engine (EIAPP) (Tier II) | Classification Society |
+| International Ballast Water Management Certificate | Classification Society |
+| Certificate of Potable Water | R.G. |
+| Panama Canal Tonnage Certificate | Classification Society |
+| Suez Canal Tonnage Certificate | Classification Society(or Authorized party) |
+| Documents of compliance regarding Suez Canal Authority  Regulations (Rules of Navigation) | Classification Society (or Authorized party) |
+| Builder's Certificate | Builder |
+| Statement of Compliance of Asbestos free | Builder |
+| Ship Sanitation Control Exemption Certificate | Chinese Government |
+| Inclining Test Report and Lightweight Survey Report | Classification Society |
+| Deadweight Certificate | Builder |
+| Statement of Compliance MLC2006, Title 3.1 Regulation A 3.1 mandatory requirement only (except swimming pool) | Classification Society |
+| Declaration of Compliance foreign vessel Operation in The Navigable Waters of The US | Classification Society |
+| International Ballast Water Management Certificate | Classification Society |
+| Statement for US VGP (EAL Only) | Classification Society |
+| Statement of Compliance with AMSA (Australia) for cargo hold access | Classification Society  (or Authorized party) |
+| Document of Compliance with the special requirement for Ships Carriage of Dangerous Goods (SOLAS 74, as amended, Regulation II-2/19) | Classification Society |
+| Statement of Compliance for Anti-Fouling Systems | Classification Society |
+| Test Certificate of Windlass, Anchor, Anchor Chain, Mooring Rope | Classification Society |
+| Certificate for Provision Crane, Engine Room Crane and lifeboat Davit | Classification Society |
+| International Energy Efficiency Certification including EEDI Technical file | Classification Society |
+| Statement of Compliance for Noise | Classification Society |
+| Statement of Compliance on Inventory of Hazardous Materials | Classification Society |
+| ***Fumigation statement of Wooden grating*** | ***Builder*** |  
+R.G.: Registry Government or Authorized party when applicable  
+The registration of the Vessel to flag state shall be of Buyer's responsibility and all expenses shall be borne by the Buyer.  
+The Buyer to supply following documents approved by Classification Society with the Builder’s assistance:  
+* + - * + Shipboard Oil Pollution Emergency Plan (SOPEP)
++ Training Manual
++ Fire Safety Training Manual and Operational Booklet
++ Garbage Management Plan and Garbage Record Book
++ International Ship Security Certificate (ISSC) and Ship Security Plan (SSP) covering the requirement of ISPS Code except Automatic Identification System (AIS), ship security alert System (SSAS) and Ship’s Identification number (IMO number)
++ Minimum Safe Manning Document
++ Safety Management Certificate (SMC)
++ Container Securing Manual(CSM)
++ Emergency Towing Procedure
++ Ship Energy Efficiency Management Plan (SEEMP)
++ Fuel Oil Changeover Procedure and Logbook
++ Ship-specific Plans and Procedures Recovery Persons from the Water
++ Pilot Card
++ Maneuvering Booklet
++ Muster List  
+Other Certificates not listed in the Specifications, but required by the herewith listed Rules and Regulations as compulsory shall be provided by Builder.  
+Other miscellaneous certificates including manufacturer’s certificates which are normally issued for machinery, equipment and outfit of the Vessel to be supplied.  
+However, if formal certificate(s) cannot be obtained at the Vessel's delivery, the Builder shall furnish provisional certificate(s) to the Buyer to substitute the formal certificate(s).  
+In such case, the Builder shall deliver formal certificate(s) to the Buyer to replace the provisional certificate(s) to the Buyer as soon as practicable after the Vessel's delivery but in any case prior to the expiration of the validity of the provisional certificates.

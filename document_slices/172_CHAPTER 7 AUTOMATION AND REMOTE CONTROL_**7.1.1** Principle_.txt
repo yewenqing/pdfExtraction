@@ -1,0 +1,13 @@
+METADATA: {'Header 1': 'CHAPTER 7 AUTOMATION AND REMOTE CONTROL', 'Header 2': '**7.1.1** Principle'}
+--------------------
+Automatic control, remote operation, instrumentation and central supervision shall be so designed and arranged that the propulsion plant is capable of being operated for 24 hours under normal sea-going condition without manual attendance in engine room to comply with the requirement for the ship with Classification notation (refer to Chapter 1 General 1.3.1).  
+One (1) control room shall be arranged in the engine room, where the control console of main engine and the main switchboard shall be installed.  
+The instrument gauge and alarm shall be arranged in good order for safety operation and easy maintenance.  
+Automatic combustion control and equipment concerned with the boiler shall be arranged adjacent to the boiler.  
+Automatic controllers and control valves shall be provided on principal systems for safety operation and easy maintenance.  
+The entire automation system shall consist of several decentralized control systems.  
+The decentralized control systems shall be used separately for main engine remote control, power management control, stand-by pump changeover control, and engine room monitoring and alarm system, ballast and bilge system.  
+The machinery and equipment not specified in this specification shall be served locally by the engine personnel on site, according to needs.  
+In case that the contents in the following parts of this section differ from Maker’s standard for specific equipment, Makers’ standard shall be applied in general.  
+**UPS for AMS are to be provided. Duration of the batteries shall be minimum 30 min and tested during sea trials.**  
+**Serial and analog signals to AMS are to be isolated in equipment / device / sensor side as maker’s standard. Digital signals are to be voltage free contact signals.**

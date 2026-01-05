@@ -1,0 +1,3 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.7 deck outFITTING', 'Header 3': '4.7.8 Pipe tunnel trolley'}
+--------------------
+A manual operated small trolley for carrying maintenance parts with rail shall be fitted in pipe tunnel.

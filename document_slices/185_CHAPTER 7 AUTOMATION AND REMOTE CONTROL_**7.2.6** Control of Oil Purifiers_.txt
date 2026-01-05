@@ -1,0 +1,7 @@
+METADATA: {'Header 1': 'CHAPTER 7 AUTOMATION AND REMOTE CONTROL', 'Header 2': '**7.2.6** Control of Oil Purifiers'}
+--------------------
+All purifiers shall be manually ON/OFF control on site operation and cleaning process –fully automated.  
+Alarm and recirculation of oil feed to purifier upon loss of seal shall be provided for the purifier according to Maker's standard. Feed oil will be re-circulated by three way shifting valve, as per Maker’s standard.  
+All oil purifiers shall be designed to have manual emergency stop function***, the emergency stop button shall be locate at the suitable place by the designing.***  
+Running indication shall be in ECC. Alarm shall be in alarm and monitoring system (AMS). Auto. sludge discharging shall be performed.  
+Hour counter for each purifier shall be provided or displayed in control board.

@@ -1,0 +1,15 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.10.2** GYRO COMPASS (AC 220 V, DC 24 V)'}
+--------------------
+One (1) set of gyro-compass shall be installed as follows:  
+1 – Master compass  
+1 – Digital repeater on W/H front ceiling console  
+1 – Bearing repeater with pedestal on each bridge wings  
+1 –Bearing repeater in steering stand of W/H  
+1 – Repeater in steering gear room  
+1 – Digital indication in captain’s day room  
+1 – Course recorder (only heading signal to be recorded) in chart space of W/H  
+1 – Rate of turn indicator on W/H front ceiling console  
+1 – Set of azimuth mirror and azimuth circle  
+1 – Repeater of heading type for conning position 1.of PANAMA required.(acc.rules)  
+Heading output signals shall be sent to Inmarsat- Fleetboard Band if necessary, VDR, AIS, ECDIS, radars and auto-pilot etc. External signals from the speed log, DGPS etc. shall be received.  
+The rate of turn signal shall sent to the ECDIS

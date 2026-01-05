@@ -1,0 +1,24 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.1 anchoring AND MOORING EQUIPMENT', 'Header 3': '4.1.3 ANCHOR and CHAIN CABLE'}
+--------------------
+The equipment in accordance with Rules requirements shall be provided.  
+#### 4.1.3.1 Anchor and Chain Cable  
+Two (2) bower anchors of stockless, SPEK type shall be provided for each vessel. Each weight is 6225 kg.  
+Anchor chain cable shall be of flush butt welded stud link, grade 3 type and provided in accordance with the requirement of the Classification Society.  
+The diameter of the anchor chain cable shall be 70mm and total length shall be 632.5m as per Rule requirement. Anchor chain cable shall be jointed with Kenter type shackle at every 27.5 m length. A swivel piece shall be fitted at each extreme outboard end of the anchor chain cable.  
+Anchor chain cable shall be marked with red paint at every Kenter shackle and white paint at same number of common links as shot numbers and stainless steel (SUS304) band tape at each last common link.  
+End link of chain cable shall be fastened to cable clench located outside each chain locker. These shall be released manually from bosun store in an emergency.  
+Accessories for anchor chain shall be supplied according to Maker’s standard in compliance with Rules ***and as below***  
+***6 - Chain hook***  
+***2 – Pin punch***  
+***1 – Shackle punch***  
+***2 – Spare kenter shackle***  
+***1 – Spare end shackle***  
+***1 – Spare taper pin for anchor shackle***  
+***3 – Spare taper pin for kenter shackle***  
+***1 – Pin hammer***  
+***1 – Shackle hammer***  
+***1 – Disengaging tool for kenter shackle***  
+#### 4.1.3.2 Chain Stopper  
+One (1) set of roller type chain stopper shall be arranged between each hawse pipe and windlass.  
+The chain stopper shall be of welded steel frame construction with a cast steel roller and a bar type stopper.  
+Necessary turnbuckle and steel wire rope shall be provided for fastening the anchor chain.

@@ -1,0 +1,19 @@
+METADATA: {'Header 1': 'CHAPTER 7 AUTOMATION AND REMOTE CONTROL', 'Header 2': '**7.2.7** Control of Air Compressors'}
+--------------------
+1. Starting of main air compressors  
+The starting of main air compressors shall be automatically ON/OFF controlled, depending on pressure of common inlet pipe of the main air reservoirs in the following sequence:  
+- At abt. 2.8 MPa – start the first leading main air compressor  
+- At abt. 2.6 MPa – start the second leading main air compressor (operating both compressors)  
+- All compressors stop at 3.0 MPa  
+Any compressor can be selected as first leading, second leading.  
+The main air compressor shall be automatically started and stopped by detecting the pressure of common inlet pipe of main air reservoirs. The relocation of start/stop setting points shall be possible.  
+A common failure alarm for automatic tripping shall be sent to alarm and monitoring system (AMS). Safety installation for the compressors shall be provided in accordance with the maker's recommendation.  
+Hour counter of each compressor shall be provided in control board.  
+A remote control for the main air compressors shall be arranged.  
+Main air compressor auto/start/stop switch and running indication to be provided in ECC  
+2. Control air treatment station  
+Control air installation shall be supplied from air treatment station with pressure 0.8MPa  
+The air treatment station shall be supplied from main air reservoir by means of reduction valve 3.0 / 0.8 MPa and consists of:  
+- Air dehydrator  
+- Reduction valve and safety valve  
+- Pressure gauge at each pressure output

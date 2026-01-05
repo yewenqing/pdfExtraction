@@ -1,0 +1,3 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.6.3.6** Cargo Hold Fans Control'}
+--------------------
+In general, each one starter shall be provided for each cargo hold fan, which can be combined in one group starter board together at suitable place; the power shall be feed from the MSB.

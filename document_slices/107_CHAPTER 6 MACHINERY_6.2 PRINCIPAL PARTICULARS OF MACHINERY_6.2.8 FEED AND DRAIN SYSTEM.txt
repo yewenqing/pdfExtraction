@@ -1,0 +1,13 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.2 PRINCIPAL PARTICULARS OF MACHINERY', 'Header 3': '6.2.8 FEED AND DRAIN SYSTEM'}
+--------------------
+Feed water pump  
+No. of set : Two (2)  
+Type : M.D. centrifugal  
+Capacity : As per Maker’s recommendation  
+Total head : As per Maker’s recommendation  
+Atmospheric condenser  
+No. of set : One (1)  
+Type : Shell tube type, Tube Bundle needs to be remove-able and  
+LT Cooling FreshWater cooled  
+Cooling area : to be capable of condensing the steam from the exhaust gas boiler at main engine CSR under ISO reference condition  
+Cleanliness factor : 85%

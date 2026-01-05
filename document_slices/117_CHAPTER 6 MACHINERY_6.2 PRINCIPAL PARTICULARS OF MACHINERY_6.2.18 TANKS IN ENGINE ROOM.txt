@@ -1,0 +1,55 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.2 PRINCIPAL PARTICULARS OF MACHINERY', 'Header 3': '6.2.18 TANKS IN ENGINE ROOM'}
+--------------------
+| Tank | Set | Capacity (m3) | Remarks |
+| --- | --- | --- | --- |
+| HFO, ULSFO/LSHFO tank\* |  | refer to G Chapt. | HL, RL,SD,HC,HT |
+| HFO, ULSFO/LSHFO settling tank \*\* | 2 | Abt. 40 | I, HC,LL, AT, ML, HT, HL, RL,HSP,LST |
+| HFO, ULSFO/LSHFO service tank \*\* | 2 | Abt. 40 | I, HC, LL, AT, ML, HT,RL |
+| MGO tank |  | refer to G Chapt. | HL, RL, SD |
+| MGO service tank | 1 | Abt. 30 | RL, LL, PL, |
+| Emergency generator M.G.O. service tank | 1 | Abt. 1.0 | PL, LL |
+| MGO tank for incinerator | 1 | Abt. 0.6 | PL, LL |
+| Waste oil tank for incinerator | 1 | Acc.to Maker’s std. | HC, I, FL,HL, AT |
+| FO overflow tank | 1 | Abt. 40 | HC, HL, SD, RL |
+| FO drain tank | 1 | Abt. 1 | HC, HL, SD, |
+| M/E lub. oil storage tank | 1 | Abt. 40 | ML |
+| M/E lub. oil settling tank | 1 | Abt. 21 | HC, ML |
+| M/E lub. oil sump tank | 1 | Abt. 21 | HC, SP, LL, RL |
+| G/E lub. oil storage tank | 1 | Abt. 19 | ML |
+| G/E lub. oil settling tank | 1 | Abt. 13 | ML |
+| L.TBN Cyl. Oil storage tank | 1 | Abt. 35 | PL |
+| H.TBN Cyl. Oil service tank | 1 | Abt. 35 | PL |
+| Waste oil tank | 1 | Abt. 10 | HL,SD,HC |
+| FO purifier’s sludge tank | 1 | Abt. 4 | S, HC, HL, SD |
+| LO purifier’s sludge tank | 1 | Abt. 4 | HC, HL, SD. |
+| Sludge tank | 1 | Abt. 30 | S, HC, HL, SD, |
+| H.T. F.W. expansion tank | 1 | Abt. 1.25 | GL, LL |
+| L.T. F.W. expansion tank | 1 | Abt. 1.25 | GL, LL |
+| Bilge water tank | 1 | Abt. 32 | HC, HL, SD |
+| Sewage holding tank | 1 | Abt. 32 | HL,SD |  
+Abbreviations:  
+HC : steam heating coil  
+S : steam blow  
+I : insulated  
+ML : magnetic float level gauge  
+SP : self-powered level gauge  
+GL : glass level gauge  
+FL : float level gauge  
+PL : plain glass level gauge  
+SD : sounding pipe  
+HL : high level alarm  
+LL : low level alarm  
+AT : auto. temperature regulating  
+HT : high temperature alarm  
+RL : level remote measuring  
+HSP : High level stop  
+LST : Low level start  
+Notes:  
+(1) The final capacity for some pumps and aux. equipment serving M/E, G/E and boiler and so onsuch as cooling water pump, and plate cooler etc. may be adjusted after detail heat balance.  
+(2) The final capacity for the tanks may be adjusted after determination of hull line and position of the tank.  
+(3) The total pressure for screw pump and gear pump to be contained 0.05MPa suction head.  
+(4) AT with mark “\*” to be arranged for HFO and LSHFO/ULSFO bunker tanks within cargo hold area.  
+(5) The HFO tanks with mark “\*\*” to be meant the tanks to have inclined bottom.  
+(6) All tanks to be made of welded steel plate and well secured to the hull. Each tank shall be provided with necessary fittings such as inlet and outlet connections, drain, air vent, manhole or hand-hole, overflow, thermometer socket, steam blow-out connection, etc. all depending on the purposes for which they are intended.  
+(7) The M/E L.O. sump tank shall be fitted with heating coil only around the suction bell mouth.  
+(8) All of the oil tanks shall be provided with drip tray, as practicable.

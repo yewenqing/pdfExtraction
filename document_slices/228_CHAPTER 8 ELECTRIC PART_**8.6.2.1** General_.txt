@@ -1,0 +1,10 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.6.2.1** General'}
+--------------------
+All motors, unless otherwise specified, shall be marine type squirrel cage induction motors.  
+Motors shall be designed for AC 440 V, 3 phase, 60 Hz, except for that the motors of 0.5 kW rating and less may be of AC 220 V, 3 phase or single phase type according to manufacturer's standard.  
+Enclosure of motors shall be generally provided as follows:  
+Water-proof type (IP 56) for motors exposed to weather.  
+Totally enclosed type (IP 44) for steering gear, emergency fire pump and motors in engine room, provision refrigerating room, purifier area, galley and similar spaces.  
+Drip-proof type (IP 23) used for motors in accommodation and other dry spaces.  
+The enclosed type (IP23) will be for bow thruster motor.  
+Space heater shall be provided for all motors on open deck and motors of steering gear, emergency fire pump, M/E turning gear, bow thruster and motor rated power over 10 kW in engine room.

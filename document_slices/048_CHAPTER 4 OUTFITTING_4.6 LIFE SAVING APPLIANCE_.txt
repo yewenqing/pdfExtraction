@@ -1,0 +1,4 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.6 LIFE SAVING APPLIANCE'}
+--------------------
+The Vessel shall be provided with lifesaving and protection equipment for a complement of 24 persons and to comply with the requirement of the Rule/Regulations.  
+**Effective term of ten (10) months shall be available for all LSA and FFA certificates at the time of the Vessel’s delivery.**

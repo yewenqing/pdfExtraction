@@ -1,0 +1,31 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.1 anchoring AND MOORING EQUIPMENT', 'Header 3': '4.1.2 WINDLASS AND MOORING WINCH'}
+--------------------
+#### 4.1.2.1 Combined Windlass/Mooring Winch  
+Two (2) sets of combined windlass/mooring winch of independent type shall be located at forecastle deck.  
+Each combined windlass/mooring winch shall be composed of, one (1) declutchable cable lifter, two(2) declutchable mooring drum and one (1) warping head.  
+Gypsy wheel and mooring drum shall not be operated simultaneously.  
+The mooring drum shall be designed to take one whole rope on six (6) or seven (7) layers, declutched to the shaft and operated through clutch.  
+Brake holding force of windlass shall be sufficient in accordance with the requirements of Classification Society.  
+***It has to be ensured that all flanges of the hydraulic pipes at the pumping station and on deck near the windlass and mooring winches fall with in the oil coaming.***  
+Particulars of each combined windlass/mooring winch shall be as follows.  
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Item | Gypsy | Mooring drum | Warping head |
+| Quantity | 1 | 2 | 1 |
+| Capacity | A rated line pull in compliance with the requirement of the Classification Society at average hoisting speed of about 9m/min | per drum abt.15tx15m/min  (on the first layer) | abt.15t |
+| Standard for chain, rope and capacity | Φ70, Grade 3 chain of welding. Joining shackles shall be of Kenter type | Φ64x ***220m*** rope (size subject to maker’s recommendation)  With min. strength abt.638KN | six(6) turns |  
+#### 4.1.2.2 Mooring Winch  
+Two (2) sets of mooring winch shall be provided. ***Mooring winches to be split type drums.***  
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Location | Quantity | Combination | |
+| Mooring drum | Warping head |
+| deck aft. | 2 | 2 | 1 |  
+Particulars:  
+|  |  |  |
+| --- | --- | --- |
+| Item | drum | Warping head |
+| Rated Capacity | Abt. 15 t x 15 m/min | abt.15 t |
+| Rope capacity and standard | Φ64 x ***220m***(size subject to maker’s recommendation) | 6 turns |  
+The rated capacity of each mooring winch shall be obtained on the first layer of the drum at operation of single drum.  
+Slack rope speed shall comply with manufacturer's standards and Rule/Regulations of Classification Society.

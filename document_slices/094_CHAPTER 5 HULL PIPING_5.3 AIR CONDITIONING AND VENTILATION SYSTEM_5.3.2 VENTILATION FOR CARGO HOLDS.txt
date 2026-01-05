@@ -1,0 +1,10 @@
+METADATA: {'Header 1': 'CHAPTER 5 HULL PIPING', 'Header 2': '5.3 AIR CONDITIONING AND VENTILATION SYSTEM', 'Header 3': '5.3.2 VENTILATION FOR CARGO HOLDS'}
+--------------------
+For *No.1~No.*4cargo holds, when dangerous cargo to be loaded, two (2) sets of exhaust ventilation fan to be supplied. This exhaust ventilation with air change of two (2) times per hour based on empty hold for carrying dangerous cargo. The fans shall be explosion proof type.  
+Fans shall be vertical axial flow and single speed type. ***And fans for cargo hold shall be split type.***  
+The amount of fans to be according to the final design.  
+Remote start and stop for each fan shall be done in ship office.  
+One (1) hold fan monitor panel with running lamps and common buzzer for abnormal stop for cargo holds shall be provided in wheel house.  
+Ventilation ducts to be made of steel plate or galvanized spiral steel sheet for cargo hold.  
+Each ventilator shall be fitted with stainless steel wire net. Vent head shall be of mushroom ventilator type. Heights of ventilator openings above upper deck to be sufficient according to load line requirements.  
+The duct shall be designed to have the max. air flow of 15 m/s. The duct and vent head shall be painted same as surroundings.

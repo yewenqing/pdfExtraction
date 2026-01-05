@@ -1,0 +1,6 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.6.3.4** Steering Gear Motors'}
+--------------------
+The steering gear motors shall be IP44 squirrel cage type and which power fed by separate feeder circuits, one (1) from main switchboard and another one (1) from emergency switchboard, according to the requirements of the Rules.  
+The feeder cables shall be run so as to minimize the probability of simultaneous failure of both feeders.  
+Both independent motor starters shall be located in the steering gear room. The motors can be controlled locally or from the bridge.  
+The steering gear alarm shall be installed on wheelhouse and in the ECR in accordance with the requirements of the rules.

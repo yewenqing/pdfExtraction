@@ -1,0 +1,17 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.2 PRINCIPAL PARTICULARS OF MACHINERY', 'Header 3': '6.2.4 ELECTRIC GENERATING PLANT'}
+--------------------
+(1) Generator engine  
+No. of set : Three (3)  
+Type : 4-stroke, single acting trunk piston medium speed engine  
+Output : As per Maker’s standard  
+Revolution : Max. 900 r/min  
+Generator : abt.1,250kWe, AC,450V, 3¢, 60 Hz (drip-proof Brushless type)  
+Fuel : HFO, LSHFO/ULSFO,MGO  
+(2) Emergency generator engine  
+No. of set : One (1)  
+Type : Four cycle, vertical, single acting, radiator cooled type diesel engine.  
+Output : As per Maker’s recommendation  
+Revolution : 1,800 r/min  
+Alternator : Abt.150 kWe, AC, 450V, 3¢, 60 Hz  
+Starting system : By battery and hydraulic or equivalent  
+Fuel : MGO

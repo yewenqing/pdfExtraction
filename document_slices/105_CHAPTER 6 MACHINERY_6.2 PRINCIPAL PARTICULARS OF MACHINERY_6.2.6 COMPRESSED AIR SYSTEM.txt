@@ -1,0 +1,36 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.2 PRINCIPAL PARTICULARS OF MACHINERY', 'Header 3': '6.2.6 COMPRESSED AIR SYSTEM'}
+--------------------
+Main air compressor  
+No. of set : ***Three (3)***  
+Type : Motor driven, two or three stages, fresh water cooled  
+Capacity : 180m3/h (F.A.) x 3.0 MPa  
+Revolution : As per Maker’s standard.  
+Emergency air compressor  
+No. of set : One (1)  
+Type : Motor driven, two or three stages, air cooled  
+Capacity : 30 m3/h (F.A.) x 3.0 MPa  
+Revolution : As per Maker’s standard.  
+Service air compressor  
+No. of set : One (1)  
+Type : Motor driven, screw type, air cooled  
+Capacity : 100m3/h (F.A.) x 0.7 MPa  
+Revolution : As per Maker’s standard.  
+Main air reservoir  
+No. of set : Two (2)  
+Type : Cylindrical all welded  
+Capacity : 5.0 m3 x 3.0 MPa  
+Service air reservoir  
+No. of set : One (1)  
+Type : Cylindrical all welded  
+Capacity : 1.0 m3 x 0.7 MPa  
+Aux. air reservoir  
+No. of set : One (1)  
+Type : Cylindrical all welded  
+Capacity : 0.25m3x 3.0 MPa  
+Control air reservoir  
+No. of set : One (1)  
+Type : Cylindrical all welded  
+Capacity : 0.25m3x 0.7 MPa  
+Control air dehydrator  
+No. of set : One (1) setType : Refrigerant type ***(R134a or R407C will be used and comply with the class notation.)***  
+Capacity : abt. 50m3 /h (F.A.)

@@ -1,0 +1,26 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.5 ELECTRIC GENERATOR ENGINE', 'Header 3': '6.5.3 ACCESSORIES'}
+--------------------
+For each main generator engine  
+1) Exhaust gas turbocharger as per Maker’s design 1 set  
+2) Air cooler (Charge air temp. to be auto-regulated if Maker can supply) 1 set  
+3) Governor 1  
+4) Fuel injection pump each 1/cyl.  
+5) H.T. Cool. F.W. pump (centrifugal type engine driven) 1  
+6) L.O. pump (gear type, engine driven) 1  
+7) F.O. filter 1  
+8) L.O. cooler 1  
+9) L.O. filter 1  
+10) L.O. pre-lubricating pump 1  
+11) Preheating device for the HT-circuit 1  
+12) Turning device according to maker's standard 1  
+13) Gauge board 1 set  
+14) Emergency stopping device 1 set  
+(over speed, L.O. low press., F.W. excessively high temp.)  
+15) Silencer 1  
+16) Exhaust expansion connection. 1  
+17)) Fuel oil leakage alarm 1  
+Each cylinder to be with local thermometers for exhaust gas and cooling water outlet temp as Maker’s standard.  
+**Turbocharger tachometer for Aux engine shall be provided in ECR.**  
+The other’s accessories of generator engine shall be in accordance with Maker's standard.  
+For emergency generator engine  
+All accessories and fitting shall be in accordance with Maker's standard.

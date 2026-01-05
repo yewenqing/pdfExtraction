@@ -1,0 +1,3 @@
+METADATA: {'Header 1': 'CHAPTER 7 AUTOMATION AND REMOTE CONTROL', 'Header 2': '**7.2.12** Running Lamps'}
+--------------------
+As a Rule, machinery controlled from MSB or ECC shall be equipped with running lamps there.

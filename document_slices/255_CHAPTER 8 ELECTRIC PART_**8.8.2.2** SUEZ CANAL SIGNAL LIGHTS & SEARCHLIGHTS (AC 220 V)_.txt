@@ -1,0 +1,5 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.8.2.2** SUEZ CANAL SIGNAL LIGHTS & SEARCHLIGHTS (AC 220 V)'}
+--------------------
+One (1) set of 60 W fixed type Suez Canal signal light shall be provided, that is six (6) red, five (5) white and two (2) green. These signal lights shall be controlled by respective switches graphically arranged on the signal light control panel in the wheelhouse control console.  
+One (1) set of receptacle with switch used for Suez Canal searchlight (searchlight 3kW, ***Owner*** supply) shall be installed on the fore part.  
+Each one AC 220V 1000 W searchlights (with manual operation rotatable bracket) shall be installed on both wings of bridge deck.

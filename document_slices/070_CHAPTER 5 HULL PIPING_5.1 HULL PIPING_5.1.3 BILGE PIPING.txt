@@ -1,0 +1,19 @@
+METADATA: {'Header 1': 'CHAPTER 5 HULL PIPING', 'Header 2': '5.1 HULL PIPING', 'Header 3': '5.1.3 BILGE PIPING'}
+--------------------
+Cargo hold  
+One (1) main bilge line for cargo holds shall be arranged in pipe duct and branched to each bilge well, fitted with rose box, non-return valve and remote control butterfly valve(arranged in pipe duct) at each suction mouth.  
+Each cargo hold shall have two (2) bilge wells at the aft end of the hold (one on each side of the Vessel).  
+The main bilge line shall be connected to fire, bilge & G.S pumps in engine room.  
+Dangerous goods bilge water in cargo holds shall be discharged overboard through the main bilge line by a dangerous goods bilge eductor located outside of the engine room when carry dangerous goods.  
+The bilge system shall be so designed that the dangerous goods can be carried in No.1~3 cargos holds. Shut off valve should be fitted directly at the bulkhead on machinery space of end of bilge main line to ensure the separation of bilge water from engine room when dangerous goods are loaded in cargo hold.  
+Bow part  
+One (1) bilge eductor shall be provided to discharge bilge in the chain locker, void space above fore peak tank and bosun store. And driving water for eductor shall be supplied from the fire main line.  
+One (1) bilge eductor shall be provided to discharge bilge in the bow thruster & emergency fire pump room. And driving water for eductor shall be supplied from the fire main line.  
+Stern part  
+Bilge water in the steering gear room shall be led to the bilge well in the engine room through self-closing valve.  
+Other spaces  
+The daily bilge piping system in E/R shall be independent of main bilge piping system.  
+Oily bilge discharge pipe with stop valve and MARPOL shore connection flange shall be provided at each side on upper deck.  
+The valve for bilge lines in engine room shall be manually operated.  
+For bilge pump and bilge system in the engine room, refer to the Machinery Specifications.  
+High level alarm shall be provided for bilge wells.

@@ -1,0 +1,10 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.11.3** VHF RADIO TELEPHONE'}
+--------------------
+Two (2) sets of VHF radiotelephone of DSC with 57 channels and USA channel shall be installed in wheelhouse control console.  
+Each set including:  
+1-VHF telephone with DSC and whip antenna  
+1-VHF DSC watch receiver (channel 70) with antenna  
+The No.1 VHF shall be installed at Navigation Signal Console in hands reach area near the OOW seat, with one(1) remote control handset at the front bulk of wheelhouse.  
+No.2 VHF shall be installed at Navigation Console in hands reach area near the OOW seat, with slave sockets for both wings .  
+One (1) portable handset will be provided for both wings.  
+DC 24V Power should be fed from the radio battery.

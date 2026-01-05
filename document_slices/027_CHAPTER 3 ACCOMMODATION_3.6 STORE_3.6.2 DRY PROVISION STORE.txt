@@ -1,0 +1,6 @@
+METADATA: {'Header 1': 'CHAPTER 3 ACCOMMODATION', 'Header 2': '3.6 STORE', 'Header 3': '3.6.2 DRY PROVISION STORE'}
+--------------------
+|  |  |
+| --- | --- |
+| Compartment | Facility |
+| Dry provision store | 3-tiergalvanized steel shelves with wooden batten |

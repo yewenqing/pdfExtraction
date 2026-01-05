@@ -1,0 +1,23 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.1 GENERAL', 'Header 3': '6.1.1 GENERAL'}
+--------------------
+The vessel shall be designed and constructed as a single screw driven by a diesel engine located aft and in compliance with the requirements of Classification notation.  
+The propelling machinery shall consist of a low speed, direct reversible, high efficiency turbocharger engine, driving a fixed pitch propeller through a forged steel shafting.  
+The propeller shaft shall be turned clockwise viewed from aft of M.E. going ahead.  
+The central cooling F.W. system shall be provided.  
+The electric generating plant shall consist of three (3) sets of main diesel generators and one (1) set of emergency diesel generator.  
+The main engine shall be remotely controlled from the engine control room and wheelhouse and local control console and navigation bridge deck wings.  
+The steam generating plant shall be of one (1) set of composite boiler with exhaust gas section and oil fired section.  
+Open loop scrubber to be provided to satisfy the requirements of Global Sulfur Cap 2020  
+**An air-conditioned sound proof engine control room shall be provided in engine room and equipped with engine control device, main switchboard and other necessary monitoring equipment.**  
+**The ECR should have 2 Glass windows of the size 2200x600mm .**  
+The machinery and equipment in engine room shall be designed, constructed, installed or supplied according to the manufacturers and/or the Builder’s standard in compliance with the requirement of the Class and the Regulatory body as far as they are concerned.  
+**During design and construction of engine room, particular attention to be paid to ensure
+that adequate space is provided for operation and maintenance of the mechanisms or
+other arrangements.**  
+**Ensure that adequate space is provided for maintenance of the piping systems as far as
+possible.**  
+**Eye plates to be provided for machinery equipment and pumps more than 50kg in weight.**  
+SI unit and bar unit to be adopted for design, construction of machinery and measuring units, such as power, pressure, temperature and flow etc.  
+Valves and cocks shall be according to GB, CBM, CB, JIS standard. Pipe dimension and material are of Chinese standard except those pipes/valves attached on imported equipment, which are to be Maker's standard. The connecting diameter of flange is according to ISO standard except those flanges attached on imported equipment, which are to be Maker's standard.  
+If there are minus differences between this Specification and actual machinery in respect of the description of machinery construction and piping systems, it to be in accordance with machinery Maker’s standard.  
+The materials and accessories of the machine and the equipment shall be in accordance with the requirements of Classification Society and Maker’s standard.

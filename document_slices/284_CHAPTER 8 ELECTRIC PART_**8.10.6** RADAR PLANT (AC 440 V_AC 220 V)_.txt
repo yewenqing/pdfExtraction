@@ -1,0 +1,19 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.10.6** RADAR PLANT (AC 440 V/AC 220 V)'}
+--------------------
+Two (2) sets of marine raster scan radar equipment shall be provided ***at wheehlouse, (Option:both Radars were installed the Uninterruptible Power System(UPS) )***  
+***(Option: A monitoring screen in the Master’s room, and there should be a switch to change the screen to the S/band or X/band.)***  
+The particulars to be as follows:  
+|  |  |  |
+| --- | --- | --- |
+|  | No.1 | No.2 |
+| Frequency band: | X-band | S-band |
+| Peak output power: | abt.25 kW | abt.30 kW |
+| Min. Display area | 340 mm x 340 mm  at least | 340 mm x 340 mm  at least |
+| Display mode | relative/true motion | relative/true motion |
+| Scanner size | 7~ 9 feet | 12 feet |
+| Performance monitor | fitted | fitted |
+| ARPA | with | with |  
+The data from AIS shall be capable of being displayed on TFT of both radars.  
+Gyro, AIS, speed log and DGPS signals shall be sent to X-band and S-band radar.  
+Both screens will be at least24" color TFT screens.  
+Above radars performance standard should be to meet IMO resolution MSC.192 (79).

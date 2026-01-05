@@ -1,0 +1,8 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.3.4.4** AC440 V Feeder Panel'}
+--------------------
+The following device shall be provided for AC440 V feeder panel:  
+Necessary quantity - module case circuit breakers (MCCB) (with abt. 10% spare breakers for AC440V load only). All MCCB shall be of plug-in type.  
+\*1 -Molded case type circuit breaker(MCCB) for shore supply  
+\*1 -Shore supply indicating lamp (white lamp) and kWh meter  
+\*1 -Insulation monitor with alarm lamp for checking AC440 V system  
+\*1-Ammeter, it will be share with other equipment.

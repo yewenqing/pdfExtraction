@@ -1,0 +1,5 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.7.11.1** Non-water-proof Type Receptacles'}
+--------------------
+Non-waterproof receptacles for small electric appliances shall be of, two (2) poles with earth contact type AC 220 V, 10 ampere capacity and shall be fitted as follows:  
+At least two (2) free receptacles shall be provided respectively in wheelhouse, chart space, radio space, mess room, hospital, engine control room, all crew's cabins, offices, inner passageway and other public room, at least 4 for after wall of wheelhouse.  
+In addition, each one (1) receptacle of two (2) poles, DC 24 V shall be provided at the rear of the main switchboard and the emergency switchboard.

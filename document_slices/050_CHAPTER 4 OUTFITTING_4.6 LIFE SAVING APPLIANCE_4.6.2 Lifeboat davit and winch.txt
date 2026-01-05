@@ -1,0 +1,9 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.6 LIFE SAVING APPLIANCE', 'Header 3': '4.6.2 Lifeboat davit and winch'}
+--------------------
+One (1) set of hinged gravity type davit to be provided at port and starboard side as shown on G.A. plan.  
+The davit to be made of fabricated steel and to be complete with necessary blocks, tackles and galvanized steel wire rope, etc.  
+One (1) set of electric motor driven winch shall be fitted for each lifeboat davit. Davit shall be capable of manual operation by handle in case of emergency. The winch to have sufficient capacity for lowering fully equipped life boat with persons on board to the ballast draft. ***One independent starter/control panels to be used for each life boat davit and winch.***  
+Each winch shall have two (2) limit switches to avoid over-hoisting.  
+Guide fittings (skate) for easily lowering the lifeboat shall be fitted. Lighting and instruction sheet (in English) shall be fitted on the wall near the lifeboat.  
+Other material, fittings, and construction not specified above shall be in accordance with the manufacturer’s standard in compliance with the Rule/Regulations.  
+The speed of starboard side winch of hoisting speed to be in accordance with the requirements for rescue boat. The designated rescue boat davit shall be capable for the lifeboat recovery within 5 minutes as per SOLAS requirements.

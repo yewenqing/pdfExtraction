@@ -1,0 +1,11 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.10.18** STEERING STAND'}
+--------------------
+One (1) steering stand to be provided as following:  
+|  |  |  |
+| --- | --- | --- |
+| 1 | - | Manual hand- wheel for the helsman |
+| 1 | - | Gyro repeater |
+| 1 | - | Heading monitor |
+| 1 | - | Steering gear alarm panel |
+| 1 | - | Dimmer switches |  
+The steering stand can be combined into the wheelhouse control console; a UHF handset of hand-free type shall be prepared for the intercom with the docking workstation.

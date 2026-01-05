@@ -1,0 +1,7 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.4 SHAFTING AND PROPELLER', 'Header 3': '6.4.5 INTERMEDIATE SHAFT BEARING'}
+--------------------
+The intermediate shaft bearing shall be of the single oil disc type and of cast iron or cast steel pedestal, upper and lower half shells lined with white metal.  
+The bearing shall be provided with ample oil reservoir and cooling water jacket inside the pedestal, with end baffle to prevent loss of oil at both ends of bearing.  
+The bearing shall be central LT fresh-water cooled. And a bearing temperature sensor shall be provided and connected to ECR.  
+For checking the oil levels in the bearing housing, the bearing shall be fitted with a sounding bar.  
+The number of bearing may be adjusted at detail design stage as per final shaft alignment.

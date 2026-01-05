@@ -1,0 +1,28 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.3.4.1** General'}
+--------------------
+The main switchboard to be consist of: (or according to manufacturer's standard)  
+Three(3) -- Generator control panels  
+One (1) -- Synchronizing & bus-tie panel  
+One (1) -- Bow thruster feeder panel  
+Two (2) -- AC 440 V feeder panels (or four panels as per manufacturer)  
+Two (2) -- Group starter panels (or four panels as per manufacturer )  
+One (1) -- AC 220 V feeder panel  
+***One (1) -- Empty cold-iron panel for AMP ready in future***  
+Two (2) --Reefer container panels  
+Each generator panel and bow thruster feeder panel to be protected by a three pole air circuit breaker (ACB).  
+The main switchboard, for receiving power from main generators and for the power distribution, shall be installed in engine control room with clear maintenance access to the front and rear of the panel as per rules, insulating mat shall be provided at front and rear of the main switchboard.  
+The main switchboard shall be multi cubicle, metal enclosed self-supporting, dead front type (IP20) with hinged front panels that can be opened without disturbing installed equipment and complete with necessary fittings and instruments.  
+Between cubicles shall be closed by flame retarding insulating material to prevent fire hazard passing to adjacent.  
+All bolts, screws etc., used in connection of current carrying conductors shall be adequately locked with lock nuts and spring washers or as manufacturer's standard.  
+The top and each side of the switchboard shall be protected with steel plate and suitable hand rail shall be provided at front and rear. The main switchboard shall have hinged front doors and removable rear side covers. Main cable shall entry through cable hole from under side.  
+The preferential tripping system shall be provided and so arranged that in the event of the main generators becoming overloaded the non-essential loads are disconnected automatically before the generators' circuit breaker is opened. The preferential tripping arrangement shall be in two stages sequential (the first stage to be general non-essential loads and the second reefer containers), as necessary.  
+Voltage circuits for control and instrumentation to be earth free and protected by double pole fuse.  
+Air circuit breakers (ACB) shall be of electrically operated trip free type and controlled by a control switch and additionally a manual operating handle shall be provided.  
+All AC440V out-going feeder circuits and shore source circuit to be protected by a three pole molded case circuit breaker (MCCB) with over-load trip and instantaneous trip on each pole, except for steering gear motor circuit which to be only equipped with an instantaneous trip. And all AC 220V out-going feeder circuits to be protected by a three/ two pole molded case circuit breaker (MCCB) or three/two pole miniature type circuit breaker (MCB) with over-load trip and instantaneous trip on each pole.  
+Each feeder circuit on the main switchboard shall be distinctly marked by label giving service name of each circuit and frame/set current for the circuit breaker.  
+The molded case circuit breaker (MCCB) for feeder circuits of motors as described in item 6-3.3 and 6-3.6 shall be provided with a shunt trip coil for emergency stop or preferential trip.  
+In case that the contents in the following each panel of this section differ from manufacturer's standard for specific equipment, manufacturer's standard shall be applied in general.  
+**Certified insulation mat *(IEC61111)* to be provided in front and back of MSB and in front of ESB**  
+***The accuracy of meter to be within 1.5 (error: within 1.5% of full scale), except the meters for motor starter for which class 2.5 shall be applied.***  
+***Air from ventilation ducts shall not be discharged directly on the switchboard.***  
+***The bus bar of main switchboard shall be provided with bus-tie switch (manual control)***

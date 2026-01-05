@@ -1,0 +1,5 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.11.16** SPARE PART'}
+--------------------
+The necessary number of spare parts shall be supplied according to requirements of the  
+Classification Society and Maker's standard.  
+All spares to be placed in steel boxes duly labeled/marked and boxes shall be placed in shelves in spares store room.

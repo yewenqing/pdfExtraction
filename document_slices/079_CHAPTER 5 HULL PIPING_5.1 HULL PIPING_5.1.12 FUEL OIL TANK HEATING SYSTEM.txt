@@ -1,0 +1,7 @@
+METADATA: {'Header 1': 'CHAPTER 5 HULL PIPING', 'Header 2': '5.1 HULL PIPING', 'Header 3': '5.1.12 FUEL OIL TANK HEATING SYSTEM'}
+--------------------
+A steam line for HFO and LSHFO/ULSFO bunker tank heating and a drain line in side void space (P or S) shall be led from engine room to fuel oil bunker tanks and FO overflow tank.  
+Heating coils shall be of seamless steel and heating area ratio shall be 0.06m2/m3 for heavy fuel oil bunker tanks.  
+The steam shall be led from steam supply main line in void space through under deck to each HFO/ULSFO tank via a manually operated shut-off valve, and led back to drain main line in the void space through a steam trap/strainer and a shut-off valve .  
+Steam tracing shall be adopted for suction pipe of HFO and LSHFO/ULSFO line and steam tracing shall be insulated together with HFO and LSHFO/ULSFO suction main line.  
+***The remote temperature reading shall be provided for the HFO and LSHFO/ULSFO bunker tanks.***

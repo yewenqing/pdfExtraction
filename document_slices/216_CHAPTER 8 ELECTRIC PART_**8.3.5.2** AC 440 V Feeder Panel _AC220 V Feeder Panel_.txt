@@ -1,0 +1,10 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.3.5.2** AC 440 V Feeder Panel /AC220 V Feeder Panel'}
+--------------------
+Necessary quantity-Molded case circuit breaker (MCCB) or miniature circuit breaker (MCB) (with abt.10% spare breakers based on amount of circuit breakers on feed panel).  
+Each panel:  
+1 - Insulation monitor with alarm lamp (for AC 440V & 220V).  
+1 - AC ammeter  
+1 - Change-over switch for AC. ammeter (for each phase of emergency power transformer secondary circuit)  
+1 - AC voltmeter  
+1 - Change-over switch for AC voltmeter (between each phase of emergency power transformer secondary circuit)  
+1 - Mega-ohm meter with change-over switch

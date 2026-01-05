@@ -1,0 +1,85 @@
+METADATA: {'Header 1': 'CHAPTER 5 HULL PIPING', 'Header 2': '5.1 HULL PIPING', 'Header 3': '5.1.2 PIPING MATERIAL AND WORK'}
+--------------------
+5.1.2.1 Pipe  
+The materials and wall thickness of pipes shall be in accordance with “Table of pipes” of this section and to meet the requirements of the Classification Society.  
+The pipes as a part of machinery or equipment supplied by the manufacturer in package shall be of the manufacturer’s standard.  
+Pipe bore shall be decided so as to accommodate given flow quantity and corresponding pump pressure.  
+Pipe lines shall be led with a minimum number of bends and the arrangements shall avoid well part where drains likely to stay as far as practical.  
+Suitable draining shall be provided for the well parts of water pipes in exposed locations where those may be frozen.  
+Liquid pipes shall be kept away from switchboard and the electrical appliances. Where the piping is unavoidably led above the electrical appliances (other than MSB, G/Es, transformers etc.), the welded sleeve joint shall be provided.  
+Where the pipe lines pass through girders or any other structural elements, the compensation shall be provided in accordance with the requirements of the Classification Society and Builder’s standard if necessary  
+The bend radius of pipe shall be not less than 2.5 times outside diameter, except elbow.  
+For flushing of the pipe, refer to the “Chapter 6 Machinery” of the Specification.  
+5.1.2.2 Valves  
+In general, the valve side shall be of the same nominal bore as that of the pipes connected except automatic control valves.  
+In general, for DN80mm and above. butterfly valves will be used as far as possible. Such as high pressure and high temperature system to be excepted. Butterfly valves to be wafer type with NBR/ Viton liner and bronze/stainless steel disc except shipside valves.Shipside butterfly valves to be double flange type. ***Some of wafer type may be changed into lug type, it will discuss in detail design stage between the Owner and yard.***  
+Use of gate valves shall be limited where require by Classification Society for the purpose of fire protecting closure.  
+Cast steel and ductile cast iron valves shall be fitted to such locations as required by the Classification Society.  
+Installation of the ship side valve shall be in accordance with the requirements of the Classification Society and shall be fitted rigidly to the shell with short stub piece of heavy wall (as per Rule requirement) as far as practicable.  
+Generally the actuators of remote butterfly valves shall be of enclosed double acting type, single acting type to be used according to the requirement of class and shall be directly coupled to the valves.  
+Remote control valves shall be provided with local manual operation device required by Classification Society.  
+Valve name plates of brass or stainless steel shall be fitted to the valves on handle or other suitable place.  
+5.1.2.3 Pipe Jointing  
+In general, the welded sleeve joints, butt welding and flange connection shall be applied to steel pipe, joints, fittings, machinery and where necessary according to the Builder’s practice.  
+Pipe joint of ballast system and bilge system shall be of flange type as far as possible. The material of pipe connection shall be of the same material or similar to that of the pipes connected, unless otherwise specified.  
+In general, flange joint shall be of steel fillet weld-on type for steel piping  
+Preformed welding socket shall be used for high pressure steel pipe such as hydraulic oil line, etc.  
+Butt welding joint shall be applied for reducer, elbow, tee, and others except otherwise specified.  
+Galvanized steel hexagonal head bolts and nuts shall be used for piping in ballast water tank, weather deck, etc.  
+Metric threaded and/or welded type unions may be used at dismantling point of small bore steel pipe or non-ferrous tubes.  
+For copper or aluminum brass piping, braze union or bite joint or sleeve shall be applied for small bore pipes and screw union for large bore pipes.  
+***U bends, where not practical the joint must be inspected prior fitting the sliding coupling by owner’s site team, such as ballast water pipe and bilge pipes in pipe duct,*** shall be generally used for ballast, bilge, fire main, cable protection lines, etc., where necessary, to compensate for the pipes expansion and contraction.  
+Offset expansion bends (Loop) shall be applied to compressed air line, steam line, high pressure hydraulic oil lines and wherever practicable.  
+5.1.2.4 Bulkhead and Deck Penetrations  
+Where the pipe lines pass through the watertight or oil tight bulkheads and decks, the bulkhead or deck shall be sufficiently compensated, where necessary, in accordance with the requirements of the Classification Society.  
+The standard penetration pieces shall be complied with class requirement.  
+The connections through the insulated bulkheads shall be of suitable length to permit access to flange connections without disturbing the insulations.  
+Full penetration at the side shell welding and inspection shall be performed according to rule and standards.  
+5.1.2.5 Tees, Bends, and Other Fittings Etc.  
+Branch pipes for low pressure piping up to 5MPa shall be welded directly to the main pipe.  
+For high pressure pipes of DN40 mm and below, socket welding type tee shall be used. Standard elbow pieces and reducers shall be of fabricated steel made by electric arc welding.  
+Fittings forming a part of pipe shall be of the equivalent material as jointing pipes in general.  
+As a standard for steel and non-ferrous pipes, pipe bending shall be carried out by means of cold bending machine, to maximum practicable according to the Builder’s facility.  
+If cold bending is not applicable or small bending radius is necessary to facilitate the piping arrangement, high frequency induction bending or butt-welding elbow shall be used.  
+The loose fittings (Filters, Strainers, Traps, Rose Box, Mud Box, Rose Plates, Plugs, Nozzles, Orifice, expansion couplings, separators, air pipe heads, etc.) shall be selected by pipe size, line pressure and pipe line material according to Builder’s practice.  
+5.1.2.6 Suction Bell Mouth  
+Inverted hopper shape suction bell mouth fabricated of mild steel shall be used in general,.  
+Double plate shall be installed below bell mouths (10mm).  
+The clearance between suction bell mouth and tank bottom shall be Builder's standard.  
+5.1.2.7 Gasket and Packing  
+Universal heat and oil resistant asbestos free gaskets shall be used for all piping system.  
+The type of gasket shall be ring type, and the thickness of gasket used shall be according to Builder’s practice.  
+Material of packing for valve stem shall be of valve maker’s standard.  
+5.1.2.8 Pipe Supports  
+The piping shall be securely supported by steel angle with clamping methods to avoid damage, vibrations and movement in accordance with the Builder’s practice.  
+PE/Copper Pipe Makers standard to be followed in systems where the material is utilized.  
+Pipe supports for non-ferrous pipe shall be lined with sliding pad of copper, brass, plastic or synthetic rubber so as to not to directly contacted with pipes.  
+All pipe supports and on deck as well as inside water tanks to be of hot-dip galvanized material.  
+Fixing supports shall be provided for preventing floated pipe from excessive free moving, where required.  
+For clamping, “U” shape steel round bar bolt clips shall be used for steel pipes (DN≥15mm) and Maker’s standard to be applied for the others. ***All U clamps on Deck and Ballast tanks to be of stainless steel. Steam pipe, condensate pipe and copper line to be installed with Teflon or equivalent pads at bottom and top to avoid metal to metal contact with the pipes.***  
+In general, double nuts U-bolts shall be used for all heating coils (each one on both sides of the support).  
+However, all size of vent pipes, and the other pipes not mentioned above shall be supported according to shipyard standard.  
+Heating coils pipes and others subject of temperature expansion to be provided with sliding pads or other means to compensate expansion.  
+Sliding pads shall be inserted between pipes and supports for the following pipes:  
+- Longitudinal pipes of ND125 mm and above in pipe duct  
+5.1.2.9 Pipe Protection  
+The piping works shall be protected from mechanical damage, where necessary and the protection shall be constructed with steel angels, plates or channels as per Builder’s practice.  
+5.1.2.10 Surface Treatment and Cleaning  
+The surface treatment and coating of the machinery, loose fittings and valves shall be carried out in accordance with builder's standard for the intended purpose, and no special surface treatment shall be made exceeding Maker’s standard unless otherwise specified.  
+The pipe fittings whose function is to join branches of the system (such as tees, Y-pieces, elbows, flanges, unions, bushing, etc.) shall be painted same as connected pieces.  
+The loose fittings other than above pipe fittings supplied by makers (such as expansion coupling, filters, strainers, traps, separator, rose boxes, nozzles, plug, orifice etc.) shall be painted in accordance with maker’s standard unless otherwise specified.  
+The galvanizing shall be carried out after fabrication of pipes in principle, but if welding has to be carried out after galvanizing for the cases mentioned below, the external surface of the damaged parts shall be touched up with two (2) coats of zinc solution paint of high purity.  
+a) Welded sleeve joints fabricated on-board  
+b) Flanges of pipes adjusted on-board  
+c) Middle flanges of penetrating pieces adjusted on -board  
+d) Butt wild joint adjusted on-board  
+The fuel oil service pipes, lubricating oil pipes and hydraulic oil pipes shall be pickled before installation, refer to Machinery Chapter paragraph 6.10.1of the Specification.  
+5.1.2.11 Inspection and Test  
+All the tests and inspections of pipe lines shall be carried out in accordance with the requirements specified in the specification and the Rules and Regulations and the Builder’s standard.  
+Visual Test  
+Dimensions, scantlings, locations, surfaces finishing, welding, fastenings, joints, etc. shall be visually inspected where necessary.  
+Leakage Test (Flow Test)  
+The pipes which to be occasionally filled up by gravity or pipes through which liquid flow without pressure during the actual service shall be tested by free flow of water to confirm tightness of pipe lines.  
+Pressure Test  
+The statically hydraulic pressure test shall be carried out in accordance with the requirement of the Classification Society.  
+During the pressure test, a blank flange shall be provided at the open ends with the valves and/or any other means of closing on the piping fully open. For pipe insulation refer to Machinery Chapter, item 6.9 of the Specification.

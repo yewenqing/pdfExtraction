@@ -1,0 +1,9 @@
+METADATA: {'Header 1': 'CHAPTER 5 HULL PIPING', 'Header 2': '5.1 HULL PIPING', 'Header 3': '5.1.1 GENERAL'}
+--------------------
+Description of this section shall generally cover piping system located outside the engine room, unless otherwise specified.  
+Materials and dimensions of pipes, joints, valves including bolts, nuts, etc. shall be manufactured in accordance with the Chinese Industrial Standard, and/or the Builder’s Standard except otherwise specified hereinafter, the diameter of connecting flange and distance between flanges of valves shall be in accordance with ISO standard.  
+The other recognized industrial standards than mentioned above may be applied to meet the requirements of the Classification Society.  
+Valves, pipes and fittings mounted on its equipment shall be in accordance with the manufacturer’s standard.  
+All overboard discharges shall be kept clear of pilot ladder, accommodation ladder, draft marking, load line marking and lifeboat launching area as far as practical.  
+Piping shall be designed to allow for stress due to thermal expansion and deflection of the Vessel’s structure.  
+No ballast pipes or vents for ballast tanks shall pass through oil tanks or vice versa, in general.

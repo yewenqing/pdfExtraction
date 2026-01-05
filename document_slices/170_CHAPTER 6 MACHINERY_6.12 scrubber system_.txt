@@ -1,0 +1,16 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.12 scrubber system'}
+--------------------
+The SOX Scrubber system shall be of open loop type and shall be able to treat the exhaust gas from one (1) main engine and three (3) generator engines to achieve the 0.5%S ***(Option 0.1%S)*** equivalency to meet the “Global Sulphur Cap 2020”.  
+The open loop system is typically used in open waters where the alkalinity of the seawater is higher than 2,200μmol/l for effective scrubbing.  
+The SOx scrubber system is designed to remove sulphur oxides from main engine and generator engines exhaust gases. The removal efficiency for SOx of the open loop system is from max. 3.5%S to 0.5%S. ***(Option: to achieve the 0.1%S equivalency to meet the SECA requirement)***  
+One(1) common scrubber unit with a combine box for ME and three(3) sets of GEs.  
+M.G.O. will be used as stand-by for main engine and generator engines when SOx scrubber system is fault, and when local regulations prevent or limit the use of the open loop system due to low alkalinity or restricted discharge criteria, the MGO could be used.  
+Boiler exhaust gas pipe will not connect to SOx scrubber system.  
+The open loop system uses pure sea water for neutralizing the exhaust gas. The water is taken from sea chest, pumped to the scrubber tower and distributed to the active spray nozzles. Drain is led directly via sea water overboard discharge line, the discharge criteria set by the IMO guidelines should be met (the PH should be equals or above 6.5 at a distance 4 meters from the discharge point.  
+The open loop SOx scrubber system capacity is based on the following operational profile:  
+- M/E SMCR  
+- Two (2) sets G/E at 85% load  
+***The boiler is only connect to the scrubber tower, not enlarge the scrubber system’s capacity, and the boiler is only working in port.***  
+The backpressure limit for M/E and G/Es will be increased as per maker’s standard, the fuel oil consumption may suffer penalty as per maker’s calculation, no exhaust gas fan is provided for M/E and G/E in principle.  
+Continuous emission monitoring system and water monitoring unit shall be provided, the materials, accessories and fittings will be in accordance with Maker’s standard and requirement of Classification Society.  
+***The discharge pipes to be GRE and the last connection to the ship side should be duplex S32750***

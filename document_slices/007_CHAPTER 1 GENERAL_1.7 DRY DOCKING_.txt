@@ -1,0 +1,5 @@
+METADATA: {'Header 1': 'CHAPTER 1 GENERAL', 'Header 2': '1.7 DRY DOCKING'}
+--------------------
+In the event that the period between the launching and the delivery date of the Vessel is more than six (6) months, an underwater survey shall be carried out. The diving company should be certified by Class. If the condition of the underwater survey is acceptable by painting maker, and maker provide 60 months guarantee, then no dry docking will be carried out. Otherwise, docking and hull cleaning at Builder's cost and time is to be carried out. **The Paint maker must give a guarantee that vessel can remain 6 months in water prior delivery and 60 month Guarantee is applicable from date of delivery.**  
+.  
+If the period from launching to delivery exceed more than 8 months, the vessel will be dry docking.

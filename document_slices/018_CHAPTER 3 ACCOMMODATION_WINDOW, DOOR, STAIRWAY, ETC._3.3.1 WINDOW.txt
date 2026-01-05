@@ -1,0 +1,33 @@
+METADATA: {'Header 1': 'CHAPTER 3 ACCOMMODATION', 'Header 2': 'WINDOW, DOOR, STAIRWAY, ETC.', 'Header 3': '3.3.1 WINDOW'}
+--------------------
+The quantity of windows for cabins and rooms to be provided according to the following standard.  
+|  |  |
+| --- | --- |
+| Location | Number |
+| Captain class dayroom (one window size will be 800x700) | 2 |
+| Senior officer class dayroom | 2 |
+| Captain / Senior officer class bedroom,  Junior officer / Petty officer / Rating class cabin | 1 |
+| Crew’s mess room, Ship office | 3 |
+| Officer’s mess room, Gymnasium Recreation room , Meeting room, Hospital, Galley | 2 |
+| pantry | 1 |
+| Engine control room | 2 |  
+The size, shape and material of windows as shown in following table.  
+|  |  |  |  |
+| --- | --- | --- | --- |
+| Size(mm) | Shape | Material | Location |
+| 800 x 700 | Rectangular | Steel | Recreation room, mess rooms |
+| 450x630 | Rectangular | Steel | All living space, public space (except above), office space and catering space |
+| abt. \* 1,900 x 1,200  fixed type | Rectangular | Steel | Wheelhouse front wall |
+| abt. \* 1,500 x 1,200  fixed type | Rectangular | Steel | Wheelhouse aft and side wall |
+| abt. 1,200 x 650 | Rectangular | Steel | Engine control room |  
+\* Size and quantity of wheelhouse window may be adjusted in accordance with the wheelhouse arrangement in detail design stage.  
+No mosquito screen to be provided.  
+The glass for windows shall be of safety glass ***(tempered and or shatter proof)***. The frame of windows shall be of painted steel and welded to steel wall, in general. Coaming to be steel type. The glass retaining frame to be aluminum alloy. Steel window box to be fitted except that wheelhouse windows..  
+All opening type windows should be opened inward. Where two windows or three windows adjacent, only one to be of the opening type.  
+Center line height of windows to be about 1,500 mm from steel deck.  
+Cleaning stage or access way of about 600 mm width for wheelhouse front windows shall be provided. A door shall be provided for access from navigation bridge wing to cleaning stage respectively for port side and starboard.  
+Wheelhouse front windows shall be washed by spraying fresh water from the pipe outside the windows.  
+The sun screens of roller type to be fitted on front windows of wheelhouse.  
+***The ‘Blind Sector’ roller type to be fitted on Placement of chart table and radio station.***  
+Three (3) windows in front of wheel house shall be provided with electric heater.  
+Two (2) rotary clear view screens to be provided in front of wheel house window.

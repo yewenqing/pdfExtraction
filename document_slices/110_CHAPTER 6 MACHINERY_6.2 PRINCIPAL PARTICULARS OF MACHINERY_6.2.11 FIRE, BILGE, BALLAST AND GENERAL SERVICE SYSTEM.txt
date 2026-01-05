@@ -1,0 +1,70 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.2 PRINCIPAL PARTICULARS OF MACHINERY', 'Header 3': '6.2.11 FIRE, BILGE, BALLAST AND GENERAL SERVICE SYSTEM'}
+--------------------
+Fire, bilge & G.S. pump  
+No. of set : Two (2)  
+Type : M.D. vert. centrifugal with self-priming  
+Capacity : 240/120 m3/h  
+Total head : 0.4/0.9MPa  
+Emergency fire pump (To be located in bow thruster room)  
+No. of set : One (1)  
+Type : M.D. vert. centrifugal with self-priming  
+Capacity : 72 m3/h  
+Total head : 0.8 MPa  
+Ballast pump  
+No. of set : Two (2)  
+Type : M.D. vert. centrifugal with self-priming  
+Capacity : abt. 350m3/h  
+Total head : 0.32MPa  
+Ballast treatment plant  
+No. of set : One (1)  
+Type : Filtration + UV or electrolysis(USCG + IMO approved type)  
+Capacity : 350 m3/h  
+Anti-heeling pump  
+No. of set : One (1)  
+Type : M.D. reversible propeller type  
+Capacity : abt. 350 m3/h  
+Total head : 0.15 MPa  
+Ballast stripping eductor  
+No of set : One (1)  
+Capacity : 60 m3/h  
+Suction lift : 4 m WG  
+Discharge pressure : 0.10 MPa  
+Daily bilge pump  
+No. of set : One (1)  
+Type : M.D. Single screw  
+Capacity : 5 m3/h  
+Total press. : 0.35 MPa  
+Sludge pump  
+No. of set : One (1)  
+Type : M.D. Single screw  
+Working temperature : 80 deg.C  
+Capacity : 10 m3/h  
+Total pressure : 0.4 MPa  
+Oily bilge separator  
+No. of set : One (1)  
+Type : IMO approved type, to meet the requirement of Res. MEPC 107 (49), auto. discharge with pump, oil discharge content monitor, high ppm alarm and steam coil inside (or elec. heating according to Maker’s standard).  
+Capacity : 5 m3/h, 15 ppm  
+***Note: Oil Bilge separator must be provided with ‘No Flow’ alarm and feed from GPS for recording position during discharge.***  
+Chain locker bilge eductor  
+No. of set : One (1)  
+Capacity : 20 m3/h  
+Suction lift : 5 m WG  
+Discharge pressure : 0.1 MPa  
+Bow thruster & emergency fire pump room bilge eductor  
+No. of set : One (1)  
+Capacity : 10 m3/h  
+Suction lift : 5 m WG  
+Discharge pressure : 0.1 Mpa  
+Fixed water mist system  
+No. of set : One (1)  
+Capacity : As per Maker’s recommendation  
+Dangerous goods bilge eductor  
+No. of set : One (1)  
+Capacity : 25 m3/h  
+Suction lift : 5 m WG  
+Discharge pressure : 0.17 MPa  
+Clean **Drain Tank** pump  
+No. of set : One (1)  
+Type : M.D. centrifugal with self-priming  
+Capacity : abt. 4 m3/h  
+Total head : 0.25 MPa

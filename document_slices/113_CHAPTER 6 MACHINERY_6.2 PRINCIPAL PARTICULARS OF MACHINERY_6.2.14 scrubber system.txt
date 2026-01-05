@@ -1,0 +1,16 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.2 PRINCIPAL PARTICULARS OF MACHINERY', 'Header 3': '6.2.14 scrubber system'}
+--------------------
+Scrubber  
+No. of set : One (1)  
+Type : U-Type, Open loop  
+Capacity : 1x ME with 100%SMCR + 2 x AE with each 85%MCR  
+Maximum exhaust gas back  
+pressure along scrubber(mmWC) :150  
+Material : According to the maker’s standard  
+Minimum alkalinity of sea water : 2200μmol/l  
+Sea water pumps  
+No. of set : Three (3) (two working ,one standby)  
+Capacity : According to the maker’s standard.  
+Seal air fan  
+No. of set : Two(2) (One for standby)  
+Capacity :According to the maker’s standard

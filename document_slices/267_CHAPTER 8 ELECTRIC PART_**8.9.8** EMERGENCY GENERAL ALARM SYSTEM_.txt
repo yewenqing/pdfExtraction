@@ -1,0 +1,12 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.9.8** EMERGENCY GENERAL ALARM SYSTEM'}
+--------------------
+An electrically operated sounding alarm system consisting of bells and sirens, as appropriate, shall be provided with general alarm signals which shall be clearly audible in all conditions throughout the entire accommodation, navigating bridge, machinery space, and normal crew working spaces of the vessel.  
+The system with signal unit shall be used for sounding fire and general emergency alarm signal.  
+The system may be manually operated call points installed at the following locations:  
+* W/H control console
+* Fire control station
+* Embarkation  
+The general emergency alarm may be interface with public address system and in accordance with the Class requirement.  
+For the engine room and steering gear room, the light signal column shall be used for the alarm device. For main deck area, ship’s horns shall be used for this purpose.  
+The general emergency alarm may be interfaced with public address system also.  
+***“ Ref. SOLAS Ch. III Reg. 6 Clause 4.2”***

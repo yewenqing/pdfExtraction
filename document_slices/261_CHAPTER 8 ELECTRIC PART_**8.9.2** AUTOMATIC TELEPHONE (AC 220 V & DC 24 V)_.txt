@@ -1,0 +1,15 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.9.2** AUTOMATIC TELEPHONE (AC 220 V & DC 24 V)'}
+--------------------
+One (1) set of forty-eight (48) line automatic telephone system shall be provided. The number and location of telephone to be properly corrected according to the final general arrangement without capacity upgraded; Parallel connection shall be adopted for the engine room, workshop, and ECR.  
+Automatic telephone to be interfaced with Inmarsat Fleet broadband system for incoming and outgoing calls as per Maker’s standard.  
+The telephone sets shall be arranged in crew’s room, offices, public spaces, all control station, hospital, galley, steering gear room and other spaces where necessary for operation..  
+The telephone sets shall be adopted desk type, wall type or flush type according to their installed location.  
+The general telephone number list shall be supplied by builder and located beside each phone (paper with plastic coated).  
+The automatic telephone system shall be connected to the public addresser system to enable paging announcement spoken from wheelhouse, captain’s cabin, chief engineer’s cabin;  
+One (1) telephone socket shall be provided at each side on upper deck to connect with shore telephone line. The automatic telephone system shall be capable of receiving call from shore by this socket.  
+The priority function for the following sets shall be provided:  
+* Wheelhouse
+* Captain cabin
+* Engine control room
+* **Fire control station**  
+**Automatic telephone to be interfaced with satellite VSAT for incoming and outgoing calls as per Maker standard. Extensions that can make and receive VSAT calls shall be as per instructions during plan approval.**

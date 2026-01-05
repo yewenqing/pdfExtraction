@@ -1,0 +1,3 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.3 MAIN ENGINE', 'Header 3': '6.3.3 INSTALLATION'}
+--------------------
+Epoxy resin chock shall be used for installation of the main engine.

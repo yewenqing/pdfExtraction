@@ -1,0 +1,17 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.1 GENERAL', 'Header 3': '6.1.3 FUEL OIL'}
+--------------------
+HFO and LSHFO/ULSFO and MGO shall be on board as fuel.  
+The main engine shall be capable of burning HFO of up to viscosity of 700cSt/50˚C, max. density of 1,010kg/m3 at 15˚C, and MGO shall be used prior stopping for long time only.  
+The fuel oil piping system and equipment shall be designed with fuel oil viscosity of **380** cSt/50˚C.  
+The main generator engines shall burn HFO and LSHFO/ULSFOsame as for main engine including the running condition of start, stop, MGO will be used when the engine is expected to be inactive for a prolonged period with cold engine.  
+The emergency diesel generator shall be designed to burn MGO.  
+Same heavy fuel oil used in the main engine shall be used for oil fired section of the composite boiler, and cold starting of the boiler shall burn MGO.  
+However, when the ship is navigating to enter into a SOxemission control area, the burning fuel oil for engines and boiler shall be changed over to MGO or ULSFO (sulphur content 0.1 % m/m).  
+The change over from HFO to LSHFO/ULSFO or MGO or vice versa will be automatic type.  
+MGO cooler will be cooled by LT cooling fresh water.  
+MGO will not be purified, and MDO will be used instead of MGO for MGO system function test.  
+Fuel standard as follow:  
+HFO: ISO 8217-2017(E), Class RMK380, Viscosity is 380 cSt/50oC (Sulfur content < 3.5% m/m), density 1,010 kg/m3 at 15 oC.  
+MGO: ISO 8217-2017(E), Class DMZ, Viscosity is 3~6 cSt/40oC (Sulfur content <0.1% m/m)  
+LSHFO (Sulfur content < 0.5% m/m, viscosity 10~70 cSt/50oC) is new hybrid fuel type that don’t fit into the ISO 8217 standard, and will be based on the available specification data from the fuel supplier.  
+ULSFO (Sulfur content < 0.1% m/m, viscosity 10~60 cSt/50oC) is new hybrid fuel type that don’t fit into the ISO 8217 standard, and will be based on the available specification data from the fuel supplier.

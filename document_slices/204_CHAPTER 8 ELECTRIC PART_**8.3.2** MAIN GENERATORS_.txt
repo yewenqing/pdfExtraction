@@ -1,0 +1,37 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.3.2** MAIN GENERATORS'}
+--------------------
+|  |  |
+| --- | --- |
+| Type: | Drip-proof, self-ventilated type with air filter, and the air filter as per Maker’s standard |
+| Output: | abt. 1,250 kW x 3 sets (DG) |
+| Voltage: | AC 450 V |
+| Phase: | 3 PH |
+| Frequency: | 60 Hz |
+| Power factor: | 0.8 (lagging) |
+| Rating: | Continuous at full load |
+| Revolution: | 900 r/min or as per Maker’s standard； |
+| Insulation: | Class “F” |
+| Exciting system: | Brushless, self-excitation |
+| Protection: | With differential protection function |
+| Enclosure: | IP 23 |  
+Note:  
+Protection grade IP 23 of main generators will be suitable in respect of water based fire- fighting system and will be certified by Classification Society.  
+Other particulars and construction of the main generators shall be in accordance with manufacturers' standard.  
+Each main generator shall have a space heater within the generator frame to prevent the condensation of moisture while the generator is stopped.  
+An automatic voltage regulator for each main generator shall be provided and located in MSB.  
+The main generator bearing type and lubrication function shall be manufacturers' standard. Temperature sensor shall be provided for bearing of the generator. Two temperature sensors shall be fitted in the stator winding of each phase of generators for alarm, one for working and the other for spare.  
+The main generators shall be capable of parallel operation. However, main generators neither to be run in parallel with emergency generator nor the shore source.  
+Each main generator shall be used as follows:  
+|  |  |  |
+| --- | --- | --- |
+|  | Without reefer container | With reefer containers |
+| Normal sea going | DG x 1 | DG x 2 |
+| Arrival or departure with bow thruster | DG x 2 | DG x 3 |
+| Cargo handling | DG x 1 | DG x 3 |
+| Rest in port | DG x 1 | DG x 2 |  
+The reefer container load for electric power balance may be considered as follows:  
+Total 220 sets of reefer containers socket(CEE type, 32A) on deck .  
+The reefer containers power demand for electric power balance shall be determined as follows:(4.5 kW/FEU x 220 RFEU = 990 kW.)  
+If bow thruster cannot be operated with ship's loads including reefer containers, some of reefer container loads to be off manually during bow thruster operation at port in/out condition.  
+If dangerous goods loaded on deck, the feeder breaker in main switch board must be locked and take off power source of reefer containers by locking device at ship office.  
+***Proper procedure to be provided. System must then automatically block start of Bow Thruster till load is brought down to acceptable limits.***.

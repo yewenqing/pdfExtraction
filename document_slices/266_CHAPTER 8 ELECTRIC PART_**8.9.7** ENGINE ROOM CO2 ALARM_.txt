@@ -1,0 +1,5 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.9.7** ENGINE ROOM CO2 ALARM'}
+--------------------
+One (1) set of engine room CO2 alarm system shall be provided for warning before CO2 extinguishing gas flooding into the engine room, and shall consist of an activated switch in the CO2 room, some horns with rotating lamp in engine room (signal light columns) and bells with lamp in engine control room.  
+**Engine room CO2 alarm sound shall be distinguished separately. The CO2 alarm is to be sent to AMS and VDR (direct to VDR).**  
+**The fire resistant type cable should be used in this system.**

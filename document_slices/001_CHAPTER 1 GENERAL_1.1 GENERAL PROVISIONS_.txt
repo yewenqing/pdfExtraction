@@ -1,0 +1,136 @@
+METADATA: {'Header 1': 'CHAPTER 1 GENERAL', 'Header 2': '1.1 GENERAL PROVISIONS'}
+--------------------
+1.1.1 GENERAL  
+It is the intent of this Specification and accompanying plan(s) to describe and set forth the design, performance, capacities, construction, equipment and material required for the construction of a Container Vessel (hereinafter called the “Vessel”).  
+Following accompanying plan(s) shall form an integral part of this Specification:  
+|  |  |  |
+| --- | --- | --- |
+|  | General Arrangement Plan | Drawing No. HP4102-100-04 |
+|  | Midship Section Plan | Drawing No. HP4102-110-03 |
+|  | Maker's List No.GW4001-014-03 | Drawing No. HP4102-014-03 |  
+This Specification with above mentioned accompanying plans shall form an integral part of the Building Contract of the Vessel.  
+Details in design, construction, installation, inspection, test and workmanship not covered by this Specification and the accompanying plan(s) shall be performed under the working plans and Builder’s practice. **List of Builder’s standards and practices to be submitted to the Buyer for reference at the time of plan approval.**  
+The Builder shall furnish the Vessel with all items required by the Rules and Regulations as specified in section 3.3 “Rules and Regulations” and 3.4 “Guidelines and Recommendations”, except items specifically stated herein as shall be furnished and supplied by the Buyer.  
+Any items repeated by mentioning twice or more in this Specification shall be supplied and/or applied only once. Any items, which are not called for explicitly in this Specification, shall not be furnished nor supplied by the Builder. Any items missing but required by Classification Society or Regulatory Bodies concerned which set force at the date of Contract signing, shall be supplied and/or equipped by the Builder.  
+Any requirement of the Buyer, which is in excess of the requirements of Rules and Regulations as specified in Section 3.3 “Rules and Regulations” and 3.4 “Guidelines and Recommendations” and/or the content of this Specification, shall be subject to the adjustment to the Contract price, scheduled delivery date, contract speed, deadweight, homogeneous intake and any other items which may be affected.  
+If any inconsistency is found between the Building Contract and this Specification and/or this Specification and accompanying plans, the former shall prevail in any case.  
+The description in CHAPTER 1 “General” shall be applied to all parts of this Specification, whereas in the other parts the descriptions shall be applied the respective parts, if not stated otherwise. In the event of any conflict or inconsistency between the parts of this Specification, the hull part shall prevail in respect of hull items, the outfitting part shall prevail in respect of outfitting items, the machinery part shall prevail in respect of machinery items and the electrical part shall prevail in respect of electrical items.  
+In the event of any inconsistency between the description in the Specification and Rules and/or Regulations listed in the Specification, Rules and/or Regulations shall prevail.  
+If during approval of plans, both parties agree to a design which differs from the Specification, it is understood that terms in the Specification concerning these alterations shall be no longer applicable, and consequently in these cases the approved drawings shall be supplementary to the Specification.  
+Any alterations of Rules and Regulations as specified in Part 1, Section 3.3 and Section 3.4 of this Specification coming into effect between the date of Contract signing and ship’s delivery may be carried out subject to adjustment to the Contract price, Contract guaranteed technical data (Speed, Deadweight, Homogeneous intake, etc.), delivery date and any other item(s) which may be affected.  
+Any amendments and/or modifications in this Specification and/or Contract Plan(s) to be treated similar to above.  
+If the Buyer desires to apply the said amendment and/or modification to the Vessel, the Buyer will inform the Builder in written document, and the Builder shall submit a written document about their effect on the Vessel's Contract price, Contract guaranteed technical data (Speed, Deadweight, Homogeneous intake, etc.), delivery date and any other item(s), which may affect the Contract.  
+The amendments and/or modifications shall come into effect after agreement has been reached between the Buyer and the Builder and a written consent has been signed between both parties.  
+Amendments and/or modifications shall be recorded in a memorandum or a written document signed by the Buyer and the Builder. These documents shall be a supplement to the Contract Specification.  
+Whenever the terms "or equal" or “or equivalent” is used after a brand or a type of machinery equipment or component, the term "or equal" or “or equivalent” means that the substitute shall be of equivalent standard and quality and should not affect the contracted performance or compliance of the revised system. The Buyer must agree to such a change.  
+Wherever the terms such as “or”, “and/or”, “similar”, “where necessary”, “if any”, “may” and other similar expressions are mentioned in this Specification, application of alternative item(s) shall be respected to opinion of the Builder. **And the result will be**  
+**informed to owner.**  
+Unless otherwise stipulated by the Contract and/or specifically described in this Specification, all figures stated in this Specification shall be understood as approximate ones and determined in accordance with the design development except those which are of countable nature.  
+Spare Parts, tools and accessories shall be furnished as per rules of Classification Society and Regulatory Bodies concerned and in accordance with the Makers’ normal standard or as listed throughout these Specifications. Any additional spares required by the Buyer shall be supplied by the Builder on the Buyer’s account unless otherwise agreed or stated herein.  
+Spare parts, Tools and accessories shall be properly protected and stored in a way which guides easy access and control depending on its type and size. However, heavy components of main engine to be arranged under overhead crane working range**.** Steel cabinets, shelves and drawers shall be used for storing spare parts in accordance with the Builder’s practice and recommendations of the Makers.  
+During the tests and trials, the Builder may use some of the supplied spare parts, tools and accessories to the Vessel if necessary subject to Buyer’s approval, and the Builder shall furnish them back to the Vessel upon ship’s delivery **if deemed critical by Buyers*.***  
+The Builder may make changes and improvements to the Specification, if found necessary in good condition, provided that the Builder shall first obtain the Buyer's approval which shall not be unreasonably withheld.  
+1.1.2 design AMBIENT TEMPERATURE  
+If not otherwise stated, the equipment and machinery to be installed and operated in accordance with following ambient conditions:  
+|  |  |  |
+| --- | --- | --- |
+| Outside air temperature | –19oC ~ + 35oC | |
+| Sea Water temperature | 0oC ~ + 32oC | |
+| Reference conditions for machinery equipment: | Max. air temperature in engine room: + 45oC  L.T. cooling F.W. temperature: + 36oC  Barometric pressure: 0.1 MPa  Relative humidity: 60% | |
+| Reference condition for HVAC – plant for accommodation: | Summer cycle  Outside atmosphere:  Inside atmosphere:  Winter cycle  Outside atmosphere:  Inside atmosphere: | +35oC;70% R.H.  +27oC; 50% R.H.  –20oC; 50% R.H.  +20oC; 50% R.H. |  
+Note:  
+1.R.H.: Relative humidity  
+2. For the materials of hull steel of structures exposed to low air temperatures shall be based on the design temperature tD (the lowest mean daily average air temperature in the area of operation) of -10℃. (refer to IACS UR S6) ***(Rev 9 July 2018)***  
+1.1.3 MATERIAL AND WORKMANSHIP  
+Materials supplied and used for construction of the Vessel shall be of such quality as approved by the Classification Society where required.  
+Ordering of materials, machinery and equipment shall comply with this Specification and Maker List.  
+**All structural steel used for the construction of the vessel including forgings and castings to be of the shipbuilding and marine engineering quality, tested, inspected and certified as required by the Classification Society. In addition, steel plates certificates to be provided to the Site Team before inspection *by group.******the first group will submit before steel cut.***  
+For any materials, machinery and equipment specified in the Maker List, selection of the  
+final Makers shall be as per the signed Maker List.. For other materials, machinery and equipment not specified in the Maker List, the Builder shall have the right to decide the Maker and/or supplier according to Builder’s own knowledge and experience.  
+Manufacturer’s standard type, size and material of machinery, equipment and fittings shall be adopted unless otherwise described in this Specification.  
+The manufacturer or Maker of equipment has the right to improve or update the production after the contract has been made between the Maker and the Builder which shall not be unreasonably withheld by the Buyer.  
+The Builder may employ sub-contractors for carrying out works of the Vessel at the  
+Builder’s responsibility and the Builder shall guarantee the work / quality of subcontractors.  
+If any materials and equipment described in this Specification is not available, the Builder shall substitute equivalent materials and equipment capable of satisfying the  
+requirements of Classification Society and relevant Regulations and subject to prior  
+acceptance of the Buyer.  
+If any of the specific description for the machinery or equipment in this Specification is not consistent with the finally selected manufacturer’s specifications, such description shall be readily corrected to follow the manufacturer’s specification.  
+Wherever stainless steel is mentioned in the specifications and unless otherwise specified,  
+this means quality of SUS304, or corresponding Maker’s standard may be applied. **However, SS 301 shall not be used. In case of maker standard, quality shall be SUS 304 *or above*.**  
+Workmanship shall be carried out in accordance with the descriptions in this Specification, China Shipbuilding Quality Standard (CSQS) (GB/T34000-2016) and Builder's Engineering Standard.  
+Asbestos, Refrigerant (R 12 / R 22), HALON, Lead-based paint and Tin-based antifouling paint shall not be used.  
+All wood to be well seasoned and free from defect.  
+1.1.4 STANDARD  
+The following standards shall be applied to the construction of the Vessel.  
+1) Chinese Industrial Standard (GB, GB/T, YB)  
+2) Chinese Shipbuilding Standard (CB, CB/T, CBM)  
+3) China Shipbuilding Quality Standard (CSQS)(GB/T34000-2016)  
+4) Builder's Engineering Standard and Builder's standard practice or Manufacturer’s standards unless otherwise described in the Specification.  
+5) ISO standard  
+6) IACS Rec.47 Shipbuilding and Repair Quality Standard(Part A)  
+7) JIS or DIN standard  
+The connection dimension of flange shall be in accordance with ISO standard except those flange attached on the imported equipment, which shall be as per Maker's standard.  
+The grease nipples shall be of flat type (CB/T 3762-1996 eqv ISO7824-1986, Material: brass) or the Maker's standard which is provided by the equipment supplier as a package.  
+In addition to above, other standards may be applied for the items or equipment which is described hereinafter in this Specification except those grease nipples attached on the imported equipment, which will be as per Maker's standard.  
+1.1.5 MEASUREMENT UNIT AND LANGUAGE  
+Metric system shall be adopted for design and construction of hull, machinery and equipment unless specially specified in the Specification.  
+All measuring units such as power, pressure gauge, thermometer, volume gauge, and tank scales, etc., shall be of metric system. However, some conventional units are also to substitute the corresponding SI units or metric units as common customs in shipbuilding and shipping metric threads to be generally applied to the Vessel, however, the British measurement also may be applied where ISO is not adopted. For pressure, MPa or bar shall be used throughout**.**  
+Types, sizes and materials of fittings, equipment and machinery to be in accordance with ISO or equivalent standard. Where no applicable ISO or national standard exists, the Builder's standard and/or Manufacturer's standard may be used.  
+The draught of the Vessel specified in this Specification shall be of moulded figure unless specifically stated.  
+All necessary documents and drawings, calculations, instruction manuals, etc. to be written in English or in both English and other language (English part shall prevail) for approval by the Buyer, Classification Society and Authorities. All final plans and drawings shall be in English or in both English and other language.  
+All plans, booklets, name plates, caution/identification plates and whatever documents required for implementation of the Specification shall be in English.  
+If any language other than English is required by any reason whatever, the text of translation shall be provided by the Buyer.  
+1.1.6 BUYER'S SUPPLY  
+Following items including their accessories and spares to be furnished and supplied by the Buyer at Buyer’s own expense, and installed on the Vessel by the Builder, at the time designated by the Builder to meet the Builder’s construction schedule of the Vessel.  
+The Buyer shall furnish the necessary specifications, plans instruction books, manuals, test reports, test certificates and the manufacturer’s service engineer(s) etc. of the listed items as required by the Builder, which shall form an integral part of the Buyer’s supplies.  
+The supervision fees related to final commissioning, inspection and certifications of the Buyer’s supply items shall be paid by the Buyer. The Buyer shall be responsible for the adjustment, inspection and certifications of the Buyer’s supply items with Builder’s assistance.  
+The Builder shall be responsible for storing and handling of Owner's supply items after delivery to the Builder's yard and shall store those items in the Vessel.  
+The Buyer’s supply items shall be as follows:  
+1. Charts in general and all nautical books (nautical almanacs, international signal books, ITU books, register tide table, etc.).
+2. Electronic charts for ECDIS.
+3. Flags, signals and nautical instruments in excess of those specified in the Specification.
+4. Hobby equipment such as T.V, broadcasting video, etc. in excess of those specified in Specification.
+5. Steel wire, mooring ropes, towing rope and ETA fittings in excess of ***Class Rules and Flag Authority and those specified in*** the Building Specification.
+6. Personal computers and printers with peripheral devices for computer network system. Computer network cables and sockets to be provided by Builder.
+7. Painting and pictures including frames and other decorations. (Builder to frame and position).
+8. Suez Canal searchlight excluding bridge wing search light (the foundation, power socket and manual operated davit for Suez Canal search light shall be installed by the Builder).
+9. All office machine including copy machine, fax machine and stationery including pencils, rulers, papers, etc.
+10. All gymnastic apparatus.
+11. All medicine and medical equipment.
+12. Galley and pantry utensils including pans, cutlery, crockery, and glassware.
+13. Linen including blanket, carpets, bed sheets, pillows, towels and table cloth, etc.
+14. Bedding except mattresses.
+15. Brooms, brushes, vacuum cleaners, and waste baskets, etc. for accommodation and all portable hoses and clean devices not mentioned in the Specification.
+16. Boatswain’s and carpenter’s tools and inventory other than those specified in the Specification.
+17. Fuel oil (HFO,LSHFO / ULSFO/MGO) for actual service after delivery at Builder yard.
+18. Lubrication oil, greases and operating oils of all machinery and equipment for actual service after ship’s delivery at Builder’s shipyard. However lubrication oil, greases and operating oils shall be purchased by the Buyer on behalf of the Builder prior to the tests and trials, and the Builder shall calculate and pay back the cost based on the quantity consumed during the tests and trials in accordance with the Contract.
+19. Consumable stores including sanitary and all chandlery (soap, etc.).
+20. Boiler feed water test kit and chemical compounds for the treatment of feed water and cooling fresh water. And test kit for fuel oil and lubrication oil, hydraulic oil.
+21. Cable for power feeding circuits between reefer container and receptacle.
+22. Container loose fittings
+23. Container spreader, if necessary.
+24. Garbage compactor.
+25. Cable for electrical power shore connection.
+26. Test kit for Class notation on shaft condition monitoring.
+27. Portable atmosphere testing instrument for measuring concentration of oxygen, flammable gases or vapors, hydrogen sulphide and carbon monoxide.
+28. Portable toilet, potable water, cable and antenna of the Iridium radio for the anti-piracy citadel.
+29. Fire ropes for Suez Canal
+30. Ship’s local area network
+31. All hoses, etc., other than those required by the Rules, or mentioned in these specifications.
+32. All other spares, store and equipment in excess of Rule guidelines, Maker’s standard and those listed in the Specification.
+33. VSAT equipment (Builder to install).  
+The Buyer to supply following documents approved by Classification Society with the Builder’s assistance:  
+1. Training Manual
+2. Fire fighting fixed and portable system manual and maintenance manual, and train manual
+3. -Garbage Management Plan and Garbage Record Book
+4. - Safety Management Certificate (SMC) and Document of Compliance (DOC) for deck, engine and cabin stores supplied by the Buyer.
+5. - Minimum Safe Manning Document
+6. - Container Securing Manual(CSM)
+7. Ship Energy Efficiency Management Plan (SEEMP) (Builder to assist Buyer with necessary plans)
+8. International Ship Security Certificate (ISSC) and Ship Security Plan (SSP) covering the requirement of ISPS Code except Automatic Identification System (AIS), ship security alert System (SSAS) and Ship’s Identification number (IMO number)
+9. - Fuel Oil Changeover Procedure and Logbook
+10. - Ship-specific Plans and Procedures Recovery Persons from the Water
+11. - Pilot Card
+12. - Maneuvering Booklet
+13. - Muster List  
+Emergency Towing Procedure and Maneuvering Booklet, Shipboard Oil Pollution Emergency Plan (SOPEP), Inventory of Hazardous Materials (IHM) to be provided by builder with Buyer’s assistance. The buyer provided a sample.

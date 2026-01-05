@@ -1,0 +1,190 @@
+METADATA: {'Header 1': 'CHAPTER 7 AUTOMATION AND REMOTE CONTROL', 'Header 2': '**7.2.14** Ballast Control Station'}
+--------------------
+Entire system shall be based one (1) pc of PC workstation with 24 inch TFT in engine control room, one (1) pc of PC workstation in ship office.  
+The following system shall be provided in above monitor:  
+- Ballast control system  
+- Fuel oil filling control system (only indication)  
+- Valves remote control system  
+- Level and draught gauging system  
+- Bilge control system.  
+All measured data in level and draught gauging system shall be transmitted to loading computer via interface.  
+1. Ballast system  
+Display of mimic diagram of the following:  
+- Valve control for remote control valves and open/shut indication  
+- Start/stop control for ballast pumps  
+- Running indication for ballast pumps  
+- Tank level and content display (water ballast tanks and fresh water tanks)  
+- Ship's draught display  
+2. Fuel oil filling control system  
+The fuel oil filling system shall be remote controlled from engine control room as follows:  
+- Remote control of HFO/LSHFO transfer pump  
+- Running indication for HFO/LSHFOtransfer pump and MDO/MGO transfer pump  
+- Remote control valves in fuel oil filling system and open/shut indication  
+- Remote level measurement in fuel oil tanks and alarm of overflow and filling up  
+Start / stop push buttons shall be installed near the HFO/LSHFO transfer pump, MDO/MGO transfer pump separately.  
+Stop push-button for HFO/LSHFOtransfer pump in bunker station to be provided. The auto start/stop shall be applied to HFO/LSHFO settling tank by high/low level switches.  
+3. Valves remote control system  
+The valve remote control system shall be of pneumatic type.  
+The valve relay cabinet(s) shall be installed in engine room and cargo hold.  
+All remotely controlled valves shall have an emergency operation facility.  
+4. Level and draught gauging system  
+The system shall consist of electronic pressure transmitter type.  
+Installation of tank remote level measuring able to display tank volumes shall be provided in:  
+- F.O. tanks and L.O. tank in E/R (refer to part VII-Machinery, paragraph 2-17)  
+- Ballast tanks  
+- F.W. tanks  
+5. Bilge control system  
+The bilge control system shall ensure:  
+- Opening and closing of bilge system valves outside the engine room  
+- Alarm in the bilge wells of cargo hold when filled up  
+6. Anti-heeling system  
+One (1) set of separated anti heeling system shall be provided; the common alarm shall be connected to AMS.  
+The anti-heeling system includes as follows:  
+* Anti-heeling pump
+* Heeling sensor and control unit in ship office
+* Anti-heeling control valves  
+Control functions and indications shall be provided as bellows:  
+* Start/Stop function for automatically heel adjusting
+* Start/Stop function with running indication for heeling pump
+* Lower level alarm and stop for heeling pump  
+**CHAPTER 8**  
+**ELECTRIC**  
+Version:A  
+Key words: Breadth 27.5m, Gearless, 6S60ME-C10.5 Tier II, 220 Reefer Plugs, Open loop scrubber  
+CONTENT  
+[CHAPTER 8 ELECTRIC PART 6](#_Toc49257632)  
+[8.1 GENERAL 6](#_Toc49257633)  
+[8.1.1. GENERAL 6](#_Toc49257634)  
+[8.1.2. ARRANGEMENT OF EQUIPMENT 7](#_Toc49257635)  
+[8.1.3. NAME PLATE 7](#_Toc49257636)  
+[8.1.4. PAINTING COLORS 8](#_Toc49257637)  
+[8.1.5. MARK AND ARRANGEMENT OF BUS BAR 8](#_Toc49257638)  
+[8.1.6. EQUIPMENT AND MATERIAL 9](#_Toc49257639)  
+[8.2. WIRING 10](#_Toc49257640)  
+[8.2.1. WIRING SYSTEM 10](#_Toc49257641)  
+[8.2.2. CABLE APPLICATION 11](#_Toc49257642)  
+[8.2.3. CABLE INSTALLATION 12](#_Toc49257643)  
+[8.3. PRIMARY SOURCE 13](#_Toc49257644)  
+[8.3.1. GENERAL 13](#_Toc49257645)  
+[8.3.2. MAIN GENERATORS 13](#_Toc49257646)  
+[8.3.3. EMERGENCY GENERATOR 14](#_Toc49257647)  
+[8.3.4. MAIN SWITCHBOARD 15](#_Toc49257648)  
+[8.3.4.1. General 15](#_Toc49257649)  
+[8.3.4.2. Generator control panel 17](#_Toc49257650)  
+[8.3.4.3. Synchronizing Panel 17](#_Toc49257651)  
+[8.3.4.4. AC440 V Feeder Panel 18](#_Toc49257652)  
+[8.3.4.5. AC 220 V Feeder Panel 18](#_Toc49257653)  
+[8.3.4.6. Bow Thruster Feeder Panel 19](#_Toc49257654)  
+[8.3.4.7. Group Start Panels 19](#_Toc49257655)  
+[8.3.5. EMERGENCY SWITCHBOARD 19](#_Toc49257656)  
+[8.3.5.1. Generator Panel 20](#_Toc49257657)  
+[8.3.5.2. AC 440 V Feeder Panel /AC220 V Feeder Panel 20](#_Toc49257658)  
+[8.3.6. SHORE CONNECTION BOX 20](#_Toc49257659)  
+[8.3.7. TEST PANEL 21](#_Toc49257660)  
+[8.4. SECONDARY SOURCE 22](#_Toc49257661)  
+[8.4.1. TRANSFORMERS 22](#_Toc49257662)  
+[8.4.2. STORAGE BATTERIES AND BATTERY CHARGING BOARD 23](#_Toc49257663)  
+[8.4.2.1. For General Use and for Engine Room Area 23](#_Toc49257664)  
+[8.4.2.2. Other 23](#_Toc49257665)  
+[8.5. DISTRIBUTION SYSTEM 24](#_Toc49257666)  
+[8.5.1. ELECTRIC DISTRIBUTION 24](#_Toc49257667)  
+[8.5.2. SECTION AND DISTRIBUTION BOARDS 24](#_Toc49257668)  
+[8.5.3. CONNECTION BOXES AND BRANCH BOXES 25](#_Toc49257669)  
+[8.5.4. RECEPTACLE FOR REEFER CONTAINER 25](#_Toc49257670)  
+[8.6. ELECTRIC MOTOR AND CONTROL GEAR 25](#_Toc49257671)  
+[8.6.1. GENERAL 25](#_Toc49257672)  
+[8.6.2. MOTORS 26](#_Toc49257673)  
+[8.6.2.1. General 26](#_Toc49257674)  
+[8.6.2.2. Insulation and terminal box 26](#_Toc49257675)  
+[8.6.3. STARTERS 26](#_Toc49257676)  
+[8.6.3.1. General 26](#_Toc49257677)  
+[8.6.3.2. Ammeters and Running Hour Counters 27](#_Toc49257678)  
+[8.6.3.3. Emergency Stop Device 27](#_Toc49257679)  
+[8.6.3.4. Steering Gear Motors 28](#_Toc49257680)  
+[8.6.3.5. Bow Thruster Motor and Control 28](#_Toc49257681)  
+[8.6.3.6. Cargo Hold Fans Control 29](#_Toc49257682)  
+[8.6.3.7. Preferential Tripping Arrangement 29](#_Toc49257683)  
+[8.6.4. ELECTRIC WARMER FOR ROOM (AC 220 V) 30](#_Toc49257684)  
+[8.7. LIGHTING SYSTEM 30](#_Toc49257685)  
+[8.7.1. GENERAL 30](#_Toc49257686)  
+[8.7.2. LIGHTING – ACCOMMODATION AREA AND PASSAGE 32](#_Toc49257687)  
+[8.7.3. LIGHTING – MACHINERY SPACE 33](#_Toc49257688)  
+[8.7.4. LIGHTING – WHEELHOUSE 33](#_Toc49257689)  
+[8.7.5. LIGHTING – STORE 34](#_Toc49257690)  
+[8.7.6. LIGHTING – CARGO HOLD 34](#_Toc49257691)  
+[8.7.7. OUTDOOR FLOOD LIGHTING 34](#_Toc49257692)  
+[8.7.8. PORTABLE LAMPS 35](#_Toc49257693)  
+[8.7.9. CONTROL OF LIGHTING 35](#_Toc49257694)  
+[8.7.10. SWITCHES 36](#_Toc49257695)  
+[8.7.11. RECEPTACLES 36](#_Toc49257696)  
+[8.7.11.1. Non-water-proof Type Receptacles 36](#_Toc49257697)  
+[8.7.11.2. Water-proof Type Receptacles 36](#_Toc49257698)  
+[8.8. NAVIGATION LIGHTS AND SIGNAL LIGHTS 37](#_Toc49257699)  
+[8.8.1. NAVIGATION LIGHTS 37](#_Toc49257700)  
+[8.8.1.1. Anchor Lights: (AC 220 V) 37](#_Toc49257701)  
+[8.8.1.2. "Not-Under-Command" Lights: (AC 220 V) 37](#_Toc49257702)  
+[8.8.1.3. Manoeuvring/Morse Signal Lamp: (AC 220 V) 37](#_Toc49257703)  
+[8.8.2. Signal lights 38](#_Toc49257704)  
+[8.8.2.1. Daylight Signal Lamp (DC 24 V) 38](#_Toc49257705)  
+[8.8.2.2. SUEZ CANAL SIGNAL LIGHTS & SEARCHLIGHTS (AC 220 V) 38](#_Toc49257706)  
+[8.8.2.3. SUEZ CANAL STERN LIGHT (AC 220 V) 38](#_Toc49257707)  
+[8.8.2.4. DANGEROUS CARGO LOADING LIGHT (AC 220 V) 38](#_Toc49257708)  
+[8.8.2.5. Panama CANAL Stering LIGHT (AC 220 V) 38](#_Toc49257709)  
+[8.8.2.6. Singapore strait lighT (AC 220 V) 38](#_Toc49257710)  
+[8.9. INTERIOR COMMUNICATION, ALARM AND MEASURING SYSTEM 39](#_Toc49257711)  
+[8.9.1. 8.9.1 SOUND POWER TELEPHONE 39](#_Toc49257712)  
+[8.9.2. AUTOMATIC TELEPHONE (AC 220 V & DC 24 V) 39](#_Toc49257713)  
+[8.9.3. HOSPITAL CALL SYSTEM (DC 24 V) 40](#_Toc49257714)  
+[8.9.4. ENGINEER CALL SYSTEM (AC 220 V) 40](#_Toc49257715)  
+[8.9.5. Bridge navigation WATCH alarm SYSTEM（BNWAS） 40](#_Toc49257716)  
+[8.9.6. Refrigerated Chamber ALARM 40](#_Toc49257717)  
+[8.9.7. ENGINE ROOM CO2 ALARM 40](#_Toc49257718)  
+[8.9.8. EMERGENCY GENERAL ALARM SYSTEM 41](#_Toc49257719)  
+[8.9.9. E/R SIGNALING AND ALARM SYSTEM (LIGHT COLUMN) 41](#_Toc49257720)  
+[8.9.10. ELECTRIC TACHOMETER FOR MAIN ENGINE 42](#_Toc49257721)  
+[8.9.11. RUDDER ANGLE INDICATOR 42](#_Toc49257722)  
+[8.9.12. PUBLIC ADDRESS WITH TALK BACK SYSTEM 43](#_Toc49257723)  
+[8.9.13. SHIP'S HORNS 44](#_Toc49257724)  
+[8.9.14. FIRE DETECTING AND ALARM SYSTEM 44](#_Toc49257725)  
+[8.9.15. FIXED GAS DETECTION SYSTEM 45](#_Toc49257726)  
+[8.9.16. ELECTRIC CRYSTAL CLOCK 45](#_Toc49257727)  
+[8.9.17. PC LOCAL AREA NETWORK 46](#_Toc49257728)  
+[8.9.18. E/R local water mist alarm system 46](#_Toc49257729)  
+[8.10. NAUTICAL INSTRUMENT 46](#_Toc49257730)  
+[8.10.1. Magnetic Compass (AC 220 V, DC 24 V) 46](#_Toc49257731)  
+[8.10.2. GYRO COMPASS (AC 220 V, DC 24 V) 47](#_Toc49257732)  
+[8.10.3. AUTO PILOT (AC 220 V, DC 24 V) 47](#_Toc49257733)  
+[8.10.4. ECHO SOUNDER (AC 220 V) 48](#_Toc49257734)  
+[8.10.5. SPEED LOG (AC 220 V) 48](#_Toc49257735)  
+[8.10.6. RADAR PLANT (AC 440 V/AC 220 V) 48](#_Toc49257736)  
+[8.10.7. ELECTRONIC CHART DISPLAY & INFORMATION SYSTEM (AC 220 V) 49](#_Toc49257737)  
+[8.10.8. DGPS NAVIGATOR 49](#_Toc49257738)  
+[8.10.9. ANEMOMETER and ANEMOSCOPE (AC 220 V) 50](#_Toc49257739)  
+[8.10.10. WINDOW WIPER and CVS (AC 220 V) 50](#_Toc49257740)  
+[8.10.11. VOYAGE DATA RECORDER VDR (AC 220 V, DC 24 V) 50](#_Toc49257741)  
+[8.10.12. AUTOMATIC IDENTIFY SYSTEM (ais) (DC 24 V) 51](#_Toc49257742)  
+[8.10.13. WHEELHOUSE CONTROL CONSOLE (WHC) 51](#_Toc49257743)  
+[8.10.13.1. Navigation Signal Console: 51](#_Toc49257744)  
+[8.10.13.2. Bridge Maneuvering Console (BMC)： 52](#_Toc49257745)  
+[8.10.14. Docking working station 52](#_Toc49257746)  
+[8.10.15. MEASURING INSTRUMENT PANEL 53](#_Toc49257747)  
+[8.10.16. CHART TABLE 53](#_Toc49257748)  
+[8.10.17. RADIO TABLE 53](#_Toc49257749)  
+[8.10.18. STEERING STAND 53](#_Toc49257750)  
+[8.11. RADIO COMMUNICATION EQUIPMENT 54](#_Toc49257751)  
+[8.11.1. GENERAL 54](#_Toc49257752)  
+[8.11.2. MF/HF RADIO EQUIPMENT (AC 220 V, DC 24 V) 54](#_Toc49257753)  
+[8.11.3. VHF RADIO TELEPHONE 54](#_Toc49257754)  
+[8.11.4. SATELLITE COMMUNICATION SYSTEM 54](#_Toc49257755)  
+[8.11.5. NAVTEX RECEIVER 55](#_Toc49257756)  
+[8.11.6. UHF handset 55](#_Toc49257757)  
+[8.11.7. WEATHER FACSIMILE RECORDER 55](#_Toc49257758)  
+[8.11.8. 8.11.7 SATELLITE EPIRB 55](#_Toc49257759)  
+[8.11.9. RADAR TRANSPONDER 55](#_Toc49257760)  
+[8.11.10. TWO-WAY RADIOTELEPHONE APPARATUS 56](#_Toc49257761)  
+[8.11.11. SHIP SECURITY ALERT SYSTEM (SSAS) 56](#_Toc49257762)  
+[8.11.12. Long range Identification and Tracking (LRIT) 56](#_Toc49257763)  
+[8.11.13. BROADCAST & TELEVISION RECEIVING ANTENNA SYSTEM (AC 220 V) 56](#_Toc49257764)  
+[8.11.14 vsat 56](#_Toc49257765)  
+[8.11.14. SUPPLEMENTARY OUTFITS 57](#_Toc49257766)  
+[8.11.15. SPARE PART 57](#_Toc49257767)

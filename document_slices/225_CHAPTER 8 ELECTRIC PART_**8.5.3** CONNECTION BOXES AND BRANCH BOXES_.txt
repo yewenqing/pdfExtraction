@@ -1,0 +1,3 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.5.3** CONNECTION BOXES AND BRANCH BOXES'}
+--------------------
+All boxes shall be of drip-proof or water-proof construction depending on their locations. The water-proof type connection box exposed to weather deck to be brass-made or stainless steel.

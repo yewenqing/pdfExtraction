@@ -1,0 +1,15 @@
+METADATA: {'Header 1': 'CHAPTER 3 ACCOMMODATION', 'Header 2': '3.6 STORE', 'Header 3': '3.6.3 MISCELLANEOUS STORES'}
+--------------------
+|  |  |
+| --- | --- |
+| Compartment | Facility |
+| Bonded store | 2-tier steel shelves with fiddles and wooden grating |
+| Linen store | 2-tier wooden shelves |
+| Electrical equipment room | 2-tier steel shelves with wooden batten |
+| Navigation equipment room | 2-tier steel shelves with wooden batten |
+| Paint store | 2-oil cans, tin hooks,  2-tier steel shelves with wooden batten |
+| Bosun store | 2-tier steel shelves with wooden batten, working desk and tool box |
+| Rope store | 2-tier steel shelves with wooden batten |
+| Battery room | steel shelves ***with wooden plate*** and F.R.P. box for storage of batteries and shelves for distilled water bottle etc., wooden grating |
+| Oxygen/Acetylene store | steel shelves, ***wooden grating***  Removable “U” rings with screw shall be provided in acetylene/oxygen bottle space. |
+| Other stores & lockers | steel shelves, wooden batten |

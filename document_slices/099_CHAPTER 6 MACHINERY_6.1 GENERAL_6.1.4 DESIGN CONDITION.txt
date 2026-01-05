@@ -1,0 +1,44 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.1 GENERAL', 'Header 3': '6.1.4 DESIGN CONDITION'}
+--------------------
+The main engine, generator engines and the aux. equipment including the shafting shall be so designed that the main engine is satisfactorily operated at the maximum continuous rating at sea water temperature of 32C, L.T.F.W. temperature of 36C, engine room ambient air temperature of 45C, barometric pressure of 0.1MPa and relative humidity of 60%.  
+The basic ideas or design condition in planning the machinery plant are to be as numerated below.  
+#### 6.1.4.1 Shafting and Propeller  
+The diameter of the shafts shall be determined by the Rule's requirements and to have margin refer to item6.2.3.  
+The propeller design refers to “Chapter 1 General paragraph 1.2.7.2”.  
+#### 6.1.4.2 Machinery Installation Aspects  
+The supporting chocks of main engine shall be made of epoxy chocks.  
+The generating engine shall be direct coupled to and mounted on a common bed with the generator. The common bed shall be resiliently mounted to ship’s structure as manufacture’s recommendation.  
+The steel liner or steel sheet shall be used for pumps and other aux. equipment.  
+#### 6.1.4.3 Electric Power  
+Refer to “Electric Chapter”.  
+#### 6.1.4.4 Steam  
+Necessary steam for ship's service shall be as follows.  
+Normal sea service Exh. gas section of the composite boiler  
+and oil fired section of the composite boiler if necessory.  
+Harbor in/out operation Oil fired section of the composite boiler  
+Port Oil fired section of the composite boiler  
+#### 6.1.4.5 Compressed Air  
+Two (2) main air reservoirs shall be able to start main engine consecutively at least twelve(12) times without replenishment, and total capacity of two (2) main air compressors shall be capable of recharging two (2) main air reservoirs within one (1) hour. The main air reservoir shall be also able to start generator engine normally.  
+One (1) aux. air reservoir for generator engines shall be provided and charged through the main air line from main air reservoir normally, while this reservoir shall be charged by the emergency air compressor which is electrically driven type in case of dead ship condition. The emergency air compressor motor shall be fed from the emergency switchboard.  
+#### 6.1.4.6 Heat Exchanger  
+(1) The coolers for main engine shall be designed on the basis of SMCR.  
+(2) The fouling margin for plate type cooler shall be of 10%.  
+1. The fouling margin for shell-tube type heat exchangers to be of 15%.  
+#### 6.1.4.7 Purifier  
+(1) For fuel oil  
+Two (2) self-cleaning type purifiers shall be provided for HFO/LSHFOcleaning. One (1) for working and the other as stand-by. **The purifiers can handle fuel density of 1,010 kg/m3.**  
+(2) For lube oil  
+One (1) self-cleaning type lube oil purifier shall be provided for main engine lube oil system.  
+One (1) self-cleaning type lube oil purifier shall be provided for generator engines.  
+**Lub. purifier must be possible to switch purifiers to Main Engine and Aux Engine sump.**  
+#### 6.1.4.8 Pump  
+Where two (2) pumps for M/E, G/E and boiler etc., service provided in one (1) system, one (1) shall be sufficient to handle the system and the other service as stand-by.  
+The specified capacity and motor output of rotary positive displacement pumps shall be designed on the basis of following viscosity.  
+|  |  |  |
+| --- | --- | --- |
+|  | Capacity cSt | Motor output cSt |
+| Fuel oil circulating and supply pump | 25.8 | 1000 |
+| HFO,LSHFO/ULSFO transfer pump | 25.8 | 1,000 |
+| MGO transfer pump | 3.0 | 100 |
+| Main lubricating oil pump | 25.8 | 260 |
+| Lube oil transfer pump | 25.8 | 1,000 |

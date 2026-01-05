@@ -1,0 +1,5 @@
+METADATA: {'Header 1': 'CHAPTER 4 OUTFITTING', 'Header 2': '4.3 CARGO HATCH COVER'}
+--------------------
+The hatch cover to be provided as shown on the G.A. plan.  
+The hatch cover to be designed in accordance with the requirement of the Classification Society and to be equipped with necessary outfit and accessory.  
+The material, construction, designs, etc. of the hatch cover to be in accordance with the Maker’s standard subject to approval of the Classification Society.

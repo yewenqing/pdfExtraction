@@ -1,0 +1,4 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.6.2.2** Insulation and terminal box'}
+--------------------
+In general, class “B” or “F” insulation shall be adopted, except special service motors for which insulation are in accordance with the manufacturer's standard.  
+In general, all motors shall be provided with waterproof terminal box of cast iron or steel plate construction with gland and removable cover. All terminals shall be marked.

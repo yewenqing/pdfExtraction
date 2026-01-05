@@ -1,0 +1,3 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.11.8** SATELLITE EPIRB'}
+--------------------
+One (1) set of self-float type emergency position indicating radio beacon operating on 406/121.5 MHz shall be fitted at the open part of bridge deck.

@@ -1,0 +1,18 @@
+METADATA: {'Header 1': 'CHAPTER 3 ACCOMMODATION', 'Header 2': '3.4 FURNITURE AND UPHOLSTERY', 'Header 3': '3.4.2 UPHOLSTERY'}
+--------------------
+#### 3.4.2.1 Surface Material of Sofa and Chair  
+Upholstery for sofa and chair shall be as follows:  
+Woven fabric - Captain class cabins, Senior officer class cabins, Recreation room  
+Vinyl leather: Other cabins and other public spaces.  
+#### 3.4.2.2 Stuffing of Sofa, Chair and Mattress  
+Upholstery of mattress: Cotton cloth  
+Stuffing of mattress: Polyurethane sponge with coil spring  
+Stuffing of sofa and chair: Polyurethane sponge  
+#### 3.4.2.3 Curtain  
+|  |  |
+| --- | --- |
+| Item | Application |
+| Black-out type curtain | Window of all living space, public space, ship office |
+| Curtain with blind cloth behind | Between wheel house and chart space |
+| Vinyl curtain | Shower space |
+| Bed curtain | Hospital |

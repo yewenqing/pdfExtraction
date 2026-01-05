@@ -1,0 +1,13 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.6.3.3** Emergency Stop Device'}
+--------------------
+1. For fire  
+All ventilating fans and oil pumps shall be capable of being stopped in case fire.  
+Emergency stop push button shall be provided for each group and their locations shall be as follows:  
+(a) Fuel oil pumps, lub. oil pumps, oil purifiers and ventilation fans in the engine room.  
+Emergency stop push button box shall be provided in the entrance of engine room, fire control station  
+(b) Ventilating fans in accommodation and cargo hold:  
+Each one (1) emergency stop push button box shall be provided in the wheelhouse and fire control station for stopping accommodation fans and cargo hold ventilating fans.  
+1. Other  
+Emergency stop button for engine room bilge pump and sludge pump include other system which may connect to shore cause potential pollution shall be provided on upper deck (port and starboard) according to the requirement of USCG Regulation.  
+**Emergency stop device shall have self-monitoring features like power failure and cable break. Emergency stop push button to be fitted with plastic covers. Box to be red painted**  
+Sea water discharge pumps having a water discharge outlet beneath the life boat stowing place above light ballast waterline, if any, shall be stopped in case of boat launching at the location of boat launch.

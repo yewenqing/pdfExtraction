@@ -1,0 +1,25 @@
+METADATA: {'Header 1': 'CHAPTER 7 AUTOMATION AND REMOTE CONTROL', 'Header 2': '**7.2.3.3** Telegraph System'}
+--------------------
+Telegraph system shall consist of engine telegraph, sub-engine telegraph and telegraph logger.  
+1. Engine telegraph  
+One (1) set of engine order telegraph system shall be provided, and it is to consist of:  
+1 - transmitter with receiver with buzzer and illuminating lamp and dimmer in wheelhouse control console  
+1 – transmitter (remote control lever) with buzzer and illuminating lamp and dimmer in each of navigation bridge deck wings  
+1 – receiver / reply with bell in engine control console  
+1 – receiver / with gong in engine side  
+During wheelhouse control or navigation bridge deck wing control of main engine, the buzzer shall sound for abt. 2 seconds when the order partition is changed.  
+2. Sub-engine telegraph  
+One (1) set of sub-engine telegraph of push button with lamp type shall be provided in wheelhouse and engine control room.  
+Partitions of the sub-telegraph shall be as follows:  
+AT SEA  
+STAND-BY  
+FINISHED WITH ENGINE  
+Audible devices of the sub-engine telegraph shall be one buzzer in each of wheelhouse and engine control room.  
+3. Telegraph logger  
+One (1) telegraph logger shall be provided in wheelhouse. The following items shall be recorded:  
+Engine telegraph order & reply  
+Sub-engine telegraph order & reply  
+Time  
+The recorded time shall be synchronous with Master clock.  
+The achieved revolutions and time corresponding to the revolution  
+Note: The M/E remote control system and telegraph system to be in accordance with rule requirement and may be changed according to final selected Maker’s standard.

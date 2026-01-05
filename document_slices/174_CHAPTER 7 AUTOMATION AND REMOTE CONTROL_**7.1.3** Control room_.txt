@@ -1,0 +1,26 @@
+METADATA: {'Header 1': 'CHAPTER 7 AUTOMATION AND REMOTE CONTROL', 'Header 2': '**7.1.3** Control room'}
+--------------------
+1. Engine control room (ECR)  
+Engine control room surrounded with steel walls shall be sound insulated and air conditioned.  
+In the ECR the following equipment shall be provided:  
+- Main switchboard  
+* Engine control console; One monitor for Valve remote control system along with tank level remote gauge shall be combined.  
+- Uninterrupted Power Supply unit for automation system (UPS)  
+* Auto telephone and sound power telephone  
+- Electronic modules and operator panels for M/E remote control system  
+- ECR manual control panel of M/E  
+- Fire alarm repeater panel  
+- Air condition unit  
+- Remote valve operation and tank sounding shall be possible from ECR and ship office.  
+- Other necessary furniture specified elsewhere  
+2. Ship office  
+In the ship office the following equipment shall be provided:  
+- Ballast control station  
+- Auto. telephone  
+- AMS Extend alarm panel  
+- Reefer container monitoring panel  
+- Loading computer  
+* 1 pcs of 24 inch TFT VDU for ballast control and level measure system
+* Anti-heeling system control
+* Ballast water treatment system panel
+* Cargo hold fans remote control and running indicator

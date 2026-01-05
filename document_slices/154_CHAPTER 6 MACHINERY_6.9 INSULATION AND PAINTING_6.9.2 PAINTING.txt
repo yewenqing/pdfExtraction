@@ -1,0 +1,17 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.9 INSULATION AND PAINTING', 'Header 3': '6.9.2 PAINTING'}
+--------------------
+Machinery and piping in engine room shall be painted except following parts.  
+1. Working surface of machinery, brass surface, and other parts, which are finished bright.  
+2. Surfaces of insulation, which is not covered with steel sheet or equal.  
+External surface of pipes and valves fitted below floor level (E/R grating of tank top) shall be painted with 2 coats anti-corrosion paint only.  
+**Emergency Exit path to be marked with Florescent paint at all platforms / levels.**  
+Other machinery and equipment shall be in accordance with Maker's standard.  
+The color of finished coat for external surface shall be in accordance with the following table. Maker's standard surface color shall prevail if there is conflict with the following table for individual equipment.  
+|  |  |
+| --- | --- |
+| Name of machinery or equipment | Color (Yard proposal) |
+| Diesel engine  Air compressor  Centrifugal pump  Screw and gear pump  Oil purifier (acc. to Maker’s standard)  Fan  Oily bilge separator  Sewage treatment plant  F.W. generator  Overhauling crane  Workshop machine  Intermediate shaft bearing  Steel box for spare parts  L.O. and F.W. coolers | Light blue green  (Munsell notation:  7.5 BG 7/2) |
+| Turbocharger for main engine  Turbocharger for generator engine  Boiler  Incinerator  Oil heater  Atmospheric condenser | Silver |
+| Air reservoir  Tanks not to be insulated  Pipes not to be insulated  Air trunk  Water pressure tank  Valves not to be insulated  Strainer  Top rail of hand rail  Ladder except step | White |  
+The piping shall be marked as per Buyer’s standard with color vinyl tapes or color paints to indicate the various mediums.  
+The medium flow direction shall be indicated by arrow shown outside the piping.

@@ -1,0 +1,3 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.11.6** UHF handset'}
+--------------------
+Six (6) sets of portable UHF handset (400 MHz, including two explosive type, one hand-free type with certificate) and rechargeable battery and charger and holster, microphone shall be provided.

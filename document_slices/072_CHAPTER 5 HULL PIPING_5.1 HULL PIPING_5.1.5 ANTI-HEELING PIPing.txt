@@ -1,0 +1,19 @@
+METADATA: {'Header 1': 'CHAPTER 5 HULL PIPING', 'Header 2': '5.1 HULL PIPING', 'Header 3': '5.1.5 ANTI-HEELING PIPing'}
+--------------------
+Two (2) anti-heeling tanks (P&S) shall be cross connected by steel pipes and one (1) dedicated anti-heeling pump shall be provided.  
+During loading and unloading of containers, heel adjustments shall be carried out by means of transferring the sea water between one pair of side ballast tank (port and starboard).  
+The anti-heeling operation shall be effected by start and stop sequence of heeling pump and respective control of valve and shall be controlled the Vessel's heel within +/-2 degrees.  
+Heeling control system shall have the start/stop function for heel adjusting, the heel indication and the over heeling alarm for heel adjusting tanks on the heeling control mode on TFT in ship office.  
+Before loading and unloading of containers, both anti-heeling tanks shall be about half filled with sea water.  
+Anti-heeling Pump  
+No. of set : One (1)  
+Capacity : About 350 m3/h x 15 mTH (according to final calculation)  
+Type : Reversible propeller type  
+Prime mover : Electric motor  
+Materials : Pump casing of bronze, impeller of Ni-Al-bronze and shaft of stainless steel  
+The following alarm shall be provided visible on the display of the operator panel and audible at the remote control panel:  
+Excessive Heeling (>5 degree)/ Emergency stop  
+Failure heeling pump and relative valves  
+Heeling tanks level alarm  
+The effect at any alarm occurring shall result in closing of valves and stopping of pump.  
+System common abnormal alarm to AMS shall be provided

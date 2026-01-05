@@ -1,0 +1,8 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.7.4** LIGHTING – WHEELHOUSE'}
+--------------------
+|  |  |
+| --- | --- |
+| Lighting fixture | Location |
+| Fluorescent ceiling light  (20W x 2, flush type) | Top of wheelhouse |
+| Incandescent chart lamp  (60 W, with dimmer switch) | On the chart desk |
+| Incandescent light  (down light, 40 W, red) | Above the wheelhouse control console for night navigation |

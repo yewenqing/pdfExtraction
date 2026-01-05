@@ -1,0 +1,9 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.11 PIPING SYSTEMS IN ENGINE ROOM', 'Header 3': '6.11.1 COOLING SEA WATER SYSTEM'}
+--------------------
+The system shall consist of three (3) sets of main cooling S.W. pump, two (2) sets of sea chest, scrubber sea water pump, two (2) sets of central cooler and valves, fittings and pipes.  
+The three (3) main cooling sea water pumps shall be of same model. Two (2) sets shall be operated at normal sea going and the third shall be as stand-by. Each one of them can be used for harbor service.  
+Main cooling S.W. pumps shall take suction from sea through sea chests stop valves and strainers and discharge to central coolers, then overboard or recirculation to high sea chest in engine room.  
+Two strainers at outlets of sea chests to be provided, made of steel plates and the inside to be galvanized. The bucket to be made of SUS with a mesh size of 5 mm diameter.  
+The back washing piping and inserted filter for central coolers shall be arranged.  
+Pump outlets to have plate non return valve and butterfly shut off valves.  
+The condenser of F.W. generator shall be directly cooled by sea water.

@@ -1,0 +1,3 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.8.2.3** SUEZ CANAL STERN LIGHT (AC 220 V)'}
+--------------------
+One (1) set of 40 W fixed type red stern light shall be provided as the Suez Canal stern signal light.

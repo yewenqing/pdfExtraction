@@ -1,0 +1,3 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.8.2.4** DANGEROUS CARGO LOADING LIGHT (AC 220 V)'}
+--------------------
+One (1) flash type red dangerous cargo loading light (40 W) shall be fitted on radar mast.

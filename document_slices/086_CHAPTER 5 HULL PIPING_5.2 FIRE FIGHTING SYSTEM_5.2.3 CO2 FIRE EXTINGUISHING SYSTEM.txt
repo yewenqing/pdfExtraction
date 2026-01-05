@@ -1,0 +1,18 @@
+METADATA: {'Header 1': 'CHAPTER 5 HULL PIPING', 'Header 2': '5.2 FIRE FIGHTING SYSTEM', 'Header 3': '5.2.3 CO2 FIRE EXTINGUISHING SYSTEM'}
+--------------------
+A total flooding CO2 Fire Extinguishing system shall be provided for the engine room, cargo holds etc. in accordance with the requirements of the Rule and SOLAS.  
+CO2 bottle each containing 45 kg of CO2 shall be arranged in CO2 room.  
+CO2 fire extinguishing system should be designed that the releasing of CO2 bottles can be carried out by remote control method in fire control station for engine room, and in CO2 room for cargo hold and in accordance with MSC.339 (91) requirements. Manual or group release in CO2 room for cargo hold shall be in accordance with Class requirement.  
+The remote control system shall be interlock with audible and visual alarm.  
+CO2 line shall be led from CO2 bottles to each cargo hold and via 2-way valve on discharge line and solenoid valve on smoke suction line in CO2 room, which can be operated remotely from fire control station.  
+The engine room fans shall be stopped automatically by means of a limit switch in the release cabinet.  
+Adequate number of CO2 discharge nozzles shall be so arranged on the branch lines that CO2 gas may be efficiently discharged into cargo holds and engine room.  
+CO2 gas smoke suction line and discharge manifold shall be led in under deck void to each protected container hold, and smoke tubes shall be led to the detecting cabinet in the CO2 room.  
+Necessary accessories shall be provided in accordance with the requirements of Regulations and manufacturer’s standards.  
+An electric horn (Explosion-proof type when carry dangerous goods) shall be provided in each cargo hold for alarming CO2 discharge.  
+One (1) CO2 bottle with manual releasing valve shall be fitted in the gallery and releasing nozzles shall be connected to the exhaust duct of hood if necessary in accordance with the requirement of the SOLAS.  
+One (1) CO2 weighting device shall be provided and safety devices shall be provided in accordance with the requirements of Regulations and manufacturer’s standards.  
+Maker standard plate operation and distribution instruction (in English) for CO2 system shall be provided in CO2 room, wheelhouse and fire control station.  
+CO2 fire extinguishing system shall provide with compressed air connections.  
+CO2 gas leakage alarm shall be provided.  
+A smoke extraction fan unit shall be installed in the CO2 room, but the outlet of the extraction pipe shall be arranged far away from the normal crew working area.

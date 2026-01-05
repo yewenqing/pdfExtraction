@@ -1,0 +1,11 @@
+METADATA: {'Header 1': 'CHAPTER 5 HULL PIPING', 'Header 2': '5.1 HULL PIPING', 'Header 3': '5.1.16 SCHEDULE OF PIPE INSULATION'}
+--------------------
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| Piping system | Range of  Insulation | Material | | Cover | |
+| Pipe | Flange & Valve | Pipe | Flange & Valve |
+| Exhaust gas pipe for emergency generator engine | in accommodation | Ceramic fibre moulding or equivalent | Ceramic fibre moulding or equivalent | Wire net + Glass cloth  + galv. steel sheet 0.5  thick | |
+| Domestic steam and drain | in accommodation | Ceramic fibre moulding or equivalent | Ceramic fibre moulding or equivalent | Glass cloth | Glass cloth |
+| Hot water | in accommodation | Ceramic fibre moulding or equivalent | Ceramic fibre moulding or equivalent | Glass cloth | Glass cloth |
+| Refrigerant | Suction line from ref. chamber to compressor | As per maker’s standard | | As per maker’s standard | |
+| Line from expansion valve to ref. chamber | As per maker’s standard | | As per maker’s standard | |

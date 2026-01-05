@@ -1,0 +1,32 @@
+METADATA: {'Header 1': 'CHAPTER 1 GENERAL', 'Header 2': '1.6 DOCUMENTATION'}
+--------------------
+1.6.1 PLANS FOR APPROVAL  
+The plans for Buyer's approval shall be in accordance with the “List of drawing for Buyer's approval” ***with approximate dates*** as agreed between Builder and Buyer and submitted to the Buyer for approval after the Building Contract of the Vessel.  
+Electronic copy (PDF format) of the plans for approval shall be submitted to the Buyer and the plans with the Buyer's approved signature shall be returned to the Builder. And these returned plans should be clearly marked with“approved” or “approved with comments” or “not approved”.  
+The Builder’s standard Plans and subcontractor’s or Maker’s Plans may be used as working plans or plans for approval.  
+The plans submitted for approval shall be deemed to have been approved without any comment when the Buyer does not dispatch the approved plan within fourteen(14) calendar days after receipt the electronic copy plans.  
+After the mutual agreement of each drawing's/manual's comments, included in the relevant PCF form, a revised drawing called "Final Agreed Drawing", should be submitted to Owners which will include all the modifications agreed during the plan approval stage and all class comments, if any. This "Final Agreed Drawing", shall be the  
+one to be used during the vessel's construction stage.  
+During the phase of class plan approval, Builder will provide the Class approval drawing with class’ comments to the Buyer.  
+Final Approved drawings as clean version shall be submitted in one set of hard copy and  
+PDF electronic format to the Site office well in advance before onsite inspections. These  
+drawings to be in English.  
+For sister vessels, if any, the plans and documents of first vessel shall be used, so no duplication of drawing approval shall be necessary in general.  
+1.6.2 FINISHED DRAWINGS  
+Upon delivery of the Vessel, ***four (4)*** copies in black and white of finished plans shall be furnished to the Buyer in accordance with “List of finished plans”, one (1) copy to the Buyer’s office and two (2) copies to the Vessel.  
+The scope and form of the finished plans shall be in accordance with the Builder’s standard and the list of finished plans shall be submitted to the Buyer for approval in due course.  
+One (1) set of the final plans except Maker’s plans shall be furnished to the Buyer in electronic PDF format (CD-ROM or equivalent) in accordance with “List of finished plans” for the first vessel.  
+Instruction books shall be furnished for equipment and machinery, as supplied by manufacturer. Electronic manual of M/E and A/E to be provided by Maker.  
+The following plans, one (1) copy for each, mounted in aluminum alloy frame with glass shall be arranged at suitable places on board as directed by Buyer's supervisor. ***Except GA Plan and Fire Control and Safety Plan submit three(3) copy for Bridge, A-deck and ECR.***  
+1. General Arrangement Plan
+2. Tank Capacity Plan with Deadweight Scale
+3. Container Stowage Plan
+4. Fire Control and Safety Plan in color coding (Class approved)
+5. Damage Control Plan (1:200)
+6. Ballast and Bilge Pumping Plan
+7. Fuel Oil Bunker Procedure
+8. Fuel Oil Transfer System Plan
+9. Muster List (Buyer supply)
+10. Maneuvering Characteristics Diagram with time and distance (comply with IMO Res.A601)  
+1.6.3 EXHIBITION MODEL  
+One (1) exhibition model for series vessel in the scale of 1: 200 shall be supplied to the Buyer’s site office.

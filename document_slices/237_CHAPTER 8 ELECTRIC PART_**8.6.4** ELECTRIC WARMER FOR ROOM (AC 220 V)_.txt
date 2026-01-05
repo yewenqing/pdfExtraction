@@ -1,0 +1,10 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.6.4** ELECTRIC WARMER FOR ROOM (AC 220 V)'}
+--------------------
+Electric warmers for room shall be installed as follows:  
+2 x 2 kW – Steering gear room  
+2 x 2 kW - Emergency generator RM  
+2 x 2 kW – Bow thruster room  
+1 x 2 kW - Bosun store  
+2 x 2 kW- Wheelhouse  
+1 x 0.5 kW - Each public toilet  
+1 x 2 kW – Hospital

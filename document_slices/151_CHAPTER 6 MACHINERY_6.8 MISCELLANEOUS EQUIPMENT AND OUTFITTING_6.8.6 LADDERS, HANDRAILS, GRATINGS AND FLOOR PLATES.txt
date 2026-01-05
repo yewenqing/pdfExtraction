@@ -1,0 +1,23 @@
+METADATA: {'Header 1': 'CHAPTER 6 MACHINERY', 'Header 2': '6.8 MISCELLANEOUS EQUIPMENT AND OUTFITTING', 'Header 3': '6.8.6 LADDERS, HANDRAILS, GRATINGS AND FLOOR PLATES'}
+--------------------
+The painted ladders, painted handrails, painted gratings and painted floor plates shall be provided in accordance with shipbuilder practice.  
+#### 6.8.6.1 Ladder  
+Main access ladders shall be led fore and aft wherever possible and to slope of 55~60 degrees from the horizontal, and width of main ladder shall be of 700mm and that of sub-ladders 500 mm.  
+Ladders to be inclined type, except where it is unavoidable, vertical ladder shall be used for unimportant access provision. Galvanized steel dust guard shall be fitted at underside of main ladders.  
+Treads shall be a non-slip type.  
+All ladders shall be attached at top and bottom by bolts to provide ready portability for overhaul of machinery when necessary.  
+#### 6.8.6.2 Handrail  
+Handrail shall be fitted at gratings, ladders and floors where necessary for the safety and convenience of operating personal. Handrails shall be of steel pipe carried in steel pipe stanchions and shall be fitted with portable section where required for overhauling machinery.  
+Handrails shall have a clear hand space of at least 50mm from adjacent equipment and bulkhead.  
+#### 6.8.6.3 Floor plate  
+In general, the flooring shall be checkered steel plate of about 4.5 mm in thickness, supported and fastened to suitable bars of angle frame by not less four (4) stainless steel or brass screws.  
+Removable sections shall be provided as required for proper access for handling and inspection of the equipment located under floor and for manholes.  
+Floor plates sections not to be larger than what can be handled by one man as far as practicable.  
+Coaming of height 50mm shall be provided around permanent openings.  
+**Opening in the checkered steel plate for valve access shall be cut by a tool on site.**  
+#### 6.8.6.4 Grating  
+Adequate grating of steel shall be provided for machinery space walkways, platforms and floors only where specifically required for ventilation and continuous visibility purposes. Gratings to be made of twisted bar and steel plate, suitable spaced and properly fitted in steel flat frames.  
+#### 6.8.6.5 Funnel  
+Ladder and grating also shall be installed in funnel. The flue louver shall be controlled outside the funnel by compressed air and also can be controlled by manual.  
+#### 6.8.6.6 Protection Device  
+All moving parts such as flywheel, coupling shall be protected by safety cover or hand rail.

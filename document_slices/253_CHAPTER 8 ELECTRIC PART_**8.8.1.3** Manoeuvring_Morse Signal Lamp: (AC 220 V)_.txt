@@ -1,0 +1,6 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.8.1.3** Manoeuvring/Morse Signal Lamp: (AC 220 V)'}
+--------------------
+A Manoeuvring/Morse signal lamp shall be mounted on the top of radar mast and four (4) keys shall be located at both bridge wings and on front wall of wheelhouse.  
+The Manoeuvring/Morse signal lamp shall also be controlled by the ship's horn system.  
+The control method of the Morse & manoeuvreing signal lamp should also meet the performance standard requirement MSC.253 (83) and as per Rules.  
+**The source of maneuvering/morse signal lights shall from navigation light control panel.**

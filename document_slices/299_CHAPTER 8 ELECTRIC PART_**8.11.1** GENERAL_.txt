@@ -1,0 +1,3 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.11.1** GENERAL'}
+--------------------
+Radio communication equipment shall comply with the International Telecommunication Radio Regulations and the SOLAS Convention (GMDSS) for A1, A2, A3 sea area and adopt shore-based maintenance.

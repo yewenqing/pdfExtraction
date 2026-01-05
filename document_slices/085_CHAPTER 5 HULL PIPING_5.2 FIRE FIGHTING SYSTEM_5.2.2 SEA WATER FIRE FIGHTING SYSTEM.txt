@@ -1,0 +1,34 @@
+METADATA: {'Header 1': 'CHAPTER 5 HULL PIPING', 'Header 2': '5.2 FIRE FIGHTING SYSTEM', 'Header 3': '5.2.2 SEA WATER FIRE FIGHTING SYSTEM'}
+--------------------
+#### 5.2.2.1 Fire Main Line  
+Fire main line water would supplied from two (2) sets of the fire, bilge & G.S. pumps in E/R, and an emergency fire pump. The fire main line and brand line shall be led along the void and connected to fire hydrants on open deck.  
+Start/stop of the fire, bilge & general service pump shall be done remotely from engine control room, ship office, fire station, wheelhouse (only for fire & general service pump) and locally at pump side in accordance with rule requirement.  
+One (1) isolation valve with a pressure gauge shall be provided on the fire main. The pressure of fire main shall be indicated in the ECR in addition to the local one**.**  
+Sufficient number of drain cock shall be provided for fire main line to release the remaining water for anti-freezing use.  
+The system also shall be used for washing decks and for other purpose as follows:  
+1) For washing chain, nozzles shall be provided in each hawse pipe with one stop valve.  
+2) Power water for bilge eductor of chain locker & bosun store.  
+3） Power water for dangerous goods bilge eductor.  
+4） Power water for ballast stripping eductor.  
+5) Cooling for Windlass and mooring winch hydraulic unit  
+Two (2) sets of mobile water monitor with a dual-purpose spray/jet type nozzle shall be provided, and the minimum capacity of the monitor shall be 60 m3/h, at the pressure required by SOLAS regulation II-2/10.7.3, and in compliance with IMO Res.MSC.365(93) requirements.  
+For open deck containers, water mist lance as required by MSC.365 (93) to be provided.  
+#### 5.2.2.2 Fire Hydrant and Hose Rack/Box  
+Fire hydrant shall be so arranged that the jets of water may reach any part of the ship and any part of an empty cargo space, furthermore, such hydrants shall be positioned near the accesses to the protected spaces.  
+The nominal diameter of fire hydrant shall be DN50 mm for all areas.  
+Two (2) international shore connections shall be provided adjacent to the living quarters.  
+The fire hydrant shall be manually operated valve with hose coupling of brass.  
+Each fire hose outside machinery space shall be 18 m length complete with a coupling and a combined jet/water fog nozzle, which shall be stowed in steel cabinet for weather & outside of living quarters and fiberglass cabinet in the other enclosed spaces. In machinery space, the fire hose shall be 15m length.  
+Fire hydrants line and the hose racks/boxes shall be painted in red.  
+#### 5.2.2.3 Emergency Fire Pump  
+An electric motor driven emergency fire pump shall be installed in bow thruster & emergency fire pump room.  
+The electric power for emergency fire pump shall be served from the emergency switchboard.  
+The pump should be able to draw water and build up design pressure at ship ballast condition.  
+The pump shall be self-priming centrifugal type. For material of pump, refer to Machinery Chapter of the specification.  
+The emergency fire pump shall have independent sea chest and discharge to fire main line through non-return stop valve.  
+The emergency sea chest shall be below the waterline of lightest ballast condition.  
+#### 5.2.2.4 Sprinkling Water System for Paint Store and Garbage Store  
+The spraying sea water for the paint store and garbage store shall be supplied from fire main line and capable of being operating from outside as per Rule/Regulations.  
+Smoke detector shall be provided in the paint store as per Rule/Regulations.  
+#### 5.2.2.5 Water mist fire fighting system in E/R  
+Refer to “Chapter 6-Machinery, 6.11.8.2.2”.

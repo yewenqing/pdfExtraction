@@ -1,0 +1,31 @@
+METADATA: {'Header 1': 'CHAPTER 5 HULL PIPING', 'Header 2': '5.1 HULL PIPING', 'Header 3': '5.1.8 FRESH WATER SERVICE SYSTEM'}
+--------------------
+5.1.8.1 Cold fresh water system and technical water system  
+One (1) filling pipe shall be provided for fresh water tanks. And pipe inside of F.W. tank shall be seamless steel pipe.  
+Diameter of fresh water filling pipe shall be not less than 65mm.  
+Hydrophore tank system shall be adopted to supply cold fresh water.  
+Cold fresh water system shall have a general fresh water service line, and one (1) fresh water hydrophone tank and two (2) fresh water pumps driven by electric motor.  
+One (1) of two (2) pumps shall serve as stand-by for the respective service line mentioned above.  
+The pumps shall suck from the fresh water tanks, and discharge through the stop check valves to hydrophone tank.  
+Generally, fresh water supplied from the fresh water hydrophore tank in the engine room to be led to, wash basins, showers, bath tub, laundries, hospital, sanitary water system by means of branches with shut-off valves at the main for each deck and service for engine room, front windows of wheelhouse and deck washing.  
+The fresh water hydrophore tank shall be constructed of stainless steel and finished completely with gauge glass, pressure gauge, relief valve, drain connection and connection from the compressed air system for charging purpose.  
+The automatic pressure control shall be fitted to start and stop the pumps to maintain the necessary pressure in the tank.  
+5.1.8.2 Hot fresh water system  
+The closed loop system shall be adopted to supply hot fresh water and to consist of one (1) calorifier for heating water, one (1) hot water circulating pump, main circulating pipe and branch pipes.  
+The calorifier shall be shell& tube type which using steam &electric heating.  
+The system shall be supplied through non-return valve from fresh water hydrophore tank, and hot water shall be led to galley, pantries, wash basins, showers, bath tub, laundries, and lobby of refrigerated provision chamber, etc.  
+Hot water and cold water shall be also supplied to wheelhouse for front windows washing.  
+5.1.8.3 Distilled water system  
+The distilled water from the fresh water generator shall be passing through water meter and salinity indicator to the fresh water tanks.  
+5.1.8.4 Drinking water system  
+Drinking water line to be leaded from the fresh water hydrophore.  
+One (1) set of F.W. sterilizer and one (1) set of F.W. mineralizing unit to be provided for drinking water system.  
+The drinking water only led to galley, pantry and drinking water fountains.  
+5.1.8.5 Sanitary Water System  
+Grey water discharge pipe shall be led overboard independently of sewage pipe through one (1) storm valve above the light ballast water line and to the sewage holding tank.  
+Grey water shall include the discharged water from wash basin, small wash basin, sink, shower and bath tube.  
+Black water main pipe from toilets and urinals in each board can be led to the sewage treatment plant installed in engine room during in harbor or directly be discharged overboard by-passing the sewage treatment plant through one (1) gate valve and one (1) non-return valve near the light ballast water line during at sea.  
+After the treatment plant, the sewage also can be discharged overboard at sea or to sewage holding tank in harbor duration, then using the sewage pump to discharge overboard at sea.  
+Black water and grey water pipe line from hospital shall be led independently to the sewage treatment plant.  
+***The sewage holding tank must be provided with a pipe all round on the top with perforation to clean and flush the tank with sea water.***  
+Sufficient scuppers shall be provided for galley, pantry, lavatories, refrigerated provision chambers, passages in living quarters and other enclosed spaces, wherever necessary***.***

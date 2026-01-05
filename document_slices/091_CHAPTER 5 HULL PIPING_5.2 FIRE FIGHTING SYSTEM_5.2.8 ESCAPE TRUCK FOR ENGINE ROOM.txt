@@ -1,0 +1,3 @@
+METADATA: {'Header 1': 'CHAPTER 5 HULL PIPING', 'Header 2': '5.2 FIRE FIGHTING SYSTEM', 'Header 3': '5.2.8 ESCAPE TRUCK FOR ENGINE ROOM'}
+--------------------
+One (1) escape truck shall be provided on each floor of engine room and engine control room to a safe position outside engine room. Escape route of E/R workshop to be considered (additional one (1) if necessary)

@@ -1,0 +1,24 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.9.12** PUBLIC ADDRESS WITH TALK BACK SYSTEM'}
+--------------------
+One set of public addresser with talk back system shall be provided as follows:  
+One (1) - About 200 watts double amplifier ,the control panel/talk back shall be in the WHC.  
+Six (6) - Talk back station, each one (1) at the bridge wings, life boat embarkation station, ECR, forecastle deck and main deck after.  
+One (1) - 50 watts of water-proof type speaker, on the compass deck forward.  
+Eight(8) - 10 watts of water-proof type speakers, each one (1) on the forecastle deck, life boat embarkation stations, main deck after, four(4) in the engine room;  
+Fourteen (14) - 5 watts of water-proof type speakers, each one (1) at steering gear room, galley, AC room, CO2 room, E/R workshop, emergency generator room, bow thruster room and purifier room  
+Necessary quantity – 2 watts speakers of indoor type, in the engine control room, pantry, mess room, gymnasium, each lavatory and inner passage of each deck and other cabin if necessary (The speakers for inner passages shall of double face type).  
+The switches for selection of the speaker group shall be provided on the control panels and the speakers shall be grouped as follows:  
+- Compass deck  
+- Upper deck fore and aft  
+- Accommodation  
+- Engine room  
+- Emergency  
+The system to be arranged to operate in following orders of priority:  
+1st -Emergency broadcasting  
+2nd -Emergency general alarm  
+3rd -Broadcasting or paging from telephone  
+4th -Broadcasting of entertainment programs  
+Note:  
+1. Talk back system maybe is separated type and to be in accordance with Maker’s standard.  
+2. The public address system maybe is changed according to final selected Maker's standard.  
+3. Radio tuner and CD player to be provided r. Any entertainment system to be automatically turned off when the general alarm system is activated.

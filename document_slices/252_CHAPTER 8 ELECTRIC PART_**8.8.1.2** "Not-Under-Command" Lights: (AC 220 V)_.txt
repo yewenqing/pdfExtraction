@@ -1,0 +1,4 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.8.1.2** "Not-Under-Command" Lights: (AC 220 V)'}
+--------------------
+Two (2) 60 W red all round lamps shall be fitted on the radar mast.  
+The source of NUC lights will from navigation light control panel.

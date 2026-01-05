@@ -1,0 +1,9 @@
+METADATA: {'Header 1': 'CHAPTER 8 ELECTRIC PART', 'Header 2': '**8.3.4.6** Bow Thruster Feeder Panel'}
+--------------------
+The bow thruster panel including:  
+1 –Air circuit breaker (ACB) (draw-out type)  
+1 –ACB open/close control switch (or push button)  
+1 –ACB close indicating lamp  
+1 –ACB open indicating lamp  
+1 –Ammeter  
+And other necessary equipment
